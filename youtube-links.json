@@ -93922,5 +93922,645 @@
     "album": "Relax: Sounds of the Soul",
     "video_id": "WEJs_Bqx8_o",
     "url": "https://www.youtube.com/watch?v=WEJs_Bqx8_o"
+  },
+  "MRM Music|Deep South": {
+    "artist": "MRM Music",
+    "track": "Deep South",
+    "album": "Relax: Sounds of the Soul",
+    "video_id": "Not8EmIN36w",
+    "url": "https://www.youtube.com/watch?v=Not8EmIN36w"
+  },
+  "MRM Music|Sometimes": {
+    "artist": "MRM Music",
+    "track": "Sometimes",
+    "album": "Relax: Sounds of the Soul",
+    "video_id": "gno40j7QBug",
+    "url": "https://www.youtube.com/watch?v=gno40j7QBug"
+  },
+  "MRM Music|Still Beating": {
+    "artist": "MRM Music",
+    "track": "Still Beating",
+    "album": "Relax: Sounds of the Soul",
+    "video_id": "WchXAPd0id8",
+    "url": "https://www.youtube.com/watch?v=WchXAPd0id8"
+  },
+  "MRM Music|Clouds": {
+    "artist": "MRM Music",
+    "track": "Clouds",
+    "album": "Relax: Sounds of the Soul",
+    "video_id": "Mg9pfvZdiM0",
+    "url": "https://www.youtube.com/watch?v=Mg9pfvZdiM0"
+  },
+  "MRM Music|Fall": {
+    "artist": "MRM Music",
+    "track": "Fall",
+    "album": "Relax: Sounds of the Soul",
+    "video_id": "ddhqliQhDAY",
+    "url": "https://www.youtube.com/watch?v=ddhqliQhDAY"
+  },
+  "MRM Music|Waves": {
+    "artist": "MRM Music",
+    "track": "Waves",
+    "album": "Relax: Sounds of the Soul",
+    "video_id": "gUcQVC8De1o",
+    "url": "https://www.youtube.com/watch?v=gUcQVC8De1o"
+  },
+  "MRM Music|Ana Hashem": {
+    "artist": "MRM Music",
+    "track": "Ana Hashem",
+    "album": "Relax Guitar Solo",
+    "video_id": "sPjNVkLcXj8",
+    "url": "https://www.youtube.com/watch?v=sPjNVkLcXj8"
+  },
+  "MRM Music|Lmaan Achai": {
+    "artist": "MRM Music",
+    "track": "Lmaan Achai",
+    "album": "Relax Guitar Solo",
+    "video_id": "9c_CYfL2a1E",
+    "url": "https://www.youtube.com/watch?v=9c_CYfL2a1E"
+  },
+  "MRM Music|Gam Ki Elech": {
+    "artist": "MRM Music",
+    "track": "Gam Ki Elech",
+    "album": "Relax Guitar Solo",
+    "video_id": "1jlTUMqJLc0",
+    "url": "https://www.youtube.com/watch?v=1jlTUMqJLc0"
+  },
+  "MRM Music|Lulei Torascha": {
+    "artist": "MRM Music",
+    "track": "Lulei Torascha",
+    "album": "Relax Guitar Solo",
+    "video_id": "kHtZSY1q4y8",
+    "url": "https://www.youtube.com/watch?v=kHtZSY1q4y8"
+  },
+  "MRM Music|Hanishama Lach": {
+    "artist": "MRM Music",
+    "track": "Hanishama Lach",
+    "album": "Relax Guitar Solo",
+    "video_id": "yMs_WqfC-tk",
+    "url": "https://www.youtube.com/watch?v=yMs_WqfC-tk"
+  },
+  "MRM Music|Al Eileh Ani Bochiya": {
+    "artist": "MRM Music",
+    "track": "Al Eileh Ani Bochiya",
+    "album": "Relax Guitar Solo",
+    "video_id": "qmg3W7r78HE",
+    "url": "https://www.youtube.com/watch?v=qmg3W7r78HE"
+  },
+  "MRM Music|V'ani B'Chasdecha": {
+    "artist": "MRM Music",
+    "track": "V'ani B'Chasdecha",
+    "album": "Relax Guitar Solo",
+    "video_id": "kcMAHVF_vHM",
+    "url": "https://www.youtube.com/watch?v=kcMAHVF_vHM"
+  },
+  "MRM Music|Bshem Hashem": {
+    "artist": "MRM Music",
+    "track": "Bshem Hashem",
+    "album": "Relax Guitar Solo",
+    "video_id": "NmKJ6Jnqu3g",
+    "url": "https://www.youtube.com/watch?v=NmKJ6Jnqu3g"
+  },
+  "MRM Music|Ose Shalom": {
+    "artist": "MRM Music",
+    "track": "Ose Shalom",
+    "album": "Relax Guitar Solo",
+    "video_id": "TgkcgdoPPX4",
+    "url": "https://www.youtube.com/watch?v=TgkcgdoPPX4"
+  },
+  "MRM Music|Mizmor Ldovid": {
+    "artist": "MRM Music",
+    "track": "Mizmor Ldovid",
+    "album": "Relax Guitar Solo",
+    "video_id": "K-EcF0ySYdY",
+    "url": "https://www.youtube.com/watch?v=K-EcF0ySYdY"
+  },
+  "MRM Music|Hinei Yamim": {
+    "artist": "MRM Music",
+    "track": "Hinei Yamim",
+    "album": "Relax Guitar Solo",
+    "video_id": "C-L5DsvNtZg",
+    "url": "https://www.youtube.com/watch?v=C-L5DsvNtZg"
+  },
+  "MRM Music|Asher Boro": {
+    "artist": "MRM Music",
+    "track": "Asher Boro",
+    "album": "Relax Guitar Solo",
+    "video_id": "ww7WJVfzFTg",
+    "url": "https://www.youtube.com/watch?v=ww7WJVfzFTg"
+  },
+  "MRM Music|Shalom Aleichem": {
+    "artist": "MRM Music",
+    "track": "Shalom Aleichem",
+    "album": "Relax Guitar Solo",
+    "video_id": "lIj4D6TvU5E",
+    "url": "https://www.youtube.com/watch?v=lIj4D6TvU5E"
+  },
+  "MRM Music|Harachamon": {
+    "artist": "MRM Music",
+    "track": "Harachamon",
+    "album": "Relax Guitar Solo",
+    "video_id": "vBjzdsNRBSY",
+    "url": "https://www.youtube.com/watch?v=vBjzdsNRBSY"
+  },
+  "MRM Music|Od Yishoma": {
+    "artist": "MRM Music",
+    "track": "Od Yishoma",
+    "album": "Relax Guitar Solo",
+    "video_id": "MKXahGQFxd4",
+    "url": "https://www.youtube.com/watch?v=MKXahGQFxd4"
+  },
+  "MRM Music|Kah Ribon": {
+    "artist": "MRM Music",
+    "track": "Kah Ribon",
+    "album": "Relax Guitar Solo",
+    "video_id": "_hiMZ5OoqaI",
+    "url": "https://www.youtube.com/watch?v=_hiMZ5OoqaI"
+  },
+  "MRM Music|Ata Bachartanu": {
+    "artist": "MRM Music",
+    "track": "Ata Bachartanu",
+    "album": "Relax Guitar Solo",
+    "video_id": "1_IJyk2124M",
+    "url": "https://www.youtube.com/watch?v=1_IJyk2124M"
+  },
+  "MRM Music|Mikdash Melech": {
+    "artist": "MRM Music",
+    "track": "Mikdash Melech",
+    "album": "Relax Guitar Solo",
+    "video_id": "VD7XunU1jSU",
+    "url": "https://www.youtube.com/watch?v=VD7XunU1jSU"
+  },
+  "MRM Music|Yehi Shalom": {
+    "artist": "MRM Music",
+    "track": "Yehi Shalom",
+    "album": "Relax Guitar Solo",
+    "video_id": "9izjsJvA38Y",
+    "url": "https://www.youtube.com/watch?v=9izjsJvA38Y"
+  },
+  "MRM Music|Ki Va Moed": {
+    "artist": "MRM Music",
+    "track": "Ki Va Moed",
+    "album": "Relax Guitar Solo",
+    "video_id": "4Sz2pFR1Dkg",
+    "url": "https://www.youtube.com/watch?v=4Sz2pFR1Dkg"
+  },
+  "MRM Music|Yibone Yibone": null,
+  "MRM Music|Tshuasam": {
+    "artist": "MRM Music",
+    "track": "Tshuasam",
+    "album": "Relax Guitar Solo",
+    "video_id": "m_sf3s8kYWY",
+    "url": "https://www.youtube.com/watch?v=m_sf3s8kYWY"
+  },
+  "MRM Music|Yidalach Shirei": null,
+  "MRM Music|Yibone Hamikdash": null,
+  "MRM Music|Hine Kel": {
+    "artist": "MRM Music",
+    "track": "Hine Kel",
+    "album": "Relax Guitar Solo",
+    "video_id": "tAVjSOLsUVo",
+    "url": "https://www.youtube.com/watch?v=tAVjSOLsUVo"
+  },
+  "MRM Music|Esa Einai": {
+    "artist": "MRM Music",
+    "track": "Esa Einai",
+    "album": "Relax Guitar Solo",
+    "video_id": "-SCMeR141Fw",
+    "url": "https://www.youtube.com/watch?v=-SCMeR141Fw"
+  },
+  "MRM Music|Hashem Oz": {
+    "artist": "MRM Music",
+    "track": "Hashem Oz",
+    "album": "Relax Guitar Solo",
+    "video_id": "0pUXychNzqw",
+    "url": "https://www.youtube.com/watch?v=0pUXychNzqw"
+  },
+  "MRM Music|Shochen Ad": {
+    "artist": "MRM Music",
+    "track": "Shochen Ad",
+    "album": "Relax Guitar Solo",
+    "video_id": "tyglyWRw6b8",
+    "url": "https://www.youtube.com/watch?v=tyglyWRw6b8"
+  },
+  "MRM Music|Dvei Haser": null,
+  "MRM Music|Vyitnu Lecha": null,
+  "MRM Music|Esah Elnai": null,
+  "MRM Music|Shuva Hashem": {
+    "artist": "MRM Music",
+    "track": "Shuva Hashem",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "TMRU75faPXo",
+    "url": "https://www.youtube.com/watch?v=TMRU75faPXo"
+  },
+  "MRM Music|Em Eshkachech": {
+    "artist": "MRM Music",
+    "track": "Em Eshkachech",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "uwrvO9A9L18",
+    "url": "https://www.youtube.com/watch?v=uwrvO9A9L18"
+  },
+  "MRM Music|Tum-Bala": {
+    "artist": "MRM Music",
+    "track": "Tum-Bala",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "Nn9Kwzs67Pk",
+    "url": "https://www.youtube.com/watch?v=Nn9Kwzs67Pk"
+  },
+  "MRM Music|Yankaleh": null,
+  "MRM Music|Ofyn Pripatchik": {
+    "artist": "MRM Music",
+    "track": "Ofyn Pripatchik",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "kwXez_pnTN0",
+    "url": "https://www.youtube.com/watch?v=kwXez_pnTN0"
+  },
+  "MRM Music|Tzena Tzena": {
+    "artist": "MRM Music",
+    "track": "Tzena Tzena",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "ZDa213Z5_Ao",
+    "url": "https://www.youtube.com/watch?v=ZDa213Z5_Ao"
+  },
+  "MRM Music|Yihey": {
+    "artist": "MRM Music",
+    "track": "Yihey",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "Jv6AfO5kVg4",
+    "url": "https://www.youtube.com/watch?v=Jv6AfO5kVg4"
+  },
+  "MRM Music|Erev Shel Shoshanim": {
+    "artist": "MRM Music",
+    "track": "Erev Shel Shoshanim",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "dCsP9YTA7zA",
+    "url": "https://www.youtube.com/watch?v=dCsP9YTA7zA"
+  },
+  "MRM Music|Intro The Ride": {
+    "artist": "MRM Music",
+    "track": "Intro The Ride",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "7s5hvh899TU",
+    "url": "https://www.youtube.com/watch?v=7s5hvh899TU"
+  },
+  "MRM Music|Nigun Yehudi": {
+    "artist": "MRM Music",
+    "track": "Nigun Yehudi",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "Nl4GZV-EGB0",
+    "url": "https://www.youtube.com/watch?v=Nl4GZV-EGB0"
+  },
+  "MRM Music|Maggie In Jerusalem": {
+    "artist": "MRM Music",
+    "track": "Maggie In Jerusalem",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "r85-nX9wOvA",
+    "url": "https://www.youtube.com/watch?v=r85-nX9wOvA"
+  },
+  "MRM Music|Travler": {
+    "artist": "MRM Music",
+    "track": "Travler",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "NaKe5Hj5cXg",
+    "url": "https://www.youtube.com/watch?v=NaKe5Hj5cXg"
+  },
+  "MRM Music|Jerusalem Ridge": {
+    "artist": "MRM Music",
+    "track": "Jerusalem Ridge",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "t0uI2R4nWnU",
+    "url": "https://www.youtube.com/watch?v=t0uI2R4nWnU"
+  },
+  "MRM Music|Nigun Neshama": {
+    "artist": "MRM Music",
+    "track": "Nigun Neshama",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "TsXTtx_1V0I",
+    "url": "https://www.youtube.com/watch?v=TsXTtx_1V0I"
+  },
+  "MRM Music|Chazak": {
+    "artist": "MRM Music",
+    "track": "Chazak",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "OYPgGwE9_3Y",
+    "url": "https://www.youtube.com/watch?v=OYPgGwE9_3Y"
+  },
+  "MRM Music|Yerushalayim Shel Zahav": {
+    "artist": "MRM Music",
+    "track": "Yerushalayim Shel Zahav",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "xLAfXC4zuOo",
+    "url": "https://www.youtube.com/watch?v=xLAfXC4zuOo"
+  },
+  "MRM Music|Choref": {
+    "artist": "MRM Music",
+    "track": "Choref",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "MurSZ9HcsKA",
+    "url": "https://www.youtube.com/watch?v=MurSZ9HcsKA"
+  },
+  "MRM Music|Ben Bag Bag": {
+    "artist": "MRM Music",
+    "track": "Ben Bag Bag",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "ZA7_54V_iEs",
+    "url": "https://www.youtube.com/watch?v=ZA7_54V_iEs"
+  },
+  "MRM Music|Chak Chak": {
+    "artist": "MRM Music",
+    "track": "Chak Chak",
+    "album": "Relax Guitar Solo 2",
+    "video_id": "bBLm_RAX4VU",
+    "url": "https://www.youtube.com/watch?v=bBLm_RAX4VU"
+  },
+  "Michoel Schnitzler|Veyizku": {
+    "artist": "Michoel Schnitzler",
+    "track": "Veyizku",
+    "album": "A Yiddishe Simcha",
+    "video_id": "3qFX5N5P6m4",
+    "url": "https://www.youtube.com/watch?v=3qFX5N5P6m4"
+  },
+  "Michoel Schnitzler|De Treist Fin A Mame": {
+    "artist": "Michoel Schnitzler",
+    "track": "De Treist Fin A Mame",
+    "album": "A Yiddishe Simcha",
+    "video_id": "TGDaRTN1r7U",
+    "url": "https://www.youtube.com/watch?v=TGDaRTN1r7U"
+  },
+  "Michoel Schnitzler|Siman Tov": {
+    "artist": "Michoel Schnitzler",
+    "track": "Siman Tov",
+    "album": "A Yiddishe Simcha",
+    "video_id": "YVMPk7oPkOw",
+    "url": "https://www.youtube.com/watch?v=YVMPk7oPkOw"
+  },
+  "Michoel Schnitzler|Shuloim Aleichem": {
+    "artist": "Michoel Schnitzler",
+    "track": "Shuloim Aleichem",
+    "album": "A Yiddishe Simcha",
+    "video_id": "UAqvS0Eilyg",
+    "url": "https://www.youtube.com/watch?v=UAqvS0Eilyg"
+  },
+  "Michoel Schnitzler|Rachem B'chasdechu": {
+    "artist": "Michoel Schnitzler",
+    "track": "Rachem B'chasdechu",
+    "album": "A Yiddishe Simcha",
+    "video_id": "r7-n-nop0_U",
+    "url": "https://www.youtube.com/watch?v=r7-n-nop0_U"
+  },
+  "Michoel Schnitzler|Im Umarti": {
+    "artist": "Michoel Schnitzler",
+    "track": "Im Umarti",
+    "album": "A Yiddishe Simcha",
+    "video_id": "Bvx7GPikTKc",
+    "url": "https://www.youtube.com/watch?v=Bvx7GPikTKc"
+  },
+  "Michoel Schnitzler|Mitzva Tantz": {
+    "artist": "Michoel Schnitzler",
+    "track": "Mitzva Tantz",
+    "album": "A Yiddishe Simcha",
+    "video_id": "76HO3K9fQ2E",
+    "url": "https://www.youtube.com/watch?v=76HO3K9fQ2E"
+  },
+  "MRM Music|Hayom Haras Olam Medley": {
+    "artist": "MRM Music",
+    "track": "Hayom Haras Olam Medley",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "34x1zc0wkK0",
+    "url": "https://www.youtube.com/watch?v=34x1zc0wkK0"
+  },
+  "MRM Music|Ochila Lakel Medley": {
+    "artist": "MRM Music",
+    "track": "Ochila Lakel Medley",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "XIBLep9dutA",
+    "url": "https://www.youtube.com/watch?v=XIBLep9dutA"
+  },
+  "MRM Music|Shema Koleini Medley": {
+    "artist": "MRM Music",
+    "track": "Shema Koleini Medley",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "BKWQ-qrdF0o",
+    "url": "https://www.youtube.com/watch?v=BKWQ-qrdF0o"
+  },
+  "MRM Music|Bsefer Chaim Medley": {
+    "artist": "MRM Music",
+    "track": "Bsefer Chaim Medley",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "dPezme5U_38",
+    "url": "https://www.youtube.com/watch?v=dPezme5U_38"
+  },
+  "MRM Music|Zochreini Medley": {
+    "artist": "MRM Music",
+    "track": "Zochreini Medley",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "6kB38a6Ulmo",
+    "url": "https://www.youtube.com/watch?v=6kB38a6Ulmo"
+  },
+  "MRM Music|Selach Nu": {
+    "artist": "MRM Music",
+    "track": "Selach Nu",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "rH1z4zjziD8",
+    "url": "https://www.youtube.com/watch?v=rH1z4zjziD8"
+  },
+  "MRM Music|Dip The Apple": {
+    "artist": "MRM Music",
+    "track": "Dip The Apple",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "2HmBf-gNyHE",
+    "url": "https://www.youtube.com/watch?v=2HmBf-gNyHE"
+  },
+  "MRM Music|Simcha Leartzecha Medley": {
+    "artist": "MRM Music",
+    "track": "Simcha Leartzecha Medley",
+    "album": "Relaxing Yomim Noraim Melodies",
+    "video_id": "kQ9zA1K6yug",
+    "url": "https://www.youtube.com/watch?v=kQ9zA1K6yug"
+  },
+  "Michoel Schnitzler|Shabbos": {
+    "artist": "Michoel Schnitzler",
+    "track": "Shabbos",
+    "album": "Birchas Habonim",
+    "video_id": "O5cWVKNqECc",
+    "url": "https://www.youtube.com/watch?v=O5cWVKNqECc"
+  },
+  "Michoel Schnitzler|Birchas Habonim": {
+    "artist": "Michoel Schnitzler",
+    "track": "Birchas Habonim",
+    "album": "Birchas Habonim",
+    "video_id": "f8-rotDhJGM",
+    "url": "https://www.youtube.com/watch?v=f8-rotDhJGM"
+  },
+  "Michoel Schnitzler|Kol Birchoin": {
+    "artist": "Michoel Schnitzler",
+    "track": "Kol Birchoin",
+    "album": "Birchas Habonim",
+    "video_id": "5F0t1fk0h2g",
+    "url": "https://www.youtube.com/watch?v=5F0t1fk0h2g"
+  },
+  "Michoel Schnitzler|Gut Shabbos": {
+    "artist": "Michoel Schnitzler",
+    "track": "Gut Shabbos",
+    "album": "Birchas Habonim",
+    "video_id": "QFxN16ibNNY",
+    "url": "https://www.youtube.com/watch?v=QFxN16ibNNY"
+  },
+  "Michoel Schnitzler|Likovod Shabbos": {
+    "artist": "Michoel Schnitzler",
+    "track": "Likovod Shabbos",
+    "album": "Birchas Habonim",
+    "video_id": "nYGuwmxsQCk",
+    "url": "https://www.youtube.com/watch?v=nYGuwmxsQCk"
+  },
+  "Michoel Schnitzler|Shalom Aleichem": {
+    "artist": "Michoel Schnitzler",
+    "track": "Shalom Aleichem",
+    "album": "Birchas Habonim",
+    "video_id": "oZfncJ5pV_k",
+    "url": "https://www.youtube.com/watch?v=oZfncJ5pV_k"
+  },
+  "Michoel Schnitzler|Eishes Chayil": {
+    "artist": "Michoel Schnitzler",
+    "track": "Eishes Chayil",
+    "album": "Birchas Habonim",
+    "video_id": "aSt5uKVbU84",
+    "url": "https://www.youtube.com/watch?v=aSt5uKVbU84"
+  },
+  "Michoel Schnitzler|Shabbos Machalim": {
+    "artist": "Michoel Schnitzler",
+    "track": "Shabbos Machalim",
+    "album": "Birchas Habonim",
+    "video_id": "WI7-VF3ygZ0",
+    "url": "https://www.youtube.com/watch?v=WI7-VF3ygZ0"
+  },
+  "Michoel Schnitzler|Friday Morning": {
+    "artist": "Michoel Schnitzler",
+    "track": "Friday Morning",
+    "album": "Birchas Habonim",
+    "video_id": "c6fEdAJEzT0",
+    "url": "https://www.youtube.com/watch?v=c6fEdAJEzT0"
+  },
+  "Michoel Schnitzler|Shabbos Hi Milizok": {
+    "artist": "Michoel Schnitzler",
+    "track": "Shabbos Hi Milizok",
+    "album": "Birchas Habonim",
+    "video_id": "9XBKqZgmRII",
+    "url": "https://www.youtube.com/watch?v=9XBKqZgmRII"
+  },
+  "Michoel Schnitzler|Ekod": {
+    "artist": "Michoel Schnitzler",
+    "track": "Ekod",
+    "album": "Birchas Habonim",
+    "video_id": "MG24ZzTsbDM",
+    "url": "https://www.youtube.com/watch?v=MG24ZzTsbDM"
+  },
+  "Michoel Schnitzler|Medley 1": {
+    "artist": "Michoel Schnitzler",
+    "track": "Medley 1",
+    "album": "Continuous Dancing",
+    "video_id": "3qFX5N5P6m4",
+    "url": "https://www.youtube.com/watch?v=3qFX5N5P6m4"
+  },
+  "Michoel Schnitzler|Ko Amar": {
+    "artist": "Michoel Schnitzler",
+    "track": "Ko Amar",
+    "album": "Continuous Dancing",
+    "video_id": "sOAoDOQHIP8",
+    "url": "https://www.youtube.com/watch?v=sOAoDOQHIP8"
+  },
+  "Michoel Schnitzler|Medley 2": {
+    "artist": "Michoel Schnitzler",
+    "track": "Medley 2",
+    "album": "Continuous Dancing",
+    "video_id": "3qFX5N5P6m4",
+    "url": "https://www.youtube.com/watch?v=3qFX5N5P6m4"
+  },
+  "Michoel Schnitzler|Medley 3": {
+    "artist": "Michoel Schnitzler",
+    "track": "Medley 3",
+    "album": "Continuous Dancing",
+    "video_id": "3qFX5N5P6m4",
+    "url": "https://www.youtube.com/watch?v=3qFX5N5P6m4"
+  },
+  "Michoel Schnitzler|Kol Mitzalos, V'omar, Ani Ma'amin, Maheir, Tevasreinu, Nigun, B'sefer Chaim, Biglal Avos, Shvachin Asader, Shenishma V'nisbaser, Yosef Hashem, Boreh Olam, Modeh Ani": null,
+  "Michoel Schnitzler|Simcha L'artzecha, Simchu Bashem, Hu Asher Diber, Asher Bara, Ko Ribon": null,
+  "Michoel Schnitzler|Nigun Geulah": {
+    "artist": "Michoel Schnitzler",
+    "track": "Nigun Geulah",
+    "album": "Continuous Dancing II - Yom Simchaseinu",
+    "video_id": "Z8uJKv-MAZQ",
+    "url": "https://www.youtube.com/watch?v=Z8uJKv-MAZQ"
+  },
+  "Michoel Schnitzler|Yochi's Nigun, Hoaderes, Uva L'tzion, V'hareinu": null,
+  "Michoel Schnitzler|Continuous Dancing": {
+    "artist": "Michoel Schnitzler",
+    "track": "Continuous Dancing",
+    "album": "Continuous Dancing III - Simchas Beis Hashoeiva",
+    "video_id": "osp2n0qovyg",
+    "url": "https://www.youtube.com/watch?v=osp2n0qovyg"
+  },
+  "Michoel Schnitzler|Elokeinu": {
+    "artist": "Michoel Schnitzler",
+    "track": "Elokeinu",
+    "album": "Continuous Dancing III - Simchas Beis Hashoeiva",
+    "video_id": "cOmPECxsH6s",
+    "url": "https://www.youtube.com/watch?v=cOmPECxsH6s"
+  },
+  "Michoel Schnitzler|Disco & Horas": {
+    "artist": "Michoel Schnitzler",
+    "track": "Disco & Horas",
+    "album": "Continuous Dancing III - Simchas Beis Hashoeiva",
+    "video_id": "vf70bgIFG14",
+    "url": "https://www.youtube.com/watch?v=vf70bgIFG14"
+  },
+  "Michoel Schnitzler|The Gemara Story": {
+    "artist": "Michoel Schnitzler",
+    "track": "The Gemara Story",
+    "album": "Continuous Dancing III - Simchas Beis Hashoeiva",
+    "video_id": "naARaqKN-ww",
+    "url": "https://www.youtube.com/watch?v=naARaqKN-ww"
+  },
+  "Michoel Schnitzler|More Dancing": {
+    "artist": "Michoel Schnitzler",
+    "track": "More Dancing",
+    "album": "Continuous Dancing III - Simchas Beis Hashoeiva",
+    "video_id": "osp2n0qovyg",
+    "url": "https://www.youtube.com/watch?v=osp2n0qovyg"
+  },
+  "Michoel Schnitzler|Eilov Medley": {
+    "artist": "Michoel Schnitzler",
+    "track": "Eilov Medley",
+    "album": "Dance with L'chaim",
+    "video_id": "Q5cW7yov0VU",
+    "url": "https://www.youtube.com/watch?v=Q5cW7yov0VU"
+  },
+  "Michoel Schnitzler|Hora Medley": {
+    "artist": "Michoel Schnitzler",
+    "track": "Hora Medley",
+    "album": "Dance with L'chaim",
+    "video_id": "NVBpgMdRqQg",
+    "url": "https://www.youtube.com/watch?v=NVBpgMdRqQg"
+  },
+  "Michoel Schnitzler|Simcha Medley": {
+    "artist": "Michoel Schnitzler",
+    "track": "Simcha Medley",
+    "album": "Dance with L'chaim",
+    "video_id": "0aDbnzIbZ-U",
+    "url": "https://www.youtube.com/watch?v=0aDbnzIbZ-U"
+  },
+  "Michoel Schnitzler|Tzidaka": {
+    "artist": "Michoel Schnitzler",
+    "track": "Tzidaka",
+    "album": "Dance with L'chaim",
+    "video_id": "VtaK2V7Qglk",
+    "url": "https://www.youtube.com/watch?v=VtaK2V7Qglk"
+  },
+  "Michoel Schnitzler|Hora & Debka Medley": {
+    "artist": "Michoel Schnitzler",
+    "track": "Hora & Debka Medley",
+    "album": "Dance with L'chaim",
+    "video_id": "hGJQAA6l6RM",
+    "url": "https://www.youtube.com/watch?v=hGJQAA6l6RM"
   }
 }
