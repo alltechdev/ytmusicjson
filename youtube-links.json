@@ -20966,5 +20966,669 @@
     "album": "BavLipa",
     "video_id": "kfuYOp5xK5U",
     "url": "https://www.youtube.com/watch?v=kfuYOp5xK5U"
-  }
+  },
+  "Lipa Schmeltzer|Mah Nishtana": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Mah Nishtana",
+    "album": "B Positive",
+    "video_id": "OiZ4K_Qfk-A",
+    "url": "https://www.youtube.com/watch?v=OiZ4K_Qfk-A"
+  },
+  "Lipa Schmeltzer|Bueh Bueh": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Bueh Bueh",
+    "album": "B Positive",
+    "video_id": "J81yaTvJV8I",
+    "url": "https://www.youtube.com/watch?v=J81yaTvJV8I"
+  },
+  "Lipa Schmeltzer|Nakdischuch": null,
+  "Lipa Schmeltzer|Vi Lang Nuch Vi": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Vi Lang Nuch Vi",
+    "album": "B Positive",
+    "video_id": "Aow3a8TfJwc",
+    "url": "https://www.youtube.com/watch?v=Aow3a8TfJwc"
+  },
+  "Lipa Schmeltzer|Hiskafya": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hiskafya",
+    "album": "B Positive",
+    "video_id": "eIr1M9ocIsM",
+    "url": "https://www.youtube.com/watch?v=eIr1M9ocIsM"
+  },
+  "Lipa Schmeltzer|Aigel": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Aigel",
+    "album": "B Positive",
+    "video_id": "zmEqqzgRmz8",
+    "url": "https://www.youtube.com/watch?v=zmEqqzgRmz8"
+  },
+  "Lipa Schmeltzer|B Positive": {
+    "artist": "Lipa Schmeltzer",
+    "track": "B Positive",
+    "album": "B Positive",
+    "video_id": "L6uB4UL5VRs",
+    "url": "https://www.youtube.com/watch?v=L6uB4UL5VRs"
+  },
+  "Lipa Schmeltzer|Hunger": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hunger",
+    "album": "B Positive",
+    "video_id": "NQTE4VOSUVw",
+    "url": "https://www.youtube.com/watch?v=NQTE4VOSUVw"
+  },
+  "Lipa Schmeltzer|Hakol Tirutzim": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hakol Tirutzim",
+    "album": "B Positive",
+    "video_id": "c0a41a6LInQ",
+    "url": "https://www.youtube.com/watch?v=c0a41a6LInQ"
+  },
+  "Lipa Schmeltzer|Beat Of My Heart": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Beat Of My Heart",
+    "album": "B Positive",
+    "video_id": "RgHMeZ7dZZk",
+    "url": "https://www.youtube.com/watch?v=RgHMeZ7dZZk"
+  },
+  "Lipa Schmeltzer|Ben Fayga": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ben Fayga",
+    "album": "B Positive",
+    "video_id": "pvd7LsVN-zE",
+    "url": "https://www.youtube.com/watch?v=pvd7LsVN-zE"
+  },
+  "Lipa Schmeltzer|Pshevorske": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Pshevorske",
+    "album": "B Positive",
+    "video_id": "lDoDR6jUnNs",
+    "url": "https://www.youtube.com/watch?v=lDoDR6jUnNs"
+  },
+  "Lipa Schmeltzer|Haikar Hakavana": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Haikar Hakavana",
+    "album": "B Positive",
+    "video_id": "jmR84msz-IE",
+    "url": "https://www.youtube.com/watch?v=jmR84msz-IE"
+  },
+  "Lipa Schmeltzer|Bueh Bueh (Hebrew)": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Bueh Bueh (Hebrew)",
+    "album": "B Positive",
+    "video_id": "XpM02D7Mrws",
+    "url": "https://www.youtube.com/watch?v=XpM02D7Mrws"
+  },
+  "Lipa Schmeltzer|Aigel (Hebrew)": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Aigel (Hebrew)",
+    "album": "B Positive",
+    "video_id": "BymLO3xWbAw",
+    "url": "https://www.youtube.com/watch?v=BymLO3xWbAw"
+  },
+  "Lipa Schmeltzer|Nodeh L'shimcha": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Nodeh L'shimcha",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "BkJF_8iUIqM",
+    "url": "https://www.youtube.com/watch?v=BkJF_8iUIqM"
+  },
+  "Lipa Schmeltzer|Angel": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Angel",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "_Zy0s-oVRKo",
+    "url": "https://www.youtube.com/watch?v=_Zy0s-oVRKo"
+  },
+  "Lipa Schmeltzer|Kaf Al Kaf": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Kaf Al Kaf",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "cUzkdrWUTXk",
+    "url": "https://www.youtube.com/watch?v=cUzkdrWUTXk"
+  },
+  "Lipa Schmeltzer|Yegia Kapecha": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yegia Kapecha",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "ezpAOUR5a6g",
+    "url": "https://www.youtube.com/watch?v=ezpAOUR5a6g"
+  },
+  "Lipa Schmeltzer|Adon Kol Hasimchah": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Adon Kol Hasimchah",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "cdKOEJSv0pE",
+    "url": "https://www.youtube.com/watch?v=cdKOEJSv0pE"
+  },
+  "Lipa Schmeltzer|Dus Pintele Yid": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Dus Pintele Yid",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "qlTBsjbf6jI",
+    "url": "https://www.youtube.com/watch?v=qlTBsjbf6jI"
+  },
+  "Lipa Schmeltzer|Ohev Shalom": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ohev Shalom",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "EpT2Zo0A-uc",
+    "url": "https://www.youtube.com/watch?v=EpT2Zo0A-uc"
+  },
+  "Lipa Schmeltzer|Ata Kidashta": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ata Kidashta",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "EFrRB1NDo6s",
+    "url": "https://www.youtube.com/watch?v=EFrRB1NDo6s"
+  },
+  "Lipa Schmeltzer|Where Is Your Beard": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Where Is Your Beard",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "zihZYMDSUIM",
+    "url": "https://www.youtube.com/watch?v=zihZYMDSUIM"
+  },
+  "Lipa Schmeltzer|I'm With You": {
+    "artist": "Lipa Schmeltzer",
+    "track": "I'm With You",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "C5XeGqfrago",
+    "url": "https://www.youtube.com/watch?v=C5XeGqfrago"
+  },
+  "Lipa Schmeltzer|Higia Zman Hageula": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Higia Zman Hageula",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "BMJivsMdvwY",
+    "url": "https://www.youtube.com/watch?v=BMJivsMdvwY"
+  },
+  "Lipa Schmeltzer|Venikdashti": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Venikdashti",
+    "album": "Dus Pinteleh Yid - The Hidden Spark",
+    "video_id": "CjAVbk6JI0o",
+    "url": "https://www.youtube.com/watch?v=CjAVbk6JI0o"
+  },
+  "Lipa Schmeltzer|V`haya B`acharis Hayamim": null,
+  "Lipa Schmeltzer|Chatzoitzrois": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Chatzoitzrois",
+    "album": "Leap Of Faith",
+    "video_id": "enGQ5tw3vBc",
+    "url": "https://www.youtube.com/watch?v=enGQ5tw3vBc"
+  },
+  "Lipa Schmeltzer|Lolam": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Lolam",
+    "album": "Leap Of Faith",
+    "video_id": "7zPFW9m6w2c",
+    "url": "https://www.youtube.com/watch?v=7zPFW9m6w2c"
+  },
+  "Lipa Schmeltzer|Yigdal": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yigdal",
+    "album": "Leap Of Faith",
+    "video_id": "7m-Jve1hCkU",
+    "url": "https://www.youtube.com/watch?v=7m-Jve1hCkU"
+  },
+  "Lipa Schmeltzer|Kvodo": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Kvodo",
+    "album": "Leap Of Faith",
+    "video_id": "ZkWKk4LUOZ4",
+    "url": "https://www.youtube.com/watch?v=ZkWKk4LUOZ4"
+  },
+  "Lipa Schmeltzer|Vayehi Binsoa": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Vayehi Binsoa",
+    "album": "Leap Of Faith",
+    "video_id": "zNKc5tpr2RY",
+    "url": "https://www.youtube.com/watch?v=zNKc5tpr2RY"
+  },
+  "Lipa Schmeltzer|Hang Up The Phone": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hang Up The Phone",
+    "album": "Leap Of Faith",
+    "video_id": "lvwpNkJd82w",
+    "url": "https://www.youtube.com/watch?v=lvwpNkJd82w"
+  },
+  "Lipa Schmeltzer|Vedabkeinu": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Vedabkeinu",
+    "album": "Leap Of Faith",
+    "video_id": "zFm_3VDkCNA",
+    "url": "https://www.youtube.com/watch?v=zFm_3VDkCNA"
+  },
+  "Lipa Schmeltzer|Yeled Katan": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yeled Katan",
+    "album": "Leap Of Faith",
+    "video_id": "LyBO4nCDrY0",
+    "url": "https://www.youtube.com/watch?v=LyBO4nCDrY0"
+  },
+  "Lipa Schmeltzer|Leap Of Faith": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Leap Of Faith",
+    "album": "Leap Of Faith",
+    "video_id": "rgnbNmV2JH8",
+    "url": "https://www.youtube.com/watch?v=rgnbNmV2JH8"
+  },
+  "Lipa Schmeltzer|Rochel": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Rochel",
+    "album": "Leap Of Faith",
+    "video_id": "oq_dZ2LafXs",
+    "url": "https://www.youtube.com/watch?v=oq_dZ2LafXs"
+  },
+  "Lipa Schmeltzer|Mizrach": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Mizrach",
+    "album": "Leap Of Faith",
+    "video_id": "6d4RuXauXP8",
+    "url": "https://www.youtube.com/watch?v=6d4RuXauXP8"
+  },
+  "Lipa Schmeltzer|Lipa's Shul": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Lipa's Shul",
+    "album": "Leap Of Faith",
+    "video_id": "HbAnH6X681g",
+    "url": "https://www.youtube.com/watch?v=HbAnH6X681g"
+  },
+  "Avraham Fried|Abba ft. Ari Hill": {
+    "artist": "Avraham Fried",
+    "track": "Abba ft. Ari Hill",
+    "album": "Abba ft. Ari Hill",
+    "video_id": "WhxcSxDgtHI",
+    "url": "https://www.youtube.com/watch?v=WhxcSxDgtHI"
+  },
+  "Avraham Fried|Ubo'eis Hahie ft. Eli Marcus": null,
+  "Avraham Fried|Ashrei Talmid Chacham ft. Naftali Kempeh": {
+    "artist": "Avraham Fried",
+    "track": "Ashrei Talmid Chacham ft. Naftali Kempeh",
+    "album": "Ashrei Talmid Chacham ft. Naftali Kempeh",
+    "video_id": "jPad0Ue3E5Y",
+    "url": "https://www.youtube.com/watch?v=jPad0Ue3E5Y"
+  },
+  "Avraham Fried|Just Be Yourself Acappella": {
+    "artist": "Avraham Fried",
+    "track": "Just Be Yourself Acappella",
+    "album": "Just Be Yourself Acappella",
+    "video_id": "G-HvhT8OPs0",
+    "url": "https://www.youtube.com/watch?v=G-HvhT8OPs0"
+  },
+  "Meilech Kohn|Likvod Shabbat": {
+    "artist": "Meilech Kohn",
+    "track": "Likvod Shabbat",
+    "album": "Yeder Einer",
+    "video_id": "tjSr3k67ogk",
+    "url": "https://www.youtube.com/watch?v=tjSr3k67ogk"
+  },
+  "Meilech Kohn|Hareyni": {
+    "artist": "Meilech Kohn",
+    "track": "Hareyni",
+    "album": "Yeder Einer",
+    "video_id": "BpAGA8eJrR4",
+    "url": "https://www.youtube.com/watch?v=BpAGA8eJrR4"
+  },
+  "Meilech Kohn|Ein Trop Vaaser": {
+    "artist": "Meilech Kohn",
+    "track": "Ein Trop Vaaser",
+    "album": "Yeder Einer",
+    "video_id": "-SiH63TYS18",
+    "url": "https://www.youtube.com/watch?v=-SiH63TYS18"
+  },
+  "Meilech Kohn|Avi Yesomim": {
+    "artist": "Meilech Kohn",
+    "track": "Avi Yesomim",
+    "album": "Yeder Einer",
+    "video_id": "H4SlATHHum4",
+    "url": "https://www.youtube.com/watch?v=H4SlATHHum4"
+  },
+  "Meilech Kohn|Venoihapoichu": {
+    "artist": "Meilech Kohn",
+    "track": "Venoihapoichu",
+    "album": "Yeder Einer",
+    "video_id": "kiYXm_QernY",
+    "url": "https://www.youtube.com/watch?v=kiYXm_QernY"
+  },
+  "Meilech Kohn|Kidshu Brich He": {
+    "artist": "Meilech Kohn",
+    "track": "Kidshu Brich He",
+    "album": "Yeder Einer",
+    "video_id": "oZIQLEkOd_c",
+    "url": "https://www.youtube.com/watch?v=oZIQLEkOd_c"
+  },
+  "Meilech Kohn|VeUhavtu": {
+    "artist": "Meilech Kohn",
+    "track": "VeUhavtu",
+    "album": "Yeder Einer",
+    "video_id": "rmdE7Ne6o7Y",
+    "url": "https://www.youtube.com/watch?v=rmdE7Ne6o7Y"
+  },
+  "Meilech Kohn|B'Derech": {
+    "artist": "Meilech Kohn",
+    "track": "B'Derech",
+    "album": "Yeder Einer",
+    "video_id": "4kbP0k4ZtHg",
+    "url": "https://www.youtube.com/watch?v=4kbP0k4ZtHg"
+  },
+  "Meilech Kohn|Gedaanken": {
+    "artist": "Meilech Kohn",
+    "track": "Gedaanken",
+    "album": "Yeder Einer",
+    "video_id": "AL9uecN8wLU",
+    "url": "https://www.youtube.com/watch?v=AL9uecN8wLU"
+  },
+  "Meilech Kohn|Mi Yodea": {
+    "artist": "Meilech Kohn",
+    "track": "Mi Yodea",
+    "album": "Yeder Einer",
+    "video_id": "U5negGqng_4",
+    "url": "https://www.youtube.com/watch?v=U5negGqng_4"
+  },
+  "Meilech Kohn|Yoimom": {
+    "artist": "Meilech Kohn",
+    "track": "Yoimom",
+    "album": "Yeder Einer",
+    "video_id": "QlgL0sJelvI",
+    "url": "https://www.youtube.com/watch?v=QlgL0sJelvI"
+  },
+  "Meilech Kohn|Ani Maamin": {
+    "artist": "Meilech Kohn",
+    "track": "Ani Maamin",
+    "album": "Ani Maamin",
+    "video_id": "d_ASqvk1T40",
+    "url": "https://www.youtube.com/watch?v=d_ASqvk1T40"
+  },
+  "Meilech Kohn|Vezos HaTorah": {
+    "artist": "Meilech Kohn",
+    "track": "Vezos HaTorah",
+    "album": "Vezos HaTorah",
+    "video_id": "jGjr5E_1HxY",
+    "url": "https://www.youtube.com/watch?v=jGjr5E_1HxY"
+  },
+  "Meilech Kohn|Al Tudin": {
+    "artist": "Meilech Kohn",
+    "track": "Al Tudin",
+    "album": "Al Tudin",
+    "video_id": "N0WKjDHVMDw",
+    "url": "https://www.youtube.com/watch?v=N0WKjDHVMDw"
+  },
+  "Meilech Kohn|Layehudim": {
+    "artist": "Meilech Kohn",
+    "track": "Layehudim",
+    "album": "Layehudim",
+    "video_id": "QOtBdK-zQhQ",
+    "url": "https://www.youtube.com/watch?v=QOtBdK-zQhQ"
+  },
+  "Meilech Kohn|Moshchani": {
+    "artist": "Meilech Kohn",
+    "track": "Moshchani",
+    "album": "Moshchani",
+    "video_id": "26gxetMRuvU",
+    "url": "https://www.youtube.com/watch?v=26gxetMRuvU"
+  },
+  "Meilech Kohn|Nachamu Ami": {
+    "artist": "Meilech Kohn",
+    "track": "Nachamu Ami",
+    "album": "Nachamu Ami",
+    "video_id": "Qs0GKPpAEz8",
+    "url": "https://www.youtube.com/watch?v=Qs0GKPpAEz8"
+  },
+  "Meilech Kohn|Nichnas Yayin": {
+    "artist": "Meilech Kohn",
+    "track": "Nichnas Yayin",
+    "album": "Nichnas Yayin",
+    "video_id": "nDB3Aa-1zQc",
+    "url": "https://www.youtube.com/watch?v=nDB3Aa-1zQc"
+  },
+  "Lipa Schmeltzer|Splash": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Splash",
+    "album": "Meimka D'Lipa",
+    "video_id": "AFryrJNrKf8",
+    "url": "https://www.youtube.com/watch?v=AFryrJNrKf8"
+  },
+  "Lipa Schmeltzer|Chosson Domeh Lemelech": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Chosson Domeh Lemelech",
+    "album": "Meimka D'Lipa",
+    "video_id": "xIP4YhyBXPM",
+    "url": "https://www.youtube.com/watch?v=xIP4YhyBXPM"
+  },
+  "Lipa Schmeltzer|Meimka D'Lipa": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Meimka D'Lipa",
+    "album": "Meimka D'Lipa",
+    "video_id": "47gyrzeGBXM",
+    "url": "https://www.youtube.com/watch?v=47gyrzeGBXM"
+  },
+  "Lipa Schmeltzer|Mi Chochom": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Mi Chochom",
+    "album": "Meimka D'Lipa",
+    "video_id": "4WxEE_jeRSA",
+    "url": "https://www.youtube.com/watch?v=4WxEE_jeRSA"
+  },
+  "Lipa Schmeltzer|The Launguage of Music": {
+    "artist": "Lipa Schmeltzer",
+    "track": "The Launguage of Music",
+    "album": "Meimka D'Lipa",
+    "video_id": "dg6FPg4VpH4",
+    "url": "https://www.youtube.com/watch?v=dg6FPg4VpH4"
+  },
+  "Lipa Schmeltzer|Melech Malchei Hamlachim": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Melech Malchei Hamlachim",
+    "album": "Meimka D'Lipa",
+    "video_id": "miwT8cFigh0",
+    "url": "https://www.youtube.com/watch?v=miwT8cFigh0"
+  },
+  "Lipa Schmeltzer|Ich Hab Gechapt": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ich Hab Gechapt",
+    "album": "Meimka D'Lipa",
+    "video_id": "6HHREm3x4O0",
+    "url": "https://www.youtube.com/watch?v=6HHREm3x4O0"
+  },
+  "Lipa Schmeltzer|Mizmor Lesoda": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Mizmor Lesoda",
+    "album": "Meimka D'Lipa",
+    "video_id": "a1LScXq_CTM",
+    "url": "https://www.youtube.com/watch?v=a1LScXq_CTM"
+  },
+  "Lipa Schmeltzer|Ve'anpaha Ne'hirin": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ve'anpaha Ne'hirin",
+    "album": "Meimka D'Lipa",
+    "video_id": "O46C3clJjWw",
+    "url": "https://www.youtube.com/watch?v=O46C3clJjWw"
+  },
+  "Lipa Schmeltzer|What Toot Dir Vee": null,
+  "Lipa Schmeltzer|Ayei (Feat. MBD)": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ayei (Feat. MBD)",
+    "album": "Meimka D'Lipa",
+    "video_id": "fJxyVQ6QoXw",
+    "url": "https://www.youtube.com/watch?v=fJxyVQ6QoXw"
+  },
+  "Lipa Schmeltzer|Chaim": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Chaim",
+    "album": "Meimka D'Lipa",
+    "video_id": "7zPFW9m6w2c",
+    "url": "https://www.youtube.com/watch?v=7zPFW9m6w2c"
+  },
+  "Lipa Schmeltzer|A Gut Vort": {
+    "artist": "Lipa Schmeltzer",
+    "track": "A Gut Vort",
+    "album": "Meimka D'Lipa",
+    "video_id": "0l5dxHxNRS8",
+    "url": "https://www.youtube.com/watch?v=0l5dxHxNRS8"
+  },
+  "Lipa Schmeltzer|Hore Yes Loshan Hora No": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hore Yes Loshan Hora No",
+    "album": "Meimka D'Lipa",
+    "video_id": "kMyixnQj69I",
+    "url": "https://www.youtube.com/watch?v=kMyixnQj69I"
+  },
+  "Lipa Schmeltzer|Achron Achron Chaviv": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Achron Achron Chaviv",
+    "album": "Meimka D'Lipa",
+    "video_id": "D5ZF6JbA9po",
+    "url": "https://www.youtube.com/watch?v=D5ZF6JbA9po"
+  },
+  "Lipa Schmeltzer|Meimka D'lipa (English)": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Meimka D'lipa (English)",
+    "album": "Meimka D'Lipa",
+    "video_id": "AMMRinoVRb8",
+    "url": "https://www.youtube.com/watch?v=AMMRinoVRb8"
+  },
+  "Lipa Schmeltzer|Yoimom Voloilo": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yoimom Voloilo",
+    "album": "A Poshiter Yid",
+    "video_id": "6d4RuXauXP8",
+    "url": "https://www.youtube.com/watch?v=6d4RuXauXP8"
+  },
+  "Lipa Schmeltzer|Sheloi Osani Goy": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Sheloi Osani Goy",
+    "album": "A Poshiter Yid",
+    "video_id": "HJ1LhdWwvIc",
+    "url": "https://www.youtube.com/watch?v=HJ1LhdWwvIc"
+  },
+  "Lipa Schmeltzer|Yoshvei Eretz Yisroel": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yoshvei Eretz Yisroel",
+    "album": "A Poshiter Yid",
+    "video_id": "dyGJwiazAaw",
+    "url": "https://www.youtube.com/watch?v=dyGJwiazAaw"
+  },
+  "Lipa Schmeltzer|Yenner": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yenner",
+    "album": "A Poshiter Yid",
+    "video_id": "fA_0Z3pM7qs",
+    "url": "https://www.youtube.com/watch?v=fA_0Z3pM7qs"
+  },
+  "Lipa Schmeltzer|Asher Yotzar": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Asher Yotzar",
+    "album": "A Poshiter Yid",
+    "video_id": "AGOA_FmcJlY",
+    "url": "https://www.youtube.com/watch?v=AGOA_FmcJlY"
+  },
+  "Lipa Schmeltzer|A Poshiter Yid": {
+    "artist": "Lipa Schmeltzer",
+    "track": "A Poshiter Yid",
+    "album": "A Poshiter Yid",
+    "video_id": "UbhfUQtz58s",
+    "url": "https://www.youtube.com/watch?v=UbhfUQtz58s"
+  },
+  "Lipa Schmeltzer|Hallelu": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hallelu",
+    "album": "A Poshiter Yid",
+    "video_id": "BfbhJQPNdzM",
+    "url": "https://www.youtube.com/watch?v=BfbhJQPNdzM"
+  },
+  "Lipa Schmeltzer|Ochilo": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ochilo",
+    "album": "A Poshiter Yid",
+    "video_id": "HxBb0b_Ga8I",
+    "url": "https://www.youtube.com/watch?v=HxBb0b_Ga8I"
+  },
+  "Lipa Schmeltzer|Wake Up": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Wake Up",
+    "album": "A Poshiter Yid",
+    "video_id": "Oc1Ih3nP9HM",
+    "url": "https://www.youtube.com/watch?v=Oc1Ih3nP9HM"
+  },
+  "Lipa Schmeltzer|Beksav-Baal Peh": null,
+  "Lipa Schmeltzer|Al Tishallel": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Al Tishallel",
+    "album": "A Poshiter Yid",
+    "video_id": "Kacy1DQUDlg",
+    "url": "https://www.youtube.com/watch?v=Kacy1DQUDlg"
+  },
+  "Lipa Schmeltzer|Omein": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Omein",
+    "album": "A Poshiter Yid",
+    "video_id": "H8VoPv4FDeM",
+    "url": "https://www.youtube.com/watch?v=H8VoPv4FDeM"
+  },
+  "Lipa Schmeltzer|Carry On": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Carry On",
+    "album": "A Poshiter Yid",
+    "video_id": "dzEzWxyU91Y",
+    "url": "https://www.youtube.com/watch?v=dzEzWxyU91Y"
+  },
+  "Lipa Schmeltzer|Hentelech": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hentelech",
+    "album": "A Poshiter Yid",
+    "video_id": "cGECg1LJeLE",
+    "url": "https://www.youtube.com/watch?v=cGECg1LJeLE"
+  },
+  "Lipa Schmeltzer|Keil Elyoin": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Keil Elyoin",
+    "album": "24/6",
+    "video_id": "ZZbj31gwDrM",
+    "url": "https://www.youtube.com/watch?v=ZZbj31gwDrM"
+  },
+  "Lipa Schmeltzer|Ki Hirbeisu": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ki Hirbeisu",
+    "album": "24/6",
+    "video_id": "z9JzFdOXi5A",
+    "url": "https://www.youtube.com/watch?v=z9JzFdOXi5A"
+  },
+  "Lipa Schmeltzer|Nigun Nikelsburg": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Nigun Nikelsburg",
+    "album": "24/6",
+    "video_id": "2eglY_RXJkg",
+    "url": "https://www.youtube.com/watch?v=2eglY_RXJkg"
+  },
+  "Lipa Schmeltzer|Ad Heinu": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ad Heinu",
+    "album": "24/6",
+    "video_id": "AUU2sTbliQM",
+    "url": "https://www.youtube.com/watch?v=AUU2sTbliQM"
+  },
+  "Lipa Schmeltzer|Nigun Simcha": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Nigun Simcha",
+    "album": "24/6",
+    "video_id": "JQ_AFz9yFjE",
+    "url": "https://www.youtube.com/watch?v=JQ_AFz9yFjE"
+  },
+  "Lipa Schmeltzer|Huts Ge'poilt": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Huts Ge'poilt",
+    "album": "24/6",
+    "video_id": "2n-NcdZs434",
+    "url": "https://www.youtube.com/watch?v=2n-NcdZs434"
+  },
+  "Lipa Schmeltzer|Kol Hu'Oilom Kuloi": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Kol Hu'Oilom Kuloi",
+    "album": "24/6",
+    "video_id": "gH0SD5cAACg",
+    "url": "https://www.youtube.com/watch?v=gH0SD5cAACg"
+  },
+  "Lipa Schmeltzer|Avraham Yugeil": null
 }
