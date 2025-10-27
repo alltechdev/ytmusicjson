@@ -98724,5 +98724,585 @@
     "album": "Hershele at the Chanukah Lights",
     "video_id": "kYbQwm3oUFM",
     "url": "https://www.youtube.com/watch?v=kYbQwm3oUFM"
+  },
+  "MRM Music|After He Finished": {
+    "artist": "MRM Music",
+    "track": "After He Finished",
+    "album": "Hershele at the Chanukah Lights",
+    "video_id": "hTwdn3A148Y",
+    "url": "https://www.youtube.com/watch?v=hTwdn3A148Y"
+  },
+  "MRM Music|Oy Chanukah": {
+    "artist": "MRM Music",
+    "track": "Oy Chanukah",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "a1YRwZPLTeM",
+    "url": "https://www.youtube.com/watch?v=a1YRwZPLTeM"
+  },
+  "MRM Music|Why We Light the Menorah": {
+    "artist": "MRM Music",
+    "track": "Why We Light the Menorah",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "3UhUonPpsa0",
+    "url": "https://www.youtube.com/watch?v=3UhUonPpsa0"
+  },
+  "MRM Music|Menorah Brachos": {
+    "artist": "MRM Music",
+    "track": "Menorah Brachos",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "u_Lilkk1Q4A",
+    "url": "https://www.youtube.com/watch?v=u_Lilkk1Q4A"
+  },
+  "MRM Music|Why We Play Dreidel": {
+    "artist": "MRM Music",
+    "track": "Why We Play Dreidel",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "G7C-tTqGhRI",
+    "url": "https://www.youtube.com/watch?v=G7C-tTqGhRI"
+  },
+  "MRM Music|Haneiros Halalu": {
+    "artist": "MRM Music",
+    "track": "Haneiros Halalu",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "nqKGaiXHSaY",
+    "url": "https://www.youtube.com/watch?v=nqKGaiXHSaY"
+  },
+  "MRM Music|The Story of Yehudis": {
+    "artist": "MRM Music",
+    "track": "The Story of Yehudis",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "WvupJGL4sN0",
+    "url": "https://www.youtube.com/watch?v=WvupJGL4sN0"
+  },
+  "MRM Music|Maoz Tzur": {
+    "artist": "MRM Music",
+    "track": "Maoz Tzur",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "ChUgoXpy6uY",
+    "url": "https://www.youtube.com/watch?v=ChUgoXpy6uY"
+  },
+  "MRM Music|The Hidden Light": {
+    "artist": "MRM Music",
+    "track": "The Hidden Light",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "LfJu5Im76i8",
+    "url": "https://www.youtube.com/watch?v=LfJu5Im76i8"
+  },
+  "MRM Music|Yevanim 1": {
+    "artist": "MRM Music",
+    "track": "Yevanim 1",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "c0fuRUsFCBc",
+    "url": "https://www.youtube.com/watch?v=c0fuRUsFCBc"
+  },
+  "MRM Music|Reb Boruchel and the Shliach": null,
+  "MRM Music|Yevanim 2": {
+    "artist": "MRM Music",
+    "track": "Yevanim 2",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "Lz06jObf5xE",
+    "url": "https://www.youtube.com/watch?v=Lz06jObf5xE"
+  },
+  "MRM Music|The Holy Menorah": {
+    "artist": "MRM Music",
+    "track": "The Holy Menorah",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "qyBsP-w84iQ",
+    "url": "https://www.youtube.com/watch?v=qyBsP-w84iQ"
+  },
+  "MRM Music|The Toldos Yaakov Yosef and the Cossaks": null,
+  "MRM Music|Al Hanissim": {
+    "artist": "MRM Music",
+    "track": "Al Hanissim",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "IqHXmIBUiB8",
+    "url": "https://www.youtube.com/watch?v=IqHXmIBUiB8"
+  },
+  "MRM Music|Halachos of Chanukah": {
+    "artist": "MRM Music",
+    "track": "Halachos of Chanukah",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "T7gTJ9yETcw",
+    "url": "https://www.youtube.com/watch?v=T7gTJ9yETcw"
+  },
+  "MRM Music|The Light of Eight Nights": {
+    "artist": "MRM Music",
+    "track": "The Light of Eight Nights",
+    "album": "Once Upon a Story Chanukah",
+    "video_id": "sRuCju9Cbvk",
+    "url": "https://www.youtube.com/watch?v=sRuCju9Cbvk"
+  },
+  "MRM Music|A Kriegerle Oil": {
+    "artist": "MRM Music",
+    "track": "A Kriegerle Oil",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "QPI5oh7PY7s",
+    "url": "https://www.youtube.com/watch?v=QPI5oh7PY7s"
+  },
+  "MRM Music|Ulicha Asisa": {
+    "artist": "MRM Music",
+    "track": "Ulicha Asisa",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "df-cnOHCHAo",
+    "url": "https://www.youtube.com/watch?v=df-cnOHCHAo"
+  },
+  "MRM Music|Di Maaseh Foon Yehudis": {
+    "artist": "MRM Music",
+    "track": "Di Maaseh Foon Yehudis",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "wuKiVtjUjyo",
+    "url": "https://www.youtube.com/watch?v=wuKiVtjUjyo"
+  },
+  "MRM Music|Yevonim 1": {
+    "artist": "MRM Music",
+    "track": "Yevonim 1",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "c0fuRUsFCBc",
+    "url": "https://www.youtube.com/watch?v=c0fuRUsFCBc"
+  },
+  "MRM Music|Dem Ohr Hagunes": {
+    "artist": "MRM Music",
+    "track": "Dem Ohr Hagunes",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "cRNvSrJwWDk",
+    "url": "https://www.youtube.com/watch?v=cRNvSrJwWDk"
+  },
+  "MRM Music|Ki Lecha Tov Lehodos": {
+    "artist": "MRM Music",
+    "track": "Ki Lecha Tov Lehodos",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "qG_le3RU1lk",
+    "url": "https://www.youtube.com/watch?v=qG_le3RU1lk"
+  },
+  "MRM Music|Maaseh Di Shlichus Foon Di Licht": {
+    "artist": "MRM Music",
+    "track": "Maaseh Di Shlichus Foon Di Licht",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "avZkVCfV7jI",
+    "url": "https://www.youtube.com/watch?v=avZkVCfV7jI"
+  },
+  "MRM Music|Shpielen Dreidel": {
+    "artist": "MRM Music",
+    "track": "Shpielen Dreidel",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "2cismuBhP54",
+    "url": "https://www.youtube.com/watch?v=2cismuBhP54"
+  },
+  "MRM Music|Maaseh Foon Di Heilige Menorah": null,
+  "MRM Music|Viyivtichu Becha": {
+    "artist": "MRM Music",
+    "track": "Viyivtichu Becha",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "svQoQ4XFqQg",
+    "url": "https://www.youtube.com/watch?v=svQoQ4XFqQg"
+  },
+  "MRM Music|Halachos Far Chanukah": {
+    "artist": "MRM Music",
+    "track": "Halachos Far Chanukah",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "8h8s86xAwnQ",
+    "url": "https://www.youtube.com/watch?v=8h8s86xAwnQ"
+  },
+  "MRM Music|Keili Ata": {
+    "artist": "MRM Music",
+    "track": "Keili Ata",
+    "album": "Chanukah Dertzeilungen Far Di Kinder",
+    "video_id": "7nkUGlYt5Qk",
+    "url": "https://www.youtube.com/watch?v=7nkUGlYt5Qk"
+  },
+  "MRM Music|First Set": {
+    "artist": "MRM Music",
+    "track": "First Set",
+    "album": "Andekt Chanuka Bai Nacht",
+    "video_id": "JoSMpfrtMt0",
+    "url": "https://www.youtube.com/watch?v=JoSMpfrtMt0"
+  },
+  "MRM Music|Second Set": {
+    "artist": "MRM Music",
+    "track": "Second Set",
+    "album": "Andekt Chanuka Bai Nacht",
+    "video_id": "Lpwm8twniE4",
+    "url": "https://www.youtube.com/watch?v=Lpwm8twniE4"
+  },
+  "MRM Music|Third Set": {
+    "artist": "MRM Music",
+    "track": "Third Set",
+    "album": "Andekt Chanuka Bai Nacht",
+    "video_id": "Au-mup8L_00",
+    "url": "https://www.youtube.com/watch?v=Au-mup8L_00"
+  },
+  "MRM Music|Fourth Set": {
+    "artist": "MRM Music",
+    "track": "Fourth Set",
+    "album": "Andekt Chanuka Bai Nacht",
+    "video_id": "O0b12nm53fA",
+    "url": "https://www.youtube.com/watch?v=O0b12nm53fA"
+  },
+  "MRM Music|Fifth Set": {
+    "artist": "MRM Music",
+    "track": "Fifth Set",
+    "album": "Andekt Chanuka Bai Nacht",
+    "video_id": "lECCGbIEyOM",
+    "url": "https://www.youtube.com/watch?v=lECCGbIEyOM"
+  },
+  "MRM Music|Nigun Chanukah,Hneiros Haluli,Muoiz Tzir,Al Hanisim,Yevunim 1, 2 & 3,Uminoisar,Shahechuni": null,
+  "MRM Music|Burich Ato, Muoiz Tzir": null,
+  "MRM Music|Haleli Es Hashem,Burich Ato Bu'eer,Ki Nicham,Sheyibuna,Nigun": null,
+  "MRM Music|Chasoif, Haneros Haluli- Yiddish, Aromimcha": null,
+  "MRM Music|Mizmor Shir,Aromimchu 2,Borei Oilam,Ushira La'shem,Vehaveoisem,Poseiach,Al Chomotayich, Leshunu- Yeh Hayom": null,
+  "MRM Music|Yaleh Ve'uvoh": null,
+  "MRM Music|Uminoisar, Muoiz Tzir": null,
+  "MRM Music|Makabi": {
+    "artist": "MRM Music",
+    "track": "Makabi",
+    "album": "Chanukah Super Collection Mix",
+    "video_id": "dKpheqClNBI",
+    "url": "https://www.youtube.com/watch?v=dKpheqClNBI"
+  },
+  "MRM Music|Sevivon,Dreidel,Chanukah Chag Yafeh,Ner Li, _I Yemaleil": null,
+  "MRM Music|Or_ Light Up The Nights": {
+    "artist": "MRM Music",
+    "track": "Or_ Light Up The Nights",
+    "album": "Chanukah Super Collection Mix",
+    "video_id": "aQUlA8Hcv4s",
+    "url": "https://www.youtube.com/watch?v=aQUlA8Hcv4s"
+  },
+  "MRM Music|Yom Huledet Sameach_ Happy Birthday": {
+    "artist": "MRM Music",
+    "track": "Yom Huledet Sameach_ Happy Birthday",
+    "album": "Chanukah Super Collection Mix",
+    "video_id": "Qrr8Bcaf5D4",
+    "url": "https://www.youtube.com/watch?v=Qrr8Bcaf5D4"
+  },
+  "MRM Music|The Rebbes Haneiros Hallalu": {
+    "artist": "MRM Music",
+    "track": "The Rebbes Haneiros Hallalu",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "8aeFP725Ais",
+    "url": "https://www.youtube.com/watch?v=8aeFP725Ais"
+  },
+  "MRM Music|Haneiros Hallalu": {
+    "artist": "MRM Music",
+    "track": "Haneiros Hallalu",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "5Vj24FcoDJ4",
+    "url": "https://www.youtube.com/watch?v=5Vj24FcoDJ4"
+  },
+  "MRM Music|Umenosar Kankanim": {
+    "artist": "MRM Music",
+    "track": "Umenosar Kankanim",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "txJ8dvQcApo",
+    "url": "https://www.youtube.com/watch?v=txJ8dvQcApo"
+  },
+  "MRM Music|Nigun 1": {
+    "artist": "MRM Music",
+    "track": "Nigun 1",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "li7EwCPCAyE",
+    "url": "https://www.youtube.com/watch?v=li7EwCPCAyE"
+  },
+  "MRM Music|Nigun 2": {
+    "artist": "MRM Music",
+    "track": "Nigun 2",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "xlQmrNrwvac",
+    "url": "https://www.youtube.com/watch?v=xlQmrNrwvac"
+  },
+  "MRM Music|Nigun 3": {
+    "artist": "MRM Music",
+    "track": "Nigun 3",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "Au-mup8L_00",
+    "url": "https://www.youtube.com/watch?v=Au-mup8L_00"
+  },
+  "MRM Music|Nigun 4": {
+    "artist": "MRM Music",
+    "track": "Nigun 4",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "2DZlg20Kh_4",
+    "url": "https://www.youtube.com/watch?v=2DZlg20Kh_4"
+  },
+  "MRM Music|Kivi Choshev": {
+    "artist": "MRM Music",
+    "track": "Kivi Choshev",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "7dSu041QbmI",
+    "url": "https://www.youtube.com/watch?v=7dSu041QbmI"
+  },
+  "MRM Music|Yipol Mitzircha": {
+    "artist": "MRM Music",
+    "track": "Yipol Mitzircha",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "xgNsKllWcV0",
+    "url": "https://www.youtube.com/watch?v=xgNsKllWcV0"
+  },
+  "MRM Music|Ner Leragli - Mizrach Shemesh": null,
+  "MRM Music|Miliphnei Adon - Shelach Oidcha": {
+    "artist": "MRM Music",
+    "track": "Miliphnei Adon - Shelach Oidcha",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "bOmxTNe16xY",
+    "url": "https://www.youtube.com/watch?v=bOmxTNe16xY"
+  },
+  "MRM Music|Ana Hashem - Hodu Lashem - Yisrael Btach Bashem": null,
+  "MRM Music|Ana Hashem 2": {
+    "artist": "MRM Music",
+    "track": "Ana Hashem 2",
+    "album": "Nigunei Chanukah Bechatzer Skulen",
+    "video_id": "A4gkBl6CLuA",
+    "url": "https://www.youtube.com/watch?v=A4gkBl6CLuA"
+  },
+  "MRM Music|Oh Chanuka": {
+    "artist": "MRM Music",
+    "track": "Oh Chanuka",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "PV1h_NLQ97o",
+    "url": "https://www.youtube.com/watch?v=PV1h_NLQ97o"
+  },
+  "MRM Music|Al HaNisim": {
+    "artist": "MRM Music",
+    "track": "Al HaNisim",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "PbxdmP8CExA",
+    "url": "https://www.youtube.com/watch?v=PbxdmP8CExA"
+  },
+  "MRM Music|Yosef Hashem": {
+    "artist": "MRM Music",
+    "track": "Yosef Hashem",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "x7h76CvJSBo",
+    "url": "https://www.youtube.com/watch?v=x7h76CvJSBo"
+  },
+  "MRM Music|Zeh Hayoem": null,
+  "MRM Music|Maoz Tzur Yehusasi": null,
+  "MRM Music|Yevanim": {
+    "artist": "MRM Music",
+    "track": "Yevanim",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "DoDDC9B8YW8",
+    "url": "https://www.youtube.com/watch?v=DoDDC9B8YW8"
+  },
+  "MRM Music|Yevanim Nikbitzu": {
+    "artist": "MRM Music",
+    "track": "Yevanim Nikbitzu",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "DoDDC9B8YW8",
+    "url": "https://www.youtube.com/watch?v=DoDDC9B8YW8"
+  },
+  "MRM Music|Yevanim Nikbitzu Alai": {
+    "artist": "MRM Music",
+    "track": "Yevanim Nikbitzu Alai",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "DoDDC9B8YW8",
+    "url": "https://www.youtube.com/watch?v=DoDDC9B8YW8"
+  },
+  "MRM Music|Yevanim Nikbitzu Alai Azai": {
+    "artist": "MRM Music",
+    "track": "Yevanim Nikbitzu Alai Azai",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "DoDDC9B8YW8",
+    "url": "https://www.youtube.com/watch?v=DoDDC9B8YW8"
+  },
+  "MRM Music|Maccabi": {
+    "artist": "MRM Music",
+    "track": "Maccabi",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "Y8783xEP_yM",
+    "url": "https://www.youtube.com/watch?v=Y8783xEP_yM"
+  },
+  "MRM Music|Chasofe": {
+    "artist": "MRM Music",
+    "track": "Chasofe",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "w7nAqfJV3bg",
+    "url": "https://www.youtube.com/watch?v=w7nAqfJV3bg"
+  },
+  "MRM Music|Aromimcha": {
+    "artist": "MRM Music",
+    "track": "Aromimcha",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "8EHW2gZCDJw",
+    "url": "https://www.youtube.com/watch?v=8EHW2gZCDJw"
+  },
+  "MRM Music|Ona Hashem": {
+    "artist": "MRM Music",
+    "track": "Ona Hashem",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "XwXqNS5U24Y",
+    "url": "https://www.youtube.com/watch?v=XwXqNS5U24Y"
+  },
+  "MRM Music|Ner L'ragli": {
+    "artist": "MRM Music",
+    "track": "Ner L'ragli",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "bMsiJN6q10g",
+    "url": "https://www.youtube.com/watch?v=bMsiJN6q10g"
+  },
+  "MRM Music|Nigun Chanuka": {
+    "artist": "MRM Music",
+    "track": "Nigun Chanuka",
+    "album": "Shirei Yemei Chanukah",
+    "video_id": "TEEsS1pvJPs",
+    "url": "https://www.youtube.com/watch?v=TEEsS1pvJPs"
+  },
+  "MRM Music|Ani Chanuka": {
+    "artist": "MRM Music",
+    "track": "Ani Chanuka",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "PV1h_NLQ97o",
+    "url": "https://www.youtube.com/watch?v=PV1h_NLQ97o"
+  },
+  "MRM Music|Ohr Chodosh": {
+    "artist": "MRM Music",
+    "track": "Ohr Chodosh",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "Yv3PNlg6xTA",
+    "url": "https://www.youtube.com/watch?v=Yv3PNlg6xTA"
+  },
+  "MRM Music|Ohr Chodosh 2": {
+    "artist": "MRM Music",
+    "track": "Ohr Chodosh 2",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "Yv3PNlg6xTA",
+    "url": "https://www.youtube.com/watch?v=Yv3PNlg6xTA"
+  },
+  "MRM Music|Mimizrach": null,
+  "MRM Music|Yevonim": {
+    "artist": "MRM Music",
+    "track": "Yevonim",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "Lz06jObf5xE",
+    "url": "https://www.youtube.com/watch?v=Lz06jObf5xE"
+  },
+  "MRM Music|Yevonim 2": {
+    "artist": "MRM Music",
+    "track": "Yevonim 2",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "Lz06jObf5xE",
+    "url": "https://www.youtube.com/watch?v=Lz06jObf5xE"
+  },
+  "MRM Music|Yevonim 3": {
+    "artist": "MRM Music",
+    "track": "Yevonim 3",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "DoDDC9B8YW8",
+    "url": "https://www.youtube.com/watch?v=DoDDC9B8YW8"
+  },
+  "MRM Music|Chasoif": {
+    "artist": "MRM Music",
+    "track": "Chasoif",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "GgTD0NMTj8Q",
+    "url": "https://www.youtube.com/watch?v=GgTD0NMTj8Q"
+  },
+  "MRM Music|Chasoif 2": {
+    "artist": "MRM Music",
+    "track": "Chasoif 2",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "thmpZVIpxE4",
+    "url": "https://www.youtube.com/watch?v=thmpZVIpxE4"
+  },
+  "MRM Music|Ki Lecha": {
+    "artist": "MRM Music",
+    "track": "Ki Lecha",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "K-oAIm9pUSY",
+    "url": "https://www.youtube.com/watch?v=K-oAIm9pUSY"
+  },
+  "MRM Music|Uminosar": {
+    "artist": "MRM Music",
+    "track": "Uminosar",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "txJ8dvQcApo",
+    "url": "https://www.youtube.com/watch?v=txJ8dvQcApo"
+  },
+  "MRM Music|Yaphul Mitzidcha": null,
+  "MRM Music|Shelcha Orech": null,
+  "MRM Music|Keli Ata": {
+    "artist": "MRM Music",
+    "track": "Keli Ata",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "WR16Da7n5Ek",
+    "url": "https://www.youtube.com/watch?v=WR16Da7n5Ek"
+  },
+  "MRM Music|Shavasi": null,
+  "MRM Music|Hashem H'alisa": null,
+  "MRM Music|Zamru Lashem": {
+    "artist": "MRM Music",
+    "track": "Zamru Lashem",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "IaD6BmasHw0",
+    "url": "https://www.youtube.com/watch?v=IaD6BmasHw0"
+  },
+  "MRM Music|Ma Betza": {
+    "artist": "MRM Music",
+    "track": "Ma Betza",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "gFdHGau7cEc",
+    "url": "https://www.youtube.com/watch?v=gFdHGau7cEc"
+  },
+  "MRM Music|Hafachta": {
+    "artist": "MRM Music",
+    "track": "Hafachta",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "ubNsiy5_7ps",
+    "url": "https://www.youtube.com/watch?v=ubNsiy5_7ps"
+  },
+  "MRM Music|Asinu Lecha": {
+    "artist": "MRM Music",
+    "track": "Asinu Lecha",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "cobfPPI_uD4",
+    "url": "https://www.youtube.com/watch?v=cobfPPI_uD4"
+  },
+  "MRM Music|Ki Chilatzta": {
+    "artist": "MRM Music",
+    "track": "Ki Chilatzta",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "NXsHiHvOVbY",
+    "url": "https://www.youtube.com/watch?v=NXsHiHvOVbY"
+  },
+  "MRM Music|Lichtelech": {
+    "artist": "MRM Music",
+    "track": "Lichtelech",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "HKL0WsEmUVg",
+    "url": "https://www.youtube.com/watch?v=HKL0WsEmUVg"
+  },
+  "MRM Music|Ner Leragli": {
+    "artist": "MRM Music",
+    "track": "Ner Leragli",
+    "album": "A Lichtegin Chanukah",
+    "video_id": "bMsiJN6q10g",
+    "url": "https://www.youtube.com/watch?v=bMsiJN6q10g"
+  },
+  "MRM Music|A Lechtigkeit": {
+    "artist": "MRM Music",
+    "track": "A Lechtigkeit",
+    "album": "Chassidishe Chanukah Collection",
+    "video_id": "5q8a8U50qMk",
+    "url": "https://www.youtube.com/watch?v=5q8a8U50qMk"
+  },
+  "MRM Music|Lazman": {
+    "artist": "MRM Music",
+    "track": "Lazman",
+    "album": "Chassidishe Chanukah Collection",
+    "video_id": "b-wbEYUXzqY",
+    "url": "https://www.youtube.com/watch?v=b-wbEYUXzqY"
+  },
+  "MRM Music|Der Heilige Chanukah Lecht": {
+    "artist": "MRM Music",
+    "track": "Der Heilige Chanukah Lecht",
+    "album": "Chassidishe Chanukah Collection",
+    "video_id": "JOKwZoro0Do",
+    "url": "https://www.youtube.com/watch?v=JOKwZoro0Do"
+  },
+  "MRM Music|The Maggids Menorah": {
+    "artist": "MRM Music",
+    "track": "The Maggids Menorah",
+    "album": "Chassidishe Chanukah Collection",
+    "video_id": "SZHeq2vlEf0",
+    "url": "https://www.youtube.com/watch?v=SZHeq2vlEf0"
   }
 }
