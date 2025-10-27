@@ -24166,5 +24166,681 @@
     "album": "A Regesh Wedding",
     "video_id": "pcHINvOttWE",
     "url": "https://www.youtube.com/watch?v=pcHINvOttWE"
+  },
+  "Regesh|Dinner": {
+    "artist": "Regesh",
+    "track": "Dinner",
+    "album": "A Regesh Wedding",
+    "video_id": "rK3rQBOjgTs",
+    "url": "https://www.youtube.com/watch?v=rK3rQBOjgTs"
+  },
+  "Regesh|Horahs": {
+    "artist": "Regesh",
+    "track": "Horahs",
+    "album": "A Regesh Wedding",
+    "video_id": "eWqkWQ0NH4Q",
+    "url": "https://www.youtube.com/watch?v=eWqkWQ0NH4Q"
+  },
+  "Shmuly Schneider|Ad Bli Dai": {
+    "artist": "Shmuly Schneider",
+    "track": "Ad Bli Dai",
+    "album": "Ad Bli Dai",
+    "video_id": "vS4EGV2fHcw",
+    "url": "https://www.youtube.com/watch?v=vS4EGV2fHcw"
+  },
+  "Shmuly Schneider|Chasoif": {
+    "artist": "Shmuly Schneider",
+    "track": "Chasoif",
+    "album": "Chasoif",
+    "video_id": "ypx9ngB8bnM",
+    "url": "https://www.youtube.com/watch?v=ypx9ngB8bnM"
+  },
+  "Shmuly Schneider|Hisyatzivu": {
+    "artist": "Shmuly Schneider",
+    "track": "Hisyatzivu",
+    "album": "Hisyatzivu",
+    "video_id": "GvprKwqB5os",
+    "url": "https://www.youtube.com/watch?v=GvprKwqB5os"
+  },
+  "Shmuly Schneider|Lulei Sorascha": {
+    "artist": "Shmuly Schneider",
+    "track": "Lulei Sorascha",
+    "album": "Lulei Sorascha",
+    "video_id": "vOpPMKnpyIM",
+    "url": "https://www.youtube.com/watch?v=vOpPMKnpyIM"
+  },
+  "Shmuly Schneider|Special Hearts": {
+    "artist": "Shmuly Schneider",
+    "track": "Special Hearts",
+    "album": "Special Hearts Camp Schi",
+    "video_id": "urBqVpQh_mQ",
+    "url": "https://www.youtube.com/watch?v=urBqVpQh_mQ"
+  },
+  "Shmuly Schneider|Zoche": {
+    "artist": "Shmuly Schneider",
+    "track": "Zoche",
+    "album": "Zoche",
+    "video_id": "OuaqLo5RbAg",
+    "url": "https://www.youtube.com/watch?v=OuaqLo5RbAg"
+  },
+  "Abish Brodt|Ma'ein Olam": {
+    "artist": "Abish Brodt",
+    "track": "Ma'ein Olam",
+    "album": "Machnisei Dimah",
+    "video_id": "rm9pPXmU8qU",
+    "url": "https://www.youtube.com/watch?v=rm9pPXmU8qU"
+  },
+  "Abish Brodt|Machnisei Dimah": {
+    "artist": "Abish Brodt",
+    "track": "Machnisei Dimah",
+    "album": "Machnisei Dimah",
+    "video_id": "UXs6RPUYWiU",
+    "url": "https://www.youtube.com/watch?v=UXs6RPUYWiU"
+  },
+  "Abish Brodt|Anu Avda": {
+    "artist": "Abish Brodt",
+    "track": "Anu Avda",
+    "album": "Machnisei Dimah",
+    "video_id": "bnZb3u-y7gg",
+    "url": "https://www.youtube.com/watch?v=bnZb3u-y7gg"
+  },
+  "Abish Brodt|Ahavas Chinam": {
+    "artist": "Abish Brodt",
+    "track": "Ahavas Chinam",
+    "album": "Machnisei Dimah",
+    "video_id": "wHGOYcikl80",
+    "url": "https://www.youtube.com/watch?v=wHGOYcikl80"
+  },
+  "Abish Brodt|Aderaba": {
+    "artist": "Abish Brodt",
+    "track": "Aderaba",
+    "album": "Machnisei Dimah",
+    "video_id": "31F7V-mZ8Cg",
+    "url": "https://www.youtube.com/watch?v=31F7V-mZ8Cg"
+  },
+  "Abish Brodt|Shalom Aleichem": {
+    "artist": "Abish Brodt",
+    "track": "Shalom Aleichem",
+    "album": "Machnisei Dimah",
+    "video_id": "j1Ze-McU0QA",
+    "url": "https://www.youtube.com/watch?v=j1Ze-McU0QA"
+  },
+  "Abish Brodt|Retzei": {
+    "artist": "Abish Brodt",
+    "track": "Retzei",
+    "album": "Machnisei Dimah",
+    "video_id": "GFcf_jumF30",
+    "url": "https://www.youtube.com/watch?v=GFcf_jumF30"
+  },
+  "Abish Brodt|Got Fun Avrohom": {
+    "artist": "Abish Brodt",
+    "track": "Got Fun Avrohom",
+    "album": "Machnisei Dimah",
+    "video_id": "Ocye9xaFsV8",
+    "url": "https://www.youtube.com/watch?v=Ocye9xaFsV8"
+  },
+  "Abish Brodt|Al Tasteir": {
+    "artist": "Abish Brodt",
+    "track": "Al Tasteir",
+    "album": "Machnisei Dimah",
+    "video_id": "M7pYrIifVKg",
+    "url": "https://www.youtube.com/watch?v=M7pYrIifVKg"
+  },
+  "Abish Brodt|Ki Hamitzvah": {
+    "artist": "Abish Brodt",
+    "track": "Ki Hamitzvah",
+    "album": "Machnisei Dimah",
+    "video_id": "cNlYb91aaa0",
+    "url": "https://www.youtube.com/watch?v=cNlYb91aaa0"
+  },
+  "Abish Brodt|Zaro Chayo": {
+    "artist": "Abish Brodt",
+    "track": "Zaro Chayo",
+    "album": "Ribono Shel Olam",
+    "video_id": "Wod3hNF0_A4",
+    "url": "https://www.youtube.com/watch?v=Wod3hNF0_A4"
+  },
+  "Abish Brodt|Ribono Shel Olam": {
+    "artist": "Abish Brodt",
+    "track": "Ribono Shel Olam",
+    "album": "Ribono Shel Olam",
+    "video_id": "tVhOOOo3jIY",
+    "url": "https://www.youtube.com/watch?v=tVhOOOo3jIY"
+  },
+  "Abish Brodt|Shiru Lamelech": {
+    "artist": "Abish Brodt",
+    "track": "Shiru Lamelech",
+    "album": "Ribono Shel Olam",
+    "video_id": "mA4vzPw7K8U",
+    "url": "https://www.youtube.com/watch?v=mA4vzPw7K8U"
+  },
+  "Abish Brodt|Mimkomcha": {
+    "artist": "Abish Brodt",
+    "track": "Mimkomcha",
+    "album": "Ribono Shel Olam",
+    "video_id": "vrNIEbarwr0",
+    "url": "https://www.youtube.com/watch?v=vrNIEbarwr0"
+  },
+  "Abish Brodt|Tefila Leoni": {
+    "artist": "Abish Brodt",
+    "track": "Tefila Leoni",
+    "album": "Ribono Shel Olam",
+    "video_id": "Q0xRNc6-n3k",
+    "url": "https://www.youtube.com/watch?v=Q0xRNc6-n3k"
+  },
+  "Abish Brodt|Psach": {
+    "artist": "Abish Brodt",
+    "track": "Psach",
+    "album": "Ribono Shel Olam",
+    "video_id": "e_zelo8wTzw",
+    "url": "https://www.youtube.com/watch?v=e_zelo8wTzw"
+  },
+  "Abish Brodt|Shomro Nafshi": {
+    "artist": "Abish Brodt",
+    "track": "Shomro Nafshi",
+    "album": "Ribono Shel Olam",
+    "video_id": "Fhuu8gkbpiM",
+    "url": "https://www.youtube.com/watch?v=Fhuu8gkbpiM"
+  },
+  "Abish Brodt|Eliyahu Hanavi": {
+    "artist": "Abish Brodt",
+    "track": "Eliyahu Hanavi",
+    "album": "Ribono Shel Olam",
+    "video_id": "Pq2mc2iCASw",
+    "url": "https://www.youtube.com/watch?v=Pq2mc2iCASw"
+  },
+  "Abish Brodt|Shema Koleinu": {
+    "artist": "Abish Brodt",
+    "track": "Shema Koleinu",
+    "album": "Ribono Shel Olam",
+    "video_id": "oh1oV_WoM5A",
+    "url": "https://www.youtube.com/watch?v=oh1oV_WoM5A"
+  },
+  "Abish Brodt|Chindaleh": null,
+  "Abish Brodt|Hashivah": {
+    "artist": "Abish Brodt",
+    "track": "Hashivah",
+    "album": "L'vaker B'heichulo",
+    "video_id": "YJY9AdzUzYM",
+    "url": "https://www.youtube.com/watch?v=YJY9AdzUzYM"
+  },
+  "Abish Brodt|Mah Yisron": null,
+  "Abish Brodt|Bircas Kohanim, Niggun": {
+    "artist": "Abish Brodt",
+    "track": "Bircas Kohanim, Niggun",
+    "album": "L'vaker B'heichulo",
+    "video_id": "V0IzYagmDRY",
+    "url": "https://www.youtube.com/watch?v=V0IzYagmDRY"
+  },
+  "Abish Brodt|Ki Lekach": {
+    "artist": "Abish Brodt",
+    "track": "Ki Lekach",
+    "album": "L'vaker B'heichulo",
+    "video_id": "V0IzYagmDRY",
+    "url": "https://www.youtube.com/watch?v=V0IzYagmDRY"
+  },
+  "Abish Brodt|Shakah Chamah": null,
+  "Abish Brodt|Venireihu": null,
+  "Abish Brodt|Ki Hinei": {
+    "artist": "Abish Brodt",
+    "track": "Ki Hinei",
+    "album": "L'vaker B'heichulo",
+    "video_id": "V0IzYagmDRY",
+    "url": "https://www.youtube.com/watch?v=V0IzYagmDRY"
+  },
+  "Abish Brodt|Shuvu": {
+    "artist": "Abish Brodt",
+    "track": "Shuvu",
+    "album": "L'vaker B'heichulo",
+    "video_id": "yMrg45G5dYk",
+    "url": "https://www.youtube.com/watch?v=yMrg45G5dYk"
+  },
+  "Abish Brodt|Ashreichem Yisrael": {
+    "artist": "Abish Brodt",
+    "track": "Ashreichem Yisrael",
+    "album": "L'vaker B'heichulo",
+    "video_id": "jscPWpJk2Uc",
+    "url": "https://www.youtube.com/watch?v=jscPWpJk2Uc"
+  },
+  "Motty Ilowitz|Yeder Keiner": {
+    "artist": "Motty Ilowitz",
+    "track": "Yeder Keiner",
+    "album": "Rayonos",
+    "video_id": "dV-lZLdNJcg",
+    "url": "https://www.youtube.com/watch?v=dV-lZLdNJcg"
+  },
+  "Motty Ilowitz|Keil Erech": {
+    "artist": "Motty Ilowitz",
+    "track": "Keil Erech",
+    "album": "Rayonos",
+    "video_id": "tEW3CmXyl8A",
+    "url": "https://www.youtube.com/watch?v=tEW3CmXyl8A"
+  },
+  "Motty Ilowitz|VeZeh": {
+    "artist": "Motty Ilowitz",
+    "track": "VeZeh",
+    "album": "Rayonos",
+    "video_id": "8RhMdFSslbs",
+    "url": "https://www.youtube.com/watch?v=8RhMdFSslbs"
+  },
+  "Motty Ilowitz|Veitug": {
+    "artist": "Motty Ilowitz",
+    "track": "Veitug",
+    "album": "Rayonos",
+    "video_id": "AdKXKM2UVHA",
+    "url": "https://www.youtube.com/watch?v=AdKXKM2UVHA"
+  },
+  "Motty Ilowitz|Taavos": {
+    "artist": "Motty Ilowitz",
+    "track": "Taavos",
+    "album": "Rayonos",
+    "video_id": "8RhMdFSslbs",
+    "url": "https://www.youtube.com/watch?v=8RhMdFSslbs"
+  },
+  "Motty Ilowitz|Eini Yodea": {
+    "artist": "Motty Ilowitz",
+    "track": "Eini Yodea",
+    "album": "Rayonos",
+    "video_id": "X3J89jmTAlg",
+    "url": "https://www.youtube.com/watch?v=X3J89jmTAlg"
+  },
+  "Motty Ilowitz|Shkoyach": {
+    "artist": "Motty Ilowitz",
+    "track": "Shkoyach",
+    "album": "Rayonos",
+    "video_id": "06hnCyqKxMw",
+    "url": "https://www.youtube.com/watch?v=06hnCyqKxMw"
+  },
+  "Motty Ilowitz|Gemeint": {
+    "artist": "Motty Ilowitz",
+    "track": "Gemeint",
+    "album": "Rayonos",
+    "video_id": "7CdN8yUNMWY",
+    "url": "https://www.youtube.com/watch?v=7CdN8yUNMWY"
+  },
+  "Motty Ilowitz|Simchas Chinom": {
+    "artist": "Motty Ilowitz",
+    "track": "Simchas Chinom",
+    "album": "Rayonos",
+    "video_id": "dzyIB_rNIZM",
+    "url": "https://www.youtube.com/watch?v=dzyIB_rNIZM"
+  },
+  "Motty Ilowitz|Shofar": {
+    "artist": "Motty Ilowitz",
+    "track": "Shofar",
+    "album": "Rayonos",
+    "video_id": "5VJikpMDEjY",
+    "url": "https://www.youtube.com/watch?v=5VJikpMDEjY"
+  },
+  "Abish Brodt|Ashrei Tivchar": {
+    "artist": "Abish Brodt",
+    "track": "Ashrei Tivchar",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "YJY9AdzUzYM",
+    "url": "https://www.youtube.com/watch?v=YJY9AdzUzYM"
+  },
+  "Abish Brodt|Hoshivu Li": {
+    "artist": "Abish Brodt",
+    "track": "Hoshivu Li",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "c8AkZd8ohjU",
+    "url": "https://www.youtube.com/watch?v=c8AkZd8ohjU"
+  },
+  "Abish Brodt|Lesapper Betziyon": {
+    "artist": "Abish Brodt",
+    "track": "Lesapper Betziyon",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "EuGM849vYjg",
+    "url": "https://www.youtube.com/watch?v=EuGM849vYjg"
+  },
+  "Abish Brodt|Shabbes Koidesh": {
+    "artist": "Abish Brodt",
+    "track": "Shabbes Koidesh",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "ozdWfx8eyyI",
+    "url": "https://www.youtube.com/watch?v=ozdWfx8eyyI"
+  },
+  "Abish Brodt|Lechu Banim": {
+    "artist": "Abish Brodt",
+    "track": "Lechu Banim",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "V0auoKFC7jM",
+    "url": "https://www.youtube.com/watch?v=V0auoKFC7jM"
+  },
+  "Abish Brodt|Vasitein Li": {
+    "artist": "Abish Brodt",
+    "track": "Vasitein Li",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "Uyc8cKfHv04",
+    "url": "https://www.youtube.com/watch?v=Uyc8cKfHv04"
+  },
+  "Abish Brodt|Niggun": {
+    "artist": "Abish Brodt",
+    "track": "Niggun",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "yWXr5McYd3M",
+    "url": "https://www.youtube.com/watch?v=yWXr5McYd3M"
+  },
+  "Abish Brodt|Hashem Uzi": {
+    "artist": "Abish Brodt",
+    "track": "Hashem Uzi",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "AEn6Ke5UWx0",
+    "url": "https://www.youtube.com/watch?v=AEn6Ke5UWx0"
+  },
+  "Abish Brodt|Yihyu Leratzon": {
+    "artist": "Abish Brodt",
+    "track": "Yihyu Leratzon",
+    "album": "Hashiva Li - Skulen",
+    "video_id": "VhFXwwLZdGI",
+    "url": "https://www.youtube.com/watch?v=VhFXwwLZdGI"
+  },
+  "Country Yossi|'Cause I'm a Jew": {
+    "artist": "Country Yossi",
+    "track": "'Cause I'm a Jew",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "Wro6XheRBi4",
+    "url": "https://www.youtube.com/watch?v=Wro6XheRBi4"
+  },
+  "Country Yossi|The Cholent Song": {
+    "artist": "Country Yossi",
+    "track": "The Cholent Song",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "SbjUp0xcSFM",
+    "url": "https://www.youtube.com/watch?v=SbjUp0xcSFM"
+  },
+  "Country Yossi|Rabbi Black": {
+    "artist": "Country Yossi",
+    "track": "Rabbi Black",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "nidHjiJ9MzY",
+    "url": "https://www.youtube.com/watch?v=nidHjiJ9MzY"
+  },
+  "Country Yossi|Speak to Hashem": {
+    "artist": "Country Yossi",
+    "track": "Speak to Hashem",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "YDwGsvWs0vA",
+    "url": "https://www.youtube.com/watch?v=YDwGsvWs0vA"
+  },
+  "Country Yossi|Then He Potched Me": {
+    "artist": "Country Yossi",
+    "track": "Then He Potched Me",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "9lB7HJ5SW4A",
+    "url": "https://www.youtube.com/watch?v=9lB7HJ5SW4A"
+  },
+  "Country Yossi|Little Kinderlach": {
+    "artist": "Country Yossi",
+    "track": "Little Kinderlach",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "VinfJSac5Js",
+    "url": "https://www.youtube.com/watch?v=VinfJSac5Js"
+  },
+  "Country Yossi|Big Bad Moish": {
+    "artist": "Country Yossi",
+    "track": "Big Bad Moish",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "mP806v2CFGA",
+    "url": "https://www.youtube.com/watch?v=mP806v2CFGA"
+  },
+  "Country Yossi|In the Year": {
+    "artist": "Country Yossi",
+    "track": "In the Year",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "HIy--pieleo",
+    "url": "https://www.youtube.com/watch?v=HIy--pieleo"
+  },
+  "Country Yossi|The Rabbi": {
+    "artist": "Country Yossi",
+    "track": "The Rabbi",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "W-hAM7nCGqU",
+    "url": "https://www.youtube.com/watch?v=W-hAM7nCGqU"
+  },
+  "Country Yossi|Peel One More Potato": {
+    "artist": "Country Yossi",
+    "track": "Peel One More Potato",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 1 Wanted",
+    "video_id": "lMxWewdZoi8",
+    "url": "https://www.youtube.com/watch?v=lMxWewdZoi8"
+  },
+  "Country Yossi|Modeh Ani": {
+    "artist": "Country Yossi",
+    "track": "Modeh Ani",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "dSgKOjL5Mn4",
+    "url": "https://www.youtube.com/watch?v=dSgKOjL5Mn4"
+  },
+  "Country Yossi|Flyin' Lukshin Kugel Eater": {
+    "artist": "Country Yossi",
+    "track": "Flyin' Lukshin Kugel Eater",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "CLSSIiJdSb0",
+    "url": "https://www.youtube.com/watch?v=CLSSIiJdSb0"
+  },
+  "Country Yossi|Nebich of the Shteeble": {
+    "artist": "Country Yossi",
+    "track": "Nebich of the Shteeble",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "F246YlqJPZc",
+    "url": "https://www.youtube.com/watch?v=F246YlqJPZc"
+  },
+  "Country Yossi|A Boy Named Zlateh": {
+    "artist": "Country Yossi",
+    "track": "A Boy Named Zlateh",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "2KFs9vXszzI",
+    "url": "https://www.youtube.com/watch?v=2KFs9vXszzI"
+  },
+  "Country Yossi|Moishe Shmeel": {
+    "artist": "Country Yossi",
+    "track": "Moishe Shmeel",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "ey-4cyYHmb0",
+    "url": "https://www.youtube.com/watch?v=ey-4cyYHmb0"
+  },
+  "Country Yossi|Oh My Yerushalayim": {
+    "artist": "Country Yossi",
+    "track": "Oh My Yerushalayim",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "8iJ8yxPpito",
+    "url": "https://www.youtube.com/watch?v=8iJ8yxPpito"
+  },
+  "Country Yossi|Shlomo": {
+    "artist": "Country Yossi",
+    "track": "Shlomo",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "eYSKHkm0WjY",
+    "url": "https://www.youtube.com/watch?v=eYSKHkm0WjY"
+  },
+  "Country Yossi|Ahvaira": {
+    "artist": "Country Yossi",
+    "track": "Ahvaira",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "dQxmcF-QeLs",
+    "url": "https://www.youtube.com/watch?v=dQxmcF-QeLs"
+  },
+  "Country Yossi|Make-Believe": {
+    "artist": "Country Yossi",
+    "track": "Make-Believe",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "IdMPLuH99uY",
+    "url": "https://www.youtube.com/watch?v=IdMPLuH99uY"
+  },
+  "Country Yossi|The Shteeble-Hop": {
+    "artist": "Country Yossi",
+    "track": "The Shteeble-Hop",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 2 Strike Again",
+    "video_id": "8ZV7cS9BHHs",
+    "url": "https://www.youtube.com/watch?v=8ZV7cS9BHHs"
+  },
+  "Country Yossi|Kurrybone": {
+    "artist": "Country Yossi",
+    "track": "Kurrybone",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "XBugvZTzIOc",
+    "url": "https://www.youtube.com/watch?v=XBugvZTzIOc"
+  },
+  "Country Yossi|Shabbos Wine": {
+    "artist": "Country Yossi",
+    "track": "Shabbos Wine",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "WeCXUA4nnsA",
+    "url": "https://www.youtube.com/watch?v=WeCXUA4nnsA"
+  },
+  "Country Yossi|One Daf A Day": {
+    "artist": "Country Yossi",
+    "track": "One Daf A Day",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "zcZy7aZpJAE",
+    "url": "https://www.youtube.com/watch?v=zcZy7aZpJAE"
+  },
+  "Country Yossi|Beep - Beep": {
+    "artist": "Country Yossi",
+    "track": "Beep - Beep",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "sa1wF9yvlbA",
+    "url": "https://www.youtube.com/watch?v=sa1wF9yvlbA"
+  },
+  "Country Yossi|Along Came Moish": {
+    "artist": "Country Yossi",
+    "track": "Along Came Moish",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "SsXbHZEDu4o",
+    "url": "https://www.youtube.com/watch?v=SsXbHZEDu4o"
+  },
+  "Country Yossi|Shteeble People": {
+    "artist": "Country Yossi",
+    "track": "Shteeble People",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "2eM2J947Hyw",
+    "url": "https://www.youtube.com/watch?v=2eM2J947Hyw"
+  },
+  "Country Yossi|Tick Tock (Al Tomar)": {
+    "artist": "Country Yossi",
+    "track": "Tick Tock (Al Tomar)",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "5RuqQRF-BDk",
+    "url": "https://www.youtube.com/watch?v=5RuqQRF-BDk"
+  },
+  "Country Yossi|Save Maftir For Me": {
+    "artist": "Country Yossi",
+    "track": "Save Maftir For Me",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "Pg0nRSHzcHE",
+    "url": "https://www.youtube.com/watch?v=Pg0nRSHzcHE"
+  },
+  "Country Yossi|Seven Little Kids": {
+    "artist": "Country Yossi",
+    "track": "Seven Little Kids",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "SPCZZ13h9d4",
+    "url": "https://www.youtube.com/watch?v=SPCZZ13h9d4"
+  },
+  "Country Yossi|The Interview": {
+    "artist": "Country Yossi",
+    "track": "The Interview",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 3 Still on The Loose",
+    "video_id": "AiHO3jaPoBw",
+    "url": "https://www.youtube.com/watch?v=AiHO3jaPoBw"
+  },
+  "Country Yossi|Sholom": {
+    "artist": "Country Yossi",
+    "track": "Sholom",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "QsS_xjMZEQc",
+    "url": "https://www.youtube.com/watch?v=QsS_xjMZEQc"
+  },
+  "Country Yossi|Deaf Man In The Shteeble": {
+    "artist": "Country Yossi",
+    "track": "Deaf Man In The Shteeble",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "LikRp_kGdi8",
+    "url": "https://www.youtube.com/watch?v=LikRp_kGdi8"
+  },
+  "Country Yossi|Runaround Jew": {
+    "artist": "Country Yossi",
+    "track": "Runaround Jew",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "gCqJ-yf8EdU",
+    "url": "https://www.youtube.com/watch?v=gCqJ-yf8EdU"
+  },
+  "Country Yossi|My Little Yingeleh": {
+    "artist": "Country Yossi",
+    "track": "My Little Yingeleh",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "FmwcjKCLH6Y",
+    "url": "https://www.youtube.com/watch?v=FmwcjKCLH6Y"
+  },
+  "Country Yossi|Hello Mameh Hello Tateh": {
+    "artist": "Country Yossi",
+    "track": "Hello Mameh Hello Tateh",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "y14-ZU471ls",
+    "url": "https://www.youtube.com/watch?v=y14-ZU471ls"
+  },
+  "Country Yossi|Cover of the Jewish Press": {
+    "artist": "Country Yossi",
+    "track": "Cover of the Jewish Press",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "ZvqC-CMly7Q",
+    "url": "https://www.youtube.com/watch?v=ZvqC-CMly7Q"
+  },
+  "Country Yossi|When Moshiach Comes": {
+    "artist": "Country Yossi",
+    "track": "When Moshiach Comes",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "Cg2jAkybKvw",
+    "url": "https://www.youtube.com/watch?v=Cg2jAkybKvw"
+  },
+  "Country Yossi|Phantom of the Shteeble": {
+    "artist": "Country Yossi",
+    "track": "Phantom of the Shteeble",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "32j3D_Oip5g",
+    "url": "https://www.youtube.com/watch?v=32j3D_Oip5g"
+  },
+  "Country Yossi|Blame it on the Bubba Basra": {
+    "artist": "Country Yossi",
+    "track": "Blame it on the Bubba Basra",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "cjxCBaErRFY",
+    "url": "https://www.youtube.com/watch?v=cjxCBaErRFY"
+  },
+  "Country Yossi|Chicken Soup": {
+    "artist": "Country Yossi",
+    "track": "Chicken Soup",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 4 Captured",
+    "video_id": "hg5m6h6ki6A",
+    "url": "https://www.youtube.com/watch?v=hg5m6h6ki6A"
+  },
+  "Country Yossi|I Will Follow Him": {
+    "artist": "Country Yossi",
+    "track": "I Will Follow Him",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 5 Break Out",
+    "video_id": "vwkD_NnqoUo",
+    "url": "https://www.youtube.com/watch?v=vwkD_NnqoUo"
+  },
+  "Country Yossi|The Tiny Old Shteeble": {
+    "artist": "Country Yossi",
+    "track": "The Tiny Old Shteeble",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 5 Break Out",
+    "video_id": "2RrodxWjgXQ",
+    "url": "https://www.youtube.com/watch?v=2RrodxWjgXQ"
+  },
+  "Country Yossi|The Ballad of Feteh Shmeel": {
+    "artist": "Country Yossi",
+    "track": "The Ballad of Feteh Shmeel",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 5 Break Out",
+    "video_id": "QK6HUl7R5G4",
+    "url": "https://www.youtube.com/watch?v=QK6HUl7R5G4"
+  },
+  "Country Yossi|Mitzvah Dance (Weddings Over)": {
+    "artist": "Country Yossi",
+    "track": "Mitzvah Dance (Weddings Over)",
+    "album": "Country Yossi and the Shteeble Hoppers Vol. 5 Break Out",
+    "video_id": "UTBtxbWFpaw",
+    "url": "https://www.youtube.com/watch?v=UTBtxbWFpaw"
   }
 }
