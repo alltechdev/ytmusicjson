@@ -90818,5 +90818,543 @@
     "url": "https://www.youtube.com/watch?v=Wrm74AJAFtE"
   },
   "Yossie Rose|Meharoh": null,
-  "Yossie Rose|Karasi": null
+  "Yossie Rose|Karasi": null,
+  "Yossie Rose|Winds of Change": {
+    "artist": "Yossie Rose",
+    "track": "Winds of Change",
+    "album": "Winds of Change",
+    "video_id": "iKEtQ_zz4GA",
+    "url": "https://www.youtube.com/watch?v=iKEtQ_zz4GA"
+  },
+  "Yossie Rose|Boe Bishalom": {
+    "artist": "Yossie Rose",
+    "track": "Boe Bishalom",
+    "album": "Winds of Change",
+    "video_id": "Y7sozkw-lYU",
+    "url": "https://www.youtube.com/watch?v=Y7sozkw-lYU"
+  },
+  "Yossie Rose|Veliyerusholayim": null,
+  "Yossie Rose|Zaide Sholem's Niggun (Yom Shabbos Koidesh)": null,
+  "Yossie Rose|Ani Maamin": {
+    "artist": "Yossie Rose",
+    "track": "Ani Maamin",
+    "album": "Winds of Change",
+    "video_id": "v1kKGNeQLX0",
+    "url": "https://www.youtube.com/watch?v=v1kKGNeQLX0"
+  },
+  "Avraham Rosenblum|Ki Lo Yitosh": {
+    "artist": "Avraham Rosenblum",
+    "track": "Ki Lo Yitosh",
+    "album": "V'hoshienu",
+    "video_id": "bL0ShiGns9Y",
+    "url": "https://www.youtube.com/watch?v=bL0ShiGns9Y"
+  },
+  "Avraham Rosenblum|Va'ani S'filosi": null,
+  "Avraham Rosenblum|Ma Nisaper": null,
+  "Avraham Rosenblum|Me'nesharim Kalu": null,
+  "Avraham Rosenblum|Mi Yemalel": {
+    "artist": "Avraham Rosenblum",
+    "track": "Mi Yemalel",
+    "album": "V'hoshienu",
+    "video_id": "i-VoL1D3hyE",
+    "url": "https://www.youtube.com/watch?v=i-VoL1D3hyE"
+  },
+  "Avraham Rosenblum|Yibaneh Hamikdosh": {
+    "artist": "Avraham Rosenblum",
+    "track": "Yibaneh Hamikdosh",
+    "album": "V'hoshienu",
+    "video_id": "2H0_-dTtyWU",
+    "url": "https://www.youtube.com/watch?v=2H0_-dTtyWU"
+  },
+  "Avraham Rosenblum|V'hoshienu": null,
+  "Avraham Rosenblum|Mi She'asa": {
+    "artist": "Avraham Rosenblum",
+    "track": "Mi She'asa",
+    "album": "V'hoshienu",
+    "video_id": "ek2f4z3tFRY",
+    "url": "https://www.youtube.com/watch?v=ek2f4z3tFRY"
+  },
+  "Avraham Rosenblum|Tashmieni": null,
+  "Avraham Rosenblum|V'af Al Pi": {
+    "artist": "Avraham Rosenblum",
+    "track": "V'af Al Pi",
+    "album": "V'hoshienu",
+    "video_id": "0K1MaPFLEsY",
+    "url": "https://www.youtube.com/watch?v=0K1MaPFLEsY"
+  },
+  "Diaspora Yeshiva Band|Pischu Li": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Pischu Li",
+    "album": "The Reunion",
+    "video_id": "U4nY39OxIxk",
+    "url": "https://www.youtube.com/watch?v=U4nY39OxIxk"
+  },
+  "Diaspora Yeshiva Band|Lulei Hamanti": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lulei Hamanti",
+    "album": "The Reunion",
+    "video_id": "9tmaym1OX0E",
+    "url": "https://www.youtube.com/watch?v=9tmaym1OX0E"
+  },
+  "Diaspora Yeshiva Band|Ivdu": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ivdu",
+    "album": "The Reunion",
+    "video_id": "PXAq14cgS18",
+    "url": "https://www.youtube.com/watch?v=PXAq14cgS18"
+  },
+  "Diaspora Yeshiva Band|Dreams Come True": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Dreams Come True",
+    "album": "The Reunion",
+    "video_id": "W2uqi-pwgw8",
+    "url": "https://www.youtube.com/watch?v=W2uqi-pwgw8"
+  },
+  "Diaspora Yeshiva Band|Hu Yiftach": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Hu Yiftach",
+    "album": "The Reunion",
+    "video_id": "LBW4pnQ5YDY",
+    "url": "https://www.youtube.com/watch?v=LBW4pnQ5YDY"
+  },
+  "Diaspora Yeshiva Band|Dovid Melech": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Dovid Melech",
+    "album": "The Reunion",
+    "video_id": "6x7c_fGKk7I",
+    "url": "https://www.youtube.com/watch?v=6x7c_fGKk7I"
+  },
+  "Diaspora Yeshiva Band|Hafachta": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Hafachta",
+    "album": "The Reunion",
+    "video_id": "GrZpbO7F_Kw",
+    "url": "https://www.youtube.com/watch?v=GrZpbO7F_Kw"
+  },
+  "Diaspora Yeshiva Band|Tzadik": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Tzadik",
+    "album": "The Reunion",
+    "video_id": "cA7CvWdfASM",
+    "url": "https://www.youtube.com/watch?v=cA7CvWdfASM"
+  },
+  "Diaspora Yeshiva Band|Kotel": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Kotel",
+    "album": "The Reunion",
+    "video_id": "uFUi7nmDHms",
+    "url": "https://www.youtube.com/watch?v=uFUi7nmDHms"
+  },
+  "Diaspora Yeshiva Band|Malchusecho": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Malchusecho",
+    "album": "The Reunion",
+    "video_id": "Wpn5ulaVH4Q",
+    "url": "https://www.youtube.com/watch?v=Wpn5ulaVH4Q"
+  },
+  "Diaspora Yeshiva Band|Lo Es Avoseinu Bilvad": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lo Es Avoseinu Bilvad",
+    "album": "The Last Diaspora",
+    "video_id": "TnY9tug-Blo",
+    "url": "https://www.youtube.com/watch?v=TnY9tug-Blo"
+  },
+  "Diaspora Yeshiva Band|Ozi V'zimras Koh": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ozi V'zimras Koh",
+    "album": "The Last Diaspora",
+    "video_id": "mxi2ACI2BJg",
+    "url": "https://www.youtube.com/watch?v=mxi2ACI2BJg"
+  },
+  "Diaspora Yeshiva Band|B'motsoei Yoim Menuchoh": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "B'motsoei Yoim Menuchoh",
+    "album": "The Last Diaspora",
+    "video_id": "MHULX_kAF3A",
+    "url": "https://www.youtube.com/watch?v=MHULX_kAF3A"
+  },
+  "Diaspora Yeshiva Band|Chadesh Sosoini": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Chadesh Sosoini",
+    "album": "The Last Diaspora",
+    "video_id": "kItMMMIwfqw",
+    "url": "https://www.youtube.com/watch?v=kItMMMIwfqw"
+  },
+  "Diaspora Yeshiva Band|Es Hashem Ham'voroch": null,
+  "Diaspora Yeshiva Band|Halelukoh": null,
+  "Diaspora Yeshiva Band|Lema'an Yirbu Yemeichem": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lema'an Yirbu Yemeichem",
+    "album": "The Last Diaspora",
+    "video_id": "Fp4UayRNVwY",
+    "url": "https://www.youtube.com/watch?v=Fp4UayRNVwY"
+  },
+  "Diaspora Yeshiva Band|U'vou Haovdim": null,
+  "Diaspora Yeshiva Band|Bo'ie Kallah": null,
+  "Diaspora Yeshiva Band|K'shoshanah": null,
+  "Diaspora Yeshiva Band|A Man Who Learns Torah": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "A Man Who Learns Torah",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "wb4hFQHLVQ0",
+    "url": "https://www.youtube.com/watch?v=wb4hFQHLVQ0"
+  },
+  "Diaspora Yeshiva Band|Lulei He'emanti": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lulei He'emanti",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "rOo92-rF3DE",
+    "url": "https://www.youtube.com/watch?v=rOo92-rF3DE"
+  },
+  "Diaspora Yeshiva Band|Esah Eynai": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Esah Eynai",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "UxNKyGmvHNw",
+    "url": "https://www.youtube.com/watch?v=UxNKyGmvHNw"
+  },
+  "Diaspora Yeshiva Band|The Kotel Song": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "The Kotel Song",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "o_zVY-RGQig",
+    "url": "https://www.youtube.com/watch?v=o_zVY-RGQig"
+  },
+  "Diaspora Yeshiva Band|Ain Anachnu Maspikim": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ain Anachnu Maspikim",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "j-GHRKgTihU",
+    "url": "https://www.youtube.com/watch?v=j-GHRKgTihU"
+  },
+  "Diaspora Yeshiva Band|Hafachta Mispedi": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Hafachta Mispedi",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "1DtVtSAiMLE",
+    "url": "https://www.youtube.com/watch?v=1DtVtSAiMLE"
+  },
+  "Diaspora Yeshiva Band|Har Zion Mountain": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Har Zion Mountain",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "5BwIDCdNtF0",
+    "url": "https://www.youtube.com/watch?v=5BwIDCdNtF0"
+  },
+  "Diaspora Yeshiva Band|Wedding Song": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Wedding Song",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "U4nY39OxIxk",
+    "url": "https://www.youtube.com/watch?v=U4nY39OxIxk"
+  },
+  "Diaspora Yeshiva Band|Ki Lo Na'eh": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ki Lo Na'eh",
+    "album": "The Diaspora Yeshiva Band",
+    "video_id": "867Clvr1LNE",
+    "url": "https://www.youtube.com/watch?v=867Clvr1LNE"
+  },
+  "Diaspora Yeshiva Band|Ata Ata": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ata Ata",
+    "album": "A Mitzva with Love",
+    "video_id": "Ec__UzLC0_A",
+    "url": "https://www.youtube.com/watch?v=Ec__UzLC0_A"
+  },
+  "Diaspora Yeshiva Band|Dudele": null,
+  "Diaspora Yeshiva Band|Ribono Shel Olam": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ribono Shel Olam",
+    "album": "A Mitzva with Love",
+    "video_id": "_EJzpv6Kxv8",
+    "url": "https://www.youtube.com/watch?v=_EJzpv6Kxv8"
+  },
+  "Diaspora Yeshiva Band|Yesh Elokim Bashamaim": null,
+  "Diaspora Yeshiva Band|Tov Lelamed Zchood": null,
+  "Diaspora Yeshiva Band|Veneinu Tirena": null,
+  "Diaspora Yeshiva Band|Mi Kiamcha": null,
+  "Diaspora Yeshiva Band|Meyerke Beni": null,
+  "Diaspora Yeshiva Band|Rabbi Levy Itzchak": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Rabbi Levy Itzchak",
+    "album": "A Mitzva with Love",
+    "video_id": "mUs7av4nJOs",
+    "url": "https://www.youtube.com/watch?v=mUs7av4nJOs"
+  },
+  "Diaspora Yeshiva Band|Ribono Shel Olom": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ribono Shel Olom",
+    "album": "A Mitzva with Love",
+    "video_id": "_EJzpv6Kxv8",
+    "url": "https://www.youtube.com/watch?v=_EJzpv6Kxv8"
+  },
+  "Diaspora Yeshiva Band|Min Hametsar": null,
+  "Diaspora Yeshiva Band|Rak Mitoch Ahava": null,
+  "Diaspora Yeshiva Band|Tzaddik Katomor Yifrach": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Tzaddik Katomor Yifrach",
+    "album": "The Diaspora Collection",
+    "video_id": "mUs7av4nJOs",
+    "url": "https://www.youtube.com/watch?v=mUs7av4nJOs"
+  },
+  "Diaspora Yeshiva Band|L'oro": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "L'oro",
+    "album": "The Diaspora Collection",
+    "video_id": "T04hW-h3Gh0",
+    "url": "https://www.youtube.com/watch?v=T04hW-h3Gh0"
+  },
+  "Diaspora Yeshiva Band|Asay L'ma'an Shemecha": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Asay L'ma'an Shemecha",
+    "album": "The Diaspora Collection",
+    "video_id": "J7Zh0OszAFo",
+    "url": "https://www.youtube.com/watch?v=J7Zh0OszAFo"
+  },
+  "Diaspora Yeshiva Band|Hakol Yoducha": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Hakol Yoducha",
+    "album": "The Diaspora Collection",
+    "video_id": "X_ZsLG2o7CE",
+    "url": "https://www.youtube.com/watch?v=X_ZsLG2o7CE"
+  },
+  "Diaspora Yeshiva Band|Lo B'chayil": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lo B'chayil",
+    "album": "The Diaspora Collection",
+    "video_id": "ummXGQ36MiA",
+    "url": "https://www.youtube.com/watch?v=ummXGQ36MiA"
+  },
+  "Diaspora Yeshiva Band|Yehi Rotzon": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Yehi Rotzon",
+    "album": "The Diaspora Collection",
+    "video_id": "fK-Bc2AWJXM",
+    "url": "https://www.youtube.com/watch?v=fK-Bc2AWJXM"
+  },
+  "Diaspora Yeshiva Band|Sim Shalom": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Sim Shalom",
+    "album": "The Diaspora Collection",
+    "video_id": "ytDssLeFOQc",
+    "url": "https://www.youtube.com/watch?v=ytDssLeFOQc"
+  },
+  "Diaspora Yeshiva Band|T'ka B'shofar Gadol": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "T'ka B'shofar Gadol",
+    "album": "The Diaspora Collection",
+    "video_id": "lmKwdzm3Y2E",
+    "url": "https://www.youtube.com/watch?v=lmKwdzm3Y2E"
+  },
+  "Diaspora Yeshiva Band|Lech Lecha": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lech Lecha",
+    "album": "The Diaspora Collection",
+    "video_id": "VvS1Hpguyo4",
+    "url": "https://www.youtube.com/watch?v=VvS1Hpguyo4"
+  },
+  "Diaspora Yeshiva Band|Shabbat Shalom": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Shabbat Shalom",
+    "album": "The Diaspora Collection",
+    "video_id": "E78hOxT5-o8",
+    "url": "https://www.youtube.com/watch?v=E78hOxT5-o8"
+  },
+  "Diaspora Yeshiva Band|The Gate Of Return": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "The Gate Of Return",
+    "album": "The Diaspora Collection",
+    "video_id": "C-8BJQd6sKQ",
+    "url": "https://www.youtube.com/watch?v=C-8BJQd6sKQ"
+  },
+  "Diaspora Yeshiva Band|Hu Yiftach Libeinu": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Hu Yiftach Libeinu",
+    "album": "The Diaspora Collection",
+    "video_id": "ApcuRSY9S6U",
+    "url": "https://www.youtube.com/watch?v=ApcuRSY9S6U"
+  },
+  "Diaspora Yeshiva Band|Ivdu Et Hashem B'simcha": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ivdu Et Hashem B'simcha",
+    "album": "The Diaspora Collection",
+    "video_id": "bbpSv4oyenM",
+    "url": "https://www.youtube.com/watch?v=bbpSv4oyenM"
+  },
+  "Diaspora Yeshiva Band|Achas Shoalti": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Achas Shoalti",
+    "album": "The Diaspora Collection",
+    "video_id": "D5fO8WJJu6o",
+    "url": "https://www.youtube.com/watch?v=D5fO8WJJu6o"
+  },
+  "Diaspora Yeshiva Band|Zion Mountain Is Real": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Zion Mountain Is Real",
+    "album": "The Diaspora Collection",
+    "video_id": "W4os9SQk6O4",
+    "url": "https://www.youtube.com/watch?v=W4os9SQk6O4"
+  },
+  "Diaspora Yeshiva Band|Ish Yehudi": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ish Yehudi",
+    "album": "The Diaspora Collection",
+    "video_id": "yJFqkLCgMJ0",
+    "url": "https://www.youtube.com/watch?v=yJFqkLCgMJ0"
+  },
+  "Diaspora Yeshiva Band|David Melech Yisroel": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "David Melech Yisroel",
+    "album": "The Diaspora Collection",
+    "video_id": "6x7c_fGKk7I",
+    "url": "https://www.youtube.com/watch?v=6x7c_fGKk7I"
+  },
+  "Diaspora Yeshiva Band|Esa Einai": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Esa Einai",
+    "album": "The Diaspora Collection",
+    "video_id": "UxNKyGmvHNw",
+    "url": "https://www.youtube.com/watch?v=UxNKyGmvHNw"
+  },
+  "Diaspora Yeshiva Band|The Kotel Song V1": null,
+  "Diaspora Yeshiva Band|Lulay He'emanti": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lulay He'emanti",
+    "album": "The Diaspora Collection",
+    "video_id": "9tmaym1OX0E",
+    "url": "https://www.youtube.com/watch?v=9tmaym1OX0E"
+  },
+  "Diaspora Yeshiva Band|Malchutcha": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Malchutcha",
+    "album": "The Diaspora Collection",
+    "video_id": "Y0dFwC4xlx8",
+    "url": "https://www.youtube.com/watch?v=Y0dFwC4xlx8"
+  },
+  "Diaspora Yeshiva Band|Sukat Shalom": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Sukat Shalom",
+    "album": "The Diaspora Collection",
+    "video_id": "XOy3agZ8fC4",
+    "url": "https://www.youtube.com/watch?v=XOy3agZ8fC4"
+  },
+  "Diaspora Yeshiva Band|The Kotel Song V2": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "The Kotel Song V2",
+    "album": "The Diaspora Collection",
+    "video_id": "i783wygdJL0",
+    "url": "https://www.youtube.com/watch?v=i783wygdJL0"
+  },
+  "Diaspora Yeshiva Band|Yismach Moshe": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Yismach Moshe",
+    "album": "The Diaspora Collection",
+    "video_id": "hnSZG3BmKvM",
+    "url": "https://www.youtube.com/watch?v=hnSZG3BmKvM"
+  },
+  "Diaspora Yeshiva Band|B'motsoei Yom Menucha": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "B'motsoei Yom Menucha",
+    "album": "The Diaspora Collection",
+    "video_id": "KMIUbWLvwgo",
+    "url": "https://www.youtube.com/watch?v=KMIUbWLvwgo"
+  },
+  "Diaspora Yeshiva Band|Chadesh Sosoni": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Chadesh Sosoni",
+    "album": "The Diaspora Collection",
+    "video_id": "kItMMMIwfqw",
+    "url": "https://www.youtube.com/watch?v=kItMMMIwfqw"
+  },
+  "Diaspora Yeshiva Band|Es Hashem Ham'vorach": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Es Hashem Ham'vorach",
+    "album": "The Diaspora Collection",
+    "video_id": "Ec__UzLC0_A",
+    "url": "https://www.youtube.com/watch?v=Ec__UzLC0_A"
+  },
+  "Diaspora Yeshiva Band|Haleluka": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Haleluka",
+    "album": "The Diaspora Collection",
+    "video_id": "bRYbYX7dMqU",
+    "url": "https://www.youtube.com/watch?v=bRYbYX7dMqU"
+  },
+  "Diaspora Yeshiva Band|L'ma'an Yirbu Yemeichem": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "L'ma'an Yirbu Yemeichem",
+    "album": "The Diaspora Collection",
+    "video_id": "Fp4UayRNVwY",
+    "url": "https://www.youtube.com/watch?v=Fp4UayRNVwY"
+  },
+  "Diaspora Yeshiva Band|U'vau Ha'ovdim": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "U'vau Ha'ovdim",
+    "album": "The Diaspora Collection",
+    "video_id": "p-AxaJ0A45M",
+    "url": "https://www.youtube.com/watch?v=p-AxaJ0A45M"
+  },
+  "Diaspora Yeshiva Band|Oy Isiz Gut": null,
+  "Diaspora Yeshiva Band|Asher Bara": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Asher Bara",
+    "album": "Melave Malke",
+    "video_id": "yUWPPQK_rVQ",
+    "url": "https://www.youtube.com/watch?v=yUWPPQK_rVQ"
+  },
+  "Diaspora Yeshiva Band|Ivdu Et Hashem": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Ivdu Et Hashem",
+    "album": "Melave Malke",
+    "video_id": "bbpSv4oyenM",
+    "url": "https://www.youtube.com/watch?v=bbpSv4oyenM"
+  },
+  "Diaspora Yeshiva Band|Avorcha": null,
+  "Diaspora Yeshiva Band|L'an Ata Holech": null,
+  "Diaspora Yeshiva Band|Eliya Hanavi": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Eliya Hanavi",
+    "album": "Melave Malke",
+    "video_id": "6ZuaBpuo9H0",
+    "url": "https://www.youtube.com/watch?v=6ZuaBpuo9H0"
+  },
+  "Diaspora Yeshiva Band|Hu Yiftach Libenu": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Hu Yiftach Libenu",
+    "album": "Live from King David's Tomb",
+    "video_id": "ApcuRSY9S6U",
+    "url": "https://www.youtube.com/watch?v=ApcuRSY9S6U"
+  },
+  "Diaspora Yeshiva Band|Achat Sh'alti": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Achat Sh'alti",
+    "album": "Live from King David's Tomb",
+    "video_id": "D5fO8WJJu6o",
+    "url": "https://www.youtube.com/watch?v=D5fO8WJJu6o"
+  },
+  "Diaspora Yeshiva Band|David Melech Yisrael": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "David Melech Yisrael",
+    "album": "Live from King David's Tomb",
+    "video_id": "2_sxIn88-SE",
+    "url": "https://www.youtube.com/watch?v=2_sxIn88-SE"
+  },
+  "Diaspora Yeshiva Band|Malchutcha Fanfare _ Hu Yiftach L": null,
+  "Diaspora Yeshiva Band|Lulei Hemanti": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "Lulei Hemanti",
+    "album": "Live at the Renaissance",
+    "video_id": "9tmaym1OX0E",
+    "url": "https://www.youtube.com/watch?v=9tmaym1OX0E"
+  },
+  "Diaspora Yeshiva Band|With a Little Help... _ Tzadik Ka": {
+    "artist": "Diaspora Yeshiva Band",
+    "track": "With a Little Help... _ Tzadik Ka",
+    "album": "Live at the Renaissance",
+    "video_id": "mUs7av4nJOs",
+    "url": "https://www.youtube.com/watch?v=mUs7av4nJOs"
+  },
+  "Diaspora Yeshiva Band|A Gut Voch": null,
+  "Diaspora Yeshiva Band|V'af Al Pi": null
 }
