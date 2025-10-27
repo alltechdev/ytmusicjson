@@ -101092,5 +101092,435 @@
   "MK Studios|VaToisef Esther - Purim Medley": null,
   "MK Studios|Timcheh - Purim Medley": null,
   "MK Studios|Chayov Inish - Purim Medley": null,
-  "MK Studios|Shoishanas Yaakov - Purim Medley": null
+  "MK Studios|Shoishanas Yaakov - Purim Medley": null,
+  "MK Studios|L'chayim Karahot - Chabad Medley": null,
+  "MK Studios|V'Yhee Bimai - Chabad Medley": null,
+  "MK Studios|Hevel Havulim - Chabad Medley": null,
+  "MK Studios|Nigun Chabad (Venahafoich) - Chabad Medley": null,
+  "MK Studios|Tzomo L'chu Nafshi - Chabad Medley": null,
+  "MK Studios|Rachamunu - Chabad Medley": null,
+  "MK Studios|Ashreinu - Chabad Medley": null,
+  "MK Studios|Anu Avdu - Chabad Medley": null,
+  "MK Studios|Riboinoi Shel Olam - L'chayim Medley": null,
+  "MK Studios|Riboinoi Shel Olom Helf - L'chayim Medley": null,
+  "MK Studios|V'Kureiv - L'chayim Medley": null,
+  "MK Studios|Yibuneh Hamikdosh - L'chayim Medley": null,
+  "MK Studios|V'Taher Libeini - L'chayim Medley": null,
+  "MK Studios|V'Harikoisi - L'chayim Medley": null,
+  "MK Studios|L'chayim Yerishulayim - L'chayim Medley": null,
+  "MK Studios|Dreidel": {
+    "artist": "MK Studios",
+    "track": "Dreidel",
+    "album": "A Lechtigen Chanukah 2",
+    "video_id": "JVX4nfeAXK4",
+    "url": "https://www.youtube.com/watch?v=JVX4nfeAXK4"
+  },
+  "MK Studios|Ballad": {
+    "artist": "MK Studios",
+    "track": "Ballad",
+    "album": "A Lechtigen Chanukah 2",
+    "video_id": "88yIAxfwHi8",
+    "url": "https://www.youtube.com/watch?v=88yIAxfwHi8"
+  },
+  "MK Studios|Haleli": null,
+  "MK Studios|Oires": null,
+  "MK Studios|Ir Kleina Lichtelalech": null,
+  "MK Studios|Lechtele": {
+    "artist": "MK Studios",
+    "track": "Lechtele",
+    "album": "A Lechtigen Chanukah 2",
+    "video_id": "93NU97WCWYE",
+    "url": "https://www.youtube.com/watch?v=93NU97WCWYE"
+  },
+  "MK Studios|Freilach": {
+    "artist": "MK Studios",
+    "track": "Freilach",
+    "album": "A Lechtigen Chanukah 2",
+    "video_id": "m7X3BJr4SbE",
+    "url": "https://www.youtube.com/watch?v=m7X3BJr4SbE"
+  },
+  "Matt Dubb|Baruch Hashem": {
+    "artist": "Matt Dubb",
+    "track": "Baruch Hashem",
+    "album": "Baruch Hashem",
+    "video_id": "-j-DoEGVRzo",
+    "url": "https://www.youtube.com/watch?v=-j-DoEGVRzo"
+  },
+  "Sparks Next|I Know": {
+    "artist": "Sparks Next",
+    "track": "I Know",
+    "album": "I Know",
+    "video_id": "xno6lesVMJc",
+    "url": "https://www.youtube.com/watch?v=xno6lesVMJc"
+  },
+  "Sparks Next|Ma Nishtana": {
+    "artist": "Sparks Next",
+    "track": "Ma Nishtana",
+    "album": "Ma Nishtana",
+    "video_id": "fn3FNA4Ar40",
+    "url": "https://www.youtube.com/watch?v=fn3FNA4Ar40"
+  },
+  "Sparks Next|Oh Jerusalem": {
+    "artist": "Sparks Next",
+    "track": "Oh Jerusalem",
+    "album": "Oh Jerusalem",
+    "video_id": "M7nCBp0JF1I",
+    "url": "https://www.youtube.com/watch?v=M7nCBp0JF1I"
+  },
+  "Sparks Next|We Are Rachels Children - Of the Cecelia Margules Project": {
+    "artist": "Sparks Next",
+    "track": "We Are Rachels Children - Of the Cecelia Margules Project",
+    "album": "We Are Rachels Children - Of the Cecelia Margules Project",
+    "video_id": "KIhcz-IE5eg",
+    "url": "https://www.youtube.com/watch?v=KIhcz-IE5eg"
+  },
+  "Sparks Next|Avi Benjamin - Ochi Chernye": {
+    "artist": "Sparks Next",
+    "track": "Avi Benjamin - Ochi Chernye",
+    "album": "Avi Benjamin - Ochi Chernye",
+    "video_id": "JGwX-pKmo1A",
+    "url": "https://www.youtube.com/watch?v=JGwX-pKmo1A"
+  },
+  "Sparks Next|Shine On feat. The Holocaust Survivor Band": {
+    "artist": "Sparks Next",
+    "track": "Shine On feat. The Holocaust Survivor Band",
+    "album": "Shine On feat. The Holocaust Survivor Band",
+    "video_id": "-9hY6SO6a1M",
+    "url": "https://www.youtube.com/watch?v=-9hY6SO6a1M"
+  },
+  "Sparks Next|Benny Elbaz - Benaya's Diary": {
+    "artist": "Sparks Next",
+    "track": "Benny Elbaz - Benaya's Diary",
+    "album": "Benny Elbaz - Benaya's Diary",
+    "video_id": "Le9lR_7d7Ok",
+    "url": "https://www.youtube.com/watch?v=Le9lR_7d7Ok"
+  },
+  "Sparks Next|Yedid Nefesh feat. Dovid Dachs": {
+    "artist": "Sparks Next",
+    "track": "Yedid Nefesh feat. Dovid Dachs",
+    "album": "Yedid Nefesh feat. Dovid Dachs",
+    "video_id": "MGqQG5TDNj0",
+    "url": "https://www.youtube.com/watch?v=MGqQG5TDNj0"
+  },
+  "Sparks Next|Cecelia Margules - Babi Yar": {
+    "artist": "Sparks Next",
+    "track": "Cecelia Margules - Babi Yar",
+    "album": "Cecelia Margules - Babi Yar",
+    "video_id": "D_dGcvZOqwA",
+    "url": "https://www.youtube.com/watch?v=D_dGcvZOqwA"
+  },
+  "Sparks Next|COLORS": {
+    "artist": "Sparks Next",
+    "track": "COLORS",
+    "album": "COLORS",
+    "video_id": "xno6lesVMJc",
+    "url": "https://www.youtube.com/watch?v=xno6lesVMJc"
+  },
+  "Sparks Next|MAMA": {
+    "artist": "Sparks Next",
+    "track": "MAMA",
+    "album": "MAMA",
+    "video_id": "xno6lesVMJc",
+    "url": "https://www.youtube.com/watch?v=xno6lesVMJc"
+  },
+  "Sparks Next|MIRA": {
+    "artist": "Sparks Next",
+    "track": "MIRA",
+    "album": "MIRA",
+    "video_id": "eHK8r1LEWV8",
+    "url": "https://www.youtube.com/watch?v=eHK8r1LEWV8"
+  },
+  "Sparks Next|Ken Burges - Silver Lining": {
+    "artist": "Sparks Next",
+    "track": "Ken Burges - Silver Lining",
+    "album": "Ken Burges - Silver Lining",
+    "video_id": "JZlH8zAOS9Q",
+    "url": "https://www.youtube.com/watch?v=JZlH8zAOS9Q"
+  },
+  "Sparks Next|Shain Vi Di Levone feat. The Holocaust Survivor Band": {
+    "artist": "Sparks Next",
+    "track": "Shain Vi Di Levone feat. The Holocaust Survivor Band",
+    "album": "Shain Vi Di Levone feat. The Holocaust Survivor Band",
+    "video_id": "k3MRgBfwsP0",
+    "url": "https://www.youtube.com/watch?v=k3MRgBfwsP0"
+  },
+  "Sparks Next|Believe In A Miracle": {
+    "artist": "Sparks Next",
+    "track": "Believe In A Miracle",
+    "album": "Believe In A Miracle",
+    "video_id": "j8z9f8jdat0",
+    "url": "https://www.youtube.com/watch?v=j8z9f8jdat0"
+  },
+  "Sparks Next|Lipa Schmeltzer - Belz (feat. The Holocaust Survivor Band)": {
+    "artist": "Sparks Next",
+    "track": "Lipa Schmeltzer - Belz (feat. The Holocaust Survivor Band)",
+    "album": "Belz (feat. The Holocaust Survivor Band)",
+    "video_id": "zkpbWado-so",
+    "url": "https://www.youtube.com/watch?v=zkpbWado-so"
+  },
+  "Sparks Next|Bar Mitzvah Time": {
+    "artist": "Sparks Next",
+    "track": "Bar Mitzvah Time",
+    "album": "Bar Mitzvah Time",
+    "video_id": "GLbGWQqSYJ4",
+    "url": "https://www.youtube.com/watch?v=GLbGWQqSYJ4"
+  },
+  "Sparks Next|Brooklyn": {
+    "artist": "Sparks Next",
+    "track": "Brooklyn",
+    "album": "Brooklyn",
+    "video_id": "3hLFls1pyss",
+    "url": "https://www.youtube.com/watch?v=3hLFls1pyss"
+  },
+  "Sparks Next|Rainbow in the Night": {
+    "artist": "Sparks Next",
+    "track": "Rainbow in the Night",
+    "album": "Rainbow in the Night",
+    "video_id": "zSlWy1ckoAk",
+    "url": "https://www.youtube.com/watch?v=zSlWy1ckoAk"
+  },
+  "Sparks Next|Shmor - Gad and Benny Elbaz": {
+    "artist": "Sparks Next",
+    "track": "Shmor - Gad and Benny Elbaz",
+    "album": "Shmor - Gad and Benny Elbaz",
+    "video_id": "KxnqgaJAvPE",
+    "url": "https://www.youtube.com/watch?v=KxnqgaJAvPE"
+  },
+  "Sparks Next|Yehuda Solomon, Cecelia Margules - Thinking About Tomorrow": {
+    "artist": "Sparks Next",
+    "track": "Yehuda Solomon, Cecelia Margules - Thinking About Tomorrow",
+    "album": "Yehuda Solomon, Cecelia Margules - Thinking About Tomorrow",
+    "video_id": "xYUOa6jDqX8",
+    "url": "https://www.youtube.com/watch?v=xYUOa6jDqX8"
+  },
+  "Sparks Next|IMPACT": {
+    "artist": "Sparks Next",
+    "track": "IMPACT",
+    "album": "IMPACT",
+    "video_id": "8CxIPD4MyEk",
+    "url": "https://www.youtube.com/watch?v=8CxIPD4MyEk"
+  },
+  "Eli Friedman|Ashrei Hamelech feat. eli Hertzlich": null,
+  "Eli Friedman|Ailu Devarim": null,
+  "Eli Friedman|Kayeim Es Hayeled feat. Yitzchok Meir": null,
+  "Eli Friedman|Margloh": null,
+  "Eli Friedman|Hayei Im Pefios": {
+    "artist": "Eli Friedman",
+    "track": "Hayei Im Pefios",
+    "album": "Ma Habrios Omeret Eilav",
+    "video_id": "20f-igw9GyA",
+    "url": "https://www.youtube.com/watch?v=20f-igw9GyA"
+  },
+  "Eli Friedman|Ki Yeminchoh": null,
+  "Eli Friedman|Hakshivah": {
+    "artist": "Eli Friedman",
+    "track": "Hakshivah",
+    "album": "Ma Habrios Omeret Eilav",
+    "video_id": "NibBSwdpWE4",
+    "url": "https://www.youtube.com/watch?v=NibBSwdpWE4"
+  },
+  "Eli Friedman|Ma Habriot - Dance": null,
+  "Eli Friedman|N'daber Goluois": null,
+  "Eli Friedman|Yo Ribon": {
+    "artist": "Eli Friedman",
+    "track": "Yo Ribon",
+    "album": "Ma Habrios Omeret Eilav",
+    "video_id": "zCaca9tU5rs",
+    "url": "https://www.youtube.com/watch?v=zCaca9tU5rs"
+  },
+  "Eli Friedman|Misratzeh B'rachamim": {
+    "artist": "Eli Friedman",
+    "track": "Misratzeh B'rachamim",
+    "album": "Ma Habrios Omeret Eilav",
+    "video_id": "l1L4EYH0rp8",
+    "url": "https://www.youtube.com/watch?v=l1L4EYH0rp8"
+  },
+  "Eli Friedman|Timcheh": {
+    "artist": "Eli Friedman",
+    "track": "Timcheh",
+    "album": "Ma Habrios Omeret Eilav",
+    "video_id": "kTGQoglFm6I",
+    "url": "https://www.youtube.com/watch?v=kTGQoglFm6I"
+  },
+  "Eli Friedman|Bonus - Kayeim Es Hayeled": null,
+  "Eli Friedman|El Beis Ovi": null,
+  "Eli Friedman|Osisi Lechaninoch": null,
+  "Eli Friedman|Ish Besorah": {
+    "artist": "Eli Friedman",
+    "track": "Ish Besorah",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "FSdiCeJ7GN8",
+    "url": "https://www.youtube.com/watch?v=FSdiCeJ7GN8"
+  },
+  "Eli Friedman|Mashkimim": {
+    "artist": "Eli Friedman",
+    "track": "Mashkimim",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "7vXPPqB0tvk",
+    "url": "https://www.youtube.com/watch?v=7vXPPqB0tvk"
+  },
+  "Eli Friedman|Eloikim": null,
+  "Eli Friedman|Markevois Paroh": {
+    "artist": "Eli Friedman",
+    "track": "Markevois Paroh",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "KB6JXIZImck",
+    "url": "https://www.youtube.com/watch?v=KB6JXIZImck"
+  },
+  "Eli Friedman|Minhag": {
+    "artist": "Eli Friedman",
+    "track": "Minhag",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "2it-UoLvvIE",
+    "url": "https://www.youtube.com/watch?v=2it-UoLvvIE"
+  },
+  "Eli Friedman|Koidesh Kodoshim": {
+    "artist": "Eli Friedman",
+    "track": "Koidesh Kodoshim",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "fayCRZujHkg",
+    "url": "https://www.youtube.com/watch?v=fayCRZujHkg"
+  },
+  "Eli Friedman|Achas V'achas": null,
+  "Eli Friedman|Rechovot Ha’Nehar": null,
+  "Eli Friedman|Boruch Kel Elyoin": {
+    "artist": "Eli Friedman",
+    "track": "Boruch Kel Elyoin",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "QlRfqt8XXgY",
+    "url": "https://www.youtube.com/watch?v=QlRfqt8XXgY"
+  },
+  "Eli Friedman|Shema Yisroel": {
+    "artist": "Eli Friedman",
+    "track": "Shema Yisroel",
+    "album": "Rechovot Ha’Nehar",
+    "video_id": "4bR3qY7NIbo",
+    "url": "https://www.youtube.com/watch?v=4bR3qY7NIbo"
+  },
+  "Eli Friedman|Lo Mitnatkim": null,
+  "Eli Friedman|Bacho Tivkeh": null,
+  "Eli Friedman|Rak Oscha Elokim": null,
+  "Eli Friedman|Ben Porat Yosef": {
+    "artist": "Eli Friedman",
+    "track": "Ben Porat Yosef",
+    "album": "Al Hastender",
+    "video_id": "rRkDK00oMxQ",
+    "url": "https://www.youtube.com/watch?v=rRkDK00oMxQ"
+  },
+  "Eli Friedman|Keil Adon": {
+    "artist": "Eli Friedman",
+    "track": "Keil Adon",
+    "album": "Al Hastender",
+    "video_id": "w2NB2fWeMu0",
+    "url": "https://www.youtube.com/watch?v=w2NB2fWeMu0"
+  },
+  "Eli Friedman|Yevakeish Rachamim": null,
+  "Eli Friedman|Kein Bakodesh": {
+    "artist": "Eli Friedman",
+    "track": "Kein Bakodesh",
+    "album": "Al Hastender",
+    "video_id": "BPqOcjIAkvM",
+    "url": "https://www.youtube.com/watch?v=BPqOcjIAkvM"
+  },
+  "Eli Friedman|Al Hastender": null,
+  "Eli Friedman|Vayechilu": null,
+  "Eli Friedman|Nigun Katan": {
+    "artist": "Eli Friedman",
+    "track": "Nigun Katan",
+    "album": "Al Hastender",
+    "video_id": "UhUso0d3ab4",
+    "url": "https://www.youtube.com/watch?v=UhUso0d3ab4"
+  },
+  "Eli Friedman|Es Sheim Hokeil": null,
+  "Eli Friedman|Ozer Dalim": {
+    "artist": "Eli Friedman",
+    "track": "Ozer Dalim",
+    "album": "Hasameach Bechelko",
+    "video_id": "X5W4rytDp8k",
+    "url": "https://www.youtube.com/watch?v=X5W4rytDp8k"
+  },
+  "Eli Friedman|Nachem": {
+    "artist": "Eli Friedman",
+    "track": "Nachem",
+    "album": "Hasameach Bechelko",
+    "video_id": "Bk_IisXx2YU",
+    "url": "https://www.youtube.com/watch?v=Bk_IisXx2YU"
+  },
+  "Eli Friedman|Adon Olam": {
+    "artist": "Eli Friedman",
+    "track": "Adon Olam",
+    "album": "Hasameach Bechelko",
+    "video_id": "PKNAXyaWX_k",
+    "url": "https://www.youtube.com/watch?v=PKNAXyaWX_k"
+  },
+  "Eli Friedman|Ata Hashem": {
+    "artist": "Eli Friedman",
+    "track": "Ata Hashem",
+    "album": "Hasameach Bechelko",
+    "video_id": "RU4sX5A3G2M",
+    "url": "https://www.youtube.com/watch?v=RU4sX5A3G2M"
+  },
+  "Eli Friedman|Ufduyai Hashem": null,
+  "Eli Friedman|Ohavai Vereai": null,
+  "Eli Friedman|Invei Hagefen": {
+    "artist": "Eli Friedman",
+    "track": "Invei Hagefen",
+    "album": "Hasameach Bechelko",
+    "video_id": "zgHweKw8JJ4",
+    "url": "https://www.youtube.com/watch?v=zgHweKw8JJ4"
+  },
+  "Eli Friedman|Yekumun": null,
+  "Eli Friedman|Lama": {
+    "artist": "Eli Friedman",
+    "track": "Lama",
+    "album": "Hasameach Bechelko",
+    "video_id": "iUSSHjDYLww",
+    "url": "https://www.youtube.com/watch?v=iUSSHjDYLww"
+  },
+  "Eli Friedman|Hasameach Bechelko": null,
+  "Eli Friedman|Shomea": {
+    "artist": "Eli Friedman",
+    "track": "Shomea",
+    "album": "Shomea El Evyonim",
+    "video_id": "pteinPHs3Pg",
+    "url": "https://www.youtube.com/watch?v=pteinPHs3Pg"
+  },
+  "Eli Friedman|Ashrei": {
+    "artist": "Eli Friedman",
+    "track": "Ashrei",
+    "album": "Shomea El Evyonim",
+    "video_id": "Kc33JWug6Sw",
+    "url": "https://www.youtube.com/watch?v=Kc33JWug6Sw"
+  },
+  "Eli Friedman|Mechalkel Chaim": {
+    "artist": "Eli Friedman",
+    "track": "Mechalkel Chaim",
+    "album": "Shomea El Evyonim",
+    "video_id": "LkMbDKtmWzg",
+    "url": "https://www.youtube.com/watch?v=LkMbDKtmWzg"
+  },
+  "Eli Friedman|Boruch Kevod": null,
+  "Eli Friedman|Ura": {
+    "artist": "Eli Friedman",
+    "track": "Ura",
+    "album": "Shomea El Evyonim",
+    "video_id": "cV8NfcQOu_8",
+    "url": "https://www.youtube.com/watch?v=cV8NfcQOu_8"
+  },
+  "Eli Friedman|Echod Hamarbeh": null,
+  "Eli Friedman|Ki Hamalchus": {
+    "artist": "Eli Friedman",
+    "track": "Ki Hamalchus",
+    "album": "Shomea El Evyonim",
+    "video_id": "w4wr0IgLJYU",
+    "url": "https://www.youtube.com/watch?v=w4wr0IgLJYU"
+  },
+  "Eli Friedman|Shira Chadasha": {
+    "artist": "Eli Friedman",
+    "track": "Shira Chadasha",
+    "album": "Shomea El Evyonim",
+    "video_id": "UZ3MZMwl0B8",
+    "url": "https://www.youtube.com/watch?v=UZ3MZMwl0B8"
+  },
+  "Eli Friedman|Lachen Chiku Li": null
 }
