@@ -66,3 +66,10 @@ jobs:
         if: steps.check.outputs.continue == 'true'
         run: |
           python scripts/fetch_youtube_links.py
+
+      - name: Trigger next run
+        if: steps.check.outputs.continue == 'true'
+        run: |
+          gh workflow run generate-youtube-links.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
