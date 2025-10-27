@@ -26,18 +26,42 @@ def validate_match(artist: str, track_name: str, video_title: str) -> bool:
     artist_lower = artist.lower()
     track_lower = track_name.lower()
 
-    # Check if both artist and track name appear in video title
-    # Allow some flexibility for variations
-    artist_words = artist_lower.split()
-    track_words = track_lower.split()
+    # Clean up common patterns
+    track_lower = track_lower.replace('feat.', '').replace('ft.', '')
+    video_title_lower = video_title_lower.replace('official', '').replace('video', '').replace('audio', '')
 
-    # At least some artist words should be in title
-    artist_match = any(word in video_title_lower for word in artist_words if len(word) > 2)
+    # Extract meaningful words (more than 2 chars, not common words)
+    common_words = {'the', 'and', 'feat', 'with', 'from', 'intro', 'outro'}
+    artist_words = [w for w in artist_lower.split() if len(w) > 2 and w not in common_words]
+    track_words = [w for w in track_lower.split() if len(w) > 2 and w not in common_words]
 
-    # At least some track words should be in title
-    track_match = any(word in video_title_lower for word in track_words if len(word) > 2)
+    # Check artist match - at least one significant word from artist name
+    artist_match = False
+    if artist_words:
+        # For multi-word artists, check if last name appears (often most distinctive)
+        if len(artist_words) > 1:
+            artist_match = artist_words[-1] in video_title_lower
+        # Or any significant artist word
+        if not artist_match:
+            artist_match = any(word in video_title_lower for word in artist_words)
+    else:
+        # If no significant words, just check the full artist name
+        artist_match = artist_lower in video_title_lower
 
-    return artist_match and track_match
+    # Check track match - at least one significant word from track name
+    track_match = False
+    if track_words:
+        # Check if any significant track words appear
+        track_match = any(word in video_title_lower for word in track_words)
+    else:
+        # If no significant words, check the full track name
+        track_match = track_lower in video_title_lower
+
+    # More lenient: match if we have artist OR strong track match
+    # Strong track match = multiple words or full phrase
+    strong_track_match = len([w for w in track_words if w in video_title_lower]) >= 2 or track_lower in video_title_lower
+
+    return (artist_match and track_match) or strong_track_match
 
 
 def search_youtube(artist: str, track_name: str) -> Optional[str]:
