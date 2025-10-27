@@ -105326,5 +105326,663 @@
     "album": "Kinderlach 4: SABABA",
     "video_id": "uBRU1ZKp74U",
     "url": "https://www.youtube.com/watch?v=uBRU1ZKp74U"
-  }
+  },
+  "Kinderlach|Hayom Ani Gadol": {
+    "artist": "Kinderlach",
+    "track": "Hayom Ani Gadol",
+    "album": "Kinderlach 4: SABABA",
+    "video_id": "5pq5UULZAyg",
+    "url": "https://www.youtube.com/watch?v=5pq5UULZAyg"
+  },
+  "Kinderlach|Shir LeYerushalaim": {
+    "artist": "Kinderlach",
+    "track": "Shir LeYerushalaim",
+    "album": "Kinderlach 4: SABABA",
+    "video_id": "9pfoHafkMtU",
+    "url": "https://www.youtube.com/watch?v=9pfoHafkMtU"
+  },
+  "Kinderlach|Carlebach Medley": {
+    "artist": "Kinderlach",
+    "track": "Carlebach Medley",
+    "album": "Kinderlach 4: SABABA",
+    "video_id": "S7_kebyNDa8",
+    "url": "https://www.youtube.com/watch?v=S7_kebyNDa8"
+  },
+  "Kinderlach|Od Yishama": {
+    "artist": "Kinderlach",
+    "track": "Od Yishama",
+    "album": "Kinderlach 4: SABABA",
+    "video_id": "RGyilcjh4kY",
+    "url": "https://www.youtube.com/watch?v=RGyilcjh4kY"
+  },
+  "Kinderlach|Layla Tov Yeled": {
+    "artist": "Kinderlach",
+    "track": "Layla Tov Yeled",
+    "album": "Kinderlach 4: SABABA",
+    "video_id": "KkC-aLx7cAw",
+    "url": "https://www.youtube.com/watch?v=KkC-aLx7cAw"
+  },
+  "Kobi Brummer|Kol Dodi - קול דודי": {
+    "artist": "Kobi Brummer",
+    "track": "Kol Dodi - קול דודי",
+    "album": "Kol Dodi - קול דודי",
+    "video_id": "iyY0kgyK8rg",
+    "url": "https://www.youtube.com/watch?v=iyY0kgyK8rg"
+  },
+  "Kobi Brummer|Osek BaTorah - עוסק בתורה": {
+    "artist": "Kobi Brummer",
+    "track": "Osek BaTorah - עוסק בתורה",
+    "album": "Osek BaTorah - עוסק בתורה",
+    "video_id": "2TLAmrTWOVQ",
+    "url": "https://www.youtube.com/watch?v=2TLAmrTWOVQ"
+  },
+  "Kobi Brummer|Netiot - נטיעות": {
+    "artist": "Kobi Brummer",
+    "track": "Netiot - נטיעות",
+    "album": "Netiot - נטיעות",
+    "video_id": "JwPfKj9jz98",
+    "url": "https://www.youtube.com/watch?v=JwPfKj9jz98"
+  },
+  "Kobi Brummer|Manginat Halev - מנגינת הלב": {
+    "artist": "Kobi Brummer",
+    "track": "Manginat Halev - מנגינת הלב",
+    "album": "Manginat Halev - מנגינת הלב",
+    "video_id": "E_hNM7wbRJ8",
+    "url": "https://www.youtube.com/watch?v=E_hNM7wbRJ8"
+  },
+  "Kobi Brummer|Devai Hoser - דווי הסר": null,
+  "Kobi Brummer|Tantz Im Salsulim - טאנץ עם סלסולים": {
+    "artist": "Kobi Brummer",
+    "track": "Tantz Im Salsulim - טאנץ עם סלסולים",
+    "album": "Tantz Im Salsulim - טאנץ עם סלסולים",
+    "video_id": "32HiTpekg_k",
+    "url": "https://www.youtube.com/watch?v=32HiTpekg_k"
+  },
+  "Kobi Brummer|Yalla Lirkod - יאללה לרקוד": {
+    "artist": "Kobi Brummer",
+    "track": "Yalla Lirkod - יאללה לרקוד",
+    "album": "Yalla Lirkod - יאללה לרקוד",
+    "video_id": "ZqVU7tA2qq4",
+    "url": "https://www.youtube.com/watch?v=ZqVU7tA2qq4"
+  },
+  "Kobi Brummer|Am Hanetzach - עם הנצח": {
+    "artist": "Kobi Brummer",
+    "track": "Am Hanetzach - עם הנצח",
+    "album": "Am Hanetzach - עם הנצח",
+    "video_id": "b-ZG5KBWTHE",
+    "url": "https://www.youtube.com/watch?v=b-ZG5KBWTHE"
+  },
+  "Kobi Brummer|Tzoeik Eilecha - צועק אליך": {
+    "artist": "Kobi Brummer",
+    "track": "Tzoeik Eilecha - צועק אליך",
+    "album": "Tzoeik Eilecha - צועק אליך",
+    "video_id": "k5jCXHJqKdU",
+    "url": "https://www.youtube.com/watch?v=k5jCXHJqKdU"
+  },
+  "יהונתן בן עזרא - Yehonatan Ben-ezra|Ben Shel Melech - בן של מלך": {
+    "artist": "יהונתן בן עזרא - Yehonatan Ben-ezra",
+    "track": "Ben Shel Melech - בן של מלך",
+    "album": "Ben Shel Melech - בן של מלך",
+    "video_id": "dA3g0jx8T2k",
+    "url": "https://www.youtube.com/watch?v=dA3g0jx8T2k"
+  },
+  "יהונתן בן עזרא - Yehonatan Ben-ezra|Kulam Beyachad - כולם ביחד": {
+    "artist": "יהונתן בן עזרא - Yehonatan Ben-ezra",
+    "track": "Kulam Beyachad - כולם ביחד",
+    "album": "Kulam Beyachad - כולם ביחד",
+    "video_id": "NxCwI80hti4",
+    "url": "https://www.youtube.com/watch?v=NxCwI80hti4"
+  },
+  "Hillel Kapnick|Chasal": {
+    "artist": "Hillel Kapnick",
+    "track": "Chasal",
+    "album": "Chasal",
+    "video_id": "rBpo8QrpO3E",
+    "url": "https://www.youtube.com/watch?v=rBpo8QrpO3E"
+  },
+  "Hillel Kapnick|Eliyahu Hanavi (Acapella)": {
+    "artist": "Hillel Kapnick",
+    "track": "Eliyahu Hanavi (Acapella)",
+    "album": "Eliyahu Hanavi (Acapella)",
+    "video_id": "w__crXgsPuU",
+    "url": "https://www.youtube.com/watch?v=w__crXgsPuU"
+  },
+  "Hillel Kapnick|Hadran": {
+    "artist": "Hillel Kapnick",
+    "track": "Hadran",
+    "album": "Hadran",
+    "video_id": "h7d3dnR2eio",
+    "url": "https://www.youtube.com/watch?v=h7d3dnR2eio"
+  },
+  "Hillel Kapnick|Hamakom": {
+    "artist": "Hillel Kapnick",
+    "track": "Hamakom",
+    "album": "Hamakom",
+    "video_id": "BIE7utQ3AL0",
+    "url": "https://www.youtube.com/watch?v=BIE7utQ3AL0"
+  },
+  "Hillel Kapnick|Layehudim": {
+    "artist": "Hillel Kapnick",
+    "track": "Layehudim",
+    "album": "Layehudim",
+    "video_id": "e6o9KvBpKzA",
+    "url": "https://www.youtube.com/watch?v=e6o9KvBpKzA"
+  },
+  "Hillel Kapnick|Shoshannas Yaakov feat. Baruch Naftel": {
+    "artist": "Hillel Kapnick",
+    "track": "Shoshannas Yaakov feat. Baruch Naftel",
+    "album": "Shoshannas Yaakov feat. Baruch Naftel",
+    "video_id": "Buqk4t7xhZ4",
+    "url": "https://www.youtube.com/watch?v=Buqk4t7xhZ4"
+  },
+  "Hillel Kapnick|The Light of Eight Nights feat. Hudi Kowalsky": {
+    "artist": "Hillel Kapnick",
+    "track": "The Light of Eight Nights feat. Hudi Kowalsky",
+    "album": "The Light of Eight Nights feat. Hudi Kowalsky",
+    "video_id": "2opKRfSA6O4",
+    "url": "https://www.youtube.com/watch?v=2opKRfSA6O4"
+  },
+  "Hillel Kapnick|You Made My Life": {
+    "artist": "Hillel Kapnick",
+    "track": "You Made My Life",
+    "album": "You Made My Life",
+    "video_id": "96lZkGRsi4g",
+    "url": "https://www.youtube.com/watch?v=96lZkGRsi4g"
+  },
+  "Hillel Kapnick|Uteshuva": {
+    "artist": "Hillel Kapnick",
+    "track": "Uteshuva",
+    "album": "The Elul EP",
+    "video_id": "maaumNbBGDE",
+    "url": "https://www.youtube.com/watch?v=maaumNbBGDE"
+  },
+  "Hillel Kapnick|Ani Ledodi": {
+    "artist": "Hillel Kapnick",
+    "track": "Ani Ledodi",
+    "album": "The Elul EP",
+    "video_id": "hyvaq67spjs",
+    "url": "https://www.youtube.com/watch?v=hyvaq67spjs"
+  },
+  "Hillel Kapnick|Hakol Yoducha": {
+    "artist": "Hillel Kapnick",
+    "track": "Hakol Yoducha",
+    "album": "The Elul EP",
+    "video_id": "45JWhGKkN8M",
+    "url": "https://www.youtube.com/watch?v=45JWhGKkN8M"
+  },
+  "Hillel Kapnick|Achas Shoalti (feat. Baruch Naftel)": {
+    "artist": "Hillel Kapnick",
+    "track": "Achas Shoalti (feat. Baruch Naftel)",
+    "album": "The Elul EP",
+    "video_id": "Buqk4t7xhZ4",
+    "url": "https://www.youtube.com/watch?v=Buqk4t7xhZ4"
+  },
+  "Hillel Kapnick|Dagul Mervava": {
+    "artist": "Hillel Kapnick",
+    "track": "Dagul Mervava",
+    "album": "The Elul EP",
+    "video_id": "LNYUSceu_tM",
+    "url": "https://www.youtube.com/watch?v=LNYUSceu_tM"
+  },
+  "Yiddish Nachas|Simcha and Nachas Ft. MBD, Levy Falkowitz, Motty Ilowitz, Yossi Green, Yiddish Nachas. MK Production": {
+    "artist": "Yiddish Nachas",
+    "track": "Simcha and Nachas Ft. MBD, Levy Falkowitz, Motty Ilowitz, Yossi Green, Yiddish Nachas. MK Production",
+    "album": "Simcha and Nachas Ft. MBD, Levy Falkowitz, Motty Ilowitz, Yossi Green, Yiddish Nachas. MK Production",
+    "video_id": "G2P040mxcm0",
+    "url": "https://www.youtube.com/watch?v=G2P040mxcm0"
+  },
+  "Yiddish Nachas|L'Chaim & Nachas": {
+    "artist": "Yiddish Nachas",
+    "track": "L'Chaim & Nachas",
+    "album": "L'Chaim & Nachas",
+    "video_id": "YJ340fPe8Jw",
+    "url": "https://www.youtube.com/watch?v=YJ340fPe8Jw"
+  },
+  "Yiddish Nachas|Tatty": {
+    "artist": "Yiddish Nachas",
+    "track": "Tatty",
+    "album": "Tatty",
+    "video_id": "XLQNeR72Eto",
+    "url": "https://www.youtube.com/watch?v=XLQNeR72Eto"
+  },
+  "Yiddish Nachas|Intro": {
+    "artist": "Yiddish Nachas",
+    "track": "Intro",
+    "album": "Tishrei Nachas",
+    "video_id": "iNkRKscf1lM",
+    "url": "https://www.youtube.com/watch?v=iNkRKscf1lM"
+  },
+  "Yiddish Nachas|Oichilu": {
+    "artist": "Yiddish Nachas",
+    "track": "Oichilu",
+    "album": "Tishrei Nachas",
+    "video_id": "MZkOGUTr5Vc",
+    "url": "https://www.youtube.com/watch?v=MZkOGUTr5Vc"
+  },
+  "Yiddish Nachas|Ulei Yuchos": null,
+  "Yiddish Nachas|V'al Kulam": {
+    "artist": "Yiddish Nachas",
+    "track": "V'al Kulam",
+    "album": "Tishrei Nachas",
+    "video_id": "zKKF_W36nNU",
+    "url": "https://www.youtube.com/watch?v=zKKF_W36nNU"
+  },
+  "Yiddish Nachas|Zuchreinu": null,
+  "Yiddish Nachas|Emes": {
+    "artist": "Yiddish Nachas",
+    "track": "Emes",
+    "album": "Tishrei Nachas",
+    "video_id": "KGQOF-5oJkE",
+    "url": "https://www.youtube.com/watch?v=KGQOF-5oJkE"
+  },
+  "Yiddish Nachas|V'Chol Maminim": {
+    "artist": "Yiddish Nachas",
+    "track": "V'Chol Maminim",
+    "album": "Tishrei Nachas",
+    "video_id": "NBR6GlNN1B0",
+    "url": "https://www.youtube.com/watch?v=NBR6GlNN1B0"
+  },
+  "Hillel Kapnick|Im Eshkachech (Acapella)": {
+    "artist": "Hillel Kapnick",
+    "track": "Im Eshkachech (Acapella)",
+    "album": "Im Eshkachech (Acapella)",
+    "video_id": "66rpXz58pQ0",
+    "url": "https://www.youtube.com/watch?v=66rpXz58pQ0"
+  },
+  "Hillel Kapnick|Yisgaber K'ari": {
+    "artist": "Hillel Kapnick",
+    "track": "Yisgaber K'ari",
+    "album": "Yisgaber K'ari",
+    "video_id": "Si1T8S1jsi4",
+    "url": "https://www.youtube.com/watch?v=Si1T8S1jsi4"
+  },
+  "Hillel Kapnick|Yisroel B'tach Bashem": {
+    "artist": "Hillel Kapnick",
+    "track": "Yisroel B'tach Bashem",
+    "album": "Yisroel B'tach Bashem",
+    "video_id": "t7nagHIG2CM",
+    "url": "https://www.youtube.com/watch?v=t7nagHIG2CM"
+  },
+  "Gad Elbaz|When I Fall": {
+    "artist": "Gad Elbaz",
+    "track": "When I Fall",
+    "album": "L'chaim",
+    "video_id": "6KAVFBVTTyk",
+    "url": "https://www.youtube.com/watch?v=6KAVFBVTTyk"
+  },
+  "Gad Elbaz|My Child": {
+    "artist": "Gad Elbaz",
+    "track": "My Child",
+    "album": "L'chaim",
+    "video_id": "ax6SWSwRdBU",
+    "url": "https://www.youtube.com/watch?v=ax6SWSwRdBU"
+  },
+  "Gad Elbaz|Hashem Melech #2.0 Featuring Niss": {
+    "artist": "Gad Elbaz",
+    "track": "Hashem Melech #2.0 Featuring Niss",
+    "album": "L'chaim",
+    "video_id": "w-Y_5brDUSM",
+    "url": "https://www.youtube.com/watch?v=w-Y_5brDUSM"
+  },
+  "Gad Elbaz|Como Vivir": {
+    "artist": "Gad Elbaz",
+    "track": "Como Vivir",
+    "album": "L'chaim",
+    "video_id": "2aOD7VI0Ra4",
+    "url": "https://www.youtube.com/watch?v=2aOD7VI0Ra4"
+  },
+  "Gad Elbaz|Give Ya Me Thanks Featuring Roy E": {
+    "artist": "Gad Elbaz",
+    "track": "Give Ya Me Thanks Featuring Roy E",
+    "album": "L'chaim",
+    "video_id": "vgHfGe2tIok",
+    "url": "https://www.youtube.com/watch?v=vgHfGe2tIok"
+  },
+  "Gad Elbaz|Save Me From My Selfie": {
+    "artist": "Gad Elbaz",
+    "track": "Save Me From My Selfie",
+    "album": "L'chaim",
+    "video_id": "SSi3wGjdr4Q",
+    "url": "https://www.youtube.com/watch?v=SSi3wGjdr4Q"
+  },
+  "Gad Elbaz|L'chaim Featuring Nissim Black": {
+    "artist": "Gad Elbaz",
+    "track": "L'chaim Featuring Nissim Black",
+    "album": "L'chaim",
+    "video_id": "BCh-yxlcEY8",
+    "url": "https://www.youtube.com/watch?v=BCh-yxlcEY8"
+  },
+  "Gad Elbaz|If Only": {
+    "artist": "Gad Elbaz",
+    "track": "If Only",
+    "album": "L'chaim",
+    "video_id": "dk1qKTKOLvA",
+    "url": "https://www.youtube.com/watch?v=dk1qKTKOLvA"
+  },
+  "Gad Elbaz|Till The Day I Die": {
+    "artist": "Gad Elbaz",
+    "track": "Till The Day I Die",
+    "album": "L'chaim",
+    "video_id": "ACgHtWwll1Y",
+    "url": "https://www.youtube.com/watch?v=ACgHtWwll1Y"
+  },
+  "Gad Elbaz|True Love Featuring Alon De Loco": {
+    "artist": "Gad Elbaz",
+    "track": "True Love Featuring Alon De Loco",
+    "album": "L'chaim",
+    "video_id": "Egff7Qs7Rp0",
+    "url": "https://www.youtube.com/watch?v=Egff7Qs7Rp0"
+  },
+  "Gad Elbaz|Hava Nagila": {
+    "artist": "Gad Elbaz",
+    "track": "Hava Nagila",
+    "album": "L'chaim",
+    "video_id": "BGrzh3W-F-c",
+    "url": "https://www.youtube.com/watch?v=BGrzh3W-F-c"
+  },
+  "Gad Elbaz|Olele": {
+    "artist": "Gad Elbaz",
+    "track": "Olele",
+    "album": "L'chaim",
+    "video_id": "NAjb4y_3MdI",
+    "url": "https://www.youtube.com/watch?v=NAjb4y_3MdI"
+  },
+  "Gad Elbaz|In The Beginning": {
+    "artist": "Gad Elbaz",
+    "track": "In The Beginning",
+    "album": "L'chaim",
+    "video_id": "8zlaQmuKoqY",
+    "url": "https://www.youtube.com/watch?v=8zlaQmuKoqY"
+  },
+  "Gad Elbaz|Open Up": {
+    "artist": "Gad Elbaz",
+    "track": "Open Up",
+    "album": "L'chaim",
+    "video_id": "pkjfMdiLRh4",
+    "url": "https://www.youtube.com/watch?v=pkjfMdiLRh4"
+  },
+  "Gad Elbaz|Ochi Chorne Featuring Avi Benjami": {
+    "artist": "Gad Elbaz",
+    "track": "Ochi Chorne Featuring Avi Benjami",
+    "album": "L'chaim",
+    "video_id": "ApMhunAJfyI",
+    "url": "https://www.youtube.com/watch?v=ApMhunAJfyI"
+  },
+  "Gad Elbaz|On & On": {
+    "artist": "Gad Elbaz",
+    "track": "On & On",
+    "album": "L'chaim",
+    "video_id": "xP2UtZXO9hE",
+    "url": "https://www.youtube.com/watch?v=xP2UtZXO9hE"
+  },
+  "Gad Elbaz|Tfilla": {
+    "artist": "Gad Elbaz",
+    "track": "Tfilla",
+    "album": "Kimat Shaket",
+    "video_id": "SBG_vxjy2JE",
+    "url": "https://www.youtube.com/watch?v=SBG_vxjy2JE"
+  },
+  "Gad Elbaz|Hayeled Shebikashti": {
+    "artist": "Gad Elbaz",
+    "track": "Hayeled Shebikashti",
+    "album": "Kimat Shaket",
+    "video_id": "y6jt8Um1mTE",
+    "url": "https://www.youtube.com/watch?v=y6jt8Um1mTE"
+  },
+  "Gad Elbaz|Amen": {
+    "artist": "Gad Elbaz",
+    "track": "Amen",
+    "album": "Kimat Shaket",
+    "video_id": "IU2sKHNbskc",
+    "url": "https://www.youtube.com/watch?v=IU2sKHNbskc"
+  },
+  "Gad Elbaz|Achot Ketana": {
+    "artist": "Gad Elbaz",
+    "track": "Achot Ketana",
+    "album": "Kimat Shaket",
+    "video_id": "CoLoTnGM9y8",
+    "url": "https://www.youtube.com/watch?v=CoLoTnGM9y8"
+  },
+  "Gad Elbaz|Haam Mechapes Manoach": {
+    "artist": "Gad Elbaz",
+    "track": "Haam Mechapes Manoach",
+    "album": "Kimat Shaket",
+    "video_id": "5FfpxJQtlZ0",
+    "url": "https://www.youtube.com/watch?v=5FfpxJQtlZ0"
+  },
+  "Gad Elbaz|Hanitzotz Becha": null,
+  "Gad Elbaz|Tfilat Av": {
+    "artist": "Gad Elbaz",
+    "track": "Tfilat Av",
+    "album": "Kimat Shaket",
+    "video_id": "jO844C9LUto",
+    "url": "https://www.youtube.com/watch?v=jO844C9LUto"
+  },
+  "Gad Elbaz|Asur": {
+    "artist": "Gad Elbaz",
+    "track": "Asur",
+    "album": "Kimat Shaket",
+    "video_id": "b28IcJLAnmA",
+    "url": "https://www.youtube.com/watch?v=b28IcJLAnmA"
+  },
+  "Gad Elbaz|Kshehalev Boche": {
+    "artist": "Gad Elbaz",
+    "track": "Kshehalev Boche",
+    "album": "Kimat Shaket",
+    "video_id": "wFoVfclbUBQ",
+    "url": "https://www.youtube.com/watch?v=wFoVfclbUBQ"
+  },
+  "Gad Elbaz|Pina Shketa": {
+    "artist": "Gad Elbaz",
+    "track": "Pina Shketa",
+    "album": "Kimat Shaket",
+    "video_id": "VkY_7YbDVjg",
+    "url": "https://www.youtube.com/watch?v=VkY_7YbDVjg"
+  },
+  "Gad Elbaz|Shar MeHalev": {
+    "artist": "Gad Elbaz",
+    "track": "Shar MeHalev",
+    "album": "Kimat Shaket",
+    "video_id": "U4nEtCZavHc",
+    "url": "https://www.youtube.com/watch?v=U4nEtCZavHc"
+  },
+  "Gad Elbaz|Intro IMa": {
+    "artist": "Gad Elbaz",
+    "track": "Intro IMa",
+    "album": "Kimat Shaket",
+    "video_id": "gWfVNBhPcDg",
+    "url": "https://www.youtube.com/watch?v=gWfVNBhPcDg"
+  },
+  "Gad Elbaz|Ima": {
+    "artist": "Gad Elbaz",
+    "track": "Ima",
+    "album": "Kimat Shaket",
+    "video_id": "EPQw5mSiIco",
+    "url": "https://www.youtube.com/watch?v=EPQw5mSiIco"
+  },
+  "Gad Elbaz|Tugat HaLev": null,
+  "Gad Elbaz|Zmanim Metukim": null,
+  "Gad Elbaz|Mi Sheberach": {
+    "artist": "Gad Elbaz",
+    "track": "Mi Sheberach",
+    "album": "Zeh Hayom",
+    "video_id": "S2swFOBy65I",
+    "url": "https://www.youtube.com/watch?v=S2swFOBy65I"
+  },
+  "Gad Elbaz|Binyan Olam": {
+    "artist": "Gad Elbaz",
+    "track": "Binyan Olam",
+    "album": "Zeh Hayom",
+    "video_id": "QRabDb0_9kQ",
+    "url": "https://www.youtube.com/watch?v=QRabDb0_9kQ"
+  },
+  "Gad Elbaz|Ze Hayom": {
+    "artist": "Gad Elbaz",
+    "track": "Ze Hayom",
+    "album": "Zeh Hayom",
+    "video_id": "792dJOETKfw",
+    "url": "https://www.youtube.com/watch?v=792dJOETKfw"
+  },
+  "Gad Elbaz|Yesimcha": {
+    "artist": "Gad Elbaz",
+    "track": "Yesimcha",
+    "album": "Zeh Hayom",
+    "video_id": "0WV-IlD87xg",
+    "url": "https://www.youtube.com/watch?v=0WV-IlD87xg"
+  },
+  "Gad Elbaz|Mehera": {
+    "artist": "Gad Elbaz",
+    "track": "Mehera",
+    "album": "Zeh Hayom",
+    "video_id": "ICaMPajMNh4",
+    "url": "https://www.youtube.com/watch?v=ICaMPajMNh4"
+  },
+  "Gad Elbaz|Hetnaari": {
+    "artist": "Gad Elbaz",
+    "track": "Hetnaari",
+    "album": "Zeh Hayom",
+    "video_id": "wkvVyCDqtKY",
+    "url": "https://www.youtube.com/watch?v=wkvVyCDqtKY"
+  },
+  "Gad Elbaz|Shir Lama'alot": {
+    "artist": "Gad Elbaz",
+    "track": "Shir Lama'alot",
+    "album": "Zeh Hayom",
+    "video_id": "Ghez-Xl3ug8",
+    "url": "https://www.youtube.com/watch?v=Ghez-Xl3ug8"
+  },
+  "Gad Elbaz|Boi Kala": {
+    "artist": "Gad Elbaz",
+    "track": "Boi Kala",
+    "album": "Zeh Hayom",
+    "video_id": "haCvrUf8oYc",
+    "url": "https://www.youtube.com/watch?v=haCvrUf8oYc"
+  },
+  "Gad Elbaz|Henech Yafa Raaiati": {
+    "artist": "Gad Elbaz",
+    "track": "Henech Yafa Raaiati",
+    "album": "Zeh Hayom",
+    "video_id": "B0l1VhUxftM",
+    "url": "https://www.youtube.com/watch?v=B0l1VhUxftM"
+  },
+  "Gad Elbaz|zipor Began Eden": {
+    "artist": "Gad Elbaz",
+    "track": "zipor Began Eden",
+    "album": "Zeh Hayom",
+    "video_id": "RYz_Fcof90Q",
+    "url": "https://www.youtube.com/watch?v=RYz_Fcof90Q"
+  },
+  "Gad Elbaz|Boei": {
+    "artist": "Gad Elbaz",
+    "track": "Boei",
+    "album": "Zeh Hayom",
+    "video_id": "r1jMMAIX3vE",
+    "url": "https://www.youtube.com/watch?v=r1jMMAIX3vE"
+  },
+  "Gad Elbaz|Al Neharot Bavel": {
+    "artist": "Gad Elbaz",
+    "track": "Al Neharot Bavel",
+    "album": "Zeh Hayom",
+    "video_id": "hcAljLBWiuQ",
+    "url": "https://www.youtube.com/watch?v=hcAljLBWiuQ"
+  },
+  "Gad Elbaz|Mizmor Le David": {
+    "artist": "Gad Elbaz",
+    "track": "Mizmor Le David",
+    "album": "Zeh Hayom",
+    "video_id": "hUv8Qy4pKNs",
+    "url": "https://www.youtube.com/watch?v=hUv8Qy4pKNs"
+  },
+  "Gad Elbaz|Birkat Cohanim": {
+    "artist": "Gad Elbaz",
+    "track": "Birkat Cohanim",
+    "album": "Zeh Hayom",
+    "video_id": "jidpVzF52Ew",
+    "url": "https://www.youtube.com/watch?v=jidpVzF52Ew"
+  },
+  "Gad Elbaz|Tfila": {
+    "artist": "Gad Elbaz",
+    "track": "Tfila",
+    "album": "Zeh Hayom",
+    "video_id": "386iXHuzLEc",
+    "url": "https://www.youtube.com/watch?v=386iXHuzLEc"
+  },
+  "Gad Elbaz|Im Eshkachech": {
+    "artist": "Gad Elbaz",
+    "track": "Im Eshkachech",
+    "album": "Zeh Hayom",
+    "video_id": "Lw3BTeucOJQ",
+    "url": "https://www.youtube.com/watch?v=Lw3BTeucOJQ"
+  },
+  "Gad Elbaz|Al Naharot Bavel - על נהרות בבל": {
+    "artist": "Gad Elbaz",
+    "track": "Al Naharot Bavel - על נהרות בבל",
+    "album": "Meanings",
+    "video_id": "hcAljLBWiuQ",
+    "url": "https://www.youtube.com/watch?v=hcAljLBWiuQ"
+  },
+  "Gad Elbaz|Al Tichye Beseret - אל תחיה בסרט": {
+    "artist": "Gad Elbaz",
+    "track": "Al Tichye Beseret - אל תחיה בסרט",
+    "album": "Meanings",
+    "video_id": "Le82uMBvKQs",
+    "url": "https://www.youtube.com/watch?v=Le82uMBvKQs"
+  },
+  "Gad Elbaz|Halayla Ze Hazman - הלילה זה הזמן": {
+    "artist": "Gad Elbaz",
+    "track": "Halayla Ze Hazman - הלילה זה הזמן",
+    "album": "Meanings",
+    "video_id": "Yia4dVKuOP4",
+    "url": "https://www.youtube.com/watch?v=Yia4dVKuOP4"
+  },
+  "Gad Elbaz|Meanings - משמעויות": {
+    "artist": "Gad Elbaz",
+    "track": "Meanings - משמעויות",
+    "album": "Meanings",
+    "video_id": "HVJLlNUKoPM",
+    "url": "https://www.youtube.com/watch?v=HVJLlNUKoPM"
+  },
+  "Gad Elbaz|Al Tivki - אל תבכי": {
+    "artist": "Gad Elbaz",
+    "track": "Al Tivki - אל תבכי",
+    "album": "Meanings",
+    "video_id": "o28dvTmTt5U",
+    "url": "https://www.youtube.com/watch?v=o28dvTmTt5U"
+  },
+  "Gad Elbaz|Me'Ever Layam - מעבר לים": {
+    "artist": "Gad Elbaz",
+    "track": "Me'Ever Layam - מעבר לים",
+    "album": "Meanings",
+    "video_id": "A7sf0UXMBxE",
+    "url": "https://www.youtube.com/watch?v=A7sf0UXMBxE"
+  },
+  "Gad Elbaz|Tzipor Gan Eden - ציפור גן עדן": {
+    "artist": "Gad Elbaz",
+    "track": "Tzipor Gan Eden - ציפור גן עדן",
+    "album": "Meanings",
+    "video_id": "Fw7KVfVI-G4",
+    "url": "https://www.youtube.com/watch?v=Fw7KVfVI-G4"
+  },
+  "Gad Elbaz|Ten Ten - תן תן": {
+    "artist": "Gad Elbaz",
+    "track": "Ten Ten - תן תן",
+    "album": "Meanings",
+    "video_id": "0PzrsTuJ3F8",
+    "url": "https://www.youtube.com/watch?v=0PzrsTuJ3F8"
+  },
+  "Gad Elbaz|Inshalla - אינשאללה": {
+    "artist": "Gad Elbaz",
+    "track": "Inshalla - אינשאללה",
+    "album": "Meanings",
+    "video_id": "8cMitWKraeg",
+    "url": "https://www.youtube.com/watch?v=8cMitWKraeg"
+  },
+  "Gad Elbaz|Ikvot Bachol - עקבות בחול": {
+    "artist": "Gad Elbaz",
+    "track": "Ikvot Bachol - עקבות בחול",
+    "album": "Meanings",
+    "video_id": "_JtJMlNn8Zk",
+    "url": "https://www.youtube.com/watch?v=_JtJMlNn8Zk"
+  },
+  "Gad Elbaz|Kshe'Hadmaot Zolgot - כשהדמעות זולגות": null
 }
