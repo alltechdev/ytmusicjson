@@ -77730,5 +77730,645 @@
     "album": "Shades of Green III (Hartzig) - גוונים של גרין 3 הארציג",
     "video_id": "dh9TjnkGeQY",
     "url": "https://www.youtube.com/watch?v=dh9TjnkGeQY"
+  },
+  "Yossi Green|Nisht Gadageht": null,
+  "Yossi Green|SOG4 Set 1 - Oid Yaishvu": {
+    "artist": "Yossi Green",
+    "track": "SOG4 Set 1 - Oid Yaishvu",
+    "album": "Shades of Green IV (Varemkeit)",
+    "video_id": "okVnxn4Z12M",
+    "url": "https://www.youtube.com/watch?v=okVnxn4Z12M"
+  },
+  "Yossi Green|SOG4 Set 2 - Ani Shabbos": null,
+  "Yossi Green|SOG4 Set 3 - Ov Harachamon": null,
+  "Yossi Green|SOG4 Set 4 - Mispallelim": {
+    "artist": "Yossi Green",
+    "track": "SOG4 Set 4 - Mispallelim",
+    "album": "Shades of Green IV (Varemkeit)",
+    "video_id": "lQy3spqVnTY",
+    "url": "https://www.youtube.com/watch?v=lQy3spqVnTY"
+  },
+  "Yossi Green|SOG4 Set 5 - Oideh Hashem": {
+    "artist": "Yossi Green",
+    "track": "SOG4 Set 5 - Oideh Hashem",
+    "album": "Shades of Green IV (Varemkeit)",
+    "video_id": "zK6-gkNppGA",
+    "url": "https://www.youtube.com/watch?v=zK6-gkNppGA"
+  },
+  "Yossi Green|Ke'ayol Taroig": {
+    "artist": "Yossi Green",
+    "track": "Ke'ayol Taroig",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "aJPrI5fxCrs",
+    "url": "https://www.youtube.com/watch?v=aJPrI5fxCrs"
+  },
+  "Yossi Green|Yedid Nefesh": {
+    "artist": "Yossi Green",
+    "track": "Yedid Nefesh",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "eoJaQOhYpNg",
+    "url": "https://www.youtube.com/watch?v=eoJaQOhYpNg"
+  },
+  "Yossi Green|Mayim Rabim": {
+    "artist": "Yossi Green",
+    "track": "Mayim Rabim",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "4H0l6loTscY",
+    "url": "https://www.youtube.com/watch?v=4H0l6loTscY"
+  },
+  "Yossi Green|Oidecho Hashem": {
+    "artist": "Yossi Green",
+    "track": "Oidecho Hashem",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "4uzYySKXbA8",
+    "url": "https://www.youtube.com/watch?v=4uzYySKXbA8"
+  },
+  "Yossi Green|Nishmas": {
+    "artist": "Yossi Green",
+    "track": "Nishmas",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "gCYhlKETHjU",
+    "url": "https://www.youtube.com/watch?v=gCYhlKETHjU"
+  },
+  "Yossi Green|Yishtabach": {
+    "artist": "Yossi Green",
+    "track": "Yishtabach",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "MjghyJZjpJU",
+    "url": "https://www.youtube.com/watch?v=MjghyJZjpJU"
+  },
+  "Yossi Green|Noideh Lecho": {
+    "artist": "Yossi Green",
+    "track": "Noideh Lecho",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "ub_q5eRoXas",
+    "url": "https://www.youtube.com/watch?v=ub_q5eRoXas"
+  },
+  "Yossi Green|Adoin Oilom": {
+    "artist": "Yossi Green",
+    "track": "Adoin Oilom",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "c5r_yH-qPoM",
+    "url": "https://www.youtube.com/watch?v=c5r_yH-qPoM"
+  },
+  "Yossi Green|Mi Von Siach": {
+    "artist": "Yossi Green",
+    "track": "Mi Von Siach",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "KcAaJNnpaSo",
+    "url": "https://www.youtube.com/watch?v=KcAaJNnpaSo"
+  },
+  "Yossi Green|Im Eshkochech": {
+    "artist": "Yossi Green",
+    "track": "Im Eshkochech",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "9U0tn4NwoZQ",
+    "url": "https://www.youtube.com/watch?v=9U0tn4NwoZQ"
+  },
+  "Yossi Green|Mehairo": {
+    "artist": "Yossi Green",
+    "track": "Mehairo",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "HO7M9L-nhIg",
+    "url": "https://www.youtube.com/watch?v=HO7M9L-nhIg"
+  },
+  "Yossi Green|Tein Li Brocho": {
+    "artist": "Yossi Green",
+    "track": "Tein Li Brocho",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "E8-pchcIg1U",
+    "url": "https://www.youtube.com/watch?v=E8-pchcIg1U"
+  },
+  "Yossi Green|Venoh": {
+    "artist": "Yossi Green",
+    "track": "Venoh",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "6wfgxdbsKSA",
+    "url": "https://www.youtube.com/watch?v=6wfgxdbsKSA"
+  },
+  "Yossi Green|Ba'al Habayis": {
+    "artist": "Yossi Green",
+    "track": "Ba'al Habayis",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "Xtz9x84_MQs",
+    "url": "https://www.youtube.com/watch?v=Xtz9x84_MQs"
+  },
+  "Yossi Green|Al Eilech, Pt. 1": {
+    "artist": "Yossi Green",
+    "track": "Al Eilech, Pt. 1",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "BQP9ZyU5JyQ",
+    "url": "https://www.youtube.com/watch?v=BQP9ZyU5JyQ"
+  },
+  "Yossi Green|Al Eilech, Pt. 2": {
+    "artist": "Yossi Green",
+    "track": "Al Eilech, Pt. 2",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "OqEC6uOOIYk",
+    "url": "https://www.youtube.com/watch?v=OqEC6uOOIYk"
+  },
+  "Yossi Green|Ani Ma'amin _ Moshiach": {
+    "artist": "Yossi Green",
+    "track": "Ani Ma'amin _ Moshiach",
+    "album": "Shades Of Green V (Leil Shishi)",
+    "video_id": "FzRimh53Ai0",
+    "url": "https://www.youtube.com/watch?v=FzRimh53Ai0"
+  },
+  "Yossi Green|Tein Li Bracha": null,
+  "Yossi Green|Haben Yakir Li Shragee ft. Pinchas Massarano": {
+    "artist": "Yossi Green",
+    "track": "Haben Yakir Li Shragee ft. Pinchas Massarano",
+    "album": "Haben Yakir Li Shragee - הבן יקיר לי שרגי אליהו",
+    "video_id": "AgNTRf9rZhM",
+    "url": "https://www.youtube.com/watch?v=AgNTRf9rZhM"
+  },
+  "Yossi Green|Boruch Hashem Yom Yom - ברוך ה' יום יום": {
+    "artist": "Yossi Green",
+    "track": "Boruch Hashem Yom Yom - ברוך ה' יום יום",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "5nqVUekKb-k",
+    "url": "https://www.youtube.com/watch?v=5nqVUekKb-k"
+  },
+  "Yossi Green|Loy Seivoyshi - לא תבושו": {
+    "artist": "Yossi Green",
+    "track": "Loy Seivoyshi - לא תבושו",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "ZtqZIRGR2-o",
+    "url": "https://www.youtube.com/watch?v=ZtqZIRGR2-o"
+  },
+  "Yossi Green|Shalom Aleichem - שלום עליכם": {
+    "artist": "Yossi Green",
+    "track": "Shalom Aleichem - שלום עליכם",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "Qr5lQAZJcDY",
+    "url": "https://www.youtube.com/watch?v=Qr5lQAZJcDY"
+  },
+  "Yossi Green|Asader - אסדר לסעודתא": {
+    "artist": "Yossi Green",
+    "track": "Asader - אסדר לסעודתא",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "GVRAO1YlEPU",
+    "url": "https://www.youtube.com/watch?v=GVRAO1YlEPU"
+  },
+  "Yossi Green|Ma Yedidus - מה ידידות": {
+    "artist": "Yossi Green",
+    "track": "Ma Yedidus - מה ידידות",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "1jjqvcRv4b0",
+    "url": "https://www.youtube.com/watch?v=1jjqvcRv4b0"
+  },
+  "Yossi Green|Keil Odoin - קל אדון": {
+    "artist": "Yossi Green",
+    "track": "Keil Odoin - קל אדון",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "GnW8AyefbdI",
+    "url": "https://www.youtube.com/watch?v=GnW8AyefbdI"
+  },
+  "Yossi Green|Koh Echsof - קה אכסוף נועם שבת": {
+    "artist": "Yossi Green",
+    "track": "Koh Echsof - קה אכסוף נועם שבת",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "7K7nPTbZlWQ",
+    "url": "https://www.youtube.com/watch?v=7K7nPTbZlWQ"
+  },
+  "Yossi Green|Tzavei Tzavei - צוה צוה": {
+    "artist": "Yossi Green",
+    "track": "Tzavei Tzavei - צוה צוה",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "8-4U0ePS9Lg",
+    "url": "https://www.youtube.com/watch?v=8-4U0ePS9Lg"
+  },
+  "Yossi Green|Kol Mekadesh - כל מקדש שביעי": {
+    "artist": "Yossi Green",
+    "track": "Kol Mekadesh - כל מקדש שביעי",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "yCAV-HqIpqA",
+    "url": "https://www.youtube.com/watch?v=yCAV-HqIpqA"
+  },
+  "Yossi Green|Nigun Reb Berish - ניגון ר' בעריש": {
+    "artist": "Yossi Green",
+    "track": "Nigun Reb Berish - ניגון ר' בעריש",
+    "album": "Yossi Green: Zemiros Shabbos with Reb Berish Vishever - ניגוני ר' בעריש ווישעווער",
+    "video_id": "LcQxe0-R9hI",
+    "url": "https://www.youtube.com/watch?v=LcQxe0-R9hI"
+  },
+  "Yiddish Nachas|Hiskabtzi": {
+    "artist": "Yiddish Nachas",
+    "track": "Hiskabtzi",
+    "album": "Matonoh Toivoh",
+    "video_id": "3RBX9JXQF28",
+    "url": "https://www.youtube.com/watch?v=3RBX9JXQF28"
+  },
+  "Yiddish Nachas|Atoh Kodoish": {
+    "artist": "Yiddish Nachas",
+    "track": "Atoh Kodoish",
+    "album": "Matonoh Toivoh",
+    "video_id": "rEWhtW3ShME",
+    "url": "https://www.youtube.com/watch?v=rEWhtW3ShME"
+  },
+  "Yiddish Nachas|Ein Keloikeinu": {
+    "artist": "Yiddish Nachas",
+    "track": "Ein Keloikeinu",
+    "album": "Matonoh Toivoh",
+    "video_id": "P-m6Vaww9fo",
+    "url": "https://www.youtube.com/watch?v=P-m6Vaww9fo"
+  },
+  "Yiddish Nachas|Riboinoi Shel Oilom": {
+    "artist": "Yiddish Nachas",
+    "track": "Riboinoi Shel Oilom",
+    "album": "Matonoh Toivoh",
+    "video_id": "NpNtBXGhiZo",
+    "url": "https://www.youtube.com/watch?v=NpNtBXGhiZo"
+  },
+  "Yiddish Nachas|Matonoh Toivoh": {
+    "artist": "Yiddish Nachas",
+    "track": "Matonoh Toivoh",
+    "album": "Matonoh Toivoh",
+    "video_id": "6-dG78uMpbc",
+    "url": "https://www.youtube.com/watch?v=6-dG78uMpbc"
+  },
+  "Yiddish Nachas|Mogain Ovois": {
+    "artist": "Yiddish Nachas",
+    "track": "Mogain Ovois",
+    "album": "Matonoh Toivoh",
+    "video_id": "ejydhZ6dxnw",
+    "url": "https://www.youtube.com/watch?v=ejydhZ6dxnw"
+  },
+  "Yiddish Nachas|Hatoiv": {
+    "artist": "Yiddish Nachas",
+    "track": "Hatoiv",
+    "album": "Matonoh Toivoh",
+    "video_id": "VokqVxvPKxQ",
+    "url": "https://www.youtube.com/watch?v=VokqVxvPKxQ"
+  },
+  "Yiddish Nachas|Zechoir Ahavas": {
+    "artist": "Yiddish Nachas",
+    "track": "Zechoir Ahavas",
+    "album": "Matonoh Toivoh",
+    "video_id": "FlCXHAJ78mI",
+    "url": "https://www.youtube.com/watch?v=FlCXHAJ78mI"
+  },
+  "Yiddish Nachas|Ki Lecho Toiv": {
+    "artist": "Yiddish Nachas",
+    "track": "Ki Lecho Toiv",
+    "album": "Matonoh Toivoh",
+    "video_id": "hgWlllhRk50",
+    "url": "https://www.youtube.com/watch?v=hgWlllhRk50"
+  },
+  "Yiddish Nachas|Aderaba": {
+    "artist": "Yiddish Nachas",
+    "track": "Aderaba",
+    "album": "Matonoh Toivoh",
+    "video_id": "Hmp57mQACaQ",
+    "url": "https://www.youtube.com/watch?v=Hmp57mQACaQ"
+  },
+  "Yiddish Nachas|Sivavon": {
+    "artist": "Yiddish Nachas",
+    "track": "Sivavon",
+    "album": "Sivavon",
+    "video_id": "WLl3YdH-nzg",
+    "url": "https://www.youtube.com/watch?v=WLl3YdH-nzg"
+  },
+  "Yiddish Nachas|Mayim Rabim": {
+    "artist": "Yiddish Nachas",
+    "track": "Mayim Rabim",
+    "album": "Sivavon",
+    "video_id": "29TBD-4zd1E",
+    "url": "https://www.youtube.com/watch?v=29TBD-4zd1E"
+  },
+  "Yiddish Nachas|Atu Choinein": {
+    "artist": "Yiddish Nachas",
+    "track": "Atu Choinein",
+    "album": "Sivavon",
+    "video_id": "4tRTmvwAe8U",
+    "url": "https://www.youtube.com/watch?v=4tRTmvwAe8U"
+  },
+  "Yiddish Nachas|Shiru": {
+    "artist": "Yiddish Nachas",
+    "track": "Shiru",
+    "album": "Sivavon",
+    "video_id": "rfwn4pDvGDs",
+    "url": "https://www.youtube.com/watch?v=rfwn4pDvGDs"
+  },
+  "Yiddish Nachas|Bunei": {
+    "artist": "Yiddish Nachas",
+    "track": "Bunei",
+    "album": "Sivavon",
+    "video_id": "PRffabbDAJA",
+    "url": "https://www.youtube.com/watch?v=PRffabbDAJA"
+  },
+  "Yiddish Nachas|Hazkiri": {
+    "artist": "Yiddish Nachas",
+    "track": "Hazkiri",
+    "album": "Sivavon",
+    "video_id": "k4RO74b5toY",
+    "url": "https://www.youtube.com/watch?v=k4RO74b5toY"
+  },
+  "Yiddish Nachas|Ki Ein": {
+    "artist": "Yiddish Nachas",
+    "track": "Ki Ein",
+    "album": "Sivavon",
+    "video_id": "lPn9qHfegQY",
+    "url": "https://www.youtube.com/watch?v=lPn9qHfegQY"
+  },
+  "Yiddish Nachas|Kuroiv": {
+    "artist": "Yiddish Nachas",
+    "track": "Kuroiv",
+    "album": "Sivavon",
+    "video_id": "B2RPLXKiYLI",
+    "url": "https://www.youtube.com/watch?v=B2RPLXKiYLI"
+  },
+  "Yiddish Nachas|Ki Boi": {
+    "artist": "Yiddish Nachas",
+    "track": "Ki Boi",
+    "album": "Sivavon",
+    "video_id": "4F0TMon5tjs",
+    "url": "https://www.youtube.com/watch?v=4F0TMon5tjs"
+  },
+  "Yiddish Nachas|V'huyu": null,
+  "Yiddish Nachas|Chulem": {
+    "artist": "Yiddish Nachas",
+    "track": "Chulem",
+    "album": "Sivavon",
+    "video_id": "VY7mhaUCb6Q",
+    "url": "https://www.youtube.com/watch?v=VY7mhaUCb6Q"
+  },
+  "Yiddish Nachas|Haneh Tefillin": {
+    "artist": "Yiddish Nachas",
+    "track": "Haneh Tefillin",
+    "album": "Mizmor Shir",
+    "video_id": "i-nDFklaUqQ",
+    "url": "https://www.youtube.com/watch?v=i-nDFklaUqQ"
+  },
+  "Yiddish Nachas|Oz Tischazek": {
+    "artist": "Yiddish Nachas",
+    "track": "Oz Tischazek",
+    "album": "Mizmor Shir",
+    "video_id": "Wbc5B5cxc00",
+    "url": "https://www.youtube.com/watch?v=Wbc5B5cxc00"
+  },
+  "Yiddish Nachas|Selach Luni": {
+    "artist": "Yiddish Nachas",
+    "track": "Selach Luni",
+    "album": "Mizmor Shir",
+    "video_id": "5c0HOaZkJpQ",
+    "url": "https://www.youtube.com/watch?v=5c0HOaZkJpQ"
+  },
+  "Yiddish Nachas|Zemiros Shabbos": {
+    "artist": "Yiddish Nachas",
+    "track": "Zemiros Shabbos",
+    "album": "Mizmor Shir",
+    "video_id": "4RVnVxLKq90",
+    "url": "https://www.youtube.com/watch?v=4RVnVxLKq90"
+  },
+  "Yiddish Nachas|Vesashpia": {
+    "artist": "Yiddish Nachas",
+    "track": "Vesashpia",
+    "album": "Mizmor Shir",
+    "video_id": "9VpH_ez04lI",
+    "url": "https://www.youtube.com/watch?v=9VpH_ez04lI"
+  },
+  "Yiddish Nachas|Ein Anachni": {
+    "artist": "Yiddish Nachas",
+    "track": "Ein Anachni",
+    "album": "Mizmor Shir",
+    "video_id": "eJ-gXoRex4c",
+    "url": "https://www.youtube.com/watch?v=eJ-gXoRex4c"
+  },
+  "Yiddish Nachas|Oirois": {
+    "artist": "Yiddish Nachas",
+    "track": "Oirois",
+    "album": "Mizmor Shir",
+    "video_id": "BldQhTALsJE",
+    "url": "https://www.youtube.com/watch?v=BldQhTALsJE"
+  },
+  "Yiddish Nachas|Nigun Uchlei Shir": {
+    "artist": "Yiddish Nachas",
+    "track": "Nigun Uchlei Shir",
+    "album": "Mizmor Shir",
+    "video_id": "KhC6OfebMeY",
+    "url": "https://www.youtube.com/watch?v=KhC6OfebMeY"
+  },
+  "Yiddish Nachas|Shuloim": {
+    "artist": "Yiddish Nachas",
+    "track": "Shuloim",
+    "album": "Mizmor Shir",
+    "video_id": "5O9bwsHn9Fs",
+    "url": "https://www.youtube.com/watch?v=5O9bwsHn9Fs"
+  },
+  "Yiddish Nachas|Tehei Hashoh": {
+    "artist": "Yiddish Nachas",
+    "track": "Tehei Hashoh",
+    "album": "Mizmor Shir",
+    "video_id": "oRUkmi4T9Kk",
+    "url": "https://www.youtube.com/watch?v=oRUkmi4T9Kk"
+  },
+  "Yossi Green|Mishenichnas Adar": {
+    "artist": "Yossi Green",
+    "track": "Mishenichnas Adar",
+    "album": "Mishenichnas Adar",
+    "video_id": "s7HjVJZz4x0",
+    "url": "https://www.youtube.com/watch?v=s7HjVJZz4x0"
+  },
+  "Yiddish Nachas|Velimadetem": {
+    "artist": "Yiddish Nachas",
+    "track": "Velimadetem",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "0QXvpDsgJr8",
+    "url": "https://www.youtube.com/watch?v=0QXvpDsgJr8"
+  },
+  "Yiddish Nachas|Re’ei Noh": null,
+  "Yiddish Nachas|Kudoish": {
+    "artist": "Yiddish Nachas",
+    "track": "Kudoish",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "oN4n-jUfJas",
+    "url": "https://www.youtube.com/watch?v=oN4n-jUfJas"
+  },
+  "Yiddish Nachas|Yaldei": {
+    "artist": "Yiddish Nachas",
+    "track": "Yaldei",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "YN4bOU59bnE",
+    "url": "https://www.youtube.com/watch?v=YN4bOU59bnE"
+  },
+  "Yiddish Nachas|Vezakeini": {
+    "artist": "Yiddish Nachas",
+    "track": "Vezakeini",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "oz82b3cTT7Y",
+    "url": "https://www.youtube.com/watch?v=oz82b3cTT7Y"
+  },
+  "Yiddish Nachas|Mi Sheyesh": {
+    "artist": "Yiddish Nachas",
+    "track": "Mi Sheyesh",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "zXzzMjrrrFU",
+    "url": "https://www.youtube.com/watch?v=zXzzMjrrrFU"
+  },
+  "Yiddish Nachas|Osoh Oiseh": {
+    "artist": "Yiddish Nachas",
+    "track": "Osoh Oiseh",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "rl6cOxFRKpo",
+    "url": "https://www.youtube.com/watch?v=rl6cOxFRKpo"
+  },
+  "Yiddish Nachas|Tug In Nacht": {
+    "artist": "Yiddish Nachas",
+    "track": "Tug In Nacht",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "M5sEiw44RPg",
+    "url": "https://www.youtube.com/watch?v=M5sEiw44RPg"
+  },
+  "Yiddish Nachas|Rebbe": {
+    "artist": "Yiddish Nachas",
+    "track": "Rebbe",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "DlbggXhHkag",
+    "url": "https://www.youtube.com/watch?v=DlbggXhHkag"
+  },
+  "Yiddish Nachas|Ma Nuvi": {
+    "artist": "Yiddish Nachas",
+    "track": "Ma Nuvi",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "ClZarI4_U7I",
+    "url": "https://www.youtube.com/watch?v=ClZarI4_U7I"
+  },
+  "Yiddish Nachas|Yiddish Nachas": {
+    "artist": "Yiddish Nachas",
+    "track": "Yiddish Nachas",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "CgbBundSwic",
+    "url": "https://www.youtube.com/watch?v=CgbBundSwic"
+  },
+  "Yiddish Nachas|Ki Hamitzvoh": {
+    "artist": "Yiddish Nachas",
+    "track": "Ki Hamitzvoh",
+    "album": "Yiddish Nachas 4 (Emunah Ubitachon)",
+    "video_id": "cuKzCbmmhPs",
+    "url": "https://www.youtube.com/watch?v=cuKzCbmmhPs"
+  },
+  "Gershon Veroba|Al Tirah": {
+    "artist": "Gershon Veroba",
+    "track": "Al Tirah",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "KvQajeu0Zs4",
+    "url": "https://www.youtube.com/watch?v=KvQajeu0Zs4"
+  },
+  "Gershon Veroba|Mimkomchah": {
+    "artist": "Gershon Veroba",
+    "track": "Mimkomchah",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "DLRW_i01yDc",
+    "url": "https://www.youtube.com/watch?v=DLRW_i01yDc"
+  },
+  "Gershon Veroba|Av Harachamim": {
+    "artist": "Gershon Veroba",
+    "track": "Av Harachamim",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "Tb43p_g3XJo",
+    "url": "https://www.youtube.com/watch?v=Tb43p_g3XJo"
+  },
+  "Gershon Veroba|Licha Dodi": {
+    "artist": "Gershon Veroba",
+    "track": "Licha Dodi",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "9lP_4hkdvr4",
+    "url": "https://www.youtube.com/watch?v=9lP_4hkdvr4"
+  },
+  "Gershon Veroba|Haneirot Hallalu": {
+    "artist": "Gershon Veroba",
+    "track": "Haneirot Hallalu",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "fLxRbzDUYKU",
+    "url": "https://www.youtube.com/watch?v=fLxRbzDUYKU"
+  },
+  "Gershon Veroba|Ki Kel Poel": {
+    "artist": "Gershon Veroba",
+    "track": "Ki Kel Poel",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "tkp5kxwVqgk",
+    "url": "https://www.youtube.com/watch?v=tkp5kxwVqgk"
+  },
+  "Gershon Veroba|Lonely Man": {
+    "artist": "Gershon Veroba",
+    "track": "Lonely Man",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "78DVsPXD5Q0",
+    "url": "https://www.youtube.com/watch?v=78DVsPXD5Q0"
+  },
+  "Gershon Veroba|Lo Alecha": {
+    "artist": "Gershon Veroba",
+    "track": "Lo Alecha",
+    "album": "Man To Man - Anniversary Digital Edition",
+    "video_id": "9lP_4hkdvr4",
+    "url": "https://www.youtube.com/watch?v=9lP_4hkdvr4"
+  },
+  "Torah Tots|Torah Tzivah": {
+    "artist": "Torah Tots",
+    "track": "Torah Tzivah",
+    "album": "The 12 Pesukim",
+    "video_id": "RFC3hZsUqtw",
+    "url": "https://www.youtube.com/watch?v=RFC3hZsUqtw"
+  },
+  "Torah Tots|Shema": {
+    "artist": "Torah Tots",
+    "track": "Shema",
+    "album": "The 12 Pesukim",
+    "video_id": "Dca6zguH_h0",
+    "url": "https://www.youtube.com/watch?v=Dca6zguH_h0"
+  },
+  "Torah Tots|Bchol Dor Vdor": {
+    "artist": "Torah Tots",
+    "track": "Bchol Dor Vdor",
+    "album": "The 12 Pesukim",
+    "video_id": "OqWPuvG7wqQ",
+    "url": "https://www.youtube.com/watch?v=OqWPuvG7wqQ"
+  },
+  "Torah Tots|Kol Yisroel": {
+    "artist": "Torah Tots",
+    "track": "Kol Yisroel",
+    "album": "The 12 Pesukim",
+    "video_id": "cI5eaaV8mOk",
+    "url": "https://www.youtube.com/watch?v=cI5eaaV8mOk"
+  },
+  "Torah Tots|Ki Karov": {
+    "artist": "Torah Tots",
+    "track": "Ki Karov",
+    "album": "The 12 Pesukim",
+    "video_id": "C-sFZd5-a8A",
+    "url": "https://www.youtube.com/watch?v=C-sFZd5-a8A"
+  },
+  "Torah Tots|Viheenay": null,
+  "Torah Tots|Birayshis": null,
+  "Torah Tots|Visheenamtom": null,
+  "Torah Tots|Yogatee": {
+    "artist": "Torah Tots",
+    "track": "Yogatee",
+    "album": "The 12 Pesukim",
+    "video_id": "E5akdZdtuT4",
+    "url": "https://www.youtube.com/watch?v=E5akdZdtuT4"
+  },
+  "Torah Tots|V'ahavta": {
+    "artist": "Torah Tots",
+    "track": "V'ahavta",
+    "album": "The 12 Pesukim",
+    "video_id": "TNWiuI-OcpQ",
+    "url": "https://www.youtube.com/watch?v=TNWiuI-OcpQ"
+  },
+  "Torah Tots|Vizeh": null,
+  "Torah Tots|Yismach": {
+    "artist": "Torah Tots",
+    "track": "Yismach",
+    "album": "The 12 Pesukim",
+    "video_id": "PqA6qWTKhEs",
+    "url": "https://www.youtube.com/watch?v=PqA6qWTKhEs"
+  },
+  "Torah Tots|Overture": {
+    "artist": "Torah Tots",
+    "track": "Overture",
+    "album": "The Nes Of You And Me",
+    "video_id": "Y-VbOJ2WNVo",
+    "url": "https://www.youtube.com/watch?v=Y-VbOJ2WNVo"
   }
 }
