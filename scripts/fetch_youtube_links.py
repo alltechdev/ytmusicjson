@@ -49,36 +49,40 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
     artist_clean = clean(artist_lower)
     track_clean = clean(track_lower)
 
-    # Strategy: Be very lenient. Trust YouTube's search algorithm.
-    # Only reject if clearly wrong (completely different content)
+    # Strip featured artists from track name for better matching
+    # Match patterns like: ft., feat., featuring, &, with, etc.
+    track_clean_no_feat = re.split(r'\b(ft|feat|featuring|with|and)\b', track_clean)[0].strip()
+
+    # Strategy: Be EXTREMELY lenient. Trust YouTube's search algorithm.
+    # YouTube is very good at finding the right video, so if it's the top result, likely correct
 
     # Get meaningful words (more than 1 char)
     artist_words = [w for w in artist_clean.split() if len(w) > 1]
-    track_words = [w for w in track_clean.split() if len(w) > 1]
+    track_words = [w for w in track_clean_no_feat.split() if len(w) > 1]
 
     # Count how many words match
     artist_matches = sum(1 for word in artist_words if word in video_title_clean or word in video_channel_lower)
     track_matches = sum(1 for word in track_words if word in video_title_clean)
 
-    # Very lenient criteria - accept if ANY of these are true:
+    # EXTREMELY lenient criteria - accept if ANY of these are true:
     # 1. Any artist word + any track word
     if artist_matches >= 1 and track_matches >= 1:
         return True
 
-    # 2. Multiple track words (likely the right song even if artist not mentioned)
-    if track_matches >= 2:
+    # 2. ANY track words matched (even just one)
+    if track_matches >= 1:
         return True
 
-    # 3. Artist in channel name + at least one track word
-    if video_channel_lower and any(word in video_channel_lower for word in artist_words) and track_matches >= 1:
+    # 3. Artist in channel name (official channel)
+    if video_channel_lower and any(word in video_channel_lower for word in artist_words):
         return True
 
-    # 4. Full track name appears (partial match ok)
-    if len(track_clean) > 5 and track_clean in video_title_clean:
+    # 4. Full track name appears (even if very short)
+    if len(track_clean_no_feat) > 3 and track_clean_no_feat in video_title_clean:
         return True
 
-    # 5. For very short track names (1-2 words), accept if artist + track both present
-    if len(track_words) <= 2 and artist_matches >= 1 and track_matches == len(track_words):
+    # 5. Artist name in title (even without track name - might be compilation/album)
+    if artist_matches >= len(artist_words) * 0.5:  # At least half of artist words
         return True
 
     # If none of the above, it's probably not the right video
