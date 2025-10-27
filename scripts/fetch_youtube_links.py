@@ -85,18 +85,23 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
     return False
 
 
-def search_youtube(artist: str, track_name: str) -> Optional[str]:
+def search_youtube(artist: str, track_name: str, album_title: str = "") -> Optional[str]:
     """
     Search YouTube for a song and return the video ID of the best match
 
     Args:
         artist: Artist name
         track_name: Track/song name
+        album_title: Album name (optional, helps find correct version)
 
     Returns:
         YouTube video ID (e.g., 'dQw4w9WgXcQ') or None if not found
     """
-    query = f"{artist} {track_name}"
+    # Include album in search for better accuracy
+    if album_title:
+        query = f"{artist} {track_name} {album_title}"
+    else:
+        query = f"{artist} {track_name}"
 
     ydl_opts = {
         'quiet': True,
@@ -213,8 +218,8 @@ def main():
                 print(f"Run the workflow again to continue processing remaining {remaining_tracks - processed} tracks")
                 return
 
-            # Search YouTube for this track
-            video_id = search_youtube(artist, track_name)
+            # Search YouTube for this track (include album for better accuracy)
+            video_id = search_youtube(artist, track_name, album_title)
 
             if video_id:
                 youtube_links[key] = {
