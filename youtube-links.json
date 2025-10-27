@@ -109202,5 +109202,633 @@
     "video_id": "BDmqKSBcYrg",
     "url": "https://www.youtube.com/watch?v=BDmqKSBcYrg"
   },
-  "Michoel Streicher|Hatalis": null
+  "Michoel Streicher|Hatalis": null,
+  "Michoel Streicher|Eilu Devarim": {
+    "artist": "Michoel Streicher",
+    "track": "Eilu Devarim",
+    "album": "My Spirit My Soul My Prayer",
+    "video_id": "KfBzSd9YO40",
+    "url": "https://www.youtube.com/watch?v=KfBzSd9YO40"
+  },
+  "Michoel Streicher|Vehu Rachum": {
+    "artist": "Michoel Streicher",
+    "track": "Vehu Rachum",
+    "album": "My Spirit My Soul My Prayer",
+    "video_id": "FmXZ6XJMgZU",
+    "url": "https://www.youtube.com/watch?v=FmXZ6XJMgZU"
+  },
+  "Michoel Streicher|Veyiten Lecho": {
+    "artist": "Michoel Streicher",
+    "track": "Veyiten Lecho",
+    "album": "Live Bnei Brak",
+    "video_id": "xyjIjkID53M",
+    "url": "https://www.youtube.com/watch?v=xyjIjkID53M"
+  },
+  "Michoel Streicher|Mizmor Ledovid": {
+    "artist": "Michoel Streicher",
+    "track": "Mizmor Ledovid",
+    "album": "Live Bnei Brak",
+    "video_id": "csn1yVkbD5Q",
+    "url": "https://www.youtube.com/watch?v=csn1yVkbD5Q"
+  },
+  "Michoel Streicher|Tipol Aleihem": {
+    "artist": "Michoel Streicher",
+    "track": "Tipol Aleihem",
+    "album": "Live Bnei Brak",
+    "video_id": "o23fU1wZ1U0",
+    "url": "https://www.youtube.com/watch?v=o23fU1wZ1U0"
+  },
+  "Michoel Streicher|Baal Shem Tov's Nigun, Vechulam": null,
+  "Michoel Streicher|Yesod Hachasidus": {
+    "artist": "Michoel Streicher",
+    "track": "Yesod Hachasidus",
+    "album": "Live Bnei Brak",
+    "video_id": "3Gpofwt9qMU",
+    "url": "https://www.youtube.com/watch?v=3Gpofwt9qMU"
+  },
+  "Michoel Streicher|Lo Omus": {
+    "artist": "Michoel Streicher",
+    "track": "Lo Omus",
+    "album": "Live Bnei Brak",
+    "video_id": "N7lL8xT0Y6A",
+    "url": "https://www.youtube.com/watch?v=N7lL8xT0Y6A"
+  },
+  "Michoel Streicher|Ki Lekach": {
+    "artist": "Michoel Streicher",
+    "track": "Ki Lekach",
+    "album": "Live Bnei Brak",
+    "video_id": "J9eI3jbyqHs",
+    "url": "https://www.youtube.com/watch?v=J9eI3jbyqHs"
+  },
+  "Michoel Streicher|Elokai": {
+    "artist": "Michoel Streicher",
+    "track": "Elokai",
+    "album": "Live Bnei Brak",
+    "video_id": "isnUs2FqUmk",
+    "url": "https://www.youtube.com/watch?v=isnUs2FqUmk"
+  },
+  "Michoel Streicher|Eyzehu Ashir": null,
+  "Michoel Streicher|Final Medley": {
+    "artist": "Michoel Streicher",
+    "track": "Final Medley",
+    "album": "Modeh Ani",
+    "video_id": "EPq1ACEWzBI",
+    "url": "https://www.youtube.com/watch?v=EPq1ACEWzBI"
+  },
+  "Michoel Streicher|Al Daas Hamakom": {
+    "artist": "Michoel Streicher",
+    "track": "Al Daas Hamakom",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "_DHfw4pqvD4",
+    "url": "https://www.youtube.com/watch?v=_DHfw4pqvD4"
+  },
+  "Michoel Streicher|Kol Nidrei": {
+    "artist": "Michoel Streicher",
+    "track": "Kol Nidrei",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "4SDPTwcJksM",
+    "url": "https://www.youtube.com/watch?v=4SDPTwcJksM"
+  },
+  "Michoel Streicher|Venislach": {
+    "artist": "Michoel Streicher",
+    "track": "Venislach",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "tDtt6Gk6hsc",
+    "url": "https://www.youtube.com/watch?v=tDtt6Gk6hsc"
+  },
+  "Michoel Streicher|Borchu": {
+    "artist": "Michoel Streicher",
+    "track": "Borchu",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "_emXRxbOsx4",
+    "url": "https://www.youtube.com/watch?v=_emXRxbOsx4"
+  },
+  "Michoel Streicher|Umaavir Yom": {
+    "artist": "Michoel Streicher",
+    "track": "Umaavir Yom",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "3mKkiI0m-E8",
+    "url": "https://www.youtube.com/watch?v=3mKkiI0m-E8"
+  },
+  "Michoel Streicher|Ki Heim Chayeinu": {
+    "artist": "Michoel Streicher",
+    "track": "Ki Heim Chayeinu",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "Hpo4ufEtP6U",
+    "url": "https://www.youtube.com/watch?v=Hpo4ufEtP6U"
+  },
+  "Michoel Streicher|Hamaavir Bonov": {
+    "artist": "Michoel Streicher",
+    "track": "Hamaavir Bonov",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "MxUnA6HgNhQ",
+    "url": "https://www.youtube.com/watch?v=MxUnA6HgNhQ"
+  },
+  "Michoel Streicher|Malchuscha": {
+    "artist": "Michoel Streicher",
+    "track": "Malchuscha",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "q04G-2ybfHM",
+    "url": "https://www.youtube.com/watch?v=q04G-2ybfHM"
+  },
+  "Michoel Streicher|Ushmor": {
+    "artist": "Michoel Streicher",
+    "track": "Ushmor",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "O0SoRESTxNQ",
+    "url": "https://www.youtube.com/watch?v=O0SoRESTxNQ"
+  },
+  "Michoel Streicher|Ki Bayom Hazeh": {
+    "artist": "Michoel Streicher",
+    "track": "Ki Bayom Hazeh",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "W0zGkcd6IUc",
+    "url": "https://www.youtube.com/watch?v=W0zGkcd6IUc"
+  },
+  "Michoel Streicher|Kaddish": {
+    "artist": "Michoel Streicher",
+    "track": "Kaddish",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "ozeOLFtoXxc",
+    "url": "https://www.youtube.com/watch?v=ozeOLFtoXxc"
+  },
+  "Michoel Streicher|Yaaleh": {
+    "artist": "Michoel Streicher",
+    "track": "Yaaleh",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "rYzmaol5AH0",
+    "url": "https://www.youtube.com/watch?v=rYzmaol5AH0"
+  },
+  "Michoel Streicher|Kel Horeisa": {
+    "artist": "Michoel Streicher",
+    "track": "Kel Horeisa",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "EfR9IahMbKk",
+    "url": "https://www.youtube.com/watch?v=EfR9IahMbKk"
+  },
+  "Michoel Streicher|Slach Na": {
+    "artist": "Michoel Streicher",
+    "track": "Slach Na",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "PsZyGKfcpbI",
+    "url": "https://www.youtube.com/watch?v=PsZyGKfcpbI"
+  },
+  "Michoel Streicher|Omnom Kein": {
+    "artist": "Michoel Streicher",
+    "track": "Omnom Kein",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "Dt1z2e7Ii-U",
+    "url": "https://www.youtube.com/watch?v=Dt1z2e7Ii-U"
+  },
+  "Michoel Streicher|Ki Hinei Kachomer": {
+    "artist": "Michoel Streicher",
+    "track": "Ki Hinei Kachomer",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "kKF9Pb4pmnw",
+    "url": "https://www.youtube.com/watch?v=kKF9Pb4pmnw"
+  },
+  "Michoel Streicher|Al Na Sosheis": null,
+  "Michoel Streicher|Tevienu": {
+    "artist": "Michoel Streicher",
+    "track": "Tevienu",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "P7D4d6UQND8",
+    "url": "https://www.youtube.com/watch?v=P7D4d6UQND8"
+  },
+  "Michoel Streicher|Shema Koleinu": {
+    "artist": "Michoel Streicher",
+    "track": "Shema Koleinu",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "VDRhpAampiA",
+    "url": "https://www.youtube.com/watch?v=VDRhpAampiA"
+  },
+  "Michoel Streicher|Slach Lonu, Ki Onu Amecha": null,
+  "Michoel Streicher|Onu Azei Panim": {
+    "artist": "Michoel Streicher",
+    "track": "Onu Azei Panim",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "Zp77jHW02Ms",
+    "url": "https://www.youtube.com/watch?v=Zp77jHW02Ms"
+  },
+  "Michoel Streicher|Slach Umechal": null,
+  "Michoel Streicher|Shimcha Meolam": {
+    "artist": "Michoel Streicher",
+    "track": "Shimcha Meolam",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "oHgFJvP46Fw",
+    "url": "https://www.youtube.com/watch?v=oHgFJvP46Fw"
+  },
+  "Michoel Streicher|L'dovid Mizmor": {
+    "artist": "Michoel Streicher",
+    "track": "L'dovid Mizmor",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "csn1yVkbD5Q",
+    "url": "https://www.youtube.com/watch?v=csn1yVkbD5Q"
+  },
+  "Michoel Streicher|Aleinu": {
+    "artist": "Michoel Streicher",
+    "track": "Aleinu",
+    "album": "Nusach Maariv Yom Kippur",
+    "video_id": "SWWtuH14TAE",
+    "url": "https://www.youtube.com/watch?v=SWWtuH14TAE"
+  },
+  "Michoel Streicher|Ata Echad": {
+    "artist": "Michoel Streicher",
+    "track": "Ata Echad",
+    "album": "One of a Kind",
+    "video_id": "RQqttR3bh-g",
+    "url": "https://www.youtube.com/watch?v=RQqttR3bh-g"
+  },
+  "Michoel Streicher|Mizmor Shir": {
+    "artist": "Michoel Streicher",
+    "track": "Mizmor Shir",
+    "album": "One of a Kind",
+    "video_id": "cvcFJ9_PLwA",
+    "url": "https://www.youtube.com/watch?v=cvcFJ9_PLwA"
+  },
+  "Michoel Streicher|One Of A Kind": {
+    "artist": "Michoel Streicher",
+    "track": "One Of A Kind",
+    "album": "One of a Kind",
+    "video_id": "jf13G-97R7g",
+    "url": "https://www.youtube.com/watch?v=jf13G-97R7g"
+  },
+  "Michoel Streicher|Hamelech": {
+    "artist": "Michoel Streicher",
+    "track": "Hamelech",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "w6tQquzWloA",
+    "url": "https://www.youtube.com/watch?v=w6tQquzWloA"
+  },
+  "Michoel Streicher|Shir Hamaalos": {
+    "artist": "Michoel Streicher",
+    "track": "Shir Hamaalos",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "QG8kFXGCKmQ",
+    "url": "https://www.youtube.com/watch?v=QG8kFXGCKmQ"
+  },
+  "Michoel Streicher|Kaddish_ Borchu": {
+    "artist": "Michoel Streicher",
+    "track": "Kaddish_ Borchu",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "ozeOLFtoXxc",
+    "url": "https://www.youtube.com/watch?v=ozeOLFtoXxc"
+  },
+  "Michoel Streicher|Yotzer": {
+    "artist": "Michoel Streicher",
+    "track": "Yotzer",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "cDpV6ZIruCQ",
+    "url": "https://www.youtube.com/watch?v=cDpV6ZIruCQ"
+  },
+  "Michoel Streicher|Krias Shema": {
+    "artist": "Michoel Streicher",
+    "track": "Krias Shema",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "fbzJxTgQWqA",
+    "url": "https://www.youtube.com/watch?v=fbzJxTgQWqA"
+  },
+  "Michoel Streicher|Shachris_ Avos": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Avos",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "Tw18Vw6-RHA",
+    "url": "https://www.youtube.com/watch?v=Tw18Vw6-RHA"
+  },
+  "Michoel Streicher|Shachris_ Areisi": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Areisi",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "JTQpn5X1i9g",
+    "url": "https://www.youtube.com/watch?v=JTQpn5X1i9g"
+  },
+  "Michoel Streicher|Shachris_ Zochreinu": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Zochreinu",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "OLpBPy8YIeY",
+    "url": "https://www.youtube.com/watch?v=OLpBPy8YIeY"
+  },
+  "Michoel Streicher|Shachris_ Mi Chomoicho": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Mi Chomoicho",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "PHgBmHinzwQ",
+    "url": "https://www.youtube.com/watch?v=PHgBmHinzwQ"
+  },
+  "Michoel Streicher|Shachris_ Yimloich": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Yimloich",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "D1w2Iqa-Ooo",
+    "url": "https://www.youtube.com/watch?v=D1w2Iqa-Ooo"
+  },
+  "Michoel Streicher|Shachris_ Tair Visurua": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Tair Visurua",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "aAt-Mu-OrKo",
+    "url": "https://www.youtube.com/watch?v=aAt-Mu-OrKo"
+  },
+  "Michoel Streicher|Shachris_ Hashem Melech": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Hashem Melech",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "4uw3oWo3HqE",
+    "url": "https://www.youtube.com/watch?v=4uw3oWo3HqE"
+  },
+  "Michoel Streicher|Shachris_ Din": {
+    "artist": "Michoel Streicher",
+    "track": "Shachris_ Din",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "fR6Ml-BQtWw",
+    "url": "https://www.youtube.com/watch?v=fR6Ml-BQtWw"
+  },
+  "Michoel Streicher|Kidusha Al Yad Nivyecho": {
+    "artist": "Michoel Streicher",
+    "track": "Kidusha Al Yad Nivyecho",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "PyzaRmhk3xc",
+    "url": "https://www.youtube.com/watch?v=PyzaRmhk3xc"
+  },
+  "Michoel Streicher|Kidusha End": {
+    "artist": "Michoel Streicher",
+    "track": "Kidusha End",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "EPq1ACEWzBI",
+    "url": "https://www.youtube.com/watch?v=EPq1ACEWzBI"
+  },
+  "Michoel Streicher|Yimloich After Kidusha": {
+    "artist": "Michoel Streicher",
+    "track": "Yimloich After Kidusha",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "WI3FSq6k2qI",
+    "url": "https://www.youtube.com/watch?v=WI3FSq6k2qI"
+  },
+  "Michoel Streicher|Visimloich After Kidusha": {
+    "artist": "Michoel Streicher",
+    "track": "Visimloich After Kidusha",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "yPLkqRkFWHI",
+    "url": "https://www.youtube.com/watch?v=yPLkqRkFWHI"
+  },
+  "Michoel Streicher|Ato Vechartonu": {
+    "artist": "Michoel Streicher",
+    "track": "Ato Vechartonu",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "E7Hv-g3AJDk",
+    "url": "https://www.youtube.com/watch?v=E7Hv-g3AJDk"
+  },
+  "Michoel Streicher|Meloch": {
+    "artist": "Michoel Streicher",
+    "track": "Meloch",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "fTZYxEsAJPA",
+    "url": "https://www.youtube.com/watch?v=fTZYxEsAJPA"
+  },
+  "Michoel Streicher|Ritzei": {
+    "artist": "Michoel Streicher",
+    "track": "Ritzei",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "1yRFCxgoL7Y",
+    "url": "https://www.youtube.com/watch?v=1yRFCxgoL7Y"
+  },
+  "Michoel Streicher|Sim Shalom": {
+    "artist": "Michoel Streicher",
+    "track": "Sim Shalom",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "WAFO5XyqnBc",
+    "url": "https://www.youtube.com/watch?v=WAFO5XyqnBc"
+  },
+  "Michoel Streicher|Avinu Malkeinu": {
+    "artist": "Michoel Streicher",
+    "track": "Avinu Malkeinu",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "v0m6nDQVr-M",
+    "url": "https://www.youtube.com/watch?v=v0m6nDQVr-M"
+  },
+  "Michoel Streicher|Vaani Sefilosi": null,
+  "Michoel Streicher|Ant Hu Dishalit": null,
+  "Michoel Streicher|B'rich": {
+    "artist": "Michoel Streicher",
+    "track": "B'rich",
+    "album": "Nusach Shachris Yom Kippur",
+    "video_id": "0R6cY61ptLc",
+    "url": "https://www.youtube.com/watch?v=0R6cY61ptLc"
+  },
+  "Michoel Streicher|Tefillas Haderech": {
+    "artist": "Michoel Streicher",
+    "track": "Tefillas Haderech",
+    "album": "Ours Forever",
+    "video_id": "fzKLbBbZQdk",
+    "url": "https://www.youtube.com/watch?v=fzKLbBbZQdk"
+  },
+  "Michoel Streicher|Der Kosel": {
+    "artist": "Michoel Streicher",
+    "track": "Der Kosel",
+    "album": "Ours Forever",
+    "video_id": "FGPoUHoJqio",
+    "url": "https://www.youtube.com/watch?v=FGPoUHoJqio"
+  },
+  "Michoel Streicher|Leshana Haba": {
+    "artist": "Michoel Streicher",
+    "track": "Leshana Haba",
+    "album": "Ours Forever",
+    "video_id": "m71-QFV8j0c",
+    "url": "https://www.youtube.com/watch?v=m71-QFV8j0c"
+  },
+  "Dovid Rotberg|Tfilas Ha’Neiros": {
+    "artist": "Dovid Rotberg",
+    "track": "Tfilas Ha’Neiros",
+    "album": "Tfilas Ha’Neiros",
+    "video_id": "HfOwbM6tlQ0",
+    "url": "https://www.youtube.com/watch?v=HfOwbM6tlQ0"
+  },
+  "Michoel Streicher|Dance Medley": {
+    "artist": "Michoel Streicher",
+    "track": "Dance Medley",
+    "album": "The Power of Music 1",
+    "video_id": "KSKRDamHMD4",
+    "url": "https://www.youtube.com/watch?v=KSKRDamHMD4"
+  },
+  "Michoel Streicher|Elokai Neshama": {
+    "artist": "Michoel Streicher",
+    "track": "Elokai Neshama",
+    "album": "The Power of Music 1",
+    "video_id": "isnUs2FqUmk",
+    "url": "https://www.youtube.com/watch?v=isnUs2FqUmk"
+  },
+  "Michoel Streicher|Vesamachta": {
+    "artist": "Michoel Streicher",
+    "track": "Vesamachta",
+    "album": "The Power of Music 1",
+    "video_id": "Np7cs8jLtKg",
+    "url": "https://www.youtube.com/watch?v=Np7cs8jLtKg"
+  },
+  "Michoel Streicher|Ribono": {
+    "artist": "Michoel Streicher",
+    "track": "Ribono",
+    "album": "The Power of Music 1",
+    "video_id": "oDcovK_uHj8",
+    "url": "https://www.youtube.com/watch?v=oDcovK_uHj8"
+  },
+  "Michoel Streicher|Di Geula": {
+    "artist": "Michoel Streicher",
+    "track": "Di Geula",
+    "album": "The Power of Music 1",
+    "video_id": "1Hzr-5otMUU",
+    "url": "https://www.youtube.com/watch?v=1Hzr-5otMUU"
+  },
+  "Michoel Streicher|Lekeil Baruch": {
+    "artist": "Michoel Streicher",
+    "track": "Lekeil Baruch",
+    "album": "The Power of Music 1",
+    "video_id": "S9NCAnPPOh0",
+    "url": "https://www.youtube.com/watch?v=S9NCAnPPOh0"
+  },
+  "Michoel Streicher|The Power Of Prayer": {
+    "artist": "Michoel Streicher",
+    "track": "The Power Of Prayer",
+    "album": "The Power of Music 1",
+    "video_id": "Z7BzQ5rog7Q",
+    "url": "https://www.youtube.com/watch?v=Z7BzQ5rog7Q"
+  },
+  "Michoel Streicher|The Whole Truth": {
+    "artist": "Michoel Streicher",
+    "track": "The Whole Truth",
+    "album": "The Power of Music 1",
+    "video_id": "D0aO4Nr9Tu8",
+    "url": "https://www.youtube.com/watch?v=D0aO4Nr9Tu8"
+  },
+  "Michoel Streicher|Askinu": {
+    "artist": "Michoel Streicher",
+    "track": "Askinu",
+    "album": "The Power of Music 1",
+    "video_id": "zu_uB8yPybA",
+    "url": "https://www.youtube.com/watch?v=zu_uB8yPybA"
+  },
+  "Michoel Streicher|Shma Beni": {
+    "artist": "Michoel Streicher",
+    "track": "Shma Beni",
+    "album": "The Power of Music 2",
+    "video_id": "GM9REuPSzqg",
+    "url": "https://www.youtube.com/watch?v=GM9REuPSzqg"
+  },
+  "Michoel Streicher|Veyiten Lecha": {
+    "artist": "Michoel Streicher",
+    "track": "Veyiten Lecha",
+    "album": "The Power of Music 2",
+    "video_id": "xyjIjkID53M",
+    "url": "https://www.youtube.com/watch?v=xyjIjkID53M"
+  },
+  "Michoel Streicher|Mimkomcha": {
+    "artist": "Michoel Streicher",
+    "track": "Mimkomcha",
+    "album": "The Power of Music 3",
+    "video_id": "qzI-f2ZWRyI",
+    "url": "https://www.youtube.com/watch?v=qzI-f2ZWRyI"
+  },
+  "Michoel Streicher|Yibane Hamikdash": {
+    "artist": "Michoel Streicher",
+    "track": "Yibane Hamikdash",
+    "album": "The Power of Music 3",
+    "video_id": "TX3ItCGKrCg",
+    "url": "https://www.youtube.com/watch?v=TX3ItCGKrCg"
+  },
+  "Michoel Streicher|Smile": {
+    "artist": "Michoel Streicher",
+    "track": "Smile",
+    "album": "The Power of Music 3",
+    "video_id": "WJZ8_NImF_Q",
+    "url": "https://www.youtube.com/watch?v=WJZ8_NImF_Q"
+  },
+  "Michoel Streicher|Yaaleh Veyavo": {
+    "artist": "Michoel Streicher",
+    "track": "Yaaleh Veyavo",
+    "album": "The Power of Music 3",
+    "video_id": "rYzmaol5AH0",
+    "url": "https://www.youtube.com/watch?v=rYzmaol5AH0"
+  },
+  "Michoel Streicher|Leolam Yehei Adam": {
+    "artist": "Michoel Streicher",
+    "track": "Leolam Yehei Adam",
+    "album": "The Power of Music 3",
+    "video_id": "afg2O0URnYY",
+    "url": "https://www.youtube.com/watch?v=afg2O0URnYY"
+  },
+  "Michoel Streicher|L'kel Baruch": {
+    "artist": "Michoel Streicher",
+    "track": "L'kel Baruch",
+    "album": "The Power of Prayer",
+    "video_id": "9W_DTjGTa1k",
+    "url": "https://www.youtube.com/watch?v=9W_DTjGTa1k"
+  },
+  "Michoel Streicher|Elokai Neshoma": {
+    "artist": "Michoel Streicher",
+    "track": "Elokai Neshoma",
+    "album": "The Power of Prayer",
+    "video_id": "isnUs2FqUmk",
+    "url": "https://www.youtube.com/watch?v=isnUs2FqUmk"
+  },
+  "Michoel Streicher|V'somachta": null,
+  "Michoel Streicher|Askina Sedussa": {
+    "artist": "Michoel Streicher",
+    "track": "Askina Sedussa",
+    "album": "The Power of Prayer",
+    "video_id": "BDmqKSBcYrg",
+    "url": "https://www.youtube.com/watch?v=BDmqKSBcYrg"
+  },
+  "Michoel Streicher|Keitzad Mirakdim": {
+    "artist": "Michoel Streicher",
+    "track": "Keitzad Mirakdim",
+    "album": "The Power of Prayer",
+    "video_id": "uKHKzWZDS-U",
+    "url": "https://www.youtube.com/watch?v=uKHKzWZDS-U"
+  },
+  "Michoel Streicher|Od Yeshama": {
+    "artist": "Michoel Streicher",
+    "track": "Od Yeshama",
+    "album": "The Power of Prayer",
+    "video_id": "rZ-kRsBNxhA",
+    "url": "https://www.youtube.com/watch?v=rZ-kRsBNxhA"
+  },
+  "Michoel Streicher|L'olam Yehe": {
+    "artist": "Michoel Streicher",
+    "track": "L'olam Yehe",
+    "album": "The Power of Prayer",
+    "video_id": "afg2O0URnYY",
+    "url": "https://www.youtube.com/watch?v=afg2O0URnYY"
+  },
+  "Michoel Streicher|Vishomru": null,
+  "Michoel Streicher|Peace Of Mind": {
+    "artist": "Michoel Streicher",
+    "track": "Peace Of Mind",
+    "album": "The Power of Torah",
+    "video_id": "lp5BNxwqNBs",
+    "url": "https://www.youtube.com/watch?v=lp5BNxwqNBs"
+  },
+  "Michoel Streicher|Seder Hanochas T'fillin": null,
+  "Michoel Streicher|Ve'haraini Mechaven": null,
+  "Michoel Streicher|Ve'yemaleh": null,
+  "Michoel Streicher|B'rosh Hashana": {
+    "artist": "Michoel Streicher",
+    "track": "B'rosh Hashana",
+    "album": "Ribono Shel Olam Listen",
+    "video_id": "oqqJJZ5PLzM",
+    "url": "https://www.youtube.com/watch?v=oqqJJZ5PLzM"
+  },
+  "Michoel Streicher|Meheiro": {
+    "artist": "Michoel Streicher",
+    "track": "Meheiro",
+    "album": "Ribono Shel Olam Listen",
+    "video_id": "BD7K7M-utak",
+    "url": "https://www.youtube.com/watch?v=BD7K7M-utak"
+  },
+  "Michoel Streicher|Simcha Gedola": {
+    "artist": "Michoel Streicher",
+    "track": "Simcha Gedola",
+    "album": "Ribono Shel Olam Listen",
+    "video_id": "m68ITWrbiLA",
+    "url": "https://www.youtube.com/watch?v=m68ITWrbiLA"
+  }
 }
