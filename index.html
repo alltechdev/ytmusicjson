@@ -178,6 +178,22 @@
     .track-duration {
       color: #888;
       font-size: 0.85rem;
+      margin-right: 8px;
+    }
+
+    .youtube-link {
+      color: #ff0000;
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: bold;
+      padding: 4px 8px;
+      border-radius: 4px;
+      background: #fee;
+      transition: background 0.2s;
+    }
+
+    .youtube-link:hover {
+      background: #fcc;
     }
 
     .no-results {
@@ -323,10 +339,15 @@
 
         const tracksHtml = item.tracks?.slice(0, 10).map(track => {
           const duration = formatDuration(track.duration);
+          const youtubeQuery = encodeURIComponent(`${item.artist} ${track.name}`);
+          const youtubeUrl = `https://www.youtube.com/results?search_query=${youtubeQuery}`;
           return `
             <div class="track-item">
               <span class="track-name">${escapeHtml(track.name)}</span>
-              ${duration ? `<span class="track-duration">${duration}</span>` : ''}
+              <div style="display: flex; align-items: center;">
+                ${duration ? `<span class="track-duration">${duration}</span>` : ''}
+                <a href="${youtubeUrl}" target="_blank" class="youtube-link" title="Search on YouTube">YT</a>
+              </div>
             </div>
           `;
         }).join('') || '';
