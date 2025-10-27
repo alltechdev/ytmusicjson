@@ -40442,5 +40442,693 @@
     "album": "Shabbat Vol. 1",
     "video_id": "7ubpq1EEefQ",
     "url": "https://www.youtube.com/watch?v=7ubpq1EEefQ"
+  },
+  "Moshav Band|Mizmor Shiru": {
+    "artist": "Moshav Band",
+    "track": "Mizmor Shiru",
+    "album": "Shabbat Vol. 1",
+    "video_id": "pWd0WAyrclk",
+    "url": "https://www.youtube.com/watch?v=pWd0WAyrclk"
+  },
+  "Moshav Band|Mizmor L'David": {
+    "artist": "Moshav Band",
+    "track": "Mizmor L'David",
+    "album": "Shabbat Vol. 1",
+    "video_id": "adb8oVluc8Y",
+    "url": "https://www.youtube.com/watch?v=adb8oVluc8Y"
+  },
+  "Moshav Band|Lecha Dodi": {
+    "artist": "Moshav Band",
+    "track": "Lecha Dodi",
+    "album": "Shabbat Vol. 1",
+    "video_id": "B0W17L0lxOw",
+    "url": "https://www.youtube.com/watch?v=B0W17L0lxOw"
+  },
+  "Moshav Band|Boi B'Shalom": {
+    "artist": "Moshav Band",
+    "track": "Boi B'Shalom",
+    "album": "Shabbat Vol. 1",
+    "video_id": "xxQo_QoIZxM",
+    "url": "https://www.youtube.com/watch?v=xxQo_QoIZxM"
+  },
+  "Moshav Band|Ahavat Olam": {
+    "artist": "Moshav Band",
+    "track": "Ahavat Olam",
+    "album": "Shabbat Vol. 1",
+    "video_id": "9q2giBlZiUo",
+    "url": "https://www.youtube.com/watch?v=9q2giBlZiUo"
+  },
+  "Moshav Band|V'Shamru": {
+    "artist": "Moshav Band",
+    "track": "V'Shamru",
+    "album": "Shabbat Vol. 1",
+    "video_id": "boPxltJPQm8",
+    "url": "https://www.youtube.com/watch?v=boPxltJPQm8"
+  },
+  "Moshav Band|Le'ellah": {
+    "artist": "Moshav Band",
+    "track": "Le'ellah",
+    "album": "Shabbat Vol. 1",
+    "video_id": "FoV50Cx7mQw",
+    "url": "https://www.youtube.com/watch?v=FoV50Cx7mQw"
+  },
+  "Moshav Band|Shalom Alechem": {
+    "artist": "Moshav Band",
+    "track": "Shalom Alechem",
+    "album": "Shabbat Vol. 1",
+    "video_id": "qRCdvxcx2Nk",
+    "url": "https://www.youtube.com/watch?v=qRCdvxcx2Nk"
+  },
+  "Moshav Band|Tzetchem L'Shalom": {
+    "artist": "Moshav Band",
+    "track": "Tzetchem L'Shalom",
+    "album": "Shabbat Vol. 1",
+    "video_id": "vz_rHILBwkw",
+    "url": "https://www.youtube.com/watch?v=vz_rHILBwkw"
+  },
+  "Moshav Band|K'Shoshana": {
+    "artist": "Moshav Band",
+    "track": "K'Shoshana",
+    "album": "Shabbat Vol. 1",
+    "video_id": "ClpPq1MC2pM",
+    "url": "https://www.youtube.com/watch?v=ClpPq1MC2pM"
+  },
+  "Moshav Band|Halellu": {
+    "artist": "Moshav Band",
+    "track": "Halellu",
+    "album": "Shabbat Vol. 1",
+    "video_id": "tNei-4JBfRM",
+    "url": "https://www.youtube.com/watch?v=tNei-4JBfRM"
+  },
+  "Moshav Band|Adon Olam": {
+    "artist": "Moshav Band",
+    "track": "Adon Olam",
+    "album": "Shabbat Vol. 1",
+    "video_id": "zzn9BEMDX10",
+    "url": "https://www.youtube.com/watch?v=zzn9BEMDX10"
+  },
+  "Moshav Band|Havdallah": {
+    "artist": "Moshav Band",
+    "track": "Havdallah",
+    "album": "Shabbat Vol. 1",
+    "video_id": "UVRSgQFexBA",
+    "url": "https://www.youtube.com/watch?v=UVRSgQFexBA"
+  },
+  "Moshav Band|Modeh Ani": {
+    "artist": "Moshav Band",
+    "track": "Modeh Ani",
+    "album": "Shabbat Vol. 2",
+    "video_id": "GCQ33I7MHOA",
+    "url": "https://www.youtube.com/watch?v=GCQ33I7MHOA"
+  },
+  "Moshav Band|Elohai Neshama": {
+    "artist": "Moshav Band",
+    "track": "Elohai Neshama",
+    "album": "Shabbat Vol. 2",
+    "video_id": "4Vi17io75P8",
+    "url": "https://www.youtube.com/watch?v=4Vi17io75P8"
+  },
+  "Moshav Band|Ma Tovu": {
+    "artist": "Moshav Band",
+    "track": "Ma Tovu",
+    "album": "Shabbat Vol. 2",
+    "video_id": "zXMninFhbV4",
+    "url": "https://www.youtube.com/watch?v=zXMninFhbV4"
+  },
+  "Moshav Band|Av Harachaman": {
+    "artist": "Moshav Band",
+    "track": "Av Harachaman",
+    "album": "Shabbat Vol. 2",
+    "video_id": "tJbSw2lJ7OA",
+    "url": "https://www.youtube.com/watch?v=tJbSw2lJ7OA"
+  },
+  "Moshav Band|Or Chadash": {
+    "artist": "Moshav Band",
+    "track": "Or Chadash",
+    "album": "Shabbat Vol. 2",
+    "video_id": "owfalQ_Lstg",
+    "url": "https://www.youtube.com/watch?v=owfalQ_Lstg"
+  },
+  "Moshav Band|Tzur Yisrael": {
+    "artist": "Moshav Band",
+    "track": "Tzur Yisrael",
+    "album": "Shabbat Vol. 2",
+    "video_id": "sKsgLG1HfDU",
+    "url": "https://www.youtube.com/watch?v=sKsgLG1HfDU"
+  },
+  "Moshav Band|Kedusha": {
+    "artist": "Moshav Band",
+    "track": "Kedusha",
+    "album": "Shabbat Vol. 2",
+    "video_id": "NpwgvvqfyHE",
+    "url": "https://www.youtube.com/watch?v=NpwgvvqfyHE"
+  },
+  "Moshav Band|L_Dor Vador": {
+    "artist": "Moshav Band",
+    "track": "L_Dor Vador",
+    "album": "Shabbat Vol. 2",
+    "video_id": "qNDsh1qRGtc",
+    "url": "https://www.youtube.com/watch?v=qNDsh1qRGtc"
+  },
+  "Moshav Band|Birkat Kohanim": {
+    "artist": "Moshav Band",
+    "track": "Birkat Kohanim",
+    "album": "Shabbat Vol. 2",
+    "video_id": "j4j7DS0YdPw",
+    "url": "https://www.youtube.com/watch?v=j4j7DS0YdPw"
+  },
+  "Moshav Band|Romemu": {
+    "artist": "Moshav Band",
+    "track": "Romemu",
+    "album": "Shabbat Vol. 2",
+    "video_id": "4hT1lcl_MXE",
+    "url": "https://www.youtube.com/watch?v=4hT1lcl_MXE"
+  },
+  "Moshav Band|Etz Chayim": {
+    "artist": "Moshav Band",
+    "track": "Etz Chayim",
+    "album": "Shabbat Vol. 2",
+    "video_id": "W3HkfTJkX_4",
+    "url": "https://www.youtube.com/watch?v=W3HkfTJkX_4"
+  },
+  "Moshav Band|Bayom Hahu": {
+    "artist": "Moshav Band",
+    "track": "Bayom Hahu",
+    "album": "Shabbat Vol. 2",
+    "video_id": "NHgXKfM6dXc",
+    "url": "https://www.youtube.com/watch?v=NHgXKfM6dXc"
+  },
+  "Moshav Band|Dodi Li": {
+    "artist": "Moshav Band",
+    "track": "Dodi Li",
+    "album": "Shabbat Vol. 2",
+    "video_id": "y1UT0v61Nsc",
+    "url": "https://www.youtube.com/watch?v=y1UT0v61Nsc"
+  },
+  "Moshav Band|Asader Le_Seudata": null,
+  "Moshav Band|Nagila Halleluyah": {
+    "artist": "Moshav Band",
+    "track": "Nagila Halleluyah",
+    "album": "Shabbat Vol. 2",
+    "video_id": "hDp3eXhV8Oo",
+    "url": "https://www.youtube.com/watch?v=hDp3eXhV8Oo"
+  },
+  "Moshav Band|Eliyahu Hanavi": {
+    "artist": "Moshav Band",
+    "track": "Eliyahu Hanavi",
+    "album": "Shabbat Vol. 2",
+    "video_id": "Y5_qxhBBCE0",
+    "url": "https://www.youtube.com/watch?v=Y5_qxhBBCE0"
+  },
+  "Moshav Band|Higher and Higher": {
+    "artist": "Moshav Band",
+    "track": "Higher and Higher",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "vKH1njVkc3Y",
+    "url": "https://www.youtube.com/watch?v=vKH1njVkc3Y"
+  },
+  "Moshav Band|Come Back": {
+    "artist": "Moshav Band",
+    "track": "Come Back",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "H72PW3_6wwo",
+    "url": "https://www.youtube.com/watch?v=H72PW3_6wwo"
+  },
+  "Moshav Band|Wake Up": {
+    "artist": "Moshav Band",
+    "track": "Wake Up",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "46EYyIGlkEo",
+    "url": "https://www.youtube.com/watch?v=46EYyIGlkEo"
+  },
+  "Moshav Band|Waiting For The Calling": {
+    "artist": "Moshav Band",
+    "track": "Waiting For The Calling",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "eccsPT2vCGU",
+    "url": "https://www.youtube.com/watch?v=eccsPT2vCGU"
+  },
+  "Moshav Band|Ufduyey": {
+    "artist": "Moshav Band",
+    "track": "Ufduyey",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "xqYnSf1za1U",
+    "url": "https://www.youtube.com/watch?v=xqYnSf1za1U"
+  },
+  "Moshav Band|Don't Give Up": {
+    "artist": "Moshav Band",
+    "track": "Don't Give Up",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "46EYyIGlkEo",
+    "url": "https://www.youtube.com/watch?v=46EYyIGlkEo"
+  },
+  "Moshav Band|Lost Time": {
+    "artist": "Moshav Band",
+    "track": "Lost Time",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "I6PBPL5Dn1I",
+    "url": "https://www.youtube.com/watch?v=I6PBPL5Dn1I"
+  },
+  "Moshav Band|Eulogy": {
+    "artist": "Moshav Band",
+    "track": "Eulogy",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "OyvSrZgGmc0",
+    "url": "https://www.youtube.com/watch?v=OyvSrZgGmc0"
+  },
+  "Moshav Band|The Things You Can't Afford": {
+    "artist": "Moshav Band",
+    "track": "The Things You Can't Afford",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "TTUpH4fHCUI",
+    "url": "https://www.youtube.com/watch?v=TTUpH4fHCUI"
+  },
+  "Moshav Band|Stop": {
+    "artist": "Moshav Band",
+    "track": "Stop",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "YmpzxITQhJQ",
+    "url": "https://www.youtube.com/watch?v=YmpzxITQhJQ"
+  },
+  "Moshav Band|Bereshit": {
+    "artist": "Moshav Band",
+    "track": "Bereshit",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "ltCLGZtAoXg",
+    "url": "https://www.youtube.com/watch?v=ltCLGZtAoXg"
+  },
+  "Moshav Band|Shabbos Kodesh": {
+    "artist": "Moshav Band",
+    "track": "Shabbos Kodesh",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "oAOQmbhABFs",
+    "url": "https://www.youtube.com/watch?v=oAOQmbhABFs"
+  },
+  "Moshav Band|Some Love": {
+    "artist": "Moshav Band",
+    "track": "Some Love",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "aN2nGE0Ruh4",
+    "url": "https://www.youtube.com/watch?v=aN2nGE0Ruh4"
+  },
+  "Moshav Band|Exteriors": {
+    "artist": "Moshav Band",
+    "track": "Exteriors",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "AbrX4_N4-7c",
+    "url": "https://www.youtube.com/watch?v=AbrX4_N4-7c"
+  },
+  "Moshav Band|Return Again": {
+    "artist": "Moshav Band",
+    "track": "Return Again",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "RGJaDwyEa88",
+    "url": "https://www.youtube.com/watch?v=RGJaDwyEa88"
+  },
+  "Moshav Band|Heart Is Open (Acoustic Version)": {
+    "artist": "Moshav Band",
+    "track": "Heart Is Open (Acoustic Version)",
+    "album": "Higher and Higher: The Best Of Moshav Band",
+    "video_id": "byGvOZmlCBM",
+    "url": "https://www.youtube.com/watch?v=byGvOZmlCBM"
+  },
+  "Moshav Band|The Only One": {
+    "artist": "Moshav Band",
+    "track": "The Only One",
+    "album": "Misplaced",
+    "video_id": "zzD2AuX8jsE",
+    "url": "https://www.youtube.com/watch?v=zzD2AuX8jsE"
+  },
+  "Moshav Band|Closer": {
+    "artist": "Moshav Band",
+    "track": "Closer",
+    "album": "Misplaced",
+    "video_id": "dgM-h3GJdJQ",
+    "url": "https://www.youtube.com/watch?v=dgM-h3GJdJQ"
+  },
+  "Moshav Band|When I'm Gone": {
+    "artist": "Moshav Band",
+    "track": "When I'm Gone",
+    "album": "Misplaced",
+    "video_id": "C_9VSX8g3t4",
+    "url": "https://www.youtube.com/watch?v=C_9VSX8g3t4"
+  },
+  "Moshav Band|Misplaced": {
+    "artist": "Moshav Band",
+    "track": "Misplaced",
+    "album": "Misplaced",
+    "video_id": "pCXqZzY26tk",
+    "url": "https://www.youtube.com/watch?v=pCXqZzY26tk"
+  },
+  "Moshav Band|Cold Cry": {
+    "artist": "Moshav Band",
+    "track": "Cold Cry",
+    "album": "Misplaced",
+    "video_id": "xyi-V5CaqTk",
+    "url": "https://www.youtube.com/watch?v=xyi-V5CaqTk"
+  },
+  "Moshav Band|Hallelu": {
+    "artist": "Moshav Band",
+    "track": "Hallelu",
+    "album": "Misplaced",
+    "video_id": "hDp3eXhV8Oo",
+    "url": "https://www.youtube.com/watch?v=hDp3eXhV8Oo"
+  },
+  "Moshav Band|Lift Up Your Head": {
+    "artist": "Moshav Band",
+    "track": "Lift Up Your Head",
+    "album": "Misplaced",
+    "video_id": "d3zt2ZHJc-M",
+    "url": "https://www.youtube.com/watch?v=d3zt2ZHJc-M"
+  },
+  "Moshav Band|Streets Of Jerusalem": {
+    "artist": "Moshav Band",
+    "track": "Streets Of Jerusalem",
+    "album": "Misplaced",
+    "video_id": "z6gbFN9aJoc",
+    "url": "https://www.youtube.com/watch?v=z6gbFN9aJoc"
+  },
+  "Moshav Band|Heart Is Open": {
+    "artist": "Moshav Band",
+    "track": "Heart Is Open",
+    "album": "Misplaced",
+    "video_id": "BYiann-sN4U",
+    "url": "https://www.youtube.com/watch?v=BYiann-sN4U"
+  },
+  "Moshav Band|Stand Up": {
+    "artist": "Moshav Band",
+    "track": "Stand Up",
+    "album": "Misplaced",
+    "video_id": "f5DN6ARn4TU",
+    "url": "https://www.youtube.com/watch?v=f5DN6ARn4TU"
+  },
+  "Moshav Band|Dream Again": {
+    "artist": "Moshav Band",
+    "track": "Dream Again",
+    "album": "Misplaced",
+    "video_id": "GXkERJ6lPxM",
+    "url": "https://www.youtube.com/watch?v=GXkERJ6lPxM"
+  },
+  "Moshav Band|Light The Way": {
+    "artist": "Moshav Band",
+    "track": "Light The Way",
+    "album": "Light The Way",
+    "video_id": "MMxnPBl72-s",
+    "url": "https://www.youtube.com/watch?v=MMxnPBl72-s"
+  },
+  "Moshav Band|Chicki Boom": {
+    "artist": "Moshav Band",
+    "track": "Chicki Boom",
+    "album": "New Sun Rising",
+    "video_id": "s-23JITIeWE",
+    "url": "https://www.youtube.com/watch?v=s-23JITIeWE"
+  },
+  "Moshav Band|Back to the Road": {
+    "artist": "Moshav Band",
+    "track": "Back to the Road",
+    "album": "New Sun Rising",
+    "video_id": "HQ7UieirhM8",
+    "url": "https://www.youtube.com/watch?v=HQ7UieirhM8"
+  },
+  "Moshav Band|Hope (ForTomorrow)": {
+    "artist": "Moshav Band",
+    "track": "Hope (ForTomorrow)",
+    "album": "New Sun Rising",
+    "video_id": "-jER-1-okSs",
+    "url": "https://www.youtube.com/watch?v=-jER-1-okSs"
+  },
+  "Moshav Band|Rising": {
+    "artist": "Moshav Band",
+    "track": "Rising",
+    "album": "New Sun Rising",
+    "video_id": "s-23JITIeWE",
+    "url": "https://www.youtube.com/watch?v=s-23JITIeWE"
+  },
+  "Moshav Band|Ancient Song": {
+    "artist": "Moshav Band",
+    "track": "Ancient Song",
+    "album": "New Sun Rising",
+    "video_id": "ohiLc5Or3Po",
+    "url": "https://www.youtube.com/watch?v=ohiLc5Or3Po"
+  },
+  "Moshav Band|One By One": {
+    "artist": "Moshav Band",
+    "track": "One By One",
+    "album": "New Sun Rising",
+    "video_id": "zzD2AuX8jsE",
+    "url": "https://www.youtube.com/watch?v=zzD2AuX8jsE"
+  },
+  "Moshav Band|Coming Our Way": {
+    "artist": "Moshav Band",
+    "track": "Coming Our Way",
+    "album": "New Sun Rising",
+    "video_id": "OSCNTGnSBPY",
+    "url": "https://www.youtube.com/watch?v=OSCNTGnSBPY"
+  },
+  "Moshav Band|Not To Be Afraid": {
+    "artist": "Moshav Band",
+    "track": "Not To Be Afraid",
+    "album": "New Sun Rising",
+    "video_id": "C_9VSX8g3t4",
+    "url": "https://www.youtube.com/watch?v=C_9VSX8g3t4"
+  },
+  "Moshav Band|Light Up The Night": {
+    "artist": "Moshav Band",
+    "track": "Light Up The Night",
+    "album": "New Sun Rising",
+    "video_id": "BNfKhfAhnts",
+    "url": "https://www.youtube.com/watch?v=BNfKhfAhnts"
+  },
+  "Moshav Band|Stiff Soul": {
+    "artist": "Moshav Band",
+    "track": "Stiff Soul",
+    "album": "Days",
+    "video_id": "fYlYayjsI6E",
+    "url": "https://www.youtube.com/watch?v=fYlYayjsI6E"
+  },
+  "Moshav Band|Oseh Shalom": {
+    "artist": "Moshav Band",
+    "track": "Oseh Shalom",
+    "album": "Days",
+    "video_id": "5sTMKztMndA",
+    "url": "https://www.youtube.com/watch?v=5sTMKztMndA"
+  },
+  "Moshav Band|My Toll": {
+    "artist": "Moshav Band",
+    "track": "My Toll",
+    "album": "Days",
+    "video_id": "ii7RnekMmiw",
+    "url": "https://www.youtube.com/watch?v=ii7RnekMmiw"
+  },
+  "Moshav Band|Waste Away": {
+    "artist": "Moshav Band",
+    "track": "Waste Away",
+    "album": "Days",
+    "video_id": "dyHQ7uDGq-o",
+    "url": "https://www.youtube.com/watch?v=dyHQ7uDGq-o"
+  },
+  "Moshav Band|Higher & Higher": {
+    "artist": "Moshav Band",
+    "track": "Higher & Higher",
+    "album": "Days",
+    "video_id": "vKH1njVkc3Y",
+    "url": "https://www.youtube.com/watch?v=vKH1njVkc3Y"
+  },
+  "Moshav Band|Never On Ground": {
+    "artist": "Moshav Band",
+    "track": "Never On Ground",
+    "album": "Days",
+    "video_id": "NGRQaon0xwo",
+    "url": "https://www.youtube.com/watch?v=NGRQaon0xwo"
+  },
+  "Moshav Band|Days": {
+    "artist": "Moshav Band",
+    "track": "Days",
+    "album": "Days",
+    "video_id": "NpwgvvqfyHE",
+    "url": "https://www.youtube.com/watch?v=NpwgvvqfyHE"
+  },
+  "Moshav Band|On My Case": {
+    "artist": "Moshav Band",
+    "track": "On My Case",
+    "album": "Days",
+    "video_id": "iJB_-hdEVDw",
+    "url": "https://www.youtube.com/watch?v=iJB_-hdEVDw"
+  },
+  "Moshav Band|Precious": {
+    "artist": "Moshav Band",
+    "track": "Precious",
+    "album": "Days",
+    "video_id": "TUMcj_BQgms",
+    "url": "https://www.youtube.com/watch?v=TUMcj_BQgms"
+  },
+  "Moshav Band|Welcome": {
+    "artist": "Moshav Band",
+    "track": "Welcome",
+    "album": "Live at B.B. King NYC",
+    "video_id": "_n5pupcy5IE",
+    "url": "https://www.youtube.com/watch?v=_n5pupcy5IE"
+  },
+  "Moshav Band|Waitin For The Calling": {
+    "artist": "Moshav Band",
+    "track": "Waitin For The Calling",
+    "album": "Live at B.B. King NYC",
+    "video_id": "eccsPT2vCGU",
+    "url": "https://www.youtube.com/watch?v=eccsPT2vCGU"
+  },
+  "Moshav Band|B'Reishis": null,
+  "Moshav Band|Lord Get Me High": {
+    "artist": "Moshav Band",
+    "track": "Lord Get Me High",
+    "album": "Live at B.B. King NYC",
+    "video_id": "HEvX08cL3Xg",
+    "url": "https://www.youtube.com/watch?v=HEvX08cL3Xg"
+  },
+  "Moshav Band|Forever": {
+    "artist": "Moshav Band",
+    "track": "Forever",
+    "album": "Live at B.B. King NYC",
+    "video_id": "zzn9BEMDX10",
+    "url": "https://www.youtube.com/watch?v=zzn9BEMDX10"
+  },
+  "Moshav Band|Birchas Chanuka": {
+    "artist": "Moshav Band",
+    "track": "Birchas Chanuka",
+    "album": "Live at B.B. King NYC",
+    "video_id": "ltCLGZtAoXg",
+    "url": "https://www.youtube.com/watch?v=ltCLGZtAoXg"
+  },
+  "Moshav Band|Yibaneh": {
+    "artist": "Moshav Band",
+    "track": "Yibaneh",
+    "album": "Live at B.B. King NYC",
+    "video_id": "hSdXHeVEhYo",
+    "url": "https://www.youtube.com/watch?v=hSdXHeVEhYo"
+  },
+  "Moshav Band|Gonna Make me Lonesome": {
+    "artist": "Moshav Band",
+    "track": "Gonna Make me Lonesome",
+    "album": "Live at B.B. King NYC",
+    "video_id": "JrDLI4bE6FE",
+    "url": "https://www.youtube.com/watch?v=JrDLI4bE6FE"
+  },
+  "Moshav Band|I'm Not Giving Up On You": {
+    "artist": "Moshav Band",
+    "track": "I'm Not Giving Up On You",
+    "album": "Live at B.B. King NYC",
+    "video_id": "KsGyMpRMwGY",
+    "url": "https://www.youtube.com/watch?v=KsGyMpRMwGY"
+  },
+  "Moshav Band|Nothing At All": {
+    "artist": "Moshav Band",
+    "track": "Nothing At All",
+    "album": "Lost Time",
+    "video_id": "LZuYHch2uTI",
+    "url": "https://www.youtube.com/watch?v=LZuYHch2uTI"
+  },
+  "Moshav Band|All Through The Night": {
+    "artist": "Moshav Band",
+    "track": "All Through The Night",
+    "album": "Lost Time",
+    "video_id": "cHrFJFpZ_ZA",
+    "url": "https://www.youtube.com/watch?v=cHrFJFpZ_ZA"
+  },
+  "Moshav Band|Jazzy": {
+    "artist": "Moshav Band",
+    "track": "Jazzy",
+    "album": "Lost Time",
+    "video_id": "4DRbcKtL13I",
+    "url": "https://www.youtube.com/watch?v=4DRbcKtL13I"
+  },
+  "Moshav Band|Burning Ground": {
+    "artist": "Moshav Band",
+    "track": "Burning Ground",
+    "album": "Lost Time",
+    "video_id": "_fvabMWE_Kw",
+    "url": "https://www.youtube.com/watch?v=_fvabMWE_Kw"
+  },
+  "Moshav Band|Working Day": {
+    "artist": "Moshav Band",
+    "track": "Working Day",
+    "album": "Lost Time",
+    "video_id": "5tPlXTOby6U",
+    "url": "https://www.youtube.com/watch?v=5tPlXTOby6U"
+  },
+  "Moshav Band|Hold On": {
+    "artist": "Moshav Band",
+    "track": "Hold On",
+    "album": "Lost Time",
+    "video_id": "alnotJEVjls",
+    "url": "https://www.youtube.com/watch?v=alnotJEVjls"
+  },
+  "Moshav Band|Tfilah": {
+    "artist": "Moshav Band",
+    "track": "Tfilah",
+    "album": "Return Again",
+    "video_id": "K3SQRKlIuaA",
+    "url": "https://www.youtube.com/watch?v=K3SQRKlIuaA"
+  },
+  "Moshav Band|Shomer Yisrael": {
+    "artist": "Moshav Band",
+    "track": "Shomer Yisrael",
+    "album": "Return Again",
+    "video_id": "sKsgLG1HfDU",
+    "url": "https://www.youtube.com/watch?v=sKsgLG1HfDU"
+  },
+  "Moshav Band|Pitchu Li": {
+    "artist": "Moshav Band",
+    "track": "Pitchu Li",
+    "album": "Return Again",
+    "video_id": "4VZ5hjARvpk",
+    "url": "https://www.youtube.com/watch?v=4VZ5hjARvpk"
+  },
+  "Moshav Band|Hitoreri": {
+    "artist": "Moshav Band",
+    "track": "Hitoreri",
+    "album": "Return Again",
+    "video_id": "jIPlcbc7j6Y",
+    "url": "https://www.youtube.com/watch?v=jIPlcbc7j6Y"
+  },
+  "Moshav Band|Waitin' for the Callin'": {
+    "artist": "Moshav Band",
+    "track": "Waitin' for the Callin'",
+    "album": "The Things You Can't Afford",
+    "video_id": "eccsPT2vCGU",
+    "url": "https://www.youtube.com/watch?v=eccsPT2vCGU"
+  },
+  "Moshav Band|In My Shoes": {
+    "artist": "Moshav Band",
+    "track": "In My Shoes",
+    "album": "The Things You Can't Afford",
+    "video_id": "iJB_-hdEVDw",
+    "url": "https://www.youtube.com/watch?v=iJB_-hdEVDw"
+  },
+  "Moshav Band|The Way Over": {
+    "artist": "Moshav Band",
+    "track": "The Way Over",
+    "album": "The Things You Can't Afford",
+    "video_id": "MMxnPBl72-s",
+    "url": "https://www.youtube.com/watch?v=MMxnPBl72-s"
+  },
+  "Moshav Band|Y'Hee Shalom": {
+    "artist": "Moshav Band",
+    "track": "Y'Hee Shalom",
+    "album": "The Things You Can't Afford",
+    "video_id": "0qrquaO8QEE",
+    "url": "https://www.youtube.com/watch?v=0qrquaO8QEE"
+  },
+  "Moshav Band|David Melech / Am Yisrael Chai": {
+    "artist": "Moshav Band",
+    "track": "David Melech / Am Yisrael Chai",
+    "album": "The Things You Can't Afford",
+    "video_id": "rwXfO8RRHsU",
+    "url": "https://www.youtube.com/watch?v=rwXfO8RRHsU"
+  },
+  "Moshav Band|Dreams": {
+    "artist": "Moshav Band",
+    "track": "Dreams",
+    "album": "The Things You Can't Afford",
+    "video_id": "GXkERJ6lPxM",
+    "url": "https://www.youtube.com/watch?v=GXkERJ6lPxM"
   }
 }
