@@ -22288,5 +22288,531 @@
     "album": "Halev Sheli",
     "video_id": "x494-sb5mzw",
     "url": "https://www.youtube.com/watch?v=x494-sb5mzw"
+  },
+  "Danny Palgon|Keili": {
+    "artist": "Danny Palgon",
+    "track": "Keili",
+    "album": "Keili",
+    "video_id": "LpTrE69ZVpM",
+    "url": "https://www.youtube.com/watch?v=LpTrE69ZVpM"
+  },
+  "Danny Palgon|Lecha": {
+    "artist": "Danny Palgon",
+    "track": "Lecha",
+    "album": "Lecha",
+    "video_id": "GUuUk9clYmU",
+    "url": "https://www.youtube.com/watch?v=GUuUk9clYmU"
+  },
+  "Danny Palgon|Nafshi": {
+    "artist": "Danny Palgon",
+    "track": "Nafshi",
+    "album": "Nafshi",
+    "video_id": "sD3weqBv1mE",
+    "url": "https://www.youtube.com/watch?v=sD3weqBv1mE"
+  },
+  "Danny Palgon|Riboin": {
+    "artist": "Danny Palgon",
+    "track": "Riboin",
+    "album": "Riboin",
+    "video_id": "obfLWOtokcU",
+    "url": "https://www.youtube.com/watch?v=obfLWOtokcU"
+  },
+  "Danny Palgon|Say Something - Boee B'shalom": {
+    "artist": "Danny Palgon",
+    "track": "Say Something - Boee B'shalom",
+    "album": "Say Something - Boee B'shalom",
+    "video_id": "IDH9A_ZB68w",
+    "url": "https://www.youtube.com/watch?v=IDH9A_ZB68w"
+  },
+  "Danny Palgon|Tov Lehodos": {
+    "artist": "Danny Palgon",
+    "track": "Tov Lehodos",
+    "album": "Tov Lehodos",
+    "video_id": "ZvlzLBvBTeY",
+    "url": "https://www.youtube.com/watch?v=ZvlzLBvBTeY"
+  },
+  "Lipa Schmeltzer|Ahiem-Mizmor Shir": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ahiem-Mizmor Shir",
+    "album": "Baderech",
+    "video_id": "-9A8NooQFnc",
+    "url": "https://www.youtube.com/watch?v=-9A8NooQFnc"
+  },
+  "Lipa Schmeltzer|A Kaporah": {
+    "artist": "Lipa Schmeltzer",
+    "track": "A Kaporah",
+    "album": "Baderech",
+    "video_id": "r0Vg6zXZ4Eo",
+    "url": "https://www.youtube.com/watch?v=r0Vg6zXZ4Eo"
+  },
+  "Lipa Schmeltzer|Mi Sheomar": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Mi Sheomar",
+    "album": "Baderech",
+    "video_id": "IxkvxhNTd0A",
+    "url": "https://www.youtube.com/watch?v=IxkvxhNTd0A"
+  },
+  "Lipa Schmeltzer|Chafetz Chaim": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Chafetz Chaim",
+    "album": "Baderech",
+    "video_id": "ibpFV5Azyyc",
+    "url": "https://www.youtube.com/watch?v=ibpFV5Azyyc"
+  },
+  "Lipa Schmeltzer|Gelt": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Gelt",
+    "album": "Baderech",
+    "video_id": "yM6zs91Khns",
+    "url": "https://www.youtube.com/watch?v=yM6zs91Khns"
+  },
+  "Lipa Schmeltzer|Uvinu Malkeinu": null,
+  "Lipa Schmeltzer|Dimyones": null,
+  "Lipa Schmeltzer|Coffe": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Coffe",
+    "album": "Baderech",
+    "video_id": "Pqa8a-OPIjg",
+    "url": "https://www.youtube.com/watch?v=Pqa8a-OPIjg"
+  },
+  "Lipa Schmeltzer|Baderech": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Baderech",
+    "album": "Baderech",
+    "video_id": "XF7niQfXsAA",
+    "url": "https://www.youtube.com/watch?v=XF7niQfXsAA"
+  },
+  "Lipa Schmeltzer|What's News": {
+    "artist": "Lipa Schmeltzer",
+    "track": "What's News",
+    "album": "Baderech",
+    "video_id": "pSFoDrN_lb0",
+    "url": "https://www.youtube.com/watch?v=pSFoDrN_lb0"
+  },
+  "Lipa Schmeltzer|V'chol Hachiaim": null,
+  "Lipa Schmeltzer|Raboisai": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Raboisai",
+    "album": "Keinehora",
+    "video_id": "stGc7zkzv2c",
+    "url": "https://www.youtube.com/watch?v=stGc7zkzv2c"
+  },
+  "Lipa Schmeltzer|Sh'li Sh'luch": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Sh'li Sh'luch",
+    "album": "Keinehora",
+    "video_id": "cXHvzY3j4_g",
+    "url": "https://www.youtube.com/watch?v=cXHvzY3j4_g"
+  },
+  "Lipa Schmeltzer|Hashiveini": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Hashiveini",
+    "album": "Keinehora",
+    "video_id": "neKSEoybdEY",
+    "url": "https://www.youtube.com/watch?v=neKSEoybdEY"
+  },
+  "Lipa Schmeltzer|Gilgal Hachozer": null,
+  "Lipa Schmeltzer|Chaloim Chalamti": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Chaloim Chalamti",
+    "album": "Keinehora",
+    "video_id": "J8anAXDmGNw",
+    "url": "https://www.youtube.com/watch?v=J8anAXDmGNw"
+  },
+  "Lipa Schmeltzer|Hut Bituchon": null,
+  "Lipa Schmeltzer|Shavosi": null,
+  "Lipa Schmeltzer|Nisht In Shabbos Giredt": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Nisht In Shabbos Giredt",
+    "album": "Keinehora",
+    "video_id": "VR36s1oEhKQ",
+    "url": "https://www.youtube.com/watch?v=VR36s1oEhKQ"
+  },
+  "Lipa Schmeltzer|Asorah Harigei Malchus": null,
+  "Lipa Schmeltzer|Tizku L'mitzvos": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Tizku L'mitzvos",
+    "album": "Keinehora",
+    "video_id": "etjAOtGegnM",
+    "url": "https://www.youtube.com/watch?v=etjAOtGegnM"
+  },
+  "Lipa Schmeltzer|Z'chor": null,
+  "Lipa Schmeltzer|Keine HORA": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Keine HORA",
+    "album": "Keinehora",
+    "video_id": "NGmI1GMNtz8",
+    "url": "https://www.youtube.com/watch?v=NGmI1GMNtz8"
+  },
+  "Lipa Schmeltzer|Al Tadin": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Al Tadin",
+    "album": "Keinehora",
+    "video_id": "68arkwryLbg",
+    "url": "https://www.youtube.com/watch?v=68arkwryLbg"
+  },
+  "Lipa Schmeltzer|Men Dorf Boholtin": null,
+  "Lipa Schmeltzer|Odir Bimliechu": null,
+  "Lipa Schmeltzer|Niggun Moshiach": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Niggun Moshiach",
+    "album": "Leeilu Ulieeilu",
+    "video_id": "mWXqXyjn1o4",
+    "url": "https://www.youtube.com/watch?v=mWXqXyjn1o4"
+  },
+  "Lipa Schmeltzer|Niggun Viheishev": null,
+  "Lipa Schmeltzer|Tzivishen Kossov In Kitev": null,
+  "Lipa Schmeltzer|Hoben Yokir": null,
+  "Lipa Schmeltzer|Niggun Rikid": null,
+  "Lipa Schmeltzer|Shir Hoshirem": null,
+  "Lipa Schmeltzer|Niggun Simcha": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Niggun Simcha",
+    "album": "Leeilu Ulieeilu",
+    "video_id": "JQ_AFz9yFjE",
+    "url": "https://www.youtube.com/watch?v=JQ_AFz9yFjE"
+  },
+  "Lipa Schmeltzer|Niggun Yaakov Oveene": null,
+  "Lipa Schmeltzer|Yumim": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Yumim",
+    "album": "Leeilu Ulieeilu",
+    "video_id": "VxenkAwLVF8",
+    "url": "https://www.youtube.com/watch?v=VxenkAwLVF8"
+  },
+  "Lipa Schmeltzer|Niggun Huriszhene": null,
+  "Lipa Schmeltzer|Gam Zu": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Gam Zu",
+    "album": "Letova",
+    "video_id": "TDurkBPPE6Q",
+    "url": "https://www.youtube.com/watch?v=TDurkBPPE6Q"
+  },
+  "Lipa Schmeltzer|Al Taster": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Al Taster",
+    "album": "Letova",
+    "video_id": "KtWnB-cuIA8",
+    "url": "https://www.youtube.com/watch?v=KtWnB-cuIA8"
+  },
+  "Lipa Schmeltzer|Shabbos": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Shabbos",
+    "album": "Letova",
+    "video_id": "AGHbZ0wU7DI",
+    "url": "https://www.youtube.com/watch?v=AGHbZ0wU7DI"
+  },
+  "Lipa Schmeltzer|Chasunah": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Chasunah",
+    "album": "Letova",
+    "video_id": "ixNdIFCe4h0",
+    "url": "https://www.youtube.com/watch?v=ixNdIFCe4h0"
+  },
+  "Lipa Schmeltzer|Ani Maamin": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ani Maamin",
+    "album": "Letova",
+    "video_id": "_OKytD6Hmfw",
+    "url": "https://www.youtube.com/watch?v=_OKytD6Hmfw"
+  },
+  "Lipa Schmeltzer|V'etueir": null,
+  "Lipa Schmeltzer|Kiddush Levonah": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Kiddush Levonah",
+    "album": "Letova",
+    "video_id": "ZNnC8rXgEUY",
+    "url": "https://www.youtube.com/watch?v=ZNnC8rXgEUY"
+  },
+  "Lipa Schmeltzer|Koach Haniggun": null,
+  "Lipa Schmeltzer|Rifuainu": null,
+  "Lipa Schmeltzer|Itshuvah": null,
+  "Lipa Schmeltzer|L'tova": {
+    "artist": "Lipa Schmeltzer",
+    "track": "L'tova",
+    "album": "Letova",
+    "video_id": "lINEg_Rhr0M",
+    "url": "https://www.youtube.com/watch?v=lINEg_Rhr0M"
+  },
+  "Lipa Schmeltzer|Ilu Yisroel": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Ilu Yisroel",
+    "album": "Shema",
+    "video_id": "7zPFW9m6w2c",
+    "url": "https://www.youtube.com/watch?v=7zPFW9m6w2c"
+  },
+  "Lipa Schmeltzer|Shema Yisrael": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Shema Yisrael",
+    "album": "Shema",
+    "video_id": "sSrlx-ihvaM",
+    "url": "https://www.youtube.com/watch?v=sSrlx-ihvaM"
+  },
+  "Lipa Schmeltzer|Bakol Mikol Kol": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Bakol Mikol Kol",
+    "album": "Shema",
+    "video_id": "oLNPv5w1zWk",
+    "url": "https://www.youtube.com/watch?v=oLNPv5w1zWk"
+  },
+  "Lipa Schmeltzer|The Tear": {
+    "artist": "Lipa Schmeltzer",
+    "track": "The Tear",
+    "album": "Shema",
+    "video_id": "AJkbo71knRc",
+    "url": "https://www.youtube.com/watch?v=AJkbo71knRc"
+  },
+  "Lipa Schmeltzer|Chaveirem Kol Yisrael": null,
+  "Lipa Schmeltzer|L'kovod Shabbos Kodesh": {
+    "artist": "Lipa Schmeltzer",
+    "track": "L'kovod Shabbos Kodesh",
+    "album": "Shema",
+    "video_id": "gxuTE_V2jQg",
+    "url": "https://www.youtube.com/watch?v=gxuTE_V2jQg"
+  },
+  "Lipa Schmeltzer|V'yivaser Lunu": null,
+  "Lipa Schmeltzer|N'sias Kapiaim": null,
+  "Lipa Schmeltzer|V'hi Sheumdu": null,
+  "Lipa Schmeltzer|Mien Shefele": null,
+  "Lipa Schmeltzer|Gemura In Song": {
+    "artist": "Lipa Schmeltzer",
+    "track": "Gemura In Song",
+    "album": "Gemura In Song",
+    "video_id": "jMC_lAwJxX8",
+    "url": "https://www.youtube.com/watch?v=jMC_lAwJxX8"
+  },
+  "Shmuel Brazil|Veyovo Melech Hacovod": {
+    "artist": "Shmuel Brazil",
+    "track": "Veyovo Melech Hacovod",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "K1QcwI0ktX0",
+    "url": "https://www.youtube.com/watch?v=K1QcwI0ktX0"
+  },
+  "Shmuel Brazil|Libi Uvsori": null,
+  "Shmuel Brazil|Yehalelu": {
+    "artist": "Shmuel Brazil",
+    "track": "Yehalelu",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "8HmCza4usqU",
+    "url": "https://www.youtube.com/watch?v=8HmCza4usqU"
+  },
+  "Shmuel Brazil|Koli Shomoto": {
+    "artist": "Shmuel Brazil",
+    "track": "Koli Shomoto",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "34HWd1cOavI",
+    "url": "https://www.youtube.com/watch?v=34HWd1cOavI"
+  },
+  "Shmuel Brazil|V'hu Keli": {
+    "artist": "Shmuel Brazil",
+    "track": "V'hu Keli",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "o3KXAWP5COo",
+    "url": "https://www.youtube.com/watch?v=o3KXAWP5COo"
+  },
+  "Shmuel Brazil|Chus": {
+    "artist": "Shmuel Brazil",
+    "track": "Chus",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "rdeeDRPpQm4",
+    "url": "https://www.youtube.com/watch?v=rdeeDRPpQm4"
+  },
+  "Shmuel Brazil|Bne Heychala": null,
+  "Shmuel Brazil|Melech Rachmon": {
+    "artist": "Shmuel Brazil",
+    "track": "Melech Rachmon",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "KRU4hT_lqHM",
+    "url": "https://www.youtube.com/watch?v=KRU4hT_lqHM"
+  },
+  "Shmuel Brazil|Mesikus Hatora": {
+    "artist": "Shmuel Brazil",
+    "track": "Mesikus Hatora",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "NGu5YsJMKqw",
+    "url": "https://www.youtube.com/watch?v=NGu5YsJMKqw"
+  },
+  "Shmuel Brazil|Lulay": {
+    "artist": "Shmuel Brazil",
+    "track": "Lulay",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "8H_i6BUi7zw",
+    "url": "https://www.youtube.com/watch?v=8H_i6BUi7zw"
+  },
+  "Shmuel Brazil|Ayin B'ayin": {
+    "artist": "Shmuel Brazil",
+    "track": "Ayin B'ayin",
+    "album": "VeYavo Melech Hakavod",
+    "video_id": "UaxtHqj1bqY",
+    "url": "https://www.youtube.com/watch?v=UaxtHqj1bqY"
+  },
+  "Shmuel Brazil|Barcheinu Avinu": {
+    "artist": "Shmuel Brazil",
+    "track": "Barcheinu Avinu",
+    "album": "Barcheinu",
+    "video_id": "ra6sG1bsV_k",
+    "url": "https://www.youtube.com/watch?v=ra6sG1bsV_k"
+  },
+  "Shmuel Brazil|Ezkiroh": {
+    "artist": "Shmuel Brazil",
+    "track": "Ezkiroh",
+    "album": "Barcheinu",
+    "video_id": "EdgsREIO1QI",
+    "url": "https://www.youtube.com/watch?v=EdgsREIO1QI"
+  },
+  "Shmuel Brazil|Shira Chadasha": {
+    "artist": "Shmuel Brazil",
+    "track": "Shira Chadasha",
+    "album": "Barcheinu",
+    "video_id": "ra6sG1bsV_k",
+    "url": "https://www.youtube.com/watch?v=ra6sG1bsV_k"
+  },
+  "Shmuel Brazil|Eilecho": {
+    "artist": "Shmuel Brazil",
+    "track": "Eilecho",
+    "album": "Barcheinu",
+    "video_id": "4dU58jTw3Es",
+    "url": "https://www.youtube.com/watch?v=4dU58jTw3Es"
+  },
+  "Shmuel Brazil|Tzur Yisroel": {
+    "artist": "Shmuel Brazil",
+    "track": "Tzur Yisroel",
+    "album": "Barcheinu",
+    "video_id": "i1oKZDlYJKA",
+    "url": "https://www.youtube.com/watch?v=i1oKZDlYJKA"
+  },
+  "Shmuel Brazil|Eliyahu Hanavi": {
+    "artist": "Shmuel Brazil",
+    "track": "Eliyahu Hanavi",
+    "album": "Barcheinu",
+    "video_id": "4uFvfOllH1c",
+    "url": "https://www.youtube.com/watch?v=4uFvfOllH1c"
+  },
+  "Shmuel Brazil|Taisi": {
+    "artist": "Shmuel Brazil",
+    "track": "Taisi",
+    "album": "Barcheinu",
+    "video_id": "CkttdLaJST4",
+    "url": "https://www.youtube.com/watch?v=CkttdLaJST4"
+  },
+  "Shmuel Brazil|Ki Lishusocho": {
+    "artist": "Shmuel Brazil",
+    "track": "Ki Lishusocho",
+    "album": "Barcheinu",
+    "video_id": "YYyUxMmg6vI",
+    "url": "https://www.youtube.com/watch?v=YYyUxMmg6vI"
+  },
+  "Shmuel Brazil|Hashem Oz": {
+    "artist": "Shmuel Brazil",
+    "track": "Hashem Oz",
+    "album": "Barcheinu",
+    "video_id": "YjiQSOLu87k",
+    "url": "https://www.youtube.com/watch?v=YjiQSOLu87k"
+  },
+  "Shmuel Brazil|Habet Na": {
+    "artist": "Shmuel Brazil",
+    "track": "Habet Na",
+    "album": "Habet Na",
+    "video_id": "wqJfYNxEyg0",
+    "url": "https://www.youtube.com/watch?v=wqJfYNxEyg0"
+  },
+  "Shmuel Brazil|Kivisi": {
+    "artist": "Shmuel Brazil",
+    "track": "Kivisi",
+    "album": "Habet Na",
+    "video_id": "KpuqCjQAOEE",
+    "url": "https://www.youtube.com/watch?v=KpuqCjQAOEE"
+  },
+  "Shmuel Brazil|Ad Heina": {
+    "artist": "Shmuel Brazil",
+    "track": "Ad Heina",
+    "album": "Habet Na",
+    "video_id": "wUJHVGqYWAA",
+    "url": "https://www.youtube.com/watch?v=wUJHVGqYWAA"
+  },
+  "Shmuel Brazil|Shalu": {
+    "artist": "Shmuel Brazil",
+    "track": "Shalu",
+    "album": "Habet Na",
+    "video_id": "CSntutcmBf4",
+    "url": "https://www.youtube.com/watch?v=CSntutcmBf4"
+  },
+  "Shmuel Brazil|Lechu Neranena": {
+    "artist": "Shmuel Brazil",
+    "track": "Lechu Neranena",
+    "album": "Habet Na",
+    "video_id": "PuMRHuqdbtc",
+    "url": "https://www.youtube.com/watch?v=PuMRHuqdbtc"
+  },
+  "Shmuel Brazil|Bitchu Bashem": {
+    "artist": "Shmuel Brazil",
+    "track": "Bitchu Bashem",
+    "album": "Habet Na",
+    "video_id": "c5YZfZMMH5Y",
+    "url": "https://www.youtube.com/watch?v=c5YZfZMMH5Y"
+  },
+  "Shmuel Brazil|Vaani": {
+    "artist": "Shmuel Brazil",
+    "track": "Vaani",
+    "album": "Habet Na",
+    "video_id": "ifC4iiZYBIc",
+    "url": "https://www.youtube.com/watch?v=ifC4iiZYBIc"
+  },
+  "Shmuel Brazil|Al Tira": {
+    "artist": "Shmuel Brazil",
+    "track": "Al Tira",
+    "album": "Habet Na",
+    "video_id": "_t4FfU0NfCM",
+    "url": "https://www.youtube.com/watch?v=_t4FfU0NfCM"
+  },
+  "Shmuel Brazil|Vekorev": {
+    "artist": "Shmuel Brazil",
+    "track": "Vekorev",
+    "album": "Habet Na",
+    "video_id": "poxqGdjqr0I",
+    "url": "https://www.youtube.com/watch?v=poxqGdjqr0I"
+  },
+  "Shmuel Brazil|Harenu": {
+    "artist": "Shmuel Brazil",
+    "track": "Harenu",
+    "album": "Habet Na",
+    "video_id": "ra6sG1bsV_k",
+    "url": "https://www.youtube.com/watch?v=ra6sG1bsV_k"
+  },
+  "Shmuel Brazil|Gam Ki": {
+    "artist": "Shmuel Brazil",
+    "track": "Gam Ki",
+    "album": "Ki Ata Imadi",
+    "video_id": "_pnEbWucZd8",
+    "url": "https://www.youtube.com/watch?v=_pnEbWucZd8"
+  },
+  "Shmuel Brazil|Tzomo Nafshi": {
+    "artist": "Shmuel Brazil",
+    "track": "Tzomo Nafshi",
+    "album": "Ki Ata Imadi",
+    "video_id": "zsZ8LCWI4zM",
+    "url": "https://www.youtube.com/watch?v=zsZ8LCWI4zM"
+  },
+  "Shmuel Brazil|Uvney": null,
+  "Shmuel Brazil|Vahaviainu": {
+    "artist": "Shmuel Brazil",
+    "track": "Vahaviainu",
+    "album": "Ki Ata Imadi",
+    "video_id": "deCmSoS51OI",
+    "url": "https://www.youtube.com/watch?v=deCmSoS51OI"
+  },
+  "Shmuel Brazil|Ato Echod": {
+    "artist": "Shmuel Brazil",
+    "track": "Ato Echod",
+    "album": "Ki Ata Imadi",
+    "video_id": "8HmCza4usqU",
+    "url": "https://www.youtube.com/watch?v=8HmCza4usqU"
+  },
+  "Shmuel Brazil|Ushmor": {
+    "artist": "Shmuel Brazil",
+    "track": "Ushmor",
+    "album": "Ki Ata Imadi",
+    "video_id": "zL8kFNRdl2A",
+    "url": "https://www.youtube.com/watch?v=zL8kFNRdl2A"
   }
 }
