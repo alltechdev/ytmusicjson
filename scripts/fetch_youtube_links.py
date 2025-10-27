@@ -16,7 +16,7 @@ import yt_dlp
 # Configuration
 BATCH_SIZE = 100  # Commit every 100 tracks
 DELAY_BETWEEN_SEARCHES = 0.5  # Delay in seconds to avoid rate limiting
-MAX_TRACKS_PER_RUN = 1000  # Process max 1000 tracks per workflow run
+MAX_TRACKS_PER_RUN = 10000  # Process max 10000 tracks per workflow run
 
 def validate_match(artist: str, track_name: str, video_title: str, video_channel: str = "") -> bool:
     """
