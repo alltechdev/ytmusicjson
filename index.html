@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Metadata Search</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .header {
+      text-align: center;
+      color: white;
+      margin-bottom: 30px;
+    }
+
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    .search-box {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+      margin-bottom: 30px;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 15px 20px;
+      font-size: 1.1rem;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      outline: none;
+      transition: border-color 0.3s;
+    }
+
+    .search-input:focus {
+      border-color: #667eea;
+    }
+
+    .loading {
+      text-align: center;
+      color: white;
+      font-size: 1.2rem;
+      padding: 20px;
+    }
+
+    .stats {
+      background: rgba(255, 255, 255, 0.95);
+      border-radius: 8px;
+      padding: 15px;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .stat-item {
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .stat-item strong {
+      color: #667eea;
+    }
+
+    .results {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .result-card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .result-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    }
+
+    .result-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+
+    .album-art {
+      width: 80px;
+      height: 80px;
+      border-radius: 8px;
+      object-fit: cover;
+      margin-right: 15px;
+      background: #f0f0f0;
+    }
+
+    .result-info {
+      flex: 1;
+    }
+
+    .album-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: #333;
+      margin-bottom: 5px;
+    }
+
+    .artist-name {
+      color: #667eea;
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+
+    .release-date {
+      color: #888;
+      font-size: 0.85rem;
+    }
+
+    .tracks {
+      margin-top: 15px;
+      padding-top: 15px;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    .tracks-title {
+      font-weight: bold;
+      color: #555;
+      margin-bottom: 8px;
+      font-size: 0.9rem;
+    }
+
+    .track-list {
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    .track-item {
+      padding: 8px 0;
+      border-bottom: 1px solid #f0f0f0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.9rem;
+    }
+
+    .track-item:last-child {
+      border-bottom: none;
+    }
+
+    .track-name {
+      color: #333;
+      flex: 1;
+    }
+
+    .track-duration {
+      color: #888;
+      font-size: 0.85rem;
+    }
+
+    .no-results {
+      text-align: center;
+      color: white;
+      font-size: 1.2rem;
+      padding: 40px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+    }
+
+    .view-link {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 16px;
+      background: #667eea;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      transition: background 0.2s;
+    }
+
+    .view-link:hover {
+      background: #5568d3;
+    }
+
+    .error {
+      background: #ff4444;
+      color: white;
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🎵 Music Metadata Search</h1>
+      <p>Search through thousands of albums and tracks</p>
+    </div>
+
+    <div class="search-box">
+      <input
+        type="text"
+        id="searchInput"
+        class="search-input"
+        placeholder="Search for artists, albums, or tracks..."
+        autocomplete="off"
+      >
+    </div>
+
+    <div id="loading" class="loading" style="display: none;">
+      Loading metadata...
+    </div>
+
+    <div id="error" class="error" style="display: none;"></div>
+
+    <div id="stats" class="stats" style="display: none;">
+      <div class="stat-item">
+        <strong id="totalAlbums">0</strong> albums
+      </div>
+      <div class="stat-item">
+        <strong id="totalTracks">0</strong> tracks
+      </div>
+      <div class="stat-item">
+        <strong id="resultCount">0</strong> results
+      </div>
+    </div>
+
+    <div id="results" class="results"></div>
+  </div>
+
+  <script>
+    let metadata = [];
+    let searchTimeout;
+
+    // Load metadata
+    async function loadMetadata() {
+      const loading = document.getElementById('loading');
+      const error = document.getElementById('error');
+
+      loading.style.display = 'block';
+
+      try {
+        const response = await fetch('metadata.json');
+        if (!response.ok) throw new Error('Failed to load metadata');
+
+        metadata = await response.json();
+
+        // Calculate stats
+        const totalTracks = metadata.reduce((sum, album) => sum + (album.tracks?.length || 0), 0);
+        document.getElementById('totalAlbums').textContent = metadata.length;
+        document.getElementById('totalTracks').textContent = totalTracks;
+        document.getElementById('stats').style.display = 'flex';
+
+        loading.style.display = 'none';
+      } catch (err) {
+        loading.style.display = 'none';
+        error.style.display = 'block';
+        error.textContent = 'Error loading metadata: ' + err.message;
+      }
+    }
+
+    // Search function
+    function search(query) {
+      const resultsDiv = document.getElementById('results');
+      const resultCount = document.getElementById('resultCount');
+
+      if (!query.trim()) {
+        resultsDiv.innerHTML = '';
+        resultCount.textContent = '0';
+        return;
+      }
+
+      const queryLower = query.toLowerCase();
+      const results = metadata.filter(item => {
+        // Search in artist name
+        if (item.artist?.toLowerCase().includes(queryLower)) return true;
+
+        // Search in album title
+        if (item.title?.toLowerCase().includes(queryLower)) return true;
+
+        // Search in track names
+        if (item.tracks?.some(track => track.name?.toLowerCase().includes(queryLower))) return true;
+
+        return false;
+      });
+
+      resultCount.textContent = results.length;
+
+      if (results.length === 0) {
+        resultsDiv.innerHTML = '<div class="no-results">No results found for "' + escapeHtml(query) + '"</div>';
+        return;
+      }
+
+      // Display results (limit to first 50 for performance)
+      const displayResults = results.slice(0, 50);
+      resultsDiv.innerHTML = displayResults.map(item => {
+        const date = item.publication_date ? new Date(item.publication_date).toLocaleDateString() : 'Unknown';
+        const trackCount = item.tracks?.length || 0;
+
+        const tracksHtml = item.tracks?.slice(0, 10).map(track => {
+          const duration = formatDuration(track.duration);
+          return `
+            <div class="track-item">
+              <span class="track-name">${escapeHtml(track.name)}</span>
+              ${duration ? `<span class="track-duration">${duration}</span>` : ''}
+            </div>
+          `;
+        }).join('') || '';
+
+        const moreTracksHtml = trackCount > 10 ? `<div class="track-item"><em>...and ${trackCount - 10} more tracks</em></div>` : '';
+
+        return `
+          <div class="result-card">
+            <div class="result-header">
+              ${item.image_url ? `<img src="${escapeHtml(item.image_url)}" alt="Album art" class="album-art" onerror="this.style.display='none'">` : ''}
+              <div class="result-info">
+                <div class="album-title">${escapeHtml(item.title)}</div>
+                <div class="artist-name">${escapeHtml(item.artist)}</div>
+                <div class="release-date">${date}</div>
+              </div>
+            </div>
+            ${trackCount > 0 ? `
+              <div class="tracks">
+                <div class="tracks-title">Tracks (${trackCount})</div>
+                <div class="track-list">
+                  ${tracksHtml}
+                  ${moreTracksHtml}
+                </div>
+              </div>
+            ` : ''}
+            ${item.url ? `<a href="${escapeHtml(item.url)}" target="_blank" class="view-link">View on 24six →</a>` : ''}
+          </div>
+        `;
+      }).join('');
+
+      if (results.length > 50) {
+        resultsDiv.innerHTML += `<div class="no-results">Showing first 50 of ${results.length} results. Try a more specific search.</div>`;
+      }
+    }
+
+    // Format ISO 8601 duration
+    function formatDuration(duration) {
+      if (!duration) return '';
+      const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+      if (!match) return '';
+
+      const hours = parseInt(match[1] || 0);
+      const minutes = parseInt(match[2] || 0);
+      const seconds = parseInt(match[3] || 0);
+
+      if (hours > 0) {
+        return `${hours}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+      }
+      return `${minutes}:${String(seconds).padStart(2, '0')}`;
+    }
+
+    // Escape HTML to prevent XSS
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Event listener for search input
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => search(e.target.value), 300);
+    });
+
+    // Load metadata on page load
+    loadMetadata();
+  </script>
+</body>
+</html>
