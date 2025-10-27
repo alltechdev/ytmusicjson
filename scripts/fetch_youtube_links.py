@@ -225,11 +225,12 @@ def main():
                 youtube_links[key] = {
                     'artist': artist,
                     'track': track_name,
+                    'album': album_title,
                     'video_id': video_id,
                     'url': f"https://www.youtube.com/watch?v={video_id}"
                 }
                 new_links += 1
-                print(f"✓ Found: {artist} - {track_name} -> {video_id}")
+                print(f"✓ Found: {artist} - {track_name} ({album_title}) -> {video_id}")
             else:
                 # Store None to indicate we tried but didn't find it
                 youtube_links[key] = None
