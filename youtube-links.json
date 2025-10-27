@@ -107952,5 +107952,627 @@
     "album": "Shabbos - שבת",
     "video_id": "bn-Y9tQxpIA",
     "url": "https://www.youtube.com/watch?v=bn-Y9tQxpIA"
+  },
+  "Vach Family - משפחת ואך|Boee B'shalom - בואי בשלום": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Boee B'shalom - בואי בשלום",
+    "album": "Shabbos - שבת",
+    "video_id": "QcPYI_3iGYM",
+    "url": "https://www.youtube.com/watch?v=QcPYI_3iGYM"
+  },
+  "Vach Family - משפחת ואך|Yom Zeh L'yisrael - יום זה לישראל": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Yom Zeh L'yisrael - יום זה לישראל",
+    "album": "Shabbos - שבת",
+    "video_id": "E-iwjLLFWwM",
+    "url": "https://www.youtube.com/watch?v=E-iwjLLFWwM"
+  },
+  "Vach Family - משפחת ואך|Tzur Mishelo Ochalnu - צור משלו": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Tzur Mishelo Ochalnu - צור משלו",
+    "album": "Shabbos - שבת",
+    "video_id": "c2LGMtWeqhk",
+    "url": "https://www.youtube.com/watch?v=c2LGMtWeqhk"
+  },
+  "Vach Family - משפחת ואך|Ki Eshmera Shabbat - כי אשמרה": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Ki Eshmera Shabbat - כי אשמרה",
+    "album": "Shabbos - שבת",
+    "video_id": "T2RYjERPO_Y",
+    "url": "https://www.youtube.com/watch?v=T2RYjERPO_Y"
+  },
+  "Vach Family - משפחת ואך|Agadelecha - אגדלך": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Agadelecha - אגדלך",
+    "album": "Shabbos - שבת",
+    "video_id": "KWSclxoMHKQ",
+    "url": "https://www.youtube.com/watch?v=KWSclxoMHKQ"
+  },
+  "Vach Family - משפחת ואך|Bar Yochai - בר יוחאי": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Bar Yochai - בר יוחאי",
+    "album": "Shabbos - שבת",
+    "video_id": "2ujV5FVX_IU",
+    "url": "https://www.youtube.com/watch?v=2ujV5FVX_IU"
+  },
+  "Vach Family - משפחת ואך|Ana Bekoach - אנא בכוח": null,
+  "Vach Family - משפחת ואך|Yedid Nefesh - ידיד נפש": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Yedid Nefesh - ידיד נפש",
+    "album": "Shabbos - שבת",
+    "video_id": "hv0sa_Vo3UU",
+    "url": "https://www.youtube.com/watch?v=hv0sa_Vo3UU"
+  },
+  "Vach Family - משפחת ואך|Hamavdil - המבדיל": {
+    "artist": "Vach Family - משפחת ואך",
+    "track": "Hamavdil - המבדיל",
+    "album": "Shabbos - שבת",
+    "video_id": "AkzkIoPgoho",
+    "url": "https://www.youtube.com/watch?v=AkzkIoPgoho"
+  },
+  "Elyasaf Finish - אליסף פיניש|Koreiv Yom - קרב יום": {
+    "artist": "Elyasaf Finish - אליסף פיניש",
+    "track": "Koreiv Yom - קרב יום",
+    "album": "Koreiv Yom - קרב יום",
+    "video_id": "fkrIAAi-e1M",
+    "url": "https://www.youtube.com/watch?v=fkrIAAi-e1M"
+  },
+  "Elyasaf Finish - אליסף פיניש|Zechoir Avoteinu - זכור אהבתנו": null,
+  "Elyasaf Finish - אליסף פיניש|Merchavim - מרחבים": null,
+  "Elyasaf Finish - אליסף פיניש|V'eirastich Li - וארשתיך לי": {
+    "artist": "Elyasaf Finish - אליסף פיניש",
+    "track": "V'eirastich Li - וארשתיך לי",
+    "album": "V'eirastich Li - וארשתיך לי",
+    "video_id": "An7Yx4xt_lk",
+    "url": "https://www.youtube.com/watch?v=An7Yx4xt_lk"
+  },
+  "Elyasaf Finish - אליסף פיניש|Yafa V'tamma - יפה ותמה": null,
+  "Elyasaf Finish - אליסף פיניש|Mistakel Lemaalah - מסתכל למעלה": null,
+  "Elyasaf Finish - אליסף פיניש|Echad Hayita - אחד היית": {
+    "artist": "Elyasaf Finish - אליסף פיניש",
+    "track": "Echad Hayita - אחד היית",
+    "album": "Echad Hayita - אחד היית",
+    "video_id": "c4OcE_KHhws",
+    "url": "https://www.youtube.com/watch?v=c4OcE_KHhws"
+  },
+  "Elyasaf Finish - אליסף פיניש|Hashvuah - השבועה": null,
+  "Elyasaf Finish - אליסף פיניש|Mechake L'geshem - מחכה לגשם": {
+    "artist": "Elyasaf Finish - אליסף פיניש",
+    "track": "Mechake L'geshem - מחכה לגשם",
+    "album": "Mechake L'geshem - מחכה לגשם",
+    "video_id": "dj2LrUWWt2M",
+    "url": "https://www.youtube.com/watch?v=dj2LrUWWt2M"
+  },
+  "Zalman Goldstein|OPENING CREDITS": {
+    "artist": "Zalman Goldstein",
+    "track": "OPENING CREDITS",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "78dPx2-Ntwg",
+    "url": "https://www.youtube.com/watch?v=78dPx2-Ntwg"
+  },
+  "Zalman Goldstein|DEDICATION": {
+    "artist": "Zalman Goldstein",
+    "track": "DEDICATION",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "E8IJu2MdOzc",
+    "url": "https://www.youtube.com/watch?v=E8IJu2MdOzc"
+  },
+  "Zalman Goldstein|INTRODUCTION": {
+    "artist": "Zalman Goldstein",
+    "track": "INTRODUCTION",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "3uqoxphcWEM",
+    "url": "https://www.youtube.com/watch?v=3uqoxphcWEM"
+  },
+  "Zalman Goldstein|CITY LIFE P1": {
+    "artist": "Zalman Goldstein",
+    "track": "CITY LIFE P1",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "5gERcUbSvrk",
+    "url": "https://www.youtube.com/watch?v=5gERcUbSvrk"
+  },
+  "Zalman Goldstein|CITY LIFE P2": null,
+  "Zalman Goldstein|CITY LIFE P2-OLD": null,
+  "Zalman Goldstein|CITY LIFE P3": null,
+  "Zalman Goldstein|JEWISH WIT": {
+    "artist": "Zalman Goldstein",
+    "track": "JEWISH WIT",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "9_cP4MHUKzI",
+    "url": "https://www.youtube.com/watch?v=9_cP4MHUKzI"
+  },
+  "Zalman Goldstein|POLITICS AND HIGH OFFICE": {
+    "artist": "Zalman Goldstein",
+    "track": "POLITICS AND HIGH OFFICE",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "m2Db5A1LEgE",
+    "url": "https://www.youtube.com/watch?v=m2Db5A1LEgE"
+  },
+  "Zalman Goldstein|ISRAEL": {
+    "artist": "Zalman Goldstein",
+    "track": "ISRAEL",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "OPPwYO-ubv8",
+    "url": "https://www.youtube.com/watch?v=OPPwYO-ubv8"
+  },
+  "Zalman Goldstein|DOCTORS AND MEDICINE": {
+    "artist": "Zalman Goldstein",
+    "track": "DOCTORS AND MEDICINE",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "HGGwLhw6WGY",
+    "url": "https://www.youtube.com/watch?v=HGGwLhw6WGY"
+  },
+  "Zalman Goldstein|OLD AGE": {
+    "artist": "Zalman Goldstein",
+    "track": "OLD AGE",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "Y7iJRmmRAvA",
+    "url": "https://www.youtube.com/watch?v=Y7iJRmmRAvA"
+  },
+  "Zalman Goldstein|RELATIONSHIPS": {
+    "artist": "Zalman Goldstein",
+    "track": "RELATIONSHIPS",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "--LYvrkgkpo",
+    "url": "https://www.youtube.com/watch?v=--LYvrkgkpo"
+  },
+  "Zalman Goldstein|CLOSING CREDITS": {
+    "artist": "Zalman Goldstein",
+    "track": "CLOSING CREDITS",
+    "album": "Abi Gezunt 1 - Kosher Jewish Jokes",
+    "video_id": "THor8-f2Uzo",
+    "url": "https://www.youtube.com/watch?v=THor8-f2Uzo"
+  },
+  "Zalman Goldstein|LITTLE GEMS": null,
+  "Yossi Schick Label|B'Emes B'Ahava": {
+    "artist": "Yossi Schick Label",
+    "track": "B'Emes B'Ahava",
+    "album": "B'Emes B'Ahava",
+    "video_id": "f0xctNWSGAs",
+    "url": "https://www.youtube.com/watch?v=f0xctNWSGAs"
+  },
+  "EKEV|ZMRU": {
+    "artist": "EKEV",
+    "track": "ZMRU",
+    "album": "ZMRU",
+    "video_id": "LROfjv7J4wM",
+    "url": "https://www.youtube.com/watch?v=LROfjv7J4wM"
+  },
+  "EKEV|Boee": {
+    "artist": "EKEV",
+    "track": "Boee",
+    "album": "Boee",
+    "video_id": "dlC82AOW-9g",
+    "url": "https://www.youtube.com/watch?v=dlC82AOW-9g"
+  },
+  "EKEV|ODEH": {
+    "artist": "EKEV",
+    "track": "ODEH",
+    "album": "ODEH",
+    "video_id": "KsNXiVIbSi4",
+    "url": "https://www.youtube.com/watch?v=KsNXiVIbSi4"
+  },
+  "BINYAMIN|Who Am I": {
+    "artist": "BINYAMIN",
+    "track": "Who Am I",
+    "album": "Who Am I",
+    "video_id": "3KKDP_UTYV8",
+    "url": "https://www.youtube.com/watch?v=3KKDP_UTYV8"
+  },
+  "BINYAMIN|Shine": {
+    "artist": "BINYAMIN",
+    "track": "Shine",
+    "album": "Shine",
+    "video_id": "GYpCjGYtijs",
+    "url": "https://www.youtube.com/watch?v=GYpCjGYtijs"
+  },
+  "BINYAMIN|Rewind": {
+    "artist": "BINYAMIN",
+    "track": "Rewind",
+    "album": "Rewind",
+    "video_id": "_dUomrjArFU",
+    "url": "https://www.youtube.com/watch?v=_dUomrjArFU"
+  },
+  "BINYAMIN|Easy To Love": {
+    "artist": "BINYAMIN",
+    "track": "Easy To Love",
+    "album": "Easy To Love",
+    "video_id": "vaYYHWbj9Io",
+    "url": "https://www.youtube.com/watch?v=vaYYHWbj9Io"
+  },
+  "BINYAMIN|In My Head": {
+    "artist": "BINYAMIN",
+    "track": "In My Head",
+    "album": "In My Head",
+    "video_id": "SJFCt67aolA",
+    "url": "https://www.youtube.com/watch?v=SJFCt67aolA"
+  },
+  "BINYAMIN|Be The One": {
+    "artist": "BINYAMIN",
+    "track": "Be The One",
+    "album": "Be The One",
+    "video_id": "GHQ8tHp61Ss",
+    "url": "https://www.youtube.com/watch?v=GHQ8tHp61Ss"
+  },
+  "Yoni Galen|Movement": {
+    "artist": "Yoni Galen",
+    "track": "Movement",
+    "album": "Movement",
+    "video_id": "dmYekHn5H1w",
+    "url": "https://www.youtube.com/watch?v=dmYekHn5H1w"
+  },
+  "Yoni Galen|Sameach": {
+    "artist": "Yoni Galen",
+    "track": "Sameach",
+    "album": "Sameach",
+    "video_id": "G8afi1el95g",
+    "url": "https://www.youtube.com/watch?v=G8afi1el95g"
+  },
+  "Chaim Israel|Kel Mistater feat. Yoav Yitzchak": {
+    "artist": "Chaim Israel",
+    "track": "Kel Mistater feat. Yoav Yitzchak",
+    "album": "Kel Mistater feat. Yoav Yitzchak",
+    "video_id": "cCQx75Hzr1U",
+    "url": "https://www.youtube.com/watch?v=cCQx75Hzr1U"
+  },
+  "Chaim Israel|Mitoch Ha'astara": {
+    "artist": "Chaim Israel",
+    "track": "Mitoch Ha'astara",
+    "album": "Mitoch Ha'astara",
+    "video_id": "PHahznJtYlU",
+    "url": "https://www.youtube.com/watch?v=PHahznJtYlU"
+  },
+  "Chaim Israel|V'az Yihiyu": null,
+  "Shmiel Hersh Miller|Chupa": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Chupa",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "0m4opxrx8Kg",
+    "url": "https://www.youtube.com/watch?v=0m4opxrx8Kg"
+  },
+  "Shmiel Hersh Miller|Meal 1": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Meal 1",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "xXvOBRZSCFk",
+    "url": "https://www.youtube.com/watch?v=xXvOBRZSCFk"
+  },
+  "Shmiel Hersh Miller|Meal 2": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Meal 2",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "8_zdy9Ns0Lw",
+    "url": "https://www.youtube.com/watch?v=8_zdy9Ns0Lw"
+  },
+  "Shmiel Hersh Miller|Meal 3": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Meal 3",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "iVNTVPafRZw",
+    "url": "https://www.youtube.com/watch?v=iVNTVPafRZw"
+  },
+  "Shmiel Hersh Miller|Meal 4": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Meal 4",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "PwsegrF2e-w",
+    "url": "https://www.youtube.com/watch?v=PwsegrF2e-w"
+  },
+  "Shmiel Hersh Miller|st Dance 1": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "st Dance 1",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "3hKydAkMHpE",
+    "url": "https://www.youtube.com/watch?v=3hKydAkMHpE"
+  },
+  "Shmiel Hersh Miller|st Dance 2": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "st Dance 2",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "ixW6EPe5PxM",
+    "url": "https://www.youtube.com/watch?v=ixW6EPe5PxM"
+  },
+  "Shmiel Hersh Miller|nd Dance 1": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd Dance 1",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "nws3Np5F0eU",
+    "url": "https://www.youtube.com/watch?v=nws3Np5F0eU"
+  },
+  "Shmiel Hersh Miller|nd Dance 2": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd Dance 2",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "9dmvrciNH0c",
+    "url": "https://www.youtube.com/watch?v=9dmvrciNH0c"
+  },
+  "Shmiel Hersh Miller|nd Dance 3": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd Dance 3",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "u0s3U0OayS4",
+    "url": "https://www.youtube.com/watch?v=u0s3U0OayS4"
+  },
+  "Shmiel Hersh Miller|nd Dance 4": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd Dance 4",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "WSgI1DzqqTg",
+    "url": "https://www.youtube.com/watch?v=WSgI1DzqqTg"
+  },
+  "Shmiel Hersh Miller|nd Dance 5": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd Dance 5",
+    "album": "Aug 17 wedding with Shea Berko & Lev Choir",
+    "video_id": "pYX9zwVGXSE",
+    "url": "https://www.youtube.com/watch?v=pYX9zwVGXSE"
+  },
+  "Shmiel Hersh Miller|Chupa 1": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Chupa 1",
+    "album": "June 14 wedding with Beri Weber & Moishy Schwartz",
+    "video_id": "R2g1D-63RbQ",
+    "url": "https://www.youtube.com/watch?v=R2g1D-63RbQ"
+  },
+  "Shmiel Hersh Miller|Chupa 2": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Chupa 2",
+    "album": "June 14 wedding with Beri Weber & Moishy Schwartz",
+    "video_id": "xHEPnB0Dzfw",
+    "url": "https://www.youtube.com/watch?v=xHEPnB0Dzfw"
+  },
+  "Shmiel Hersh Miller|Chupa 3": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Chupa 3",
+    "album": "June 14 wedding with Beri Weber & Moishy Schwartz",
+    "video_id": "3u_-WjmOI9I",
+    "url": "https://www.youtube.com/watch?v=3u_-WjmOI9I"
+  },
+  "Shmiel Hersh Miller|Rabbi Dance": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Rabbi Dance",
+    "album": "June 14 wedding with Beri Weber & Moishy Schwartz",
+    "video_id": "UrA72AO0NWg",
+    "url": "https://www.youtube.com/watch?v=UrA72AO0NWg"
+  },
+  "Shmiel Hersh Miller|nd Dance 6": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd Dance 6",
+    "album": "June 14 wedding with Beri Weber & Moishy Schwartz",
+    "video_id": "FIQ5HzD6BsM",
+    "url": "https://www.youtube.com/watch?v=FIQ5HzD6BsM"
+  },
+  "Shmiel Hersh Miller|Kumzitz": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "Kumzitz",
+    "album": "Nov 13 wedding with Yakov Shloma Gross & Sruly Altman",
+    "video_id": "vG2xo0fktFQ",
+    "url": "https://www.youtube.com/watch?v=vG2xo0fktFQ"
+  },
+  "Shmiel Hersh Miller|rd Dance": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "rd Dance",
+    "album": "Nov 13 wedding with Yakov Shloma Gross & Sruly Altman",
+    "video_id": "FIQ5HzD6BsM",
+    "url": "https://www.youtube.com/watch?v=FIQ5HzD6BsM"
+  },
+  "Michoel Streicher|Al Yisrael Shalom": {
+    "artist": "Michoel Streicher",
+    "track": "Al Yisrael Shalom",
+    "album": "Al Yisrael Shalom",
+    "video_id": "_IQH1gOllvE",
+    "url": "https://www.youtube.com/watch?v=_IQH1gOllvE"
+  },
+  "Michoel Streicher|Libi": {
+    "artist": "Michoel Streicher",
+    "track": "Libi",
+    "album": "Al Yisrael Shalom",
+    "video_id": "ALeQCUFkbdI",
+    "url": "https://www.youtube.com/watch?v=ALeQCUFkbdI"
+  },
+  "Michoel Streicher|Yedid Nefesh": {
+    "artist": "Michoel Streicher",
+    "track": "Yedid Nefesh",
+    "album": "Al Yisrael Shalom",
+    "video_id": "fm6nHA5pfIQ",
+    "url": "https://www.youtube.com/watch?v=fm6nHA5pfIQ"
+  },
+  "Michoel Streicher|Hodu Lashem": {
+    "artist": "Michoel Streicher",
+    "track": "Hodu Lashem",
+    "album": "Al Yisrael Shalom",
+    "video_id": "Jao53jC0pko",
+    "url": "https://www.youtube.com/watch?v=Jao53jC0pko"
+  },
+  "Michoel Streicher|Paneh Laelbon": {
+    "artist": "Michoel Streicher",
+    "track": "Paneh Laelbon",
+    "album": "Al Yisrael Shalom",
+    "video_id": "uzJyxxLfNek",
+    "url": "https://www.youtube.com/watch?v=uzJyxxLfNek"
+  },
+  "Michoel Streicher|Eliyahu Hanavi": {
+    "artist": "Michoel Streicher",
+    "track": "Eliyahu Hanavi",
+    "album": "Al Yisrael Shalom",
+    "video_id": "UIYzaxGnEJA",
+    "url": "https://www.youtube.com/watch?v=UIYzaxGnEJA"
+  },
+  "Michoel Streicher|Umipnei Chataeinu": {
+    "artist": "Michoel Streicher",
+    "track": "Umipnei Chataeinu",
+    "album": "Al Yisrael Shalom",
+    "video_id": "YtcKX6rIhEo",
+    "url": "https://www.youtube.com/watch?v=YtcKX6rIhEo"
+  },
+  "Michoel Streicher|Avinu Malkeinu Choneinu": {
+    "artist": "Michoel Streicher",
+    "track": "Avinu Malkeinu Choneinu",
+    "album": "Al Yisrael Shalom",
+    "video_id": "s5wh2gqPU3k",
+    "url": "https://www.youtube.com/watch?v=s5wh2gqPU3k"
+  },
+  "Michoel Streicher|Avinu Malkeinu Chamol": {
+    "artist": "Michoel Streicher",
+    "track": "Avinu Malkeinu Chamol",
+    "album": "Al Yisrael Shalom",
+    "video_id": "n1GyBtbtk6A",
+    "url": "https://www.youtube.com/watch?v=n1GyBtbtk6A"
+  },
+  "Michoel Streicher|Shir Hamalos": {
+    "artist": "Michoel Streicher",
+    "track": "Shir Hamalos",
+    "album": "Al Yisrael Shalom",
+    "video_id": "QG8kFXGCKmQ",
+    "url": "https://www.youtube.com/watch?v=QG8kFXGCKmQ"
+  },
+  "Michoel Streicher|Smach Zvulun": {
+    "artist": "Michoel Streicher",
+    "track": "Smach Zvulun",
+    "album": "Asapra",
+    "video_id": "aq4r0bpKwU4",
+    "url": "https://www.youtube.com/watch?v=aq4r0bpKwU4"
+  },
+  "Michoel Streicher|Yisa Bracha": {
+    "artist": "Michoel Streicher",
+    "track": "Yisa Bracha",
+    "album": "Asapra",
+    "video_id": "ickcORg9amg",
+    "url": "https://www.youtube.com/watch?v=ickcORg9amg"
+  },
+  "Michoel Streicher|Rak Chazak": {
+    "artist": "Michoel Streicher",
+    "track": "Rak Chazak",
+    "album": "Asapra",
+    "video_id": "HkcSEmORedI",
+    "url": "https://www.youtube.com/watch?v=HkcSEmORedI"
+  },
+  "Michoel Streicher|Elokai Netzor": {
+    "artist": "Michoel Streicher",
+    "track": "Elokai Netzor",
+    "album": "Asapra",
+    "video_id": "rdw5kY2o48M",
+    "url": "https://www.youtube.com/watch?v=rdw5kY2o48M"
+  },
+  "Michoel Streicher|Rebi Nechunia": {
+    "artist": "Michoel Streicher",
+    "track": "Rebi Nechunia",
+    "album": "Asapra",
+    "video_id": "Lf1ufVVKfik",
+    "url": "https://www.youtube.com/watch?v=Lf1ufVVKfik"
+  },
+  "Michoel Streicher|Kishem Shenichnas": {
+    "artist": "Michoel Streicher",
+    "track": "Kishem Shenichnas",
+    "album": "Asapra",
+    "video_id": "4y5STiQsf_s",
+    "url": "https://www.youtube.com/watch?v=4y5STiQsf_s"
+  },
+  "Michoel Streicher|Asapra": {
+    "artist": "Michoel Streicher",
+    "track": "Asapra",
+    "album": "Asapra",
+    "video_id": "WgYeLb31wpg",
+    "url": "https://www.youtube.com/watch?v=WgYeLb31wpg"
+  },
+  "Michoel Streicher|Anu Ameilim": null,
+  "Michoel Streicher|Ani Maamin": {
+    "artist": "Michoel Streicher",
+    "track": "Ani Maamin",
+    "album": "Asapra",
+    "video_id": "JYk4ldR1YoQ",
+    "url": "https://www.youtube.com/watch?v=JYk4ldR1YoQ"
+  },
+  "Michoel Streicher|Ono Hashem": {
+    "artist": "Michoel Streicher",
+    "track": "Ono Hashem",
+    "album": "Asapra",
+    "video_id": "v29WY7704FA",
+    "url": "https://www.youtube.com/watch?v=v29WY7704FA"
+  },
+  "Shmiel Hersh Miller|nd dance 1": {
+    "artist": "Shmiel Hersh Miller",
+    "track": "nd dance 1",
+    "album": "Nov 29 Wedding with Chaim Brown & Shira Choir",
+    "video_id": "nws3Np5F0eU",
+    "url": "https://www.youtube.com/watch?v=nws3Np5F0eU"
+  },
+  "Michoel Streicher|Shehecheyanu": {
+    "artist": "Michoel Streicher",
+    "track": "Shehecheyanu",
+    "album": "Baruch Haba",
+    "video_id": "vTzRoUPevxQ",
+    "url": "https://www.youtube.com/watch?v=vTzRoUPevxQ"
+  },
+  "Michoel Streicher|Baruch Haba": {
+    "artist": "Michoel Streicher",
+    "track": "Baruch Haba",
+    "album": "Baruch Haba",
+    "video_id": "H32XmUVWF8Q",
+    "url": "https://www.youtube.com/watch?v=H32XmUVWF8Q"
+  },
+  "Michoel Streicher|Ant Hu Shalit": {
+    "artist": "Michoel Streicher",
+    "track": "Ant Hu Shalit",
+    "album": "Baruch Haba",
+    "video_id": "PGpEL9jigxM",
+    "url": "https://www.youtube.com/watch?v=PGpEL9jigxM"
+  },
+  "Michoel Streicher|Brucha Haba'ah": null,
+  "Michoel Streicher|Shema Tefilosi": {
+    "artist": "Michoel Streicher",
+    "track": "Shema Tefilosi",
+    "album": "Baruch Haba",
+    "video_id": "vsk7gtXISVg",
+    "url": "https://www.youtube.com/watch?v=vsk7gtXISVg"
+  },
+  "Michoel Streicher|Umishefa": {
+    "artist": "Michoel Streicher",
+    "track": "Umishefa",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "58PAJ_vWE2E",
+    "url": "https://www.youtube.com/watch?v=58PAJ_vWE2E"
+  },
+  "Michoel Streicher|Hevei Sas": {
+    "artist": "Michoel Streicher",
+    "track": "Hevei Sas",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "Pb8LEvbjP0w",
+    "url": "https://www.youtube.com/watch?v=Pb8LEvbjP0w"
+  },
+  "Michoel Streicher|Im Ein Ani Li": {
+    "artist": "Michoel Streicher",
+    "track": "Im Ein Ani Li",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "6hqFV55Pyhg",
+    "url": "https://www.youtube.com/watch?v=6hqFV55Pyhg"
+  },
+  "Michoel Streicher|B'ni": {
+    "artist": "Michoel Streicher",
+    "track": "B'ni",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "Kmke03uGG84",
+    "url": "https://www.youtube.com/watch?v=Kmke03uGG84"
+  },
+  "Michoel Streicher|Ben Shloish Esre Lemitvos": {
+    "artist": "Michoel Streicher",
+    "track": "Ben Shloish Esre Lemitvos",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "Ei0cdZ4u26A",
+    "url": "https://www.youtube.com/watch?v=Ei0cdZ4u26A"
+  },
+  "Michoel Streicher|Bar Mitzva Boy": {
+    "artist": "Michoel Streicher",
+    "track": "Bar Mitzva Boy",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "mmw30sBAzYk",
+    "url": "https://www.youtube.com/watch?v=mmw30sBAzYk"
+  },
+  "Michoel Streicher|Ubidvar Yeshuoh": {
+    "artist": "Michoel Streicher",
+    "track": "Ubidvar Yeshuoh",
+    "album": "Ben 13 Lmitzvos",
+    "video_id": "95_qmPHtCVs",
+    "url": "https://www.youtube.com/watch?v=95_qmPHtCVs"
   }
 }
