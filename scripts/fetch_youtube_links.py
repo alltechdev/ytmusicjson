@@ -2,13 +2,21 @@
 """
 Fetch YouTube video IDs for songs in metadata.json
 Uses yt-dlp to search YouTube and find the best matching video
+Processes in batches with incremental commits for large datasets
 """
 
 import json
 import os
 import sys
+import time
+import subprocess
 from typing import Optional
 import yt_dlp
+
+# Configuration
+BATCH_SIZE = 100  # Commit every 100 tracks
+DELAY_BETWEEN_SEARCHES = 0.5  # Delay in seconds to avoid rate limiting
+MAX_TRACKS_PER_RUN = 1000  # Process max 1000 tracks per workflow run
 
 def validate_match(artist: str, track_name: str, video_title: str) -> bool:
     """
@@ -110,6 +118,22 @@ def search_youtube(artist: str, track_name: str) -> Optional[str]:
 
     return None
 
+def save_and_commit(youtube_links, message):
+    """Save youtube-links.json and commit to git"""
+    print(f"\nSaving youtube-links.json...")
+    with open('youtube-links.json', 'w', encoding='utf-8') as f:
+        json.dump(youtube_links, f, indent=2, ensure_ascii=False)
+
+    # Git commit
+    try:
+        subprocess.run(['git', 'add', 'youtube-links.json'], check=True)
+        subprocess.run(['git', 'commit', '-m', message], check=True)
+        subprocess.run(['git', 'push'], check=True)
+        print(f"✓ Committed and pushed: {message}")
+    except subprocess.CalledProcessError as e:
+        print(f"Warning: Git operation failed: {e}", file=sys.stderr)
+
+
 def main():
     """Main function to process metadata and generate YouTube links"""
 
@@ -134,10 +158,17 @@ def main():
 
     # Process each album and track
     total_tracks = sum(len(album.get('tracks', [])) for album in metadata)
-    print(f"Processing {total_tracks} tracks from {len(metadata)} albums...")
+    existing_tracks = len(youtube_links)
+    remaining_tracks = total_tracks - existing_tracks
+
+    print(f"Total tracks: {total_tracks}")
+    print(f"Already processed: {existing_tracks}")
+    print(f"Remaining: {remaining_tracks}")
+    print(f"Will process up to {MAX_TRACKS_PER_RUN} tracks this run")
 
     processed = 0
     new_links = 0
+    batch_count = 0
 
     for album in metadata:
         artist = album.get('artist', '')
@@ -157,10 +188,15 @@ def main():
 
             # Skip if we already have this link
             if key in youtube_links:
-                processed += 1
-                if processed % 100 == 0:
-                    print(f"Progress: {processed}/{total_tracks} tracks processed...")
                 continue
+
+            # Stop if we've hit the limit for this run
+            if processed >= MAX_TRACKS_PER_RUN:
+                print(f"\nReached limit of {MAX_TRACKS_PER_RUN} tracks for this run")
+                save_and_commit(youtube_links, f"Auto-update: {new_links} new YouTube links ({existing_tracks + processed} total)")
+                print(f"\n✓ Session complete! Processed {processed} new tracks")
+                print(f"Run the workflow again to continue processing remaining {remaining_tracks - processed} tracks")
+                return
 
             # Search YouTube for this track
             video_id = search_youtube(artist, track_name)
@@ -173,25 +209,33 @@ def main():
                     'url': f"https://www.youtube.com/watch?v={video_id}"
                 }
                 new_links += 1
-                print(f"Found: {artist} - {track_name} -> {video_id}")
+                print(f"✓ Found: {artist} - {track_name} -> {video_id}")
             else:
                 # Store None to indicate we tried but didn't find it
                 youtube_links[key] = None
-                print(f"Not found: {artist} - {track_name}")
+                print(f"✗ Not found: {artist} - {track_name}")
 
             processed += 1
 
-            # Progress update every 10 tracks
-            if processed % 10 == 0:
-                print(f"Progress: {processed}/{total_tracks} tracks processed, {new_links} new links found")
+            # Delay to avoid rate limiting
+            time.sleep(DELAY_BETWEEN_SEARCHES)
 
-    # Save results
-    print(f"\nSaving youtube-links.json...")
-    with open('youtube-links.json', 'w', encoding='utf-8') as f:
-        json.dump(youtube_links, f, indent=2, ensure_ascii=False)
+            # Commit batch
+            if processed % BATCH_SIZE == 0:
+                batch_count += 1
+                save_and_commit(youtube_links, f"Batch {batch_count}: {new_links} new links ({existing_tracks + processed} total)")
+                print(f"\n--- Batch {batch_count} committed ({processed}/{MAX_TRACKS_PER_RUN} processed this run) ---\n")
 
-    print(f"\nComplete! Processed {processed} tracks, found {new_links} new YouTube links")
+    # Final save
+    if processed > 0:
+        save_and_commit(youtube_links, f"Auto-update: {new_links} new YouTube links ({existing_tracks + processed} total)")
+
+    print(f"\n✓ Complete! Processed {processed} tracks, found {new_links} new YouTube links")
     print(f"Total links in database: {sum(1 for v in youtube_links.values() if v is not None)}")
+
+    if existing_tracks + processed < total_tracks:
+        print(f"\n⚠ Still {total_tracks - existing_tracks - processed} tracks remaining")
+        print("Run the workflow again to continue processing")
 
 if __name__ == '__main__':
     main()
