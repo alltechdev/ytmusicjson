@@ -254,9 +254,10 @@
 
   <script>
     let metadata = [];
+    let youtubeLinks = {};
     let searchTimeout;
 
-    // Load metadata
+    // Load metadata and YouTube links
     async function loadMetadata() {
       const loading = document.getElementById('loading');
       const error = document.getElementById('error');
@@ -264,13 +265,24 @@
       loading.style.display = 'block';
 
       try {
-        const response = await fetch('metadata.json');
-        if (!response.ok) throw new Error('Failed to load metadata');
+        // Load metadata
+        const metadataResponse = await fetch('metadata.json');
+        if (!metadataResponse.ok) throw new Error('Failed to load metadata');
+        metadata = await metadataResponse.json();
 
-        metadata = await response.json();
+        // Load YouTube links (optional, may not exist yet)
+        try {
+          const youtubeResponse = await fetch('youtube-links.json');
+          if (youtubeResponse.ok) {
+            youtubeLinks = await youtubeResponse.json();
+          }
+        } catch (e) {
+          console.log('YouTube links not yet available');
+        }
 
         // Calculate stats
         const totalTracks = metadata.reduce((sum, album) => sum + (album.tracks?.length || 0), 0);
+        const linkedTracks = Object.values(youtubeLinks).filter(link => link !== null).length;
         document.getElementById('totalAlbums').textContent = metadata.length;
         document.getElementById('totalTracks').textContent = totalTracks;
         document.getElementById('stats').style.display = 'flex';
@@ -323,16 +335,31 @@
 
         const tracksHtml = item.tracks?.slice(0, 10).map(track => {
           const duration = formatDuration(track.duration);
-          // Create YouTube Music direct link format
-          const searchQuery = `${item.artist} ${track.name}`.replace(/\s+/g, '+');
-          const youtubeUrl = `https://music.youtube.com/search?q=${encodeURIComponent(searchQuery)}`;
+
+          // Check if we have a validated YouTube link for this track
+          const linkKey = `${item.artist}|${track.name}`;
+          const youtubeData = youtubeLinks[linkKey];
+
+          let youtubeLink = '';
+          if (youtubeData && youtubeData.url) {
+            // We have a validated direct link
+            youtubeLink = `<a href="${escapeHtml(youtubeData.url)}" target="_blank" style="color: #ff0000; text-decoration: none; font-size: 0.75rem; font-weight: bold;" title="Watch on YouTube">▶ YouTube</a>`;
+          } else if (youtubeData === null) {
+            // We checked but song doesn't exist on YouTube
+            youtubeLink = `<span style="color: #999; font-size: 0.75rem;" title="Not available on YouTube">N/A</span>`;
+          } else {
+            // Not yet checked - show search link as fallback
+            const searchQuery = `${item.artist} ${track.name}`.replace(/\s+/g, '+');
+            const searchUrl = `https://music.youtube.com/search?q=${encodeURIComponent(searchQuery)}`;
+            youtubeLink = `<a href="${searchUrl}" target="_blank" style="color: #888; text-decoration: none; font-size: 0.75rem;" title="Search on YouTube">🔍 Search</a>`;
+          }
 
           return `
             <div class="track-item">
               <span class="track-name">${escapeHtml(track.name)}</span>
               <div style="display: flex; align-items: center; gap: 8px;">
                 ${duration ? `<span class="track-duration">${duration}</span>` : ''}
-                <a href="${youtubeUrl}" target="_blank" style="color: #ff0000; text-decoration: none; font-size: 0.75rem;" title="Listen on YouTube Music">🎵 YouTube</a>
+                ${youtubeLink}
               </div>
             </div>
           `;
