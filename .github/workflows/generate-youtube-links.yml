@@ -5,8 +5,8 @@ on:
     paths:
       - 'metadata.json'
   workflow_dispatch:  # Allow manual trigger
-  # schedule:
-  #   - cron: '*/10 * * * *'  # Run every 10 minutes (temporarily disabled)
+  schedule:
+    - cron: '*/40 * * * *'  # Run every 40 minutes
 
 concurrency:
   group: youtube-links-generator
@@ -66,10 +66,3 @@ jobs:
         if: steps.check.outputs.continue == 'true'
         run: |
           python scripts/fetch_youtube_links.py
-
-      - name: Trigger next run
-        if: steps.check.outputs.continue == 'true'
-        run: |
-          gh workflow run generate-youtube-links.yml
-        env:
-          GH_TOKEN: ${{ github.token }}
