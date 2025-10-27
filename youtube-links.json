@@ -67708,5 +67708,675 @@
     "album": "Pachad Gvohim",
     "video_id": "3fUmF8mifj0",
     "url": "https://www.youtube.com/watch?v=3fUmF8mifj0"
+  },
+  "Ishay Ribo|הנה ימים באים - Hinay Yomim Baim": {
+    "artist": "Ishay Ribo",
+    "track": "הנה ימים באים - Hinay Yomim Baim",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "bXQgPQikJVM",
+    "url": "https://www.youtube.com/watch?v=bXQgPQikJVM"
+  },
+  "Ishay Ribo|אחת ולתמיד - Achat U'Ltamid": null,
+  "Ishay Ribo|משגיח מן החלונות - Mashgiach Min Hachalonot": {
+    "artist": "Ishay Ribo",
+    "track": "משגיח מן החלונות - Mashgiach Min Hachalonot",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "FMqiGAXHVNs",
+    "url": "https://www.youtube.com/watch?v=FMqiGAXHVNs"
+  },
+  "Ishay Ribo|לשוב הביתה - Lashuv Habaitah": {
+    "artist": "Ishay Ribo",
+    "track": "לשוב הביתה - Lashuv Habaitah",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "Y30pfWIQfoo",
+    "url": "https://www.youtube.com/watch?v=Y30pfWIQfoo"
+  },
+  "Ishay Ribo|שטח אפור - Shetach Ofor": {
+    "artist": "Ishay Ribo",
+    "track": "שטח אפור - Shetach Ofor",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "DrTALyA-_KU",
+    "url": "https://www.youtube.com/watch?v=DrTALyA-_KU"
+  },
+  "Ishay Ribo|לים - Layam": {
+    "artist": "Ishay Ribo",
+    "track": "לים - Layam",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "ZNZxppGYwrk",
+    "url": "https://www.youtube.com/watch?v=ZNZxppGYwrk"
+  },
+  "Ishay Ribo|Comme Les Oiseaux": {
+    "artist": "Ishay Ribo",
+    "track": "Comme Les Oiseaux",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "wqVeIhGssPs",
+    "url": "https://www.youtube.com/watch?v=wqVeIhGssPs"
+  },
+  "Ishay Ribo|כל הזמן - Kol Hazman": {
+    "artist": "Ishay Ribo",
+    "track": "כל הזמן - Kol Hazman",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "rpbZAcURadw",
+    "url": "https://www.youtube.com/watch?v=rpbZAcURadw"
+  },
+  "Ishay Ribo|אדון עולם - Adon Olam": {
+    "artist": "Ishay Ribo",
+    "track": "אדון עולם - Adon Olam",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "gDmrW2IiBcA",
+    "url": "https://www.youtube.com/watch?v=gDmrW2IiBcA"
+  },
+  "Ishay Ribo|הבוקר יעלה - Haboker Ya'aleh": {
+    "artist": "Ishay Ribo",
+    "track": "הבוקר יעלה - Haboker Ya'aleh",
+    "album": "שטח אפור - Shetach Afur",
+    "video_id": "myu_CEd8B0E",
+    "url": "https://www.youtube.com/watch?v=myu_CEd8B0E"
+  },
+  "Ishay Ribo|כמה טוב שבאת - Kamah Tov Sheb'atah": null,
+  "Ishay Ribo|לשם שמים": {
+    "artist": "Ishay Ribo",
+    "track": "לשם שמים",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "EP2Onb-1JAA",
+    "url": "https://www.youtube.com/watch?v=EP2Onb-1JAA"
+  },
+  "Ishay Ribo|תוכו רצוף אהבה": {
+    "artist": "Ishay Ribo",
+    "track": "תוכו רצוף אהבה",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "fQRgX3ivUKU",
+    "url": "https://www.youtube.com/watch?v=fQRgX3ivUKU"
+  },
+  "Ishay Ribo|מטבע הדברים": {
+    "artist": "Ishay Ribo",
+    "track": "מטבע הדברים",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "1kyt4w6Z-kk",
+    "url": "https://www.youtube.com/watch?v=1kyt4w6Z-kk"
+  },
+  "Ishay Ribo|אם ננעלו": {
+    "artist": "Ishay Ribo",
+    "track": "אם ננעלו",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "5TUCbdY4tiQ",
+    "url": "https://www.youtube.com/watch?v=5TUCbdY4tiQ"
+  },
+  "Ishay Ribo|אהלן וסהלן": {
+    "artist": "Ishay Ribo",
+    "track": "אהלן וסהלן",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "cLNltr9cIGM",
+    "url": "https://www.youtube.com/watch?v=cLNltr9cIGM"
+  },
+  "Ishay Ribo|קול דודי": {
+    "artist": "Ishay Ribo",
+    "track": "קול דודי",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "02fFnUDFdSA",
+    "url": "https://www.youtube.com/watch?v=02fFnUDFdSA"
+  },
+  "Ishay Ribo|הנסיון הזה": {
+    "artist": "Ishay Ribo",
+    "track": "הנסיון הזה",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "X7pfvFzS4r4",
+    "url": "https://www.youtube.com/watch?v=X7pfvFzS4r4"
+  },
+  "Ishay Ribo|אבא יקר": {
+    "artist": "Ishay Ribo",
+    "track": "אבא יקר",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "Dq8t_ymFKuc",
+    "url": "https://www.youtube.com/watch?v=Dq8t_ymFKuc"
+  },
+  "Ishay Ribo|עוד ישמע": {
+    "artist": "Ishay Ribo",
+    "track": "עוד ישמע",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "YzisFHMLH_A",
+    "url": "https://www.youtube.com/watch?v=YzisFHMLH_A"
+  },
+  "Ishay Ribo|גם כי אלך": {
+    "artist": "Ishay Ribo",
+    "track": "גם כי אלך",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "STgaTz2OJU8",
+    "url": "https://www.youtube.com/watch?v=STgaTz2OJU8"
+  },
+  "Ishay Ribo|יגדל": {
+    "artist": "Ishay Ribo",
+    "track": "יגדל",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "reeVAdiU0xQ",
+    "url": "https://www.youtube.com/watch?v=reeVAdiU0xQ"
+  },
+  "Ishay Ribo|השבעתי": {
+    "artist": "Ishay Ribo",
+    "track": "השבעתי",
+    "album": "תוכו רצוף אהבה - Tocho Ratzuf Ahava",
+    "video_id": "z9_VGCH_mag",
+    "url": "https://www.youtube.com/watch?v=z9_VGCH_mag"
+  },
+  "Ishay Ribo|הלב שלי": {
+    "artist": "Ishay Ribo",
+    "track": "הלב שלי",
+    "album": "הלב שלי",
+    "video_id": "6U_5KhaH6IM",
+    "url": "https://www.youtube.com/watch?v=6U_5KhaH6IM"
+  },
+  "Ishay Ribo|כתר מלוכה": {
+    "artist": "Ishay Ribo",
+    "track": "כתר מלוכה",
+    "album": "כתר מלוכה - Keter Melucha",
+    "video_id": "QSAZnYdvVak",
+    "url": "https://www.youtube.com/watch?v=QSAZnYdvVak"
+  },
+  "Ishay Ribo|לא נפסיק לחלום": {
+    "artist": "Ishay Ribo",
+    "track": "לא נפסיק לחלום",
+    "album": "לא נפסיק לחלום - Lo Nafsik Lachlom",
+    "video_id": "K2k3JEpg6K4",
+    "url": "https://www.youtube.com/watch?v=K2k3JEpg6K4"
+  },
+  "Ishay Ribo|סדר העבודה": {
+    "artist": "Ishay Ribo",
+    "track": "סדר העבודה",
+    "album": "סדר העבודה - Seder Ha'Avoda",
+    "video_id": "ECy3CMxShIQ",
+    "url": "https://www.youtube.com/watch?v=ECy3CMxShIQ"
+  },
+  "Ishay Ribo|סיבת הסיבות - Sibat Hasibot": {
+    "artist": "Ishay Ribo",
+    "track": "סיבת הסיבות - Sibat Hasibot",
+    "album": "סיבת הסיבות - Sibat Hasibot",
+    "video_id": "T5Wf3gmF6Do",
+    "url": "https://www.youtube.com/watch?v=T5Wf3gmF6Do"
+  },
+  "Ishay Ribo|תכף יפתח - Techef Yipatach": {
+    "artist": "Ishay Ribo",
+    "track": "תכף יפתח - Techef Yipatach",
+    "album": "תכף יפתח - Techef Yipatach",
+    "video_id": "ozO_rKRYeMY",
+    "url": "https://www.youtube.com/watch?v=ozO_rKRYeMY"
+  },
+  "Ishay Ribo|נחכה לך feat. Natan Goshen": {
+    "artist": "Ishay Ribo",
+    "track": "נחכה לך feat. Natan Goshen",
+    "album": "נחכה לך - Nechake Lach feat. Natan Goshen",
+    "video_id": "LH6sJHfx6Ok",
+    "url": "https://www.youtube.com/watch?v=LH6sJHfx6Ok"
+  },
+  "Ishay Ribo|נפשי feat. Motty Steinmetz": {
+    "artist": "Ishay Ribo",
+    "track": "נפשי feat. Motty Steinmetz",
+    "album": "נפשי  - Nafshi feat. Motty Steinmetz",
+    "video_id": "-6hnYAEUV2M",
+    "url": "https://www.youtube.com/watch?v=-6hnYAEUV2M"
+  },
+  "Ishay Ribo|אחת ולתמיד feat. Eldad Citrin": null,
+  "Ishay Ribo|אדון עולם": {
+    "artist": "Ishay Ribo",
+    "track": "אדון עולם",
+    "album": "אדון עולם - Adon Olam",
+    "video_id": "gDmrW2IiBcA",
+    "url": "https://www.youtube.com/watch?v=gDmrW2IiBcA"
+  },
+  "Ishay Ribo|Comme Les Oiseaux feat. Amir": {
+    "artist": "Ishay Ribo",
+    "track": "Comme Les Oiseaux feat. Amir",
+    "album": "Comme Les Oiseaux feat. Amir",
+    "video_id": "DdtvHuZQijA",
+    "url": "https://www.youtube.com/watch?v=DdtvHuZQijA"
+  },
+  "Ishay Ribo|כל הזמן": {
+    "artist": "Ishay Ribo",
+    "track": "כל הזמן",
+    "album": "כל הזמן - Kol Hazman",
+    "video_id": "rpbZAcURadw",
+    "url": "https://www.youtube.com/watch?v=rpbZAcURadw"
+  },
+  "Ishay Ribo|לים": {
+    "artist": "Ishay Ribo",
+    "track": "לים",
+    "album": "לים",
+    "video_id": "ZNZxppGYwrk",
+    "url": "https://www.youtube.com/watch?v=ZNZxppGYwrk"
+  },
+  "Ishay Ribo|אחת ולתמיד": {
+    "artist": "Ishay Ribo",
+    "track": "אחת ולתמיד",
+    "album": "אחת ולתמיד - Achat Uletamid",
+    "video_id": "2zZXB_ixeXE",
+    "url": "https://www.youtube.com/watch?v=2zZXB_ixeXE"
+  },
+  "Ishay Ribo|לשוב הביתה": {
+    "artist": "Ishay Ribo",
+    "track": "לשוב הביתה",
+    "album": "לשוב הביתה",
+    "video_id": "Y30pfWIQfoo",
+    "url": "https://www.youtube.com/watch?v=Y30pfWIQfoo"
+  },
+  "Ishay Ribo|הנה ימים באים": {
+    "artist": "Ishay Ribo",
+    "track": "הנה ימים באים",
+    "album": "הנה ימים באים",
+    "video_id": "bXQgPQikJVM",
+    "url": "https://www.youtube.com/watch?v=bXQgPQikJVM"
+  },
+  "Netanel Hershtik|Avinu": {
+    "artist": "Netanel Hershtik",
+    "track": "Avinu",
+    "album": "The Art Of Cantor",
+    "video_id": "5o5csJ0UV6Q",
+    "url": "https://www.youtube.com/watch?v=5o5csJ0UV6Q"
+  },
+  "Netanel Hershtik|Veshamru": {
+    "artist": "Netanel Hershtik",
+    "track": "Veshamru",
+    "album": "The Art Of Cantor",
+    "video_id": "5JwwsVej_5k",
+    "url": "https://www.youtube.com/watch?v=5JwwsVej_5k"
+  },
+  "Netanel Hershtik|Zara Chaya": {
+    "artist": "Netanel Hershtik",
+    "track": "Zara Chaya",
+    "album": "The Art Of Cantor",
+    "video_id": "-syTQoRqHuM",
+    "url": "https://www.youtube.com/watch?v=-syTQoRqHuM"
+  },
+  "Netanel Hershtik|Am Yisreal Chai": {
+    "artist": "Netanel Hershtik",
+    "track": "Am Yisreal Chai",
+    "album": "The Art Of Cantor",
+    "video_id": "72Dx-7dOpXs",
+    "url": "https://www.youtube.com/watch?v=72Dx-7dOpXs"
+  },
+  "Netanel Hershtik|Atzabeihem": {
+    "artist": "Netanel Hershtik",
+    "track": "Atzabeihem",
+    "album": "The Art Of Cantor",
+    "video_id": "ovBeYuUOkIs",
+    "url": "https://www.youtube.com/watch?v=ovBeYuUOkIs"
+  },
+  "Netanel Hershtik|Moishele Main Fraint": {
+    "artist": "Netanel Hershtik",
+    "track": "Moishele Main Fraint",
+    "album": "The Art Of Cantor",
+    "video_id": "I7ifmN2jXnw",
+    "url": "https://www.youtube.com/watch?v=I7ifmN2jXnw"
+  },
+  "Netanel Hershtik|Seder Medley": {
+    "artist": "Netanel Hershtik",
+    "track": "Seder Medley",
+    "album": "The Art Of Cantor",
+    "video_id": "n5SbwfQQAr4",
+    "url": "https://www.youtube.com/watch?v=n5SbwfQQAr4"
+  },
+  "Netanel Hershtik|Tanya (Featuring Srulik Herstik)": {
+    "artist": "Netanel Hershtik",
+    "track": "Tanya (Featuring Srulik Herstik)",
+    "album": "The Art Of Cantor",
+    "video_id": "liAZ2lZlgnA",
+    "url": "https://www.youtube.com/watch?v=liAZ2lZlgnA"
+  },
+  "Netanel Hershtik|Umimpnei Chataenu": {
+    "artist": "Netanel Hershtik",
+    "track": "Umimpnei Chataenu",
+    "album": "The Art Of Cantor",
+    "video_id": "WXBP1sShP2U",
+    "url": "https://www.youtube.com/watch?v=WXBP1sShP2U"
+  },
+  "Netanel Hershtik|Lift Up Your Heads": {
+    "artist": "Netanel Hershtik",
+    "track": "Lift Up Your Heads",
+    "album": "The Art Of Cantor",
+    "video_id": "1o6fa_U1K50",
+    "url": "https://www.youtube.com/watch?v=1o6fa_U1K50"
+  },
+  "Netanel Hershtik|Beavur David": {
+    "artist": "Netanel Hershtik",
+    "track": "Beavur David",
+    "album": "The Art Of Cantor",
+    "video_id": "fSaViphtDZc",
+    "url": "https://www.youtube.com/watch?v=fSaViphtDZc"
+  },
+  "Netanel Hershtik|Veulai": {
+    "artist": "Netanel Hershtik",
+    "track": "Veulai",
+    "album": "The Art Of Cantor",
+    "video_id": "XyD7kcTWCho",
+    "url": "https://www.youtube.com/watch?v=XyD7kcTWCho"
+  },
+  "Netanel Hershtik|Havdala (Featuring the Maccabeats)": {
+    "artist": "Netanel Hershtik",
+    "track": "Havdala (Featuring the Maccabeats)",
+    "album": "The Art Of Cantor",
+    "video_id": "5Y9jPvnV5B8",
+    "url": "https://www.youtube.com/watch?v=5Y9jPvnV5B8"
+  },
+  "Ishay Ribo|כלי חמדתו - Kli Chemdato": null,
+  "Ishay Ribo|תוכו רצוף אהבה - Tocho Ratzuf Ahavah": {
+    "artist": "Ishay Ribo",
+    "track": "תוכו רצוף אהבה - Tocho Ratzuf Ahavah",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "fQRgX3ivUKU",
+    "url": "https://www.youtube.com/watch?v=fQRgX3ivUKU"
+  },
+  "Ishay Ribo|קול דודי - Kol Dodi": {
+    "artist": "Ishay Ribo",
+    "track": "קול דודי - Kol Dodi",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "02fFnUDFdSA",
+    "url": "https://www.youtube.com/watch?v=02fFnUDFdSA"
+  },
+  "Ishay Ribo|אם ננעלו - Im Ninalu": {
+    "artist": "Ishay Ribo",
+    "track": "אם ננעלו - Im Ninalu",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "5TUCbdY4tiQ",
+    "url": "https://www.youtube.com/watch?v=5TUCbdY4tiQ"
+  },
+  "Ishay Ribo|הנסיון הזה - Hanisayon Hazeh": {
+    "artist": "Ishay Ribo",
+    "track": "הנסיון הזה - Hanisayon Hazeh",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "X7pfvFzS4r4",
+    "url": "https://www.youtube.com/watch?v=X7pfvFzS4r4"
+  },
+  "Ishay Ribo|עוד ישמע - Od Yishama": {
+    "artist": "Ishay Ribo",
+    "track": "עוד ישמע - Od Yishama",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "u2FzBma7eIA",
+    "url": "https://www.youtube.com/watch?v=u2FzBma7eIA"
+  },
+  "Ishay Ribo|יראת שמים - Yirat Shomayim": {
+    "artist": "Ishay Ribo",
+    "track": "יראת שמים - Yirat Shomayim",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "RAqXNkkJWcY",
+    "url": "https://www.youtube.com/watch?v=RAqXNkkJWcY"
+  },
+  "Ishay Ribo|אור החיים - Ohr Hachaim": {
+    "artist": "Ishay Ribo",
+    "track": "אור החיים - Ohr Hachaim",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "Z1LYduzbdaw",
+    "url": "https://www.youtube.com/watch?v=Z1LYduzbdaw"
+  },
+  "Ishay Ribo|מקשה אחת זהב - Miksha Achat Zahav": {
+    "artist": "Ishay Ribo",
+    "track": "מקשה אחת זהב - Miksha Achat Zahav",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "vD_wi_sy28M",
+    "url": "https://www.youtube.com/watch?v=vD_wi_sy28M"
+  },
+  "Ishay Ribo|קול פעמונים - Kol Hapaamonim": {
+    "artist": "Ishay Ribo",
+    "track": "קול פעמונים - Kol Hapaamonim",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "skuGq6-Yo-Y",
+    "url": "https://www.youtube.com/watch?v=skuGq6-Yo-Y"
+  },
+  "Ishay Ribo|מציל אותי כל יום - Matzil Oti Kol Yom": {
+    "artist": "Ishay Ribo",
+    "track": "מציל אותי כל יום - Matzil Oti Kol Yom",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "XzRhI9HCJVo",
+    "url": "https://www.youtube.com/watch?v=XzRhI9HCJVo"
+  },
+  "Ishay Ribo|בין לבן לשחור - Bain Lavan L'Shchor": null,
+  "Ishay Ribo|הבוקר יעלה - Haboker Yaaleh": {
+    "artist": "Ishay Ribo",
+    "track": "הבוקר יעלה - Haboker Yaaleh",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "7mmu6EzLZfM",
+    "url": "https://www.youtube.com/watch?v=7mmu6EzLZfM"
+  },
+  "Ishay Ribo|הנה ימים באים - Hinay Yamim Baim": {
+    "artist": "Ishay Ribo",
+    "track": "הנה ימים באים - Hinay Yamim Baim",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "bXQgPQikJVM",
+    "url": "https://www.youtube.com/watch?v=bXQgPQikJVM"
+  },
+  "Ishay Ribo|כמה טוב שבאת": {
+    "artist": "Ishay Ribo",
+    "track": "כמה טוב שבאת",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "O6BOLzjVJiU",
+    "url": "https://www.youtube.com/watch?v=O6BOLzjVJiU"
+  },
+  "Ishay Ribo|רחמי שמים - Rachmei Shomayim": {
+    "artist": "Ishay Ribo",
+    "track": "רחמי שמים - Rachmei Shomayim",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "6IwfcrdAkYA",
+    "url": "https://www.youtube.com/watch?v=6IwfcrdAkYA"
+  },
+  "Ishay Ribo|אלול תשע\"ט": {
+    "artist": "Ishay Ribo",
+    "track": "אלול תשע\"ט",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "SHErQrvvftQ",
+    "url": "https://www.youtube.com/watch?v=SHErQrvvftQ"
+  },
+  "Ishay Ribo|והאמת": {
+    "artist": "Ishay Ribo",
+    "track": "והאמת",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "ZUPP10SvO3g",
+    "url": "https://www.youtube.com/watch?v=ZUPP10SvO3g"
+  },
+  "Ishay Ribo|אייכה": {
+    "artist": "Ishay Ribo",
+    "track": "אייכה",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "RwFDYobcdF0",
+    "url": "https://www.youtube.com/watch?v=RwFDYobcdF0"
+  },
+  "Ishay Ribo|לבחור נכון": {
+    "artist": "Ishay Ribo",
+    "track": "לבחור נכון",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "WSiDvGpwbUY",
+    "url": "https://www.youtube.com/watch?v=WSiDvGpwbUY"
+  },
+  "Ishay Ribo|נחכה לך - Nechake Lach": {
+    "artist": "Ishay Ribo",
+    "track": "נחכה לך - Nechake Lach",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "ryTO71_eMO4",
+    "url": "https://www.youtube.com/watch?v=ryTO71_eMO4"
+  },
+  "Ishay Ribo|בלוז כנעני": {
+    "artist": "Ishay Ribo",
+    "track": "בלוז כנעני",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "edkFVJBqI1Q",
+    "url": "https://www.youtube.com/watch?v=edkFVJBqI1Q"
+  },
+  "Ishay Ribo|זהות": {
+    "artist": "Ishay Ribo",
+    "track": "זהות",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "Ik22jJTq3Hc",
+    "url": "https://www.youtube.com/watch?v=Ik22jJTq3Hc"
+  },
+  "Ishay Ribo|אל תעזבי ידיים - Al Ta'azvi Yadayim": {
+    "artist": "Ishay Ribo",
+    "track": "אל תעזבי ידיים - Al Ta'azvi Yadayim",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "u3n2SLWQsXk",
+    "url": "https://www.youtube.com/watch?v=u3n2SLWQsXk"
+  },
+  "Ishay Ribo|שקט - Sheket": {
+    "artist": "Ishay Ribo",
+    "track": "שקט - Sheket",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "K3O6haYkuXY",
+    "url": "https://www.youtube.com/watch?v=K3O6haYkuXY"
+  },
+  "Ishay Ribo|ניצחת איתי הכל - Nitzachat Iti Hakol": {
+    "artist": "Ishay Ribo",
+    "track": "ניצחת איתי הכל - Nitzachat Iti Hakol",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "WKE9XRCtnSU",
+    "url": "https://www.youtube.com/watch?v=WKE9XRCtnSU"
+  },
+  "Ishay Ribo|כתר מלוכה - Keser Melucha": {
+    "artist": "Ishay Ribo",
+    "track": "כתר מלוכה - Keser Melucha",
+    "album": "במה קהל ואהבה - Bama Kahal V'ahava",
+    "video_id": "QSAZnYdvVak",
+    "url": "https://www.youtube.com/watch?v=QSAZnYdvVak"
+  },
+  "Naftali Blumenthal|Connecting the Dots": {
+    "artist": "Naftali Blumenthal",
+    "track": "Connecting the Dots",
+    "album": "Naftali Blumenthal",
+    "video_id": "StYV1RjqPvI",
+    "url": "https://www.youtube.com/watch?v=StYV1RjqPvI"
+  },
+  "Naftali Blumenthal|Hamalach": {
+    "artist": "Naftali Blumenthal",
+    "track": "Hamalach",
+    "album": "Naftali Blumenthal",
+    "video_id": "u7F5KbnoNDA",
+    "url": "https://www.youtube.com/watch?v=u7F5KbnoNDA"
+  },
+  "Naftali Blumenthal|Same Language": {
+    "artist": "Naftali Blumenthal",
+    "track": "Same Language",
+    "album": "Naftali Blumenthal",
+    "video_id": "Ol2G_4autEU",
+    "url": "https://www.youtube.com/watch?v=Ol2G_4autEU"
+  },
+  "Naftali Blumenthal|This is Emunah": {
+    "artist": "Naftali Blumenthal",
+    "track": "This is Emunah",
+    "album": "Naftali Blumenthal",
+    "video_id": "l8OYEP0VW4I",
+    "url": "https://www.youtube.com/watch?v=l8OYEP0VW4I"
+  },
+  "Naftali Blumenthal|One of My Own": {
+    "artist": "Naftali Blumenthal",
+    "track": "One of My Own",
+    "album": "Naftali Blumenthal",
+    "video_id": "83z-HrWZLk4",
+    "url": "https://www.youtube.com/watch?v=83z-HrWZLk4"
+  },
+  "Naftali Blumenthal|Free Will": {
+    "artist": "Naftali Blumenthal",
+    "track": "Free Will",
+    "album": "Naftali Blumenthal",
+    "video_id": "NUmL8esWEbk",
+    "url": "https://www.youtube.com/watch?v=NUmL8esWEbk"
+  },
+  "Naftali Blumenthal|Achas": {
+    "artist": "Naftali Blumenthal",
+    "track": "Achas",
+    "album": "Naftali Blumenthal",
+    "video_id": "bA57ZizoqyY",
+    "url": "https://www.youtube.com/watch?v=bA57ZizoqyY"
+  },
+  "Naftali Blumenthal|Maybe No One Told You": {
+    "artist": "Naftali Blumenthal",
+    "track": "Maybe No One Told You",
+    "album": "Naftali Blumenthal",
+    "video_id": "D8vf6_Xd9dI",
+    "url": "https://www.youtube.com/watch?v=D8vf6_Xd9dI"
+  },
+  "Naftali Blumenthal|Teshuva": {
+    "artist": "Naftali Blumenthal",
+    "track": "Teshuva",
+    "album": "Naftali Blumenthal",
+    "video_id": "TN-t_f6Ngzs",
+    "url": "https://www.youtube.com/watch?v=TN-t_f6Ngzs"
+  },
+  "Naftali Blumenthal|I See You": {
+    "artist": "Naftali Blumenthal",
+    "track": "I See You",
+    "album": "Naftali Blumenthal",
+    "video_id": "fkvgFXtux0w",
+    "url": "https://www.youtube.com/watch?v=fkvgFXtux0w"
+  },
+  "Naftali Blumenthal|Like a Flame": {
+    "artist": "Naftali Blumenthal",
+    "track": "Like a Flame",
+    "album": "Naftali Blumenthal",
+    "video_id": "6jMRBLBoX5Y",
+    "url": "https://www.youtube.com/watch?v=6jMRBLBoX5Y"
+  },
+  "Naftali Blumenthal|Lev Tahor": {
+    "artist": "Naftali Blumenthal",
+    "track": "Lev Tahor",
+    "album": "Naftali Blumenthal",
+    "video_id": "A-2HL3YjNlY",
+    "url": "https://www.youtube.com/watch?v=A-2HL3YjNlY"
+  },
+  "Naftali Blumenthal|Waves of Faith": {
+    "artist": "Naftali Blumenthal",
+    "track": "Waves of Faith",
+    "album": "Waves of Faith",
+    "video_id": "Tq62Exj548s",
+    "url": "https://www.youtube.com/watch?v=Tq62Exj548s"
+  },
+  "Naftali Blumenthal|There's an Angel": {
+    "artist": "Naftali Blumenthal",
+    "track": "There's an Angel",
+    "album": "Waves of Faith",
+    "video_id": "c6T5emuZjPc",
+    "url": "https://www.youtube.com/watch?v=c6T5emuZjPc"
+  },
+  "Naftali Blumenthal|From Where": {
+    "artist": "Naftali Blumenthal",
+    "track": "From Where",
+    "album": "Waves of Faith",
+    "video_id": "rBrHcGX-kb0",
+    "url": "https://www.youtube.com/watch?v=rBrHcGX-kb0"
+  },
+  "Naftali Blumenthal|Colors": {
+    "artist": "Naftali Blumenthal",
+    "track": "Colors",
+    "album": "Waves of Faith",
+    "video_id": "CU3FNqZmUvI",
+    "url": "https://www.youtube.com/watch?v=CU3FNqZmUvI"
+  },
+  "Naftali Blumenthal|Save Me": {
+    "artist": "Naftali Blumenthal",
+    "track": "Save Me",
+    "album": "Waves of Faith",
+    "video_id": "2f7XnoysMgY",
+    "url": "https://www.youtube.com/watch?v=2f7XnoysMgY"
+  },
+  "Naftali Blumenthal|Magein Avraham": {
+    "artist": "Naftali Blumenthal",
+    "track": "Magein Avraham",
+    "album": "Waves of Faith",
+    "video_id": "UCHALXiutT0",
+    "url": "https://www.youtube.com/watch?v=UCHALXiutT0"
+  },
+  "Naftali Blumenthal|Hakadosh": {
+    "artist": "Naftali Blumenthal",
+    "track": "Hakadosh",
+    "album": "Waves of Faith",
+    "video_id": "e6QqJHONnws",
+    "url": "https://www.youtube.com/watch?v=e6QqJHONnws"
+  },
+  "Naftali Blumenthal|One More Time": {
+    "artist": "Naftali Blumenthal",
+    "track": "One More Time",
+    "album": "Waves of Faith",
+    "video_id": "lfi5I17wKu8",
+    "url": "https://www.youtube.com/watch?v=lfi5I17wKu8"
+  },
+  "Naftali Blumenthal|All In": {
+    "artist": "Naftali Blumenthal",
+    "track": "All In",
+    "album": "All In",
+    "video_id": "FgiJKWYCX_Y",
+    "url": "https://www.youtube.com/watch?v=FgiJKWYCX_Y"
   }
 }
