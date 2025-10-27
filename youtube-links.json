@@ -70322,5 +70322,615 @@
     "album": "Achim 1",
     "video_id": "dUN8wSEyTkY",
     "url": "https://www.youtube.com/watch?v=dUN8wSEyTkY"
+  },
+  "Achim|Ma Yakor": {
+    "artist": "Achim",
+    "track": "Ma Yakor",
+    "album": "Achim 1",
+    "video_id": "-BvGGpZmtWs",
+    "url": "https://www.youtube.com/watch?v=-BvGGpZmtWs"
+  },
+  "Achim|Horah Medley": {
+    "artist": "Achim",
+    "track": "Horah Medley",
+    "album": "Achim 1",
+    "video_id": "9VoR3VM7kV0",
+    "url": "https://www.youtube.com/watch?v=9VoR3VM7kV0"
+  },
+  "Achim|Ki Lekach Tov": {
+    "artist": "Achim",
+    "track": "Ki Lekach Tov",
+    "album": "Achim 1",
+    "video_id": "JyiFUdFooBU",
+    "url": "https://www.youtube.com/watch?v=JyiFUdFooBU"
+  },
+  "Achim|Ur'ei Vanim": {
+    "artist": "Achim",
+    "track": "Ur'ei Vanim",
+    "album": "Achim 1",
+    "video_id": "GBZ7XIEdSbY",
+    "url": "https://www.youtube.com/watch?v=GBZ7XIEdSbY"
+  },
+  "Achim|Biyom Hashabbos": {
+    "artist": "Achim",
+    "track": "Biyom Hashabbos",
+    "album": "Achim 2",
+    "video_id": "PdjTSsn52qM",
+    "url": "https://www.youtube.com/watch?v=PdjTSsn52qM"
+  },
+  "Achim|V'hu Nisi": {
+    "artist": "Achim",
+    "track": "V'hu Nisi",
+    "album": "Achim 2",
+    "video_id": "bUFR4P_q_Oo",
+    "url": "https://www.youtube.com/watch?v=bUFR4P_q_Oo"
+  },
+  "Achim|Ba'eis Hahee": {
+    "artist": "Achim",
+    "track": "Ba'eis Hahee",
+    "album": "Achim 2",
+    "video_id": "MwDEGpSRdFQ",
+    "url": "https://www.youtube.com/watch?v=MwDEGpSRdFQ"
+  },
+  "Achim|Einei Chol": {
+    "artist": "Achim",
+    "track": "Einei Chol",
+    "album": "Achim 2",
+    "video_id": "Y9LmBoYknEc",
+    "url": "https://www.youtube.com/watch?v=Y9LmBoYknEc"
+  },
+  "Achim|Boruch Hashem": {
+    "artist": "Achim",
+    "track": "Boruch Hashem",
+    "album": "Achim 2",
+    "video_id": "EQDupoJ9mRg",
+    "url": "https://www.youtube.com/watch?v=EQDupoJ9mRg"
+  },
+  "Achim|Achas Sha'alti": {
+    "artist": "Achim",
+    "track": "Achas Sha'alti",
+    "album": "Achim 2",
+    "video_id": "U-R7h0fzNCE",
+    "url": "https://www.youtube.com/watch?v=U-R7h0fzNCE"
+  },
+  "Achim|Hakol Yoducha": {
+    "artist": "Achim",
+    "track": "Hakol Yoducha",
+    "album": "Achim 2",
+    "video_id": "UNoqwGkDibQ",
+    "url": "https://www.youtube.com/watch?v=UNoqwGkDibQ"
+  },
+  "Achim|Hinei Matov": {
+    "artist": "Achim",
+    "track": "Hinei Matov",
+    "album": "Achim 2",
+    "video_id": "ehnKHhJ26pQ",
+    "url": "https://www.youtube.com/watch?v=ehnKHhJ26pQ"
+  },
+  "Achim|U'vikashtem": {
+    "artist": "Achim",
+    "track": "U'vikashtem",
+    "album": "Achim 2",
+    "video_id": "rBS-yB--SAc",
+    "url": "https://www.youtube.com/watch?v=rBS-yB--SAc"
+  },
+  "Achim|Master Plan": {
+    "artist": "Achim",
+    "track": "Master Plan",
+    "album": "Achim 2",
+    "video_id": "bCfPzvh1ZrM",
+    "url": "https://www.youtube.com/watch?v=bCfPzvh1ZrM"
+  },
+  "Achim|Horachaman": {
+    "artist": "Achim",
+    "track": "Horachaman",
+    "album": "Achim 3",
+    "video_id": "aAHtAkPn8b0",
+    "url": "https://www.youtube.com/watch?v=aAHtAkPn8b0"
+  },
+  "Achim|Creation": {
+    "artist": "Achim",
+    "track": "Creation",
+    "album": "Achim 3",
+    "video_id": "OqAJwD1do2o",
+    "url": "https://www.youtube.com/watch?v=OqAJwD1do2o"
+  },
+  "Achim|Menucha": {
+    "artist": "Achim",
+    "track": "Menucha",
+    "album": "Achim 3",
+    "video_id": "L_pVNfmPibg",
+    "url": "https://www.youtube.com/watch?v=L_pVNfmPibg"
+  },
+  "Achim|Boruch Hu": {
+    "artist": "Achim",
+    "track": "Boruch Hu",
+    "album": "Achim 3",
+    "video_id": "kR4vjNFr6o8",
+    "url": "https://www.youtube.com/watch?v=kR4vjNFr6o8"
+  },
+  "Achim|Mizmor": {
+    "artist": "Achim",
+    "track": "Mizmor",
+    "album": "Achim 3",
+    "video_id": "ioD_M4wwUqI",
+    "url": "https://www.youtube.com/watch?v=ioD_M4wwUqI"
+  },
+  "Achim|Pischu": {
+    "artist": "Achim",
+    "track": "Pischu",
+    "album": "Achim 3",
+    "video_id": "VClUYnJ_g10",
+    "url": "https://www.youtube.com/watch?v=VClUYnJ_g10"
+  },
+  "Achim|Aidus": {
+    "artist": "Achim",
+    "track": "Aidus",
+    "album": "Achim 3",
+    "video_id": "hV6g-ti7GXM",
+    "url": "https://www.youtube.com/watch?v=hV6g-ti7GXM"
+  },
+  "Achim|Asher Boro": {
+    "artist": "Achim",
+    "track": "Asher Boro",
+    "album": "Achim 3",
+    "video_id": "GI7I1e-MAQk",
+    "url": "https://www.youtube.com/watch?v=GI7I1e-MAQk"
+  },
+  "Achim|Hergesh": {
+    "artist": "Achim",
+    "track": "Hergesh",
+    "album": "Achim 3",
+    "video_id": "t68NyIOpplo",
+    "url": "https://www.youtube.com/watch?v=t68NyIOpplo"
+  },
+  "Achim|Feel the Power": {
+    "artist": "Achim",
+    "track": "Feel the Power",
+    "album": "Achim 3",
+    "video_id": "20jyrmf3edw",
+    "url": "https://www.youtube.com/watch?v=20jyrmf3edw"
+  },
+  "Achim|Od Yishoma": {
+    "artist": "Achim",
+    "track": "Od Yishoma",
+    "album": "Achim 4",
+    "video_id": "u8m07z0jkHM",
+    "url": "https://www.youtube.com/watch?v=u8m07z0jkHM"
+  },
+  "Achim|Emes": {
+    "artist": "Achim",
+    "track": "Emes",
+    "album": "Achim 4",
+    "video_id": "3Fc3E5fi8sY",
+    "url": "https://www.youtube.com/watch?v=3Fc3E5fi8sY"
+  },
+  "Achim|Ma Nishtana": {
+    "artist": "Achim",
+    "track": "Ma Nishtana",
+    "album": "Achim 4",
+    "video_id": "hmp0zFKmk0g",
+    "url": "https://www.youtube.com/watch?v=hmp0zFKmk0g"
+  },
+  "Achim|Meheira": {
+    "artist": "Achim",
+    "track": "Meheira",
+    "album": "Achim 4",
+    "video_id": "D7VLI3rBJpY",
+    "url": "https://www.youtube.com/watch?v=D7VLI3rBJpY"
+  },
+  "Achim|Vehi Sheomdo": {
+    "artist": "Achim",
+    "track": "Vehi Sheomdo",
+    "album": "Achim 4",
+    "video_id": "p2PdZ3g1tZ4",
+    "url": "https://www.youtube.com/watch?v=p2PdZ3g1tZ4"
+  },
+  "Achim|Olam Haba": {
+    "artist": "Achim",
+    "track": "Olam Haba",
+    "album": "Achim 4",
+    "video_id": "RNWh5JqGxOo",
+    "url": "https://www.youtube.com/watch?v=RNWh5JqGxOo"
+  },
+  "Achim|Yivonim": null,
+  "Achim|Hamavdil": {
+    "artist": "Achim",
+    "track": "Hamavdil",
+    "album": "Achim 4",
+    "video_id": "Q8NrsAiDgZs",
+    "url": "https://www.youtube.com/watch?v=Q8NrsAiDgZs"
+  },
+  "Achim|Asher Bochar": {
+    "artist": "Achim",
+    "track": "Asher Bochar",
+    "album": "Achim 4",
+    "video_id": "IWgys6XgnHY",
+    "url": "https://www.youtube.com/watch?v=IWgys6XgnHY"
+  },
+  "Achim|Yisroel": {
+    "artist": "Achim",
+    "track": "Yisroel",
+    "album": "Achim 4",
+    "video_id": "6yI1a79mWsQ",
+    "url": "https://www.youtube.com/watch?v=6yI1a79mWsQ"
+  },
+  "Ishay Ribo|ניצחת איתי הכל feat. Amir Benayoun & Amir Dadon": {
+    "artist": "Ishay Ribo",
+    "track": "ניצחת איתי הכל feat. Amir Benayoun & Amir Dadon",
+    "album": "ניצחת איתי הכל feat. Amir Benayoun & Amir Dadon",
+    "video_id": "WSiDvGpwbUY",
+    "url": "https://www.youtube.com/watch?v=WSiDvGpwbUY"
+  },
+  "Ishay Ribo|לבחור נכון feat. Amir Dadon": {
+    "artist": "Ishay Ribo",
+    "track": "לבחור נכון feat. Amir Dadon",
+    "album": "לבחור נכון feat. Amir Dadon",
+    "video_id": "WSiDvGpwbUY",
+    "url": "https://www.youtube.com/watch?v=WSiDvGpwbUY"
+  },
+  "Ishay Ribo|אל תעזבי ידיים feat. Akiva": {
+    "artist": "Ishay Ribo",
+    "track": "אל תעזבי ידיים feat. Akiva",
+    "album": "אל תעזבי ידיים feat. Akiva",
+    "video_id": "u3n2SLWQsXk",
+    "url": "https://www.youtube.com/watch?v=u3n2SLWQsXk"
+  },
+  "Ishay Ribo|סיבת הסיבות - Sibat Hasibot (Triangle Remix)": {
+    "artist": "Ishay Ribo",
+    "track": "סיבת הסיבות - Sibat Hasibot (Triangle Remix)",
+    "album": "סיבת הסיבות (Triangle Remix) - Sibat Hasibot",
+    "video_id": "NHHhyWpb0AU",
+    "url": "https://www.youtube.com/watch?v=NHHhyWpb0AU"
+  },
+  "Ishay Ribo|שקט Live! feat. Omer Adam": {
+    "artist": "Ishay Ribo",
+    "track": "שקט Live! feat. Omer Adam",
+    "album": "שקט Live! feat. Omer Adam",
+    "video_id": "K3O6haYkuXY",
+    "url": "https://www.youtube.com/watch?v=K3O6haYkuXY"
+  },
+  "Ishay Ribo|כתר מלוכה Live!": {
+    "artist": "Ishay Ribo",
+    "track": "כתר מלוכה Live!",
+    "album": "כתר מלוכה - Keter Melucha Live!",
+    "video_id": "aCxu-sAHlLU",
+    "url": "https://www.youtube.com/watch?v=aCxu-sAHlLU"
+  },
+  "Ishay Ribo|אייכה Live! Feat. Shuli Rand": {
+    "artist": "Ishay Ribo",
+    "track": "אייכה Live! Feat. Shuli Rand",
+    "album": "אייכה Live! Feat. Shuli Rand",
+    "video_id": "RwFDYobcdF0",
+    "url": "https://www.youtube.com/watch?v=RwFDYobcdF0"
+  },
+  "Ishay Ribo|הבוקר יעלה Live!": {
+    "artist": "Ishay Ribo",
+    "track": "הבוקר יעלה Live!",
+    "album": "הבוקר יעלה Live!",
+    "video_id": "DnfwOgFLQd8",
+    "url": "https://www.youtube.com/watch?v=DnfwOgFLQd8"
+  },
+  "Ishay Ribo|זוכר אני Live!": {
+    "artist": "Ishay Ribo",
+    "track": "זוכר אני Live!",
+    "album": "זוכר אני Live!",
+    "video_id": "_odTH23dDZ8",
+    "url": "https://www.youtube.com/watch?v=_odTH23dDZ8"
+  },
+  "Ishay Ribo|הנסיון הזה Live!": {
+    "artist": "Ishay Ribo",
+    "track": "הנסיון הזה Live!",
+    "album": "הנסיון הזה Live!",
+    "video_id": "S3Mv1UGnBaI",
+    "url": "https://www.youtube.com/watch?v=S3Mv1UGnBaI"
+  },
+  "Ishay Ribo|קול דודי Live!": {
+    "artist": "Ishay Ribo",
+    "track": "קול דודי Live!",
+    "album": "קול דודי Live!",
+    "video_id": "Pb6dOGa59JE",
+    "url": "https://www.youtube.com/watch?v=Pb6dOGa59JE"
+  },
+  "Ishay Ribo|אחת ולתמיד feat. Eldad Zitrin": {
+    "artist": "Ishay Ribo",
+    "track": "אחת ולתמיד feat. Eldad Zitrin",
+    "album": "אחת ולתמיד feat. Eldad Zitrin",
+    "video_id": "e7_vg0E0SAc",
+    "url": "https://www.youtube.com/watch?v=e7_vg0E0SAc"
+  },
+  "Akiva|Yesh Becha Ha'Kol Live!": {
+    "artist": "Akiva",
+    "track": "Yesh Becha Ha'Kol Live!",
+    "album": "Yesh Becha Ha'Kol Live!",
+    "video_id": "uNLG5j_epzU",
+    "url": "https://www.youtube.com/watch?v=uNLG5j_epzU"
+  },
+  "Akiva|Vehi Sheomda": {
+    "artist": "Akiva",
+    "track": "Vehi Sheomda",
+    "album": "Vehi Sheomda feat. Natan Goshen & Yonatan Razel",
+    "video_id": "DjPqwkd4-uc",
+    "url": "https://www.youtube.com/watch?v=DjPqwkd4-uc"
+  },
+  "Oorah|Gimme Five!": {
+    "artist": "Oorah",
+    "track": "Gimme Five!",
+    "album": "Gimme Five!",
+    "video_id": "Hiw2pUFu0Vg",
+    "url": "https://www.youtube.com/watch?v=Hiw2pUFu0Vg"
+  },
+  "Shmuli|Barcheini": {
+    "artist": "Shmuli",
+    "track": "Barcheini",
+    "album": "Shmuli",
+    "video_id": "_F68S060Vx4",
+    "url": "https://www.youtube.com/watch?v=_F68S060Vx4"
+  },
+  "Shmuli|Habeit": {
+    "artist": "Shmuli",
+    "track": "Habeit",
+    "album": "Shmuli",
+    "video_id": "FoOR85UhixI",
+    "url": "https://www.youtube.com/watch?v=FoOR85UhixI"
+  },
+  "Shmuli|Slach": {
+    "artist": "Shmuli",
+    "track": "Slach",
+    "album": "Shmuli",
+    "video_id": "CVUZAcGrcMw",
+    "url": "https://www.youtube.com/watch?v=CVUZAcGrcMw"
+  },
+  "Shmuli|Kivakoras": {
+    "artist": "Shmuli",
+    "track": "Kivakoras",
+    "album": "Shmuli",
+    "video_id": "9tyec0HEsUc",
+    "url": "https://www.youtube.com/watch?v=9tyec0HEsUc"
+  },
+  "Shmuli|Ani Yosef": {
+    "artist": "Shmuli",
+    "track": "Ani Yosef",
+    "album": "Shmuli",
+    "video_id": "BQM0YGGEgOA",
+    "url": "https://www.youtube.com/watch?v=BQM0YGGEgOA"
+  },
+  "Shmuli|B'ahava": {
+    "artist": "Shmuli",
+    "track": "B'ahava",
+    "album": "Shmuli",
+    "video_id": "yVYJbFSItdE",
+    "url": "https://www.youtube.com/watch?v=yVYJbFSItdE"
+  },
+  "Shmuli|Harachaman": {
+    "artist": "Shmuli",
+    "track": "Harachaman",
+    "album": "Harachaman",
+    "video_id": "KjSX9xKuXmA",
+    "url": "https://www.youtube.com/watch?v=KjSX9xKuXmA"
+  },
+  "Shmuli|Tefilas Hayirah": {
+    "artist": "Shmuli",
+    "track": "Tefilas Hayirah",
+    "album": "Tefilas Hayirah",
+    "video_id": "-V3YXC8mfhw",
+    "url": "https://www.youtube.com/watch?v=-V3YXC8mfhw"
+  },
+  "Shmuli|Ana": {
+    "artist": "Shmuli",
+    "track": "Ana",
+    "album": "Ana",
+    "video_id": "dhm8mTcOj7w",
+    "url": "https://www.youtube.com/watch?v=dhm8mTcOj7w"
+  },
+  "Shmuli|אם שמוע": {
+    "artist": "Shmuli",
+    "track": "אם שמוע",
+    "album": "אם שמוע",
+    "video_id": "UJYXe6Cu-7k",
+    "url": "https://www.youtube.com/watch?v=UJYXe6Cu-7k"
+  },
+  "Gad Feureisen|Avakeish": null,
+  "Udi Damari|Adayin Yeled": null,
+  "Udi Damari|Am Echad": {
+    "artist": "Udi Damari",
+    "track": "Am Echad",
+    "album": "Am Echad",
+    "video_id": "I0dkaNyOcbE",
+    "url": "https://www.youtube.com/watch?v=I0dkaNyOcbE"
+  },
+  "Udi Damari|Ani Maamin": {
+    "artist": "Udi Damari",
+    "track": "Ani Maamin",
+    "album": "Ani Maamin",
+    "video_id": "0FTRE-oYu_s",
+    "url": "https://www.youtube.com/watch?v=0FTRE-oYu_s"
+  },
+  "Udi Damari|La'Tzafon": null,
+  "Udi Damari|Nechakeh Lecha": null,
+  "Udi Damari|Od Yavo Yom": {
+    "artist": "Udi Damari",
+    "track": "Od Yavo Yom",
+    "album": "Od Yavo Yom",
+    "video_id": "yWJ67zlT5h0",
+    "url": "https://www.youtube.com/watch?v=yWJ67zlT5h0"
+  },
+  "Udi Damari|Anachnu Lo Mefachadim feat. Ami Maimon": null,
+  "Udi Damari|Ivri Anoichi": {
+    "artist": "Udi Damari",
+    "track": "Ivri Anoichi",
+    "album": "Ivri Anoichi",
+    "video_id": "qmfJ1-kn6pQ",
+    "url": "https://www.youtube.com/watch?v=qmfJ1-kn6pQ"
+  },
+  "Udi Damari|Tavo": {
+    "artist": "Udi Damari",
+    "track": "Tavo",
+    "album": "Tavo",
+    "video_id": "1tNCXJ42_tY",
+    "url": "https://www.youtube.com/watch?v=1tNCXJ42_tY"
+  },
+  "Udi Damari|Dayag Al Hachof": {
+    "artist": "Udi Damari",
+    "track": "Dayag Al Hachof",
+    "album": "Dayag Al Hachof",
+    "video_id": "q6Th5pHstTk",
+    "url": "https://www.youtube.com/watch?v=q6Th5pHstTk"
+  },
+  "Udi Damari|Nafshi": {
+    "artist": "Udi Damari",
+    "track": "Nafshi",
+    "album": "Nafshi",
+    "video_id": "HmAQIbEkgGI",
+    "url": "https://www.youtube.com/watch?v=HmAQIbEkgGI"
+  },
+  "Udi Damari|Rak Echad Koveah": null,
+  "Udi Damari|Yom Gadol feat. Ami Maimon": {
+    "artist": "Udi Damari",
+    "track": "Yom Gadol feat. Ami Maimon",
+    "album": "Yom Gadol feat. Ami Maimon",
+    "video_id": "kq-XVR_t1Vk",
+    "url": "https://www.youtube.com/watch?v=kq-XVR_t1Vk"
+  },
+  "Udi Damari|Maalach feat. Uri Damari": null,
+  "Udi Damari|Lo Yachol Lisbol": {
+    "artist": "Udi Damari",
+    "track": "Lo Yachol Lisbol",
+    "album": "Lo Yachol Lisbol",
+    "video_id": "OHqvuZ6aFdw",
+    "url": "https://www.youtube.com/watch?v=OHqvuZ6aFdw"
+  },
+  "Udi Damari|Ata Li Ohr": {
+    "artist": "Udi Damari",
+    "track": "Ata Li Ohr",
+    "album": "Ata Li Ohr",
+    "video_id": "4oVSUylQr50",
+    "url": "https://www.youtube.com/watch?v=4oVSUylQr50"
+  },
+  "Udi Damari|Adamti feat. Roe Yadid & Ma'vali": null,
+  "Udi Damari|Shemesh Ruach V'Kaffe": null,
+  "Udi Damari|Nigun feat. Ariel Zilber": null,
+  "Udi Damari|Meusharim Acapella feat. Ami Maimon": null,
+  "Udi Damari|Kinori Shel Yeled": null,
+  "Udi Damari|Nafshi HaYechida": {
+    "artist": "Udi Damari",
+    "track": "Nafshi HaYechida",
+    "album": "Nafshi HaYechida",
+    "video_id": "HmAQIbEkgGI",
+    "url": "https://www.youtube.com/watch?v=HmAQIbEkgGI"
+  },
+  "Shlome Wechter|Shavas Aniyim ft. Benny Friedman": {
+    "artist": "Shlome Wechter",
+    "track": "Shavas Aniyim ft. Benny Friedman",
+    "album": "Teniyos",
+    "video_id": "NCFyPTUI6tg",
+    "url": "https://www.youtube.com/watch?v=NCFyPTUI6tg"
+  },
+  "Shlome Wechter|Anushim Achim ft. Lipa Schmeltzer": {
+    "artist": "Shlome Wechter",
+    "track": "Anushim Achim ft. Lipa Schmeltzer",
+    "album": "Teniyos",
+    "video_id": "gmo-EXcv6z8",
+    "url": "https://www.youtube.com/watch?v=gmo-EXcv6z8"
+  },
+  "Shlome Wechter|Dima Achas ft. Shlome Daskal": {
+    "artist": "Shlome Wechter",
+    "track": "Dima Achas ft. Shlome Daskal",
+    "album": "Teniyos",
+    "video_id": "wbvnRyJF6VA",
+    "url": "https://www.youtube.com/watch?v=wbvnRyJF6VA"
+  },
+  "Shlome Wechter|Ahavas Yisroel ft. Motty Steinmetz": {
+    "artist": "Shlome Wechter",
+    "track": "Ahavas Yisroel ft. Motty Steinmetz",
+    "album": "Teniyos",
+    "video_id": "RJZmYTaJqQw",
+    "url": "https://www.youtube.com/watch?v=RJZmYTaJqQw"
+  },
+  "Shlome Wechter|Beni Atu ft. Pinki Weber": {
+    "artist": "Shlome Wechter",
+    "track": "Beni Atu ft. Pinki Weber",
+    "album": "Teniyos",
+    "video_id": "e7bVY2Jh8Cw",
+    "url": "https://www.youtube.com/watch?v=e7bVY2Jh8Cw"
+  },
+  "Shlome Wechter|Habein Yakir ft. MBD": {
+    "artist": "Shlome Wechter",
+    "track": "Habein Yakir ft. MBD",
+    "album": "Teniyos",
+    "video_id": "Y55h9pwkuQE",
+    "url": "https://www.youtube.com/watch?v=Y55h9pwkuQE"
+  },
+  "Shlome Wechter|Mah Navi 1 ft. Boruch Sholom": null,
+  "Shlome Wechter|Mah Navi 2 Philarmona": null,
+  "Shlome Wechter|Motzi Asirim ft. Dovy Meisels": {
+    "artist": "Shlome Wechter",
+    "track": "Motzi Asirim ft. Dovy Meisels",
+    "album": "Teniyos",
+    "video_id": "nIiNeRkrUHw",
+    "url": "https://www.youtube.com/watch?v=nIiNeRkrUHw"
+  },
+  "Shlome Wechter|Zein Freilach ft. Avraham Fried": {
+    "artist": "Shlome Wechter",
+    "track": "Zein Freilach ft. Avraham Fried",
+    "album": "Teniyos",
+    "video_id": "K0yd5AzhIwM",
+    "url": "https://www.youtube.com/watch?v=K0yd5AzhIwM"
+  },
+  "Shlome Wechter|Keili ft Boruch Sholom": {
+    "artist": "Shlome Wechter",
+    "track": "Keili ft Boruch Sholom",
+    "album": "Teniyos",
+    "video_id": "vjcu5SaU-q8",
+    "url": "https://www.youtube.com/watch?v=vjcu5SaU-q8"
+  },
+  "Shlome Wechter|Mazel Tov ft. Menachem Moskowitz": {
+    "artist": "Shlome Wechter",
+    "track": "Mazel Tov ft. Menachem Moskowitz",
+    "album": "Teniyos",
+    "video_id": "vEgVAr8UeXI",
+    "url": "https://www.youtube.com/watch?v=vEgVAr8UeXI"
+  },
+  "Shlome Wechter|Ilizvilin ft Dovy Meisels & Hershy Weinberger": {
+    "artist": "Shlome Wechter",
+    "track": "Ilizvilin ft Dovy Meisels & Hershy Weinberger",
+    "album": "Teniyos",
+    "video_id": "QclGmEgZ39c",
+    "url": "https://www.youtube.com/watch?v=QclGmEgZ39c"
+  },
+  "Shlome Wechter|Mikdash Melech ft. Isaac Honig": {
+    "artist": "Shlome Wechter",
+    "track": "Mikdash Melech ft. Isaac Honig",
+    "album": "Teniyos",
+    "video_id": "O50xMA-2Jwk",
+    "url": "https://www.youtube.com/watch?v=O50xMA-2Jwk"
+  },
+  "Abish Brodt|Nigun 1": {
+    "artist": "Abish Brodt",
+    "track": "Nigun 1",
+    "album": "Brochoh Mishuleshes",
+    "video_id": "_lbEbAyMFBc",
+    "url": "https://www.youtube.com/watch?v=_lbEbAyMFBc"
+  },
+  "Abish Brodt|Bilvovi": {
+    "artist": "Abish Brodt",
+    "track": "Bilvovi",
+    "album": "Brochoh Mishuleshes",
+    "video_id": "vT0ZqmWKAKs",
+    "url": "https://www.youtube.com/watch?v=vT0ZqmWKAKs"
+  },
+  "Abish Brodt|Rachem": {
+    "artist": "Abish Brodt",
+    "track": "Rachem",
+    "album": "Brochoh Mishuleshes",
+    "video_id": "lyR_wku4ufY",
+    "url": "https://www.youtube.com/watch?v=lyR_wku4ufY"
+  },
+  "Abish Brodt|Yedid Nefesh": {
+    "artist": "Abish Brodt",
+    "track": "Yedid Nefesh",
+    "album": "Brochoh Mishuleshes",
+    "video_id": "M_1mqJkKvTo",
+    "url": "https://www.youtube.com/watch?v=M_1mqJkKvTo"
   }
 }
