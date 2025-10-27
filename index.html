@@ -178,22 +178,6 @@
     .track-duration {
       color: #888;
       font-size: 0.85rem;
-      margin-right: 8px;
-    }
-
-    .youtube-link {
-      color: #ff0000;
-      text-decoration: none;
-      font-size: 0.85rem;
-      font-weight: bold;
-      padding: 4px 8px;
-      border-radius: 4px;
-      background: #fee;
-      transition: background 0.2s;
-    }
-
-    .youtube-link:hover {
-      background: #fcc;
     }
 
     .no-results {
@@ -339,14 +323,16 @@
 
         const tracksHtml = item.tracks?.slice(0, 10).map(track => {
           const duration = formatDuration(track.duration);
-          const youtubeQuery = encodeURIComponent(`${item.artist} ${track.name}`);
-          const youtubeUrl = `https://www.youtube.com/results?search_query=${youtubeQuery}`;
+          // Create YouTube Music direct link format
+          const searchQuery = `${item.artist} ${track.name}`.replace(/\s+/g, '+');
+          const youtubeUrl = `https://music.youtube.com/search?q=${encodeURIComponent(searchQuery)}`;
+
           return `
             <div class="track-item">
               <span class="track-name">${escapeHtml(track.name)}</span>
-              <div style="display: flex; align-items: center;">
+              <div style="display: flex; align-items: center; gap: 8px;">
                 ${duration ? `<span class="track-duration">${duration}</span>` : ''}
-                <a href="${youtubeUrl}" target="_blank" class="youtube-link" title="Search on YouTube">YT</a>
+                <a href="${youtubeUrl}" target="_blank" style="color: #ff0000; text-decoration: none; font-size: 0.75rem;" title="Listen on YouTube Music">🎵 YouTube</a>
               </div>
             </div>
           `;
