@@ -95172,5 +95172,669 @@
     "album": "Relax Instrumental Piano",
     "video_id": "NqGGOSQj8Os",
     "url": "https://www.youtube.com/watch?v=NqGGOSQj8Os"
+  },
+  "Psachya Septimus|G-d Bless America (Instrumental)": {
+    "artist": "Psachya Septimus",
+    "track": "G-d Bless America (Instrumental)",
+    "album": "God Bless America (Instrumental)",
+    "video_id": "ke3ylnLbSLw",
+    "url": "https://www.youtube.com/watch?v=ke3ylnLbSLw"
+  },
+  "Psachya Septimus|Hatikva (Instrumental)": {
+    "artist": "Psachya Septimus",
+    "track": "Hatikva (Instrumental)",
+    "album": "Hatikva (Instrumental)",
+    "video_id": "D6jNvEnvVYs",
+    "url": "https://www.youtube.com/watch?v=D6jNvEnvVYs"
+  },
+  "Psachya Septimus|My Heart Will Go On Instrumental": {
+    "artist": "Psachya Septimus",
+    "track": "My Heart Will Go On Instrumental",
+    "album": "My Heart Will Go On Instrumental",
+    "video_id": "zHrFQgDk7-s",
+    "url": "https://www.youtube.com/watch?v=zHrFQgDk7-s"
+  },
+  "Psachya Septimus|National Anthem (Instrumental)": {
+    "artist": "Psachya Septimus",
+    "track": "National Anthem (Instrumental)",
+    "album": "National Anthem (Instrumental)",
+    "video_id": "Jb22WbCLBoU",
+    "url": "https://www.youtube.com/watch?v=Jb22WbCLBoU"
+  },
+  "Michoel Schnitzler|Val Ich Dank": {
+    "artist": "Michoel Schnitzler",
+    "track": "Val Ich Dank",
+    "album": "Val Ich Dank",
+    "video_id": "EkzoSaLjpOk",
+    "url": "https://www.youtube.com/watch?v=EkzoSaLjpOk"
+  },
+  "Michoel Schnitzler|A Letter to My Parents": {
+    "artist": "Michoel Schnitzler",
+    "track": "A Letter to My Parents",
+    "album": "A Letter to My Parents",
+    "video_id": "ZRNAlOdXUJE",
+    "url": "https://www.youtube.com/watch?v=ZRNAlOdXUJE"
+  },
+  "Michoel Schnitzler|Eleku D'meir Aneinu": {
+    "artist": "Michoel Schnitzler",
+    "track": "Eleku D'meir Aneinu",
+    "album": "Eleku D'meir Aneinu",
+    "video_id": "-zwMysEF1K4",
+    "url": "https://www.youtube.com/watch?v=-zwMysEF1K4"
+  },
+  "Michoel Schnitzler|Adoni Hamelech feat. Motty Vizel & Bentzi Stein": {
+    "artist": "Michoel Schnitzler",
+    "track": "Adoni Hamelech feat. Motty Vizel & Bentzi Stein",
+    "album": "Adoni Hamelech feat. Motty Vizel & Bentzi Stein",
+    "video_id": "Gz4BcZHEj8U",
+    "url": "https://www.youtube.com/watch?v=Gz4BcZHEj8U"
+  },
+  "Hershel Rosenberg|Tischadesh (Feat. Shmueli Ungar)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Tischadesh (Feat. Shmueli Ungar)",
+    "album": "Tischadesh",
+    "video_id": "rHP5BhUTagc",
+    "url": "https://www.youtube.com/watch?v=rHP5BhUTagc"
+  },
+  "Hershel Rosenberg|Zechoir (Feat. Issac Honig)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Zechoir (Feat. Issac Honig)",
+    "album": "Tischadesh",
+    "video_id": "MzmSttcKSco",
+    "url": "https://www.youtube.com/watch?v=MzmSttcKSco"
+  },
+  "Hershel Rosenberg|Emes (Feat. Gershy Uri)": null,
+  "Hershel Rosenberg|Haneluvin (Feat. Lipa Schmeltzer)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Haneluvin (Feat. Lipa Schmeltzer)",
+    "album": "Tischadesh",
+    "video_id": "SCd-RZiiVNA",
+    "url": "https://www.youtube.com/watch?v=SCd-RZiiVNA"
+  },
+  "Hershel Rosenberg|Ich Gleib (Feat. Motti Ilowitz)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Ich Gleib (Feat. Motti Ilowitz)",
+    "album": "Tischadesh",
+    "video_id": "HC5-HjUgTCU",
+    "url": "https://www.youtube.com/watch?v=HC5-HjUgTCU"
+  },
+  "Hershel Rosenberg|Shabbos Kodesh (Feat. Dovy Meisels)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Shabbos Kodesh (Feat. Dovy Meisels)",
+    "album": "Tischadesh",
+    "video_id": "VhKiLdZv2PI",
+    "url": "https://www.youtube.com/watch?v=VhKiLdZv2PI"
+  },
+  "Hershel Rosenberg|Gemoir (Feat. Levy Falkowitz)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Gemoir (Feat. Levy Falkowitz)",
+    "album": "Tischadesh",
+    "video_id": "dujGnJ9FnBE",
+    "url": "https://www.youtube.com/watch?v=dujGnJ9FnBE"
+  },
+  "Hershel Rosenberg|Mi Huish (Feat. Hershy Weinberger)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Mi Huish (Feat. Hershy Weinberger)",
+    "album": "Tischadesh",
+    "video_id": "B1pY1ikX-zY",
+    "url": "https://www.youtube.com/watch?v=B1pY1ikX-zY"
+  },
+  "Hershel Rosenberg|Hurachamon (Feat. Ahrele Samet)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Hurachamon (Feat. Ahrele Samet)",
+    "album": "Tischadesh",
+    "video_id": "F7-GlwEQ8Mk",
+    "url": "https://www.youtube.com/watch?v=F7-GlwEQ8Mk"
+  },
+  "Hershel Rosenberg|Veheishiv (Feat. Beri Weber)": {
+    "artist": "Hershel Rosenberg",
+    "track": "Veheishiv (Feat. Beri Weber)",
+    "album": "Tischadesh",
+    "video_id": "PvY0Z0MXPSE",
+    "url": "https://www.youtube.com/watch?v=PvY0Z0MXPSE"
+  },
+  "Yosef Schick|Chadeish": {
+    "artist": "Yosef Schick",
+    "track": "Chadeish",
+    "album": "Chadeish",
+    "video_id": "I_bS1h-T1Tg",
+    "url": "https://www.youtube.com/watch?v=I_bS1h-T1Tg"
+  },
+  "Tani Polansky|Long For The Day": {
+    "artist": "Tani Polansky",
+    "track": "Long For The Day",
+    "album": "Long For The Day",
+    "video_id": "u5bWDFkqc7Q",
+    "url": "https://www.youtube.com/watch?v=u5bWDFkqc7Q"
+  },
+  "Tani Polansky|Father": {
+    "artist": "Tani Polansky",
+    "track": "Father",
+    "album": "Father",
+    "video_id": "Ag3jn817gG4",
+    "url": "https://www.youtube.com/watch?v=Ag3jn817gG4"
+  },
+  "Tani Polansky|Father Acapella": {
+    "artist": "Tani Polansky",
+    "track": "Father Acapella",
+    "album": "Father Acapella",
+    "video_id": "J-V9G4YvtSo",
+    "url": "https://www.youtube.com/watch?v=J-V9G4YvtSo"
+  },
+  "Tani Polansky|Soulful Living": {
+    "artist": "Tani Polansky",
+    "track": "Soulful Living",
+    "album": "Soulful Living",
+    "video_id": "Sb2JFOmNuLU",
+    "url": "https://www.youtube.com/watch?v=Sb2JFOmNuLU"
+  },
+  "Jezliah|Ahava Raba": {
+    "artist": "Jezliah",
+    "track": "Ahava Raba",
+    "album": "Ahava Raba",
+    "video_id": "6XxeJr9f5JE",
+    "url": "https://www.youtube.com/watch?v=6XxeJr9f5JE"
+  },
+  "Yoeli Dikman|Tefillah LaChuppah": {
+    "artist": "Yoeli Dikman",
+    "track": "Tefillah LaChuppah",
+    "album": "Tefillah LaChuppah",
+    "video_id": "HD-0sGEAcHY",
+    "url": "https://www.youtube.com/watch?v=HD-0sGEAcHY"
+  },
+  "Dobby Baum|Give Us Strength (Chazkeinu)": {
+    "artist": "Dobby Baum",
+    "track": "Give Us Strength (Chazkeinu)",
+    "album": "Give Us Strength (Chazkeinu)",
+    "video_id": "FMDnxhZSwRU",
+    "url": "https://www.youtube.com/watch?v=FMDnxhZSwRU"
+  },
+  "Mezamrim Choir|Nigun Mandelbaum": {
+    "artist": "Mezamrim Choir",
+    "track": "Nigun Mandelbaum",
+    "album": "Dance with Mezamrim",
+    "video_id": "lmUP1_mB-tk",
+    "url": "https://www.youtube.com/watch?v=lmUP1_mB-tk"
+  },
+  "Mezamrim Choir|Mi Adir": {
+    "artist": "Mezamrim Choir",
+    "track": "Mi Adir",
+    "album": "Dance with Mezamrim",
+    "video_id": "qFr20dzo554",
+    "url": "https://www.youtube.com/watch?v=qFr20dzo554"
+  },
+  "Mezamrim Choir|Mi Adir 2": {
+    "artist": "Mezamrim Choir",
+    "track": "Mi Adir 2",
+    "album": "Dance with Mezamrim",
+    "video_id": "z9l2KTJG6Aw",
+    "url": "https://www.youtube.com/watch?v=z9l2KTJG6Aw"
+  },
+  "Mezamrim Choir|Lemancho": {
+    "artist": "Mezamrim Choir",
+    "track": "Lemancho",
+    "album": "Dance with Mezamrim",
+    "video_id": "obFUc_b4uOs",
+    "url": "https://www.youtube.com/watch?v=obFUc_b4uOs"
+  },
+  "Mezamrim Choir|Mi Von Siach": {
+    "artist": "Mezamrim Choir",
+    "track": "Mi Von Siach",
+    "album": "Dance with Mezamrim",
+    "video_id": "SaGxC-qTpmY",
+    "url": "https://www.youtube.com/watch?v=SaGxC-qTpmY"
+  },
+  "Mezamrim Choir|Im Eshkocheich": {
+    "artist": "Mezamrim Choir",
+    "track": "Im Eshkocheich",
+    "album": "Dance with Mezamrim",
+    "video_id": "9hqEF_VAFVk",
+    "url": "https://www.youtube.com/watch?v=9hqEF_VAFVk"
+  },
+  "Mezamrim Choir|Od Yishoma": {
+    "artist": "Mezamrim Choir",
+    "track": "Od Yishoma",
+    "album": "Dance with Mezamrim",
+    "video_id": "iopevh3OtBU",
+    "url": "https://www.youtube.com/watch?v=iopevh3OtBU"
+  },
+  "Mezamrim Choir|Intro": {
+    "artist": "Mezamrim Choir",
+    "track": "Intro",
+    "album": "Dance with Mezamrim",
+    "video_id": "VwBaBNK5r-w",
+    "url": "https://www.youtube.com/watch?v=VwBaBNK5r-w"
+  },
+  "Mezamrim Choir|Retzoneinu": {
+    "artist": "Mezamrim Choir",
+    "track": "Retzoneinu",
+    "album": "Dance with Mezamrim",
+    "video_id": "LjUcreR2-fk",
+    "url": "https://www.youtube.com/watch?v=LjUcreR2-fk"
+  },
+  "Mezamrim Choir|Ahallelu 1": {
+    "artist": "Mezamrim Choir",
+    "track": "Ahallelu 1",
+    "album": "Dance with Mezamrim",
+    "video_id": "OuJjr4Jbj70",
+    "url": "https://www.youtube.com/watch?v=OuJjr4Jbj70"
+  },
+  "Mezamrim Choir|Ahallelu 2": {
+    "artist": "Mezamrim Choir",
+    "track": "Ahallelu 2",
+    "album": "Dance with Mezamrim",
+    "video_id": "yKuROBIZ1xI",
+    "url": "https://www.youtube.com/watch?v=yKuROBIZ1xI"
+  },
+  "Mezamrim Choir|Umar Lahem": {
+    "artist": "Mezamrim Choir",
+    "track": "Umar Lahem",
+    "album": "Dance with Mezamrim",
+    "video_id": "-NQwTNjkyhA",
+    "url": "https://www.youtube.com/watch?v=-NQwTNjkyhA"
+  },
+  "Mezamrim Choir|Nigun Atik": {
+    "artist": "Mezamrim Choir",
+    "track": "Nigun Atik",
+    "album": "Dance with Mezamrim",
+    "video_id": "xIO3VKwsOjY",
+    "url": "https://www.youtube.com/watch?v=xIO3VKwsOjY"
+  },
+  "Mezamrim Choir|Heimu": {
+    "artist": "Mezamrim Choir",
+    "track": "Heimu",
+    "album": "Dance with Mezamrim",
+    "video_id": "xIO3VKwsOjY",
+    "url": "https://www.youtube.com/watch?v=xIO3VKwsOjY"
+  },
+  "Mezamrim Choir|Moda Ani": {
+    "artist": "Mezamrim Choir",
+    "track": "Moda Ani",
+    "album": "Dance with Mezamrim",
+    "video_id": "pcWasgrTSoU",
+    "url": "https://www.youtube.com/watch?v=pcWasgrTSoU"
+  },
+  "Mezamrim Choir|Mareh Cohen": {
+    "artist": "Mezamrim Choir",
+    "track": "Mareh Cohen",
+    "album": "Dance with Mezamrim",
+    "video_id": "EQ4t2r0HqzA",
+    "url": "https://www.youtube.com/watch?v=EQ4t2r0HqzA"
+  },
+  "Mezamrim Choir|Yomim": {
+    "artist": "Mezamrim Choir",
+    "track": "Yomim",
+    "album": "Dance with Mezamrim",
+    "video_id": "jEkDYClBNrM",
+    "url": "https://www.youtube.com/watch?v=jEkDYClBNrM"
+  },
+  "Mezamrim Choir|Huaderes": {
+    "artist": "Mezamrim Choir",
+    "track": "Huaderes",
+    "album": "Dance with Mezamrim",
+    "video_id": "cZZD7KdUYEI",
+    "url": "https://www.youtube.com/watch?v=cZZD7KdUYEI"
+  },
+  "Mezamrim Choir|Yedidim": {
+    "artist": "Mezamrim Choir",
+    "track": "Yedidim",
+    "album": "Dance with Mezamrim",
+    "video_id": "LA_GeQWGRkQ",
+    "url": "https://www.youtube.com/watch?v=LA_GeQWGRkQ"
+  },
+  "Mezamrim Choir|Nodeh": {
+    "artist": "Mezamrim Choir",
+    "track": "Nodeh",
+    "album": "Dance with Mezamrim",
+    "video_id": "2W6yNBDNP1E",
+    "url": "https://www.youtube.com/watch?v=2W6yNBDNP1E"
+  },
+  "Mezamrim Choir|Gedolah": {
+    "artist": "Mezamrim Choir",
+    "track": "Gedolah",
+    "album": "Dance with Mezamrim",
+    "video_id": "vZdeb0DrKS0",
+    "url": "https://www.youtube.com/watch?v=vZdeb0DrKS0"
+  },
+  "Mezamrim Choir|Teranenu": {
+    "artist": "Mezamrim Choir",
+    "track": "Teranenu",
+    "album": "Dance with Mezamrim",
+    "video_id": "ivegQh20T-g",
+    "url": "https://www.youtube.com/watch?v=ivegQh20T-g"
+  },
+  "Mezamrim Choir|Hatov": {
+    "artist": "Mezamrim Choir",
+    "track": "Hatov",
+    "album": "Dance with Mezamrim",
+    "video_id": "jZDadIUlwng",
+    "url": "https://www.youtube.com/watch?v=jZDadIUlwng"
+  },
+  "Mezamrim Choir|Areivim": {
+    "artist": "Mezamrim Choir",
+    "track": "Areivim",
+    "album": "Dance with Mezamrim",
+    "video_id": "LZAqfXKIPk0",
+    "url": "https://www.youtube.com/watch?v=LZAqfXKIPk0"
+  },
+  "Mezamrim Choir|Uforatzta": {
+    "artist": "Mezamrim Choir",
+    "track": "Uforatzta",
+    "album": "Dance with Mezamrim",
+    "video_id": "sL1NAmx6aDA",
+    "url": "https://www.youtube.com/watch?v=sL1NAmx6aDA"
+  },
+  "Mezamrim Choir|Ana Avda": {
+    "artist": "Mezamrim Choir",
+    "track": "Ana Avda",
+    "album": "Dance with Mezamrim",
+    "video_id": "zvPxiRR_iIg",
+    "url": "https://www.youtube.com/watch?v=zvPxiRR_iIg"
+  },
+  "Mezamrim Choir|Tov Hashem": {
+    "artist": "Mezamrim Choir",
+    "track": "Tov Hashem",
+    "album": "Dance with Mezamrim",
+    "video_id": "YUO8E-eWwl0",
+    "url": "https://www.youtube.com/watch?v=YUO8E-eWwl0"
+  },
+  "Mezamrim Choir|Koh Echsof": {
+    "artist": "Mezamrim Choir",
+    "track": "Koh Echsof",
+    "album": "Dance with Mezamrim",
+    "video_id": "Kw3rcESshiE",
+    "url": "https://www.youtube.com/watch?v=Kw3rcESshiE"
+  },
+  "Mezamrim Choir|Ubidvar": {
+    "artist": "Mezamrim Choir",
+    "track": "Ubidvar",
+    "album": "Dance with Mezamrim",
+    "video_id": "kGIUv7qykps",
+    "url": "https://www.youtube.com/watch?v=kGIUv7qykps"
+  },
+  "Mezamrim Choir|Yomtov": {
+    "artist": "Mezamrim Choir",
+    "track": "Yomtov",
+    "album": "Dance with Mezamrim",
+    "video_id": "h3xD3UC6D3k",
+    "url": "https://www.youtube.com/watch?v=h3xD3UC6D3k"
+  },
+  "Mezamrim Choir|Keitzad": {
+    "artist": "Mezamrim Choir",
+    "track": "Keitzad",
+    "album": "Dance with Mezamrim",
+    "video_id": "Z1quSE1yeRo",
+    "url": "https://www.youtube.com/watch?v=Z1quSE1yeRo"
+  },
+  "Mezamrim Choir|Uvinu": {
+    "artist": "Mezamrim Choir",
+    "track": "Uvinu",
+    "album": "Dance with Mezamrim",
+    "video_id": "7zER8uSEjFE",
+    "url": "https://www.youtube.com/watch?v=7zER8uSEjFE"
+  },
+  "Mezamrim Choir|Mipi Keil": {
+    "artist": "Mezamrim Choir",
+    "track": "Mipi Keil",
+    "album": "Dance with Mezamrim",
+    "video_id": "7zER8uSEjFE",
+    "url": "https://www.youtube.com/watch?v=7zER8uSEjFE"
+  },
+  "Mezamrim Choir|Lemaan Daas": {
+    "artist": "Mezamrim Choir",
+    "track": "Lemaan Daas",
+    "album": "Dance with Mezamrim",
+    "video_id": "-VcW2v35QAM",
+    "url": "https://www.youtube.com/watch?v=-VcW2v35QAM"
+  },
+  "Mezamrim Choir|Orech Yomim": {
+    "artist": "Mezamrim Choir",
+    "track": "Orech Yomim",
+    "album": "Dance with Mezamrim",
+    "video_id": "-VcW2v35QAM",
+    "url": "https://www.youtube.com/watch?v=-VcW2v35QAM"
+  },
+  "Mezamrim Choir|Ufrois": {
+    "artist": "Mezamrim Choir",
+    "track": "Ufrois",
+    "album": "Dance with Mezamrim",
+    "video_id": "40piAKIk6MU",
+    "url": "https://www.youtube.com/watch?v=40piAKIk6MU"
+  },
+  "Mezamrim Choir|Veharvach": {
+    "artist": "Mezamrim Choir",
+    "track": "Veharvach",
+    "album": "Dance with Mezamrim",
+    "video_id": "40piAKIk6MU",
+    "url": "https://www.youtube.com/watch?v=40piAKIk6MU"
+  },
+  "Mezamrim Choir|Al Tira": {
+    "artist": "Mezamrim Choir",
+    "track": "Al Tira",
+    "album": "Dance with Mezamrim",
+    "video_id": "MaOYIwrLAWw",
+    "url": "https://www.youtube.com/watch?v=MaOYIwrLAWw"
+  },
+  "Mezamrim Choir|Rachel": {
+    "artist": "Mezamrim Choir",
+    "track": "Rachel",
+    "album": "Dance with Mezamrim",
+    "video_id": "MaOYIwrLAWw",
+    "url": "https://www.youtube.com/watch?v=MaOYIwrLAWw"
+  },
+  "Mezamrim Choir|Veyiten Lecha": {
+    "artist": "Mezamrim Choir",
+    "track": "Veyiten Lecha",
+    "album": "Dance with Mezamrim",
+    "video_id": "I2I_Pxj8Wz4",
+    "url": "https://www.youtube.com/watch?v=I2I_Pxj8Wz4"
+  },
+  "Mezamrim Choir|Mah Shehaya": {
+    "artist": "Mezamrim Choir",
+    "track": "Mah Shehaya",
+    "album": "Dance with Mezamrim",
+    "video_id": "I2I_Pxj8Wz4",
+    "url": "https://www.youtube.com/watch?v=I2I_Pxj8Wz4"
+  },
+  "Mezamrim Choir|Mi Yaaleh": {
+    "artist": "Mezamrim Choir",
+    "track": "Mi Yaaleh",
+    "album": "Dance with Mezamrim",
+    "video_id": "73HgOr91tmY",
+    "url": "https://www.youtube.com/watch?v=73HgOr91tmY"
+  },
+  "Mezamrim Choir|Im Lo Aaleh": {
+    "artist": "Mezamrim Choir",
+    "track": "Im Lo Aaleh",
+    "album": "Dance with Mezamrim",
+    "video_id": "73HgOr91tmY",
+    "url": "https://www.youtube.com/watch?v=73HgOr91tmY"
+  },
+  "Mezamrim Choir|Avinu Malkainu": {
+    "artist": "Mezamrim Choir",
+    "track": "Avinu Malkainu",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "brEThW-73ZM",
+    "url": "https://www.youtube.com/watch?v=brEThW-73ZM"
+  },
+  "Mezamrim Choir|Tarah Tahai": null,
+  "Mezamrim Choir|Niggun Tantz": {
+    "artist": "Mezamrim Choir",
+    "track": "Niggun Tantz",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "q3G_oscphVs",
+    "url": "https://www.youtube.com/watch?v=q3G_oscphVs"
+  },
+  "Mezamrim Choir|Vayisa Lanu": {
+    "artist": "Mezamrim Choir",
+    "track": "Vayisa Lanu",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "vpOYWMAb3ak",
+    "url": "https://www.youtube.com/watch?v=vpOYWMAb3ak"
+  },
+  "Mezamrim Choir|Lo Aira Ra": null,
+  "Mezamrim Choir|Bmidas Harachamim": {
+    "artist": "Mezamrim Choir",
+    "track": "Bmidas Harachamim",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "nTluD3yDGqU",
+    "url": "https://www.youtube.com/watch?v=nTluD3yDGqU"
+  },
+  "Mezamrim Choir|Vshavta Mayim": {
+    "artist": "Mezamrim Choir",
+    "track": "Vshavta Mayim",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "faWL2m1nT_w",
+    "url": "https://www.youtube.com/watch?v=faWL2m1nT_w"
+  },
+  "Mezamrim Choir|Mi Cmocha": {
+    "artist": "Mezamrim Choir",
+    "track": "Mi Cmocha",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "k-ok6B05TiE",
+    "url": "https://www.youtube.com/watch?v=k-ok6B05TiE"
+  },
+  "Mezamrim Choir|Yadai Dadi": {
+    "artist": "Mezamrim Choir",
+    "track": "Yadai Dadi",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "g3iNxjbNZoM",
+    "url": "https://www.youtube.com/watch?v=g3iNxjbNZoM"
+  },
+  "Mezamrim Choir|Al Vois Niggun Viznits": null,
+  "Mezamrim Choir|Green": {
+    "artist": "Mezamrim Choir",
+    "track": "Green",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "vumZr2rX-4I",
+    "url": "https://www.youtube.com/watch?v=vumZr2rX-4I"
+  },
+  "Mezamrim Choir|Mai Dehava": {
+    "artist": "Mezamrim Choir",
+    "track": "Mai Dehava",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "Y9KiGUAjuiY",
+    "url": "https://www.youtube.com/watch?v=Y9KiGUAjuiY"
+  },
+  "Mezamrim Choir|Ana Avdah": {
+    "artist": "Mezamrim Choir",
+    "track": "Ana Avdah",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "zvPxiRR_iIg",
+    "url": "https://www.youtube.com/watch?v=zvPxiRR_iIg"
+  },
+  "Mezamrim Choir|Chasidim": {
+    "artist": "Mezamrim Choir",
+    "track": "Chasidim",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "n0U766deKcg",
+    "url": "https://www.youtube.com/watch?v=n0U766deKcg"
+  },
+  "Mezamrim Choir|Vamaich Culam Tzadikim": null,
+  "Mezamrim Choir|Vyazor Vyagon": {
+    "artist": "Mezamrim Choir",
+    "track": "Vyazor Vyagon",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "2R1CjgqoUgo",
+    "url": "https://www.youtube.com/watch?v=2R1CjgqoUgo"
+  },
+  "Mezamrim Choir|Vshomru": {
+    "artist": "Mezamrim Choir",
+    "track": "Vshomru",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "_VHwE5E2Q-Y",
+    "url": "https://www.youtube.com/watch?v=_VHwE5E2Q-Y"
+  },
+  "Mezamrim Choir|Rbainu Rachman": null,
+  "Mezamrim Choir|Rbainu Shuag": {
+    "artist": "Mezamrim Choir",
+    "track": "Rbainu Shuag",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "Y-KJQi6lHNI",
+    "url": "https://www.youtube.com/watch?v=Y-KJQi6lHNI"
+  },
+  "Mezamrim Choir|Ain Ain": {
+    "artist": "Mezamrim Choir",
+    "track": "Ain Ain",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "bKOIY-v52HM",
+    "url": "https://www.youtube.com/watch?v=bKOIY-v52HM"
+  },
+  "Mezamrim Choir|Hadrus": {
+    "artist": "Mezamrim Choir",
+    "track": "Hadrus",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "nTluD3yDGqU",
+    "url": "https://www.youtube.com/watch?v=nTluD3yDGqU"
+  },
+  "Mezamrim Choir|Ani Yeshaina": {
+    "artist": "Mezamrim Choir",
+    "track": "Ani Yeshaina",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "nF6fQD-9_b8",
+    "url": "https://www.youtube.com/watch?v=nF6fQD-9_b8"
+  },
+  "Mezamrim Choir|Pincus Niggun": {
+    "artist": "Mezamrim Choir",
+    "track": "Pincus Niggun",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "QCc3ka5wUvc",
+    "url": "https://www.youtube.com/watch?v=QCc3ka5wUvc"
+  },
+  "Mezamrim Choir|Tzomah": {
+    "artist": "Mezamrim Choir",
+    "track": "Tzomah",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "qK3xIgG_Oa4",
+    "url": "https://www.youtube.com/watch?v=qK3xIgG_Oa4"
+  },
+  "Mezamrim Choir|Tzamah 2": {
+    "artist": "Mezamrim Choir",
+    "track": "Tzamah 2",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "qK3xIgG_Oa4",
+    "url": "https://www.youtube.com/watch?v=qK3xIgG_Oa4"
+  },
+  "Mezamrim Choir|Bisimcha Rabbah": {
+    "artist": "Mezamrim Choir",
+    "track": "Bisimcha Rabbah",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "QjIUycFCQHY",
+    "url": "https://www.youtube.com/watch?v=QjIUycFCQHY"
+  },
+  "Mezamrim Choir|Val Hakal": {
+    "artist": "Mezamrim Choir",
+    "track": "Val Hakal",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "pOxvmL5f7j4",
+    "url": "https://www.youtube.com/watch?v=pOxvmL5f7j4"
+  },
+  "Mezamrim Choir|Mi Sheasa": {
+    "artist": "Mezamrim Choir",
+    "track": "Mi Sheasa",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "aOhnLuNctr4",
+    "url": "https://www.youtube.com/watch?v=aOhnLuNctr4"
+  },
+  "Mezamrim Choir|Da Luch": {
+    "artist": "Mezamrim Choir",
+    "track": "Da Luch",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "i6BKhvhSehc",
+    "url": "https://www.youtube.com/watch?v=i6BKhvhSehc"
+  },
+  "Mezamrim Choir|A Tateh": {
+    "artist": "Mezamrim Choir",
+    "track": "A Tateh",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "obFUc_b4uOs",
+    "url": "https://www.youtube.com/watch?v=obFUc_b4uOs"
+  },
+  "Mezamrim Choir|Shehechianu": {
+    "artist": "Mezamrim Choir",
+    "track": "Shehechianu",
+    "album": "Dance with Mezamrim 2",
+    "video_id": "V-gIP1-RO4k",
+    "url": "https://www.youtube.com/watch?v=V-gIP1-RO4k"
   }
 }
