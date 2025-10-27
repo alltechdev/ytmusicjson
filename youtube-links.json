@@ -35262,5 +35262,669 @@
     "album": "Emes II",
     "video_id": "cGb6K_g3Fo0",
     "url": "https://www.youtube.com/watch?v=cGb6K_g3Fo0"
+  },
+  "Shloime Kaufman|Min Hamatzar": {
+    "artist": "Shloime Kaufman",
+    "track": "Min Hamatzar",
+    "album": "Emes II",
+    "video_id": "YD4IALxzmgk",
+    "url": "https://www.youtube.com/watch?v=YD4IALxzmgk"
+  },
+  "Shloime Kaufman|Shema Yisroel": {
+    "artist": "Shloime Kaufman",
+    "track": "Shema Yisroel",
+    "album": "Emes II",
+    "video_id": "2UfGo-VqLWM",
+    "url": "https://www.youtube.com/watch?v=2UfGo-VqLWM"
+  },
+  "Shloime Kaufman|Shuva Hashem": {
+    "artist": "Shloime Kaufman",
+    "track": "Shuva Hashem",
+    "album": "Emes II",
+    "video_id": "98J9GIPRVxs",
+    "url": "https://www.youtube.com/watch?v=98J9GIPRVxs"
+  },
+  "Shloime Kaufman|Elokai": {
+    "artist": "Shloime Kaufman",
+    "track": "Elokai",
+    "album": "Emes II",
+    "video_id": "2UfGo-VqLWM",
+    "url": "https://www.youtube.com/watch?v=2UfGo-VqLWM"
+  },
+  "Shloime Kaufman|Ma Tovu": {
+    "artist": "Shloime Kaufman",
+    "track": "Ma Tovu",
+    "album": "Emes II",
+    "video_id": "rDccr0-Ei1E",
+    "url": "https://www.youtube.com/watch?v=rDccr0-Ei1E"
+  },
+  "Yisroel Williger|Sholom Aleichem Medley": {
+    "artist": "Yisroel Williger",
+    "track": "Sholom Aleichem Medley",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "m0l2pua880Y",
+    "url": "https://www.youtube.com/watch?v=m0l2pua880Y"
+  },
+  "Yisroel Williger|Ma Yedidus": {
+    "artist": "Yisroel Williger",
+    "track": "Ma Yedidus",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "p-c-6X5o4xA",
+    "url": "https://www.youtube.com/watch?v=p-c-6X5o4xA"
+  },
+  "Yisroel Williger|Koh Ribon Medley": {
+    "artist": "Yisroel Williger",
+    "track": "Koh Ribon Medley",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "AHnRG6yIqbk",
+    "url": "https://www.youtube.com/watch?v=AHnRG6yIqbk"
+  },
+  "Yisroel Williger|Shacharis 1": {
+    "artist": "Yisroel Williger",
+    "track": "Shacharis 1",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "0y8XOIZ7900",
+    "url": "https://www.youtube.com/watch?v=0y8XOIZ7900"
+  },
+  "Yisroel Williger|Birchat Hachodesh": {
+    "artist": "Yisroel Williger",
+    "track": "Birchat Hachodesh",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "bRsREtx8WHs",
+    "url": "https://www.youtube.com/watch?v=bRsREtx8WHs"
+  },
+  "Yisroel Williger|Lcha Dodi": {
+    "artist": "Yisroel Williger",
+    "track": "Lcha Dodi",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "ovkEsMnXqVQ",
+    "url": "https://www.youtube.com/watch?v=ovkEsMnXqVQ"
+  },
+  "Yisroel Williger|Havdalah": {
+    "artist": "Yisroel Williger",
+    "track": "Havdalah",
+    "album": "Carlebach - The Rest Of Shabbos",
+    "video_id": "PBKO5OTi21g",
+    "url": "https://www.youtube.com/watch?v=PBKO5OTi21g"
+  },
+  "Yisroel Williger|Shehechayonu": null,
+  "Yisroel Williger|S'Lach": {
+    "artist": "Yisroel Williger",
+    "track": "S'Lach",
+    "album": "The Yom Tov Album",
+    "video_id": "5w3Edsv8oB8",
+    "url": "https://www.youtube.com/watch?v=5w3Edsv8oB8"
+  },
+  "Yisroel Williger|Emes": {
+    "artist": "Yisroel Williger",
+    "track": "Emes",
+    "album": "The Yom Tov Album",
+    "video_id": "YLqZwMpT-n0",
+    "url": "https://www.youtube.com/watch?v=YLqZwMpT-n0"
+  },
+  "Yisroel Williger|V'Somachto": {
+    "artist": "Yisroel Williger",
+    "track": "V'Somachto",
+    "album": "The Yom Tov Album",
+    "video_id": "ibH_KWoIPno",
+    "url": "https://www.youtube.com/watch?v=ibH_KWoIPno"
+  },
+  "Yisroel Williger|Rachamim": {
+    "artist": "Yisroel Williger",
+    "track": "Rachamim",
+    "album": "The Yom Tov Album",
+    "video_id": "aL7sFwsOhRU",
+    "url": "https://www.youtube.com/watch?v=aL7sFwsOhRU"
+  },
+  "Yisroel Williger|Hallel": {
+    "artist": "Yisroel Williger",
+    "track": "Hallel",
+    "album": "The Yom Tov Album",
+    "video_id": "J0YvGdv9GfA",
+    "url": "https://www.youtube.com/watch?v=J0YvGdv9GfA"
+  },
+  "Yisroel Williger|Shiru": {
+    "artist": "Yisroel Williger",
+    "track": "Shiru",
+    "album": "The Wedding Album",
+    "video_id": "DbO2BA6Pf18",
+    "url": "https://www.youtube.com/watch?v=DbO2BA6Pf18"
+  },
+  "Yisroel Williger|Special Moment": {
+    "artist": "Yisroel Williger",
+    "track": "Special Moment",
+    "album": "The Wedding Album",
+    "video_id": "z1Jwr2LKfSM",
+    "url": "https://www.youtube.com/watch?v=z1Jwr2LKfSM"
+  },
+  "Yisroel Williger|Mazel Tov": {
+    "artist": "Yisroel Williger",
+    "track": "Mazel Tov",
+    "album": "The Wedding Album",
+    "video_id": "AsWs1d_xjpU",
+    "url": "https://www.youtube.com/watch?v=AsWs1d_xjpU"
+  },
+  "Yisroel Williger|Seudah 1": {
+    "artist": "Yisroel Williger",
+    "track": "Seudah 1",
+    "album": "The Wedding Album",
+    "video_id": "3bbPJ5EDDO8",
+    "url": "https://www.youtube.com/watch?v=3bbPJ5EDDO8"
+  },
+  "Yisroel Williger|Bileiv Echod": {
+    "artist": "Yisroel Williger",
+    "track": "Bileiv Echod",
+    "album": "The Wedding Album",
+    "video_id": "2nZ-H71fQFU",
+    "url": "https://www.youtube.com/watch?v=2nZ-H71fQFU"
+  },
+  "Yisroel Williger|Seudah 2": {
+    "artist": "Yisroel Williger",
+    "track": "Seudah 2",
+    "album": "The Wedding Album",
+    "video_id": "JpSF79SPrBo",
+    "url": "https://www.youtube.com/watch?v=JpSF79SPrBo"
+  },
+  "Yisroel Williger|L'maan Yerusholayim": {
+    "artist": "Yisroel Williger",
+    "track": "L'maan Yerusholayim",
+    "album": "The Wedding Album",
+    "video_id": "LOEa5yp8X4o",
+    "url": "https://www.youtube.com/watch?v=LOEa5yp8X4o"
+  },
+  "Yisroel Williger|Ashrei Ha'am": {
+    "artist": "Yisroel Williger",
+    "track": "Ashrei Ha'am",
+    "album": "Rosh Hashana",
+    "video_id": "ewHnO3gaFTo",
+    "url": "https://www.youtube.com/watch?v=ewHnO3gaFTo"
+  },
+  "Yisroel Williger|Hineni": {
+    "artist": "Yisroel Williger",
+    "track": "Hineni",
+    "album": "Rosh Hashana",
+    "video_id": "4ytUnAhXg0U",
+    "url": "https://www.youtube.com/watch?v=4ytUnAhXg0U"
+  },
+  "Yisroel Williger|Avos": {
+    "artist": "Yisroel Williger",
+    "track": "Avos",
+    "album": "Rosh Hashana",
+    "video_id": "54YNXWEs1eA",
+    "url": "https://www.youtube.com/watch?v=54YNXWEs1eA"
+  },
+  "Yisroel Williger|Zachreinu": {
+    "artist": "Yisroel Williger",
+    "track": "Zachreinu",
+    "album": "Rosh Hashana",
+    "video_id": "1jPY8lXqApI",
+    "url": "https://www.youtube.com/watch?v=1jPY8lXqApI"
+  },
+  "Yisroel Williger|Melech Ozer": {
+    "artist": "Yisroel Williger",
+    "track": "Melech Ozer",
+    "album": "Rosh Hashana",
+    "video_id": "unwMgWjWdH4",
+    "url": "https://www.youtube.com/watch?v=unwMgWjWdH4"
+  },
+  "Yisroel Williger|Mechalkel Chaim": {
+    "artist": "Yisroel Williger",
+    "track": "Mechalkel Chaim",
+    "album": "Rosh Hashana",
+    "video_id": "wE__CnMsASg",
+    "url": "https://www.youtube.com/watch?v=wE__CnMsASg"
+  },
+  "Yisroel Williger|Mi Chamocha": {
+    "artist": "Yisroel Williger",
+    "track": "Mi Chamocha",
+    "album": "Rosh Hashana",
+    "video_id": "U2OEsZtNNRk",
+    "url": "https://www.youtube.com/watch?v=U2OEsZtNNRk"
+  },
+  "Yisroel Williger|Yimloch - Kel Emunah": {
+    "artist": "Yisroel Williger",
+    "track": "Yimloch - Kel Emunah",
+    "album": "Rosh Hashana",
+    "video_id": "ThBgO7DTkDs",
+    "url": "https://www.youtube.com/watch?v=ThBgO7DTkDs"
+  },
+  "Yisroel Williger|Melech Elyon": {
+    "artist": "Yisroel Williger",
+    "track": "Melech Elyon",
+    "album": "Rosh Hashana",
+    "video_id": "xZJPlu5d4Vs",
+    "url": "https://www.youtube.com/watch?v=xZJPlu5d4Vs"
+  },
+  "Yisroel Williger|Unesaneh Tokef": {
+    "artist": "Yisroel Williger",
+    "track": "Unesaneh Tokef",
+    "album": "Rosh Hashana",
+    "video_id": "upu0rsR2Z1Q",
+    "url": "https://www.youtube.com/watch?v=upu0rsR2Z1Q"
+  },
+  "Yisroel Williger|Kevakoras": {
+    "artist": "Yisroel Williger",
+    "track": "Kevakoras",
+    "album": "Rosh Hashana",
+    "video_id": "fJwOeXdl4O0",
+    "url": "https://www.youtube.com/watch?v=fJwOeXdl4O0"
+  },
+  "Yisroel Williger|B'Rosh Hashana": {
+    "artist": "Yisroel Williger",
+    "track": "B'Rosh Hashana",
+    "album": "Rosh Hashana",
+    "video_id": "XlVJ5iItYsE",
+    "url": "https://www.youtube.com/watch?v=XlVJ5iItYsE"
+  },
+  "Yisroel Williger|U'Tshuvah": {
+    "artist": "Yisroel Williger",
+    "track": "U'Tshuvah",
+    "album": "Rosh Hashana",
+    "video_id": "fKPAmozHDjs",
+    "url": "https://www.youtube.com/watch?v=fKPAmozHDjs"
+  },
+  "Yisroel Williger|Kedusha": {
+    "artist": "Yisroel Williger",
+    "track": "Kedusha",
+    "album": "Rosh Hashana",
+    "video_id": "C51RmeA3kEo",
+    "url": "https://www.youtube.com/watch?v=C51RmeA3kEo"
+  },
+  "Yisroel Williger|Chamol Al Maasecha": {
+    "artist": "Yisroel Williger",
+    "track": "Chamol Al Maasecha",
+    "album": "Rosh Hashana",
+    "video_id": "xZJPlu5d4Vs",
+    "url": "https://www.youtube.com/watch?v=xZJPlu5d4Vs"
+  },
+  "Yisroel Williger|V'chol Maminim": {
+    "artist": "Yisroel Williger",
+    "track": "V'chol Maminim",
+    "album": "Rosh Hashana",
+    "video_id": "drbRW6E2kLs",
+    "url": "https://www.youtube.com/watch?v=drbRW6E2kLs"
+  },
+  "Yisroel Williger|Aleinu": {
+    "artist": "Yisroel Williger",
+    "track": "Aleinu",
+    "album": "Rosh Hashana",
+    "video_id": "khS0lfi-FHU",
+    "url": "https://www.youtube.com/watch?v=khS0lfi-FHU"
+  },
+  "Yisroel Williger|Ochila": {
+    "artist": "Yisroel Williger",
+    "track": "Ochila",
+    "album": "Rosh Hashana",
+    "video_id": "NtMeRTn3Ung",
+    "url": "https://www.youtube.com/watch?v=NtMeRTn3Ung"
+  },
+  "Yisroel Williger|V'al Yedei #1": {
+    "artist": "Yisroel Williger",
+    "track": "V'al Yedei #1",
+    "album": "Rosh Hashana",
+    "video_id": "K_l9jnnXsnY",
+    "url": "https://www.youtube.com/watch?v=K_l9jnnXsnY"
+  },
+  "Yisroel Williger|Melech Al Kol Ha'aretz": {
+    "artist": "Yisroel Williger",
+    "track": "Melech Al Kol Ha'aretz",
+    "album": "Rosh Hashana",
+    "video_id": "ZB7TpFxBFMw",
+    "url": "https://www.youtube.com/watch?v=ZB7TpFxBFMw"
+  },
+  "Yisroel Williger|Hayom Haras Olam": {
+    "artist": "Yisroel Williger",
+    "track": "Hayom Haras Olam",
+    "album": "Rosh Hashana",
+    "video_id": "WiiMUe3_iJ8",
+    "url": "https://www.youtube.com/watch?v=WiiMUe3_iJ8"
+  },
+  "Yisroel Williger|Areshes Sifaseinu": {
+    "artist": "Yisroel Williger",
+    "track": "Areshes Sifaseinu",
+    "album": "Rosh Hashana",
+    "video_id": "oo5rekZnkXg",
+    "url": "https://www.youtube.com/watch?v=oo5rekZnkXg"
+  },
+  "Yisroel Williger|V'al Yedei #2": {
+    "artist": "Yisroel Williger",
+    "track": "V'al Yedei #2",
+    "album": "Rosh Hashana",
+    "video_id": "8Fosdf6tW_0",
+    "url": "https://www.youtube.com/watch?v=8Fosdf6tW_0"
+  },
+  "Yisroel Williger|U'vyom Simchaschem": {
+    "artist": "Yisroel Williger",
+    "track": "U'vyom Simchaschem",
+    "album": "Rosh Hashana",
+    "video_id": "jzHQ_lljUkA",
+    "url": "https://www.youtube.com/watch?v=jzHQ_lljUkA"
+  },
+  "Yisroel Williger|V'serav - V'sechezenah": {
+    "artist": "Yisroel Williger",
+    "track": "V'serav - V'sechezenah",
+    "album": "Rosh Hashana",
+    "video_id": "4LtBQlIxwio",
+    "url": "https://www.youtube.com/watch?v=4LtBQlIxwio"
+  },
+  "Shlomo Katz|Aish Kodesh": {
+    "artist": "Shlomo Katz",
+    "track": "Aish Kodesh",
+    "album": "Aish Kodesh",
+    "video_id": "AO4viw4yUyU",
+    "url": "https://www.youtube.com/watch?v=AO4viw4yUyU"
+  },
+  "DJ Kraz|Closer": {
+    "artist": "DJ Kraz",
+    "track": "Closer",
+    "album": "Closer",
+    "video_id": "OozP_elzCDI",
+    "url": "https://www.youtube.com/watch?v=OozP_elzCDI"
+  },
+  "DJ Kraz|Before I Go feat. Isaac Ben": {
+    "artist": "DJ Kraz",
+    "track": "Before I Go feat. Isaac Ben",
+    "album": "Before I Go feat. Isaac Ben",
+    "video_id": "TQ3b0qhHs8s",
+    "url": "https://www.youtube.com/watch?v=TQ3b0qhHs8s"
+  },
+  "DJ Kraz|Alive": {
+    "artist": "DJ Kraz",
+    "track": "Alive",
+    "album": "Alive EP",
+    "video_id": "xtqwGKg0pjs",
+    "url": "https://www.youtube.com/watch?v=xtqwGKg0pjs"
+  },
+  "DJ Kraz|Bounce": {
+    "artist": "DJ Kraz",
+    "track": "Bounce",
+    "album": "Alive EP",
+    "video_id": "EosqlTWPgUw",
+    "url": "https://www.youtube.com/watch?v=EosqlTWPgUw"
+  },
+  "DJ Kraz|Goin'": {
+    "artist": "DJ Kraz",
+    "track": "Goin'",
+    "album": "Alive EP",
+    "video_id": "c8rH5FIugKU",
+    "url": "https://www.youtube.com/watch?v=c8rH5FIugKU"
+  },
+  "DJ Kraz|Hava": {
+    "artist": "DJ Kraz",
+    "track": "Hava",
+    "album": "Alive EP",
+    "video_id": "UKRH2YGxBRo",
+    "url": "https://www.youtube.com/watch?v=UKRH2YGxBRo"
+  },
+  "DJ Kraz|Home": {
+    "artist": "DJ Kraz",
+    "track": "Home",
+    "album": "Home",
+    "video_id": "yk05mBA0j5Q",
+    "url": "https://www.youtube.com/watch?v=yk05mBA0j5Q"
+  },
+  "DJ Kraz|Gesher Tzar DJ Kraz Remix": {
+    "artist": "DJ Kraz",
+    "track": "Gesher Tzar DJ Kraz Remix",
+    "album": "Gesher Tzar - DJ Kraz Remix",
+    "video_id": "zqDTKfdxmWc",
+    "url": "https://www.youtube.com/watch?v=zqDTKfdxmWc"
+  },
+  "DJ Kraz|Ahavas Olam": {
+    "artist": "DJ Kraz",
+    "track": "Ahavas Olam",
+    "album": "Ahavas Olam",
+    "video_id": "Y8rgcwR7Ras",
+    "url": "https://www.youtube.com/watch?v=Y8rgcwR7Ras"
+  },
+  "DJ Kraz|Tatty My King - DJ Kraz Remix": {
+    "artist": "DJ Kraz",
+    "track": "Tatty My King - DJ Kraz Remix",
+    "album": "Tatty My King DJ Kraz Remix",
+    "video_id": "DbDtgQjTfdE",
+    "url": "https://www.youtube.com/watch?v=DbDtgQjTfdE"
+  },
+  "DJ Kraz|Od Avinu Chai feat. Eli Vogel": {
+    "artist": "DJ Kraz",
+    "track": "Od Avinu Chai feat. Eli Vogel",
+    "album": "Od Avinu Chai feat. Eli Vogel",
+    "video_id": "LeAZNge_W0k",
+    "url": "https://www.youtube.com/watch?v=LeAZNge_W0k"
+  },
+  "DJ Kraz|Nechake Lecha - DJ Kraz Remix": {
+    "artist": "DJ Kraz",
+    "track": "Nechake Lecha - DJ Kraz Remix",
+    "album": "Nechake Lecha DJ Kraz Remix",
+    "video_id": "IEninOKiQS0",
+    "url": "https://www.youtube.com/watch?v=IEninOKiQS0"
+  },
+  "DJ Kraz|Flames feat. Sholom Benstein": {
+    "artist": "DJ Kraz",
+    "track": "Flames feat. Sholom Benstein",
+    "album": "Flames",
+    "video_id": "AYFwKbx5vZ0",
+    "url": "https://www.youtube.com/watch?v=AYFwKbx5vZ0"
+  },
+  "DJ Kraz|Kol Berama feat. Shea": {
+    "artist": "DJ Kraz",
+    "track": "Kol Berama feat. Shea",
+    "album": "Kol Berama feat. Shea",
+    "video_id": "HV_stzXVqvk",
+    "url": "https://www.youtube.com/watch?v=HV_stzXVqvk"
+  },
+  "DJ Kraz|Break Down": {
+    "artist": "DJ Kraz",
+    "track": "Break Down",
+    "album": "BREAKDOWN",
+    "video_id": "U-QNdQ_I2ow",
+    "url": "https://www.youtube.com/watch?v=U-QNdQ_I2ow"
+  },
+  "DJ Kraz|Ani Maamin": {
+    "artist": "DJ Kraz",
+    "track": "Ani Maamin",
+    "album": "Ani Maamin",
+    "video_id": "cG3ni8I6BiI",
+    "url": "https://www.youtube.com/watch?v=cG3ni8I6BiI"
+  },
+  "DJ Kraz|Lifted": {
+    "artist": "DJ Kraz",
+    "track": "Lifted",
+    "album": "Lifted",
+    "video_id": "PlSyYAaN39w",
+    "url": "https://www.youtube.com/watch?v=PlSyYAaN39w"
+  },
+  "DJ Kraz|Time feat. Eli Dachs": {
+    "artist": "DJ Kraz",
+    "track": "Time feat. Eli Dachs",
+    "album": "Time feat. Eli Dachs",
+    "video_id": "WFu8BhI4Jc8",
+    "url": "https://www.youtube.com/watch?v=WFu8BhI4Jc8"
+  },
+  "DJ Kraz|Changes": {
+    "artist": "DJ Kraz",
+    "track": "Changes",
+    "album": "Changes",
+    "video_id": "XsLooFGZXX0",
+    "url": "https://www.youtube.com/watch?v=XsLooFGZXX0"
+  },
+  "DJ Kraz|Good Vibe feat. Akiva Hammond": {
+    "artist": "DJ Kraz",
+    "track": "Good Vibe feat. Akiva Hammond",
+    "album": "Good Vibe feat. Akiva Hammond",
+    "video_id": "NcHPvtnfn38",
+    "url": "https://www.youtube.com/watch?v=NcHPvtnfn38"
+  },
+  "DJ Kraz|City Of Gold feat. Sholom Benstein": {
+    "artist": "DJ Kraz",
+    "track": "City Of Gold feat. Sholom Benstein",
+    "album": "City Of Gold feat. Sholom Benstein",
+    "video_id": "hAqEgrJZ9Ys",
+    "url": "https://www.youtube.com/watch?v=hAqEgrJZ9Ys"
+  },
+  "DJ Kraz|Level Up": {
+    "artist": "DJ Kraz",
+    "track": "Level Up",
+    "album": "Level Up",
+    "video_id": "mdvK-9fvTYk",
+    "url": "https://www.youtube.com/watch?v=mdvK-9fvTYk"
+  },
+  "DJ Kraz|Summer": {
+    "artist": "DJ Kraz",
+    "track": "Summer",
+    "album": "Summer (Feat. Kunst)",
+    "video_id": "Kp2a-UNENGo",
+    "url": "https://www.youtube.com/watch?v=Kp2a-UNENGo"
+  },
+  "DJ Kraz|Never Alone": {
+    "artist": "DJ Kraz",
+    "track": "Never Alone",
+    "album": "Never Alone",
+    "video_id": "Yy3nHMNG8wE",
+    "url": "https://www.youtube.com/watch?v=Yy3nHMNG8wE"
+  },
+  "DJ Kraz|Brachos V'hodaos feat. Eli Vogel": {
+    "artist": "DJ Kraz",
+    "track": "Brachos V'hodaos feat. Eli Vogel",
+    "album": "Brachos V'hodaos feat. Eli Vogel",
+    "video_id": "24GU06l6YBg",
+    "url": "https://www.youtube.com/watch?v=24GU06l6YBg"
+  },
+  "DJ Kraz|Shema Koleinu feat. Bentzi Marcus": {
+    "artist": "DJ Kraz",
+    "track": "Shema Koleinu feat. Bentzi Marcus",
+    "album": "Shema Koleinu feat. Bentzi Marcus",
+    "video_id": "pYTb0LPdAi4",
+    "url": "https://www.youtube.com/watch?v=pYTb0LPdAi4"
+  },
+  "Menachem Moskowitz|Yuvoi": {
+    "artist": "Menachem Moskowitz",
+    "track": "Yuvoi",
+    "album": "Shmoi Shel Melech",
+    "video_id": "T6644XVFXN8",
+    "url": "https://www.youtube.com/watch?v=T6644XVFXN8"
+  },
+  "Menachem Moskowitz|Meiruchoik": {
+    "artist": "Menachem Moskowitz",
+    "track": "Meiruchoik",
+    "album": "Shmoi Shel Melech",
+    "video_id": "hXb1xkMudqw",
+    "url": "https://www.youtube.com/watch?v=hXb1xkMudqw"
+  },
+  "Menachem Moskowitz|Proik": {
+    "artist": "Menachem Moskowitz",
+    "track": "Proik",
+    "album": "Shmoi Shel Melech",
+    "video_id": "ll2fum4Hamc",
+    "url": "https://www.youtube.com/watch?v=ll2fum4Hamc"
+  },
+  "Menachem Moskowitz|Zechoir": {
+    "artist": "Menachem Moskowitz",
+    "track": "Zechoir",
+    "album": "Shmoi Shel Melech",
+    "video_id": "bvn78KlpViQ",
+    "url": "https://www.youtube.com/watch?v=bvn78KlpViQ"
+  },
+  "Menachem Moskowitz|Kulom": {
+    "artist": "Menachem Moskowitz",
+    "track": "Kulom",
+    "album": "Shmoi Shel Melech",
+    "video_id": "T6644XVFXN8",
+    "url": "https://www.youtube.com/watch?v=T6644XVFXN8"
+  },
+  "Menachem Moskowitz|Yehi Rutzion": null,
+  "Menachem Moskowitz|L'Hoidois": null,
+  "Menachem Moskowitz|Nakdishuch": {
+    "artist": "Menachem Moskowitz",
+    "track": "Nakdishuch",
+    "album": "Shmoi Shel Melech",
+    "video_id": "nXhA0BeLF40",
+    "url": "https://www.youtube.com/watch?v=nXhA0BeLF40"
+  },
+  "Menachem Moskowitz|Shmoi Shel Melech": {
+    "artist": "Menachem Moskowitz",
+    "track": "Shmoi Shel Melech",
+    "album": "Shmoi Shel Melech",
+    "video_id": "SWFxEp_vSZ4",
+    "url": "https://www.youtube.com/watch?v=SWFxEp_vSZ4"
+  },
+  "Menachem Moskowitz|Mechalkel": {
+    "artist": "Menachem Moskowitz",
+    "track": "Mechalkel",
+    "album": "Shmoi Shel Melech",
+    "video_id": "hXb1xkMudqw",
+    "url": "https://www.youtube.com/watch?v=hXb1xkMudqw"
+  },
+  "Menachem Moskowitz|Tatte Helf": {
+    "artist": "Menachem Moskowitz",
+    "track": "Tatte Helf",
+    "album": "Shmoi Shel Melech",
+    "video_id": "-XnDVLxCMy4",
+    "url": "https://www.youtube.com/watch?v=-XnDVLxCMy4"
+  },
+  "Menachem Moskowitz|Sha'as Simcha": {
+    "artist": "Menachem Moskowitz",
+    "track": "Sha'as Simcha",
+    "album": "Shmoi Shel Melech",
+    "video_id": "75YAswi1iN8",
+    "url": "https://www.youtube.com/watch?v=75YAswi1iN8"
+  },
+  "Menachem Moskowitz|Sois Osis": {
+    "artist": "Menachem Moskowitz",
+    "track": "Sois Osis",
+    "album": "Menachem Moskowitz",
+    "video_id": "XvTEhnRWAC8",
+    "url": "https://www.youtube.com/watch?v=XvTEhnRWAC8"
+  },
+  "Menachem Moskowitz|Chavivin": {
+    "artist": "Menachem Moskowitz",
+    "track": "Chavivin",
+    "album": "Menachem Moskowitz",
+    "video_id": "LSxz1r9-kqU",
+    "url": "https://www.youtube.com/watch?v=LSxz1r9-kqU"
+  },
+  "Menachem Moskowitz|Ashrecha": {
+    "artist": "Menachem Moskowitz",
+    "track": "Ashrecha",
+    "album": "Menachem Moskowitz",
+    "video_id": "GPtOguRc7kM",
+    "url": "https://www.youtube.com/watch?v=GPtOguRc7kM"
+  },
+  "Menachem Moskowitz|Im Ein Ani Li": {
+    "artist": "Menachem Moskowitz",
+    "track": "Im Ein Ani Li",
+    "album": "Menachem Moskowitz",
+    "video_id": "imGJ303qv-U",
+    "url": "https://www.youtube.com/watch?v=imGJ303qv-U"
+  },
+  "Menachem Moskowitz|Moshiach": {
+    "artist": "Menachem Moskowitz",
+    "track": "Moshiach",
+    "album": "Menachem Moskowitz",
+    "video_id": "Dmc-DIkyaAg",
+    "url": "https://www.youtube.com/watch?v=Dmc-DIkyaAg"
+  },
+  "Menachem Moskowitz|R'Meir": {
+    "artist": "Menachem Moskowitz",
+    "track": "R'Meir",
+    "album": "Menachem Moskowitz",
+    "video_id": "R8SwQbkA9e4",
+    "url": "https://www.youtube.com/watch?v=R8SwQbkA9e4"
+  },
+  "Menachem Moskowitz|V'harikoisi": null,
+  "Menachem Moskowitz|Leshem Shomayim": {
+    "artist": "Menachem Moskowitz",
+    "track": "Leshem Shomayim",
+    "album": "Menachem Moskowitz",
+    "video_id": "ucua19Q8W48",
+    "url": "https://www.youtube.com/watch?v=ucua19Q8W48"
+  },
+  "Menachem Moskowitz|Youmkum Pourkon": null,
+  "Menachem Moskowitz|Yehi Chasdecho": null,
+  "Menachem Moskowitz|Ashreichem": {
+    "artist": "Menachem Moskowitz",
+    "track": "Ashreichem",
+    "album": "Menachem Moskowitz",
+    "video_id": "9y4wCw-wZhg",
+    "url": "https://www.youtube.com/watch?v=9y4wCw-wZhg"
   }
 }
