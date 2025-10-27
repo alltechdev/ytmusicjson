@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: '*/10 * * * *'  # Run every 10 minutes
 
+concurrency:
+  group: youtube-links-generator
+  cancel-in-progress: false
+
 jobs:
   generate-links:
     runs-on: ubuntu-latest
