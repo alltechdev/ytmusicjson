@@ -52842,5 +52842,633 @@
     "album": "Hinei",
     "video_id": "17qDQXEhJ5Q",
     "url": "https://www.youtube.com/watch?v=17qDQXEhJ5Q"
-  }
+  },
+  "Shloime Cohen|Hashabbos": {
+    "artist": "Shloime Cohen",
+    "track": "Hashabbos",
+    "album": "Hinei",
+    "video_id": "1uRVBoa6qeo",
+    "url": "https://www.youtube.com/watch?v=1uRVBoa6qeo"
+  },
+  "Shloime Cohen|Mi Shetorach": {
+    "artist": "Shloime Cohen",
+    "track": "Mi Shetorach",
+    "album": "Hinei",
+    "video_id": "JlnZ22BIdc4",
+    "url": "https://www.youtube.com/watch?v=JlnZ22BIdc4"
+  },
+  "Shloime Cohen|Oidchah": {
+    "artist": "Shloime Cohen",
+    "track": "Oidchah",
+    "album": "Hinei",
+    "video_id": "WDTQuOSK_S4",
+    "url": "https://www.youtube.com/watch?v=WDTQuOSK_S4"
+  },
+  "Shloime Cohen|Ani Maamin": {
+    "artist": "Shloime Cohen",
+    "track": "Ani Maamin",
+    "album": "Hinei",
+    "video_id": "NHNbeK_7ZVY",
+    "url": "https://www.youtube.com/watch?v=NHNbeK_7ZVY"
+  },
+  "Shloime Cohen|Adon Hasholom": {
+    "artist": "Shloime Cohen",
+    "track": "Adon Hasholom",
+    "album": "L'maloh",
+    "video_id": "60gbciYpb4k",
+    "url": "https://www.youtube.com/watch?v=60gbciYpb4k"
+  },
+  "Shloime Cohen|Racheim Noh": {
+    "artist": "Shloime Cohen",
+    "track": "Racheim Noh",
+    "album": "L'maloh",
+    "video_id": "bBcv2B7jvsA",
+    "url": "https://www.youtube.com/watch?v=bBcv2B7jvsA"
+  },
+  "Shloime Cohen|L'maloh": {
+    "artist": "Shloime Cohen",
+    "track": "L'maloh",
+    "album": "L'maloh",
+    "video_id": "mpDyPAmNXxY",
+    "url": "https://www.youtube.com/watch?v=mpDyPAmNXxY"
+  },
+  "Shloime Cohen|Boi B'sholom": null,
+  "Shloime Cohen|Melech Hamoshiach": {
+    "artist": "Shloime Cohen",
+    "track": "Melech Hamoshiach",
+    "album": "L'maloh",
+    "video_id": "uKJc8jNMqIE",
+    "url": "https://www.youtube.com/watch?v=uKJc8jNMqIE"
+  },
+  "Shloime Cohen|L'hoishivi": null,
+  "Shloime Cohen|Horeini Hashem": {
+    "artist": "Shloime Cohen",
+    "track": "Horeini Hashem",
+    "album": "L'maloh",
+    "video_id": "VIIjO6e9vmo",
+    "url": "https://www.youtube.com/watch?v=VIIjO6e9vmo"
+  },
+  "Shloime Cohen|Utzu Eitzo": {
+    "artist": "Shloime Cohen",
+    "track": "Utzu Eitzo",
+    "album": "L'maloh",
+    "video_id": "RYIpoCNCvIU",
+    "url": "https://www.youtube.com/watch?v=RYIpoCNCvIU"
+  },
+  "Shloime Cohen|V'zakeinu": {
+    "artist": "Shloime Cohen",
+    "track": "V'zakeinu",
+    "album": "L'maloh",
+    "video_id": "IjDYvcvYXcc",
+    "url": "https://www.youtube.com/watch?v=IjDYvcvYXcc"
+  },
+  "Shloime Cohen|Od Yishoma": {
+    "artist": "Shloime Cohen",
+    "track": "Od Yishoma",
+    "album": "L'maloh",
+    "video_id": "JqBFUfSIBNo",
+    "url": "https://www.youtube.com/watch?v=JqBFUfSIBNo"
+  },
+  "Shloime Cohen|B'siato Dishmayo": {
+    "artist": "Shloime Cohen",
+    "track": "B'siato Dishmayo",
+    "album": "Metzapim",
+    "video_id": "LJpg0rY9SV4",
+    "url": "https://www.youtube.com/watch?v=LJpg0rY9SV4"
+  },
+  "Shloime Cohen|Kosho Predoscha": {
+    "artist": "Shloime Cohen",
+    "track": "Kosho Predoscha",
+    "album": "Metzapim",
+    "video_id": "0uWOI5cVQwo",
+    "url": "https://www.youtube.com/watch?v=0uWOI5cVQwo"
+  },
+  "Shloime Cohen|Shecholak": {
+    "artist": "Shloime Cohen",
+    "track": "Shecholak",
+    "album": "Metzapim",
+    "video_id": "4kAdJj7D7OQ",
+    "url": "https://www.youtube.com/watch?v=4kAdJj7D7OQ"
+  },
+  "Shloime Cohen|Shomro Nafshi": {
+    "artist": "Shloime Cohen",
+    "track": "Shomro Nafshi",
+    "album": "Metzapim",
+    "video_id": "Ex6B4vmz7us",
+    "url": "https://www.youtube.com/watch?v=Ex6B4vmz7us"
+  },
+  "Shloime Cohen|Git Iz Git": {
+    "artist": "Shloime Cohen",
+    "track": "Git Iz Git",
+    "album": "Metzapim",
+    "video_id": "3_SVPhQouUk",
+    "url": "https://www.youtube.com/watch?v=3_SVPhQouUk"
+  },
+  "Shloime Cohen|Lecho keili": {
+    "artist": "Shloime Cohen",
+    "track": "Lecho keili",
+    "album": "Metzapim",
+    "video_id": "OH1JowRUMnw",
+    "url": "https://www.youtube.com/watch?v=OH1JowRUMnw"
+  },
+  "Shloime Cohen|Oz Bayom": {
+    "artist": "Shloime Cohen",
+    "track": "Oz Bayom",
+    "album": "Metzapim",
+    "video_id": "hlNkRl-VBWA",
+    "url": "https://www.youtube.com/watch?v=hlNkRl-VBWA"
+  },
+  "Shloime Cohen|Liba Boiya": {
+    "artist": "Shloime Cohen",
+    "track": "Liba Boiya",
+    "album": "Metzapim",
+    "video_id": "rFBlFu9UOWY",
+    "url": "https://www.youtube.com/watch?v=rFBlFu9UOWY"
+  },
+  "Shloime Cohen|Metzapim": {
+    "artist": "Shloime Cohen",
+    "track": "Metzapim",
+    "album": "Metzapim",
+    "video_id": "37LuJ-SmO9k",
+    "url": "https://www.youtube.com/watch?v=37LuJ-SmO9k"
+  },
+  "Shloime Cohen|Bnei Beischo": {
+    "artist": "Shloime Cohen",
+    "track": "Bnei Beischo",
+    "album": "Metzapim",
+    "video_id": "JzpAsykJtF8",
+    "url": "https://www.youtube.com/watch?v=JzpAsykJtF8"
+  },
+  "Shloime Cohen|Da lecho B'ni": {
+    "artist": "Shloime Cohen",
+    "track": "Da lecho B'ni",
+    "album": "Metzapim",
+    "video_id": "DYmy3wr_tXQ",
+    "url": "https://www.youtube.com/watch?v=DYmy3wr_tXQ"
+  },
+  "Shloime Cohen|Od Yishama": {
+    "artist": "Shloime Cohen",
+    "track": "Od Yishama",
+    "album": "Mareh Cohen",
+    "video_id": "JhPMxW_O6Vo",
+    "url": "https://www.youtube.com/watch?v=JhPMxW_O6Vo"
+  },
+  "Shloime Cohen|Nigun Hamagid Mimezritch": {
+    "artist": "Shloime Cohen",
+    "track": "Nigun Hamagid Mimezritch",
+    "album": "Mareh Cohen",
+    "video_id": "VsNwOHx6PYY",
+    "url": "https://www.youtube.com/watch?v=VsNwOHx6PYY"
+  },
+  "Shloime Cohen|Ach Tov V'chesed": {
+    "artist": "Shloime Cohen",
+    "track": "Ach Tov V'chesed",
+    "album": "Mareh Cohen",
+    "video_id": "HRRfDesODEE",
+    "url": "https://www.youtube.com/watch?v=HRRfDesODEE"
+  },
+  "Shloime Cohen|Niggun Simcha - Chabad": {
+    "artist": "Shloime Cohen",
+    "track": "Niggun Simcha - Chabad",
+    "album": "Mareh Cohen",
+    "video_id": "lNK8mkGpNn0",
+    "url": "https://www.youtube.com/watch?v=lNK8mkGpNn0"
+  },
+  "Shloime Cohen|Nigun Simcha - Karlin": {
+    "artist": "Shloime Cohen",
+    "track": "Nigun Simcha - Karlin",
+    "album": "Mareh Cohen",
+    "video_id": "ymuOavCtXCc",
+    "url": "https://www.youtube.com/watch?v=ymuOavCtXCc"
+  },
+  "Shloime Cohen|Sos Tasis": {
+    "artist": "Shloime Cohen",
+    "track": "Sos Tasis",
+    "album": "Mareh Cohen",
+    "video_id": "icBwNokNlvU",
+    "url": "https://www.youtube.com/watch?v=icBwNokNlvU"
+  },
+  "Shloime Cohen|Asher Bara - Slow": {
+    "artist": "Shloime Cohen",
+    "track": "Asher Bara - Slow",
+    "album": "Mareh Cohen",
+    "video_id": "nvADypr7VyU",
+    "url": "https://www.youtube.com/watch?v=nvADypr7VyU"
+  },
+  "Shloime Cohen|Yismach Chatanim": {
+    "artist": "Shloime Cohen",
+    "track": "Yismach Chatanim",
+    "album": "Mareh Cohen",
+    "video_id": "WUVPIeUYCq8",
+    "url": "https://www.youtube.com/watch?v=WUVPIeUYCq8"
+  },
+  "Shloime Cohen|Yasis Alayich": {
+    "artist": "Shloime Cohen",
+    "track": "Yasis Alayich",
+    "album": "Mareh Cohen",
+    "video_id": "YYP74m8lKGA",
+    "url": "https://www.youtube.com/watch?v=YYP74m8lKGA"
+  },
+  "Shloime Cohen|Haleilah": {
+    "artist": "Shloime Cohen",
+    "track": "Haleilah",
+    "album": "Mareh Cohen",
+    "video_id": "oS13CWOgN9k",
+    "url": "https://www.youtube.com/watch?v=oS13CWOgN9k"
+  },
+  "Shloime Cohen|Niggun Carlebach": {
+    "artist": "Shloime Cohen",
+    "track": "Niggun Carlebach",
+    "album": "Mareh Cohen",
+    "video_id": "FPGIGi47pPU",
+    "url": "https://www.youtube.com/watch?v=FPGIGi47pPU"
+  },
+  "Shloime Cohen|Niggun Yermiyahu 1": {
+    "artist": "Shloime Cohen",
+    "track": "Niggun Yermiyahu 1",
+    "album": "Mareh Cohen",
+    "video_id": "FPGIGi47pPU",
+    "url": "https://www.youtube.com/watch?v=FPGIGi47pPU"
+  },
+  "Shloime Cohen|Niggun Yermiyahu 2": {
+    "artist": "Shloime Cohen",
+    "track": "Niggun Yermiyahu 2",
+    "album": "Mareh Cohen",
+    "video_id": "5VCBk7y1X0Y",
+    "url": "https://www.youtube.com/watch?v=5VCBk7y1X0Y"
+  },
+  "Shloime Cohen|Keitzad Merakdin": {
+    "artist": "Shloime Cohen",
+    "track": "Keitzad Merakdin",
+    "album": "Mareh Cohen",
+    "video_id": "olU0vELuDkw",
+    "url": "https://www.youtube.com/watch?v=olU0vELuDkw"
+  },
+  "Shloime Cohen|Niggun Reb Shlomo - Chabad": {
+    "artist": "Shloime Cohen",
+    "track": "Niggun Reb Shlomo - Chabad",
+    "album": "Mareh Cohen",
+    "video_id": "n28yrebNm94",
+    "url": "https://www.youtube.com/watch?v=n28yrebNm94"
+  },
+  "Shloime Cohen|Amar Rabbi Akiva": {
+    "artist": "Shloime Cohen",
+    "track": "Amar Rabbi Akiva",
+    "album": "Mareh Cohen",
+    "video_id": "uNDwBqOHhsQ",
+    "url": "https://www.youtube.com/watch?v=uNDwBqOHhsQ"
+  },
+  "Shloime Cohen|Bar Yochai": {
+    "artist": "Shloime Cohen",
+    "track": "Bar Yochai",
+    "album": "Mareh Cohen",
+    "video_id": "ky0OYOYVHXQ",
+    "url": "https://www.youtube.com/watch?v=ky0OYOYVHXQ"
+  },
+  "Shloime Cohen|V'amartem": {
+    "artist": "Shloime Cohen",
+    "track": "V'amartem",
+    "album": "Mareh Cohen",
+    "video_id": "vXyazUdkws0",
+    "url": "https://www.youtube.com/watch?v=vXyazUdkws0"
+  },
+  "Shloime Cohen|Intro Mareh Cohen": {
+    "artist": "Shloime Cohen",
+    "track": "Intro Mareh Cohen",
+    "album": "Mareh Cohen",
+    "video_id": "uVFs2leqndU",
+    "url": "https://www.youtube.com/watch?v=uVFs2leqndU"
+  },
+  "Shloime Cohen|Mareh Cohen": {
+    "artist": "Shloime Cohen",
+    "track": "Mareh Cohen",
+    "album": "Mareh Cohen",
+    "video_id": "gjXiPTekgMU",
+    "url": "https://www.youtube.com/watch?v=gjXiPTekgMU"
+  },
+  "Shloime Cohen|Ashreichem": {
+    "artist": "Shloime Cohen",
+    "track": "Ashreichem",
+    "album": "Mareh Cohen",
+    "video_id": "afJKr_Muo1A",
+    "url": "https://www.youtube.com/watch?v=afJKr_Muo1A"
+  },
+  "Shloime Cohen|Leavdecha": null,
+  "Shloime Cohen|Hevel Haveilim": null,
+  "Shloime Cohen|Ani Ma'amin": {
+    "artist": "Shloime Cohen",
+    "track": "Ani Ma'amin",
+    "album": "Mareh Cohen",
+    "video_id": "NHNbeK_7ZVY",
+    "url": "https://www.youtube.com/watch?v=NHNbeK_7ZVY"
+  },
+  "Shloime Cohen|Ma Ashiv": {
+    "artist": "Shloime Cohen",
+    "track": "Ma Ashiv",
+    "album": "Mareh Cohen",
+    "video_id": "zH4jhpeOp5E",
+    "url": "https://www.youtube.com/watch?v=zH4jhpeOp5E"
+  },
+  "Shloime Cohen|Vezakeini": {
+    "artist": "Shloime Cohen",
+    "track": "Vezakeini",
+    "album": "Mareh Cohen",
+    "video_id": "4l3UiAYzM4c",
+    "url": "https://www.youtube.com/watch?v=4l3UiAYzM4c"
+  },
+  "Shloime Cohen|Psach Li Et Hashar": null,
+  "Shlomo Katz|Asher Bara": {
+    "artist": "Shlomo Katz",
+    "track": "Asher Bara",
+    "album": "Biglal Avos",
+    "video_id": "ldMaLfF7stU",
+    "url": "https://www.youtube.com/watch?v=ldMaLfF7stU"
+  },
+  "Shlomo Katz|Koli": {
+    "artist": "Shlomo Katz",
+    "track": "Koli",
+    "album": "Biglal Avos",
+    "video_id": "0yxKB7lNL3U",
+    "url": "https://www.youtube.com/watch?v=0yxKB7lNL3U"
+  },
+  "Shlomo Katz|Hineh": {
+    "artist": "Shlomo Katz",
+    "track": "Hineh",
+    "album": "Biglal Avos",
+    "video_id": "OtjVFb3GTHk",
+    "url": "https://www.youtube.com/watch?v=OtjVFb3GTHk"
+  },
+  "Shlomo Katz|Haisa": {
+    "artist": "Shlomo Katz",
+    "track": "Haisa",
+    "album": "Biglal Avos",
+    "video_id": "O9UkNaWJS0s",
+    "url": "https://www.youtube.com/watch?v=O9UkNaWJS0s"
+  },
+  "Shlomo Katz|Yedid Nefesh": {
+    "artist": "Shlomo Katz",
+    "track": "Yedid Nefesh",
+    "album": "Biglal Avos",
+    "video_id": "eiLIFPfHyOU",
+    "url": "https://www.youtube.com/watch?v=eiLIFPfHyOU"
+  },
+  "Shlomo Katz|Shuvi Nafshi": {
+    "artist": "Shlomo Katz",
+    "track": "Shuvi Nafshi",
+    "album": "Biglal Avos",
+    "video_id": "vQ30RhwhVGI",
+    "url": "https://www.youtube.com/watch?v=vQ30RhwhVGI"
+  },
+  "Shlomo Katz|Chemdas Yomim": {
+    "artist": "Shlomo Katz",
+    "track": "Chemdas Yomim",
+    "album": "Biglal Avos",
+    "video_id": "CevSopKBTo8",
+    "url": "https://www.youtube.com/watch?v=CevSopKBTo8"
+  },
+  "Shlomo Katz|Ki V'simcha": {
+    "artist": "Shlomo Katz",
+    "track": "Ki V'simcha",
+    "album": "Biglal Avos",
+    "video_id": "QgB0dXpYCm4",
+    "url": "https://www.youtube.com/watch?v=QgB0dXpYCm4"
+  },
+  "Shloime Cohen|Bakesh": {
+    "artist": "Shloime Cohen",
+    "track": "Bakesh",
+    "album": "Bakesh",
+    "video_id": "1Vc-jZnjTlg",
+    "url": "https://www.youtube.com/watch?v=1Vc-jZnjTlg"
+  },
+  "Shloime Cohen|Da Lecho Bni": {
+    "artist": "Shloime Cohen",
+    "track": "Da Lecho Bni",
+    "album": "Da Lecho Bni",
+    "video_id": "joEu2B9-S4g",
+    "url": "https://www.youtube.com/watch?v=joEu2B9-S4g"
+  },
+  "Shloime Cohen|V'Hayu Einai": {
+    "artist": "Shloime Cohen",
+    "track": "V'Hayu Einai",
+    "album": "V'Hayu Einai",
+    "video_id": "Vo4zzBljSXw",
+    "url": "https://www.youtube.com/watch?v=Vo4zzBljSXw"
+  },
+  "Shloime Cohen|Kedai feat. Eli Klein": {
+    "artist": "Shloime Cohen",
+    "track": "Kedai feat. Eli Klein",
+    "album": "Kedai feat. Eli Klein",
+    "video_id": "dR1kAepR8-Q",
+    "url": "https://www.youtube.com/watch?v=dR1kAepR8-Q"
+  },
+  "Shloime Cohen|Rabi Shimon": {
+    "artist": "Shloime Cohen",
+    "track": "Rabi Shimon",
+    "album": "Rabi Shimon",
+    "video_id": "ky0OYOYVHXQ",
+    "url": "https://www.youtube.com/watch?v=ky0OYOYVHXQ"
+  },
+  "Yaakov Shwekey|Baruch Hashem It’s Shabbos": {
+    "artist": "Yaakov Shwekey",
+    "track": "Baruch Hashem It’s Shabbos",
+    "album": "Baruch Hashem It’s Shabbos",
+    "video_id": "YG0lbfGUpwU",
+    "url": "https://www.youtube.com/watch?v=YG0lbfGUpwU"
+  },
+  "Isaac & Rubenstein|Ashira L'Hashem": {
+    "artist": "Isaac & Rubenstein",
+    "track": "Ashira L'Hashem",
+    "album": "Ashira L'Hashem",
+    "video_id": "AW8oANcEs7c",
+    "url": "https://www.youtube.com/watch?v=AW8oANcEs7c"
+  },
+  "Isaac & Rubenstein|Ba Mashiach": {
+    "artist": "Isaac & Rubenstein",
+    "track": "Ba Mashiach",
+    "album": "Ba Mashiach",
+    "video_id": "8EK76yjaX8c",
+    "url": "https://www.youtube.com/watch?v=8EK76yjaX8c"
+  },
+  "Isaac & Rubenstein|Blue Skies": {
+    "artist": "Isaac & Rubenstein",
+    "track": "Blue Skies",
+    "album": "Blue Skies",
+    "video_id": "y0vsZxK4lMM",
+    "url": "https://www.youtube.com/watch?v=y0vsZxK4lMM"
+  },
+  "Isaac & Rubenstein|Odecha": {
+    "artist": "Isaac & Rubenstein",
+    "track": "Odecha",
+    "album": "Odecha",
+    "video_id": "AW8oANcEs7c",
+    "url": "https://www.youtube.com/watch?v=AW8oANcEs7c"
+  },
+  "Isaac & Rubenstein|Shomer Yisrael": {
+    "artist": "Isaac & Rubenstein",
+    "track": "Shomer Yisrael",
+    "album": "Shomer Yisrael",
+    "video_id": "fC6XFyMrXCE",
+    "url": "https://www.youtube.com/watch?v=fC6XFyMrXCE"
+  },
+  "Dudi Kalish|Al Eileh": {
+    "artist": "Dudi Kalish",
+    "track": "Al Eileh",
+    "album": "Vokalish",
+    "video_id": "nFr40NE3pa8",
+    "url": "https://www.youtube.com/watch?v=nFr40NE3pa8"
+  },
+  "Dudi Kalish|Niggun Amemi": {
+    "artist": "Dudi Kalish",
+    "track": "Niggun Amemi",
+    "album": "Vokalish",
+    "video_id": "IcETcYoIHPM",
+    "url": "https://www.youtube.com/watch?v=IcETcYoIHPM"
+  },
+  "Dudi Kalish|Niggun Habal Shem Tov": null,
+  "Dudi Kalish|Niggun Vizhnitz": {
+    "artist": "Dudi Kalish",
+    "track": "Niggun Vizhnitz",
+    "album": "Vokalish",
+    "video_id": "Jxd-P18Vv3g",
+    "url": "https://www.youtube.com/watch?v=Jxd-P18Vv3g"
+  },
+  "Dudi Kalish|Ani Mamin": {
+    "artist": "Dudi Kalish",
+    "track": "Ani Mamin",
+    "album": "Vokalish",
+    "video_id": "5eNb19tqDnE",
+    "url": "https://www.youtube.com/watch?v=5eNb19tqDnE"
+  },
+  "Dudi Kalish|Mimkomcha": {
+    "artist": "Dudi Kalish",
+    "track": "Mimkomcha",
+    "album": "Vokalish",
+    "video_id": "rihBZXYw2_0",
+    "url": "https://www.youtube.com/watch?v=rihBZXYw2_0"
+  },
+  "Dudi Kalish|Odeh": {
+    "artist": "Dudi Kalish",
+    "track": "Odeh",
+    "album": "Vokalish",
+    "video_id": "I_FcIkU0fqg",
+    "url": "https://www.youtube.com/watch?v=I_FcIkU0fqg"
+  },
+  "Dudi Kalish|Chabad Medley": {
+    "artist": "Dudi Kalish",
+    "track": "Chabad Medley",
+    "album": "Vokalish",
+    "video_id": "-z1qK3Symi8",
+    "url": "https://www.youtube.com/watch?v=-z1qK3Symi8"
+  },
+  "Dudi Kalish|Tefila Leani": {
+    "artist": "Dudi Kalish",
+    "track": "Tefila Leani",
+    "album": "Vokalish",
+    "video_id": "ixfm_0DpPB8",
+    "url": "https://www.youtube.com/watch?v=ixfm_0DpPB8"
+  },
+  "Dudi Kalish|Ovinu Ov Horachamon": {
+    "artist": "Dudi Kalish",
+    "track": "Ovinu Ov Horachamon",
+    "album": "Vokalish",
+    "video_id": "bwMWeWtK_Xs",
+    "url": "https://www.youtube.com/watch?v=bwMWeWtK_Xs"
+  },
+  "Dudi Kalish|Lomo Hashem": {
+    "artist": "Dudi Kalish",
+    "track": "Lomo Hashem",
+    "album": "Shema Yisroel - The Best of Pinky Weber",
+    "video_id": "Y0AJbpw9v0I",
+    "url": "https://www.youtube.com/watch?v=Y0AJbpw9v0I"
+  },
+  "Dudi Kalish|Eishes Chayil": {
+    "artist": "Dudi Kalish",
+    "track": "Eishes Chayil",
+    "album": "Shema Yisroel - The Best of Pinky Weber",
+    "video_id": "pqyWOsj4LXE",
+    "url": "https://www.youtube.com/watch?v=pqyWOsj4LXE"
+  },
+  "Dudi Kalish|Ovinu Malkeinu": {
+    "artist": "Dudi Kalish",
+    "track": "Ovinu Malkeinu",
+    "album": "Shema Yisroel - The Best of Pinky Weber",
+    "video_id": "oQ-bFfLJWng",
+    "url": "https://www.youtube.com/watch?v=oQ-bFfLJWng"
+  },
+  "Dudi Kalish|Tehi Yodcho": null,
+  "Dudi Kalish|Vesivneihu Meheira": null,
+  "Dudi Kalish|Vesneinu Hayom": null,
+  "Dudi Kalish|Vosik": null,
+  "Dudi Kalish|Peduscha Le'amcho": null,
+  "Dudi Kalish|Shema Yisroel": {
+    "artist": "Dudi Kalish",
+    "track": "Shema Yisroel",
+    "album": "Shema Yisroel - The Best of Pinky Weber",
+    "video_id": "GRw1HTDsVEw",
+    "url": "https://www.youtube.com/watch?v=GRw1HTDsVEw"
+  },
+  "Dudi Kalish|Kol Berama": {
+    "artist": "Dudi Kalish",
+    "track": "Kol Berama",
+    "album": "Shema Yisroel - The Best of Pinky Weber",
+    "video_id": "kRNRjuNucJQ",
+    "url": "https://www.youtube.com/watch?v=kRNRjuNucJQ"
+  },
+  "Dudi Kalish|Ein Aroch": {
+    "artist": "Dudi Kalish",
+    "track": "Ein Aroch",
+    "album": "Shema Yisroel - The Best of Pinky Weber",
+    "video_id": "loK60P_M_4U",
+    "url": "https://www.youtube.com/watch?v=loK60P_M_4U"
+  },
+  "Dudi Kalish|Shabbos Kodesh": {
+    "artist": "Dudi Kalish",
+    "track": "Shabbos Kodesh",
+    "album": "Likras Shabbos",
+    "video_id": "V1L5sAdDgng",
+    "url": "https://www.youtube.com/watch?v=V1L5sAdDgng"
+  },
+  "Dudi Kalish|Yedid Nefesh": {
+    "artist": "Dudi Kalish",
+    "track": "Yedid Nefesh",
+    "album": "Likras Shabbos",
+    "video_id": "P5SfbXScJTI",
+    "url": "https://www.youtube.com/watch?v=P5SfbXScJTI"
+  },
+  "Dudi Kalish|Moshe Veaharon": {
+    "artist": "Dudi Kalish",
+    "track": "Moshe Veaharon",
+    "album": "Likras Shabbos",
+    "video_id": "te4Lmux6GeE",
+    "url": "https://www.youtube.com/watch?v=te4Lmux6GeE"
+  },
+  "Dudi Kalish|Lecha Dodi Medley": {
+    "artist": "Dudi Kalish",
+    "track": "Lecha Dodi Medley",
+    "album": "Likras Shabbos",
+    "video_id": "p0xBk_BGod8",
+    "url": "https://www.youtube.com/watch?v=p0xBk_BGod8"
+  },
+  "Dudi Kalish|Raza D'Shabbos": {
+    "artist": "Dudi Kalish",
+    "track": "Raza D'Shabbos",
+    "album": "Likras Shabbos",
+    "video_id": "T1PLCW6csUE",
+    "url": "https://www.youtube.com/watch?v=T1PLCW6csUE"
+  },
+  "Dudi Kalish|Shalom Aleichem": {
+    "artist": "Dudi Kalish",
+    "track": "Shalom Aleichem",
+    "album": "Likras Shabbos",
+    "video_id": "axKo4MCL5Fo",
+    "url": "https://www.youtube.com/watch?v=axKo4MCL5Fo"
+  },
+  "Dudi Kalish|Meshoch Chasdecha": {
+    "artist": "Dudi Kalish",
+    "track": "Meshoch Chasdecha",
+    "album": "Likras Shabbos",
+    "video_id": "HLIwuTlZp74",
+    "url": "https://www.youtube.com/watch?v=HLIwuTlZp74"
+  },
+  "Dudi Kalish|Shomrei Mitzvoseha": null
 }
