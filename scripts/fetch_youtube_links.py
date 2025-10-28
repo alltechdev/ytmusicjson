@@ -148,7 +148,7 @@ def search_youtube(artist: str, track_name: str, attempts: int = SEARCH_MAX_ATTE
             if attempt < attempts - 1:
                 backoff = RETRY_BACKOFF_BASE * (attempt + 1)
                 print(f"  Unexpected error on '{query}' ({e}). Retrying in {backoff}s...", file=sys.stderr)
-                time.sleep(backoff + random.uniform(0.5, 2.0))
+                time.sleep(backoff + random.uniform(0.05, 0.3))
                 continue
             print(f"  Error searching for '{query}': {e}", file=sys.stderr)
             return None
