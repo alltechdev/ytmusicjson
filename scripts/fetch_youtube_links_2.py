@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Fast YouTube Link Fetcher with Debug + Hebrew Support
-=====================================================
+Fast YouTube Link Fetcher (Topic-Aware + Hebrew + Logging)
+==========================================================
 
 Fetch YouTube video IDs for songs in metadata.json and write results to youtube-links-2.json.
 
-Key features:
-- Concurrent yt-dlp searches (3 threads max)
-- Lower randomized delay (0.15s base)
-- Fewer Git commits (every 3k)
-- Lenient matching with accent/apostrophe tolerance
-- Hebrew / non-Latin support (no stripping Unicode)
-- Full debug logging for skipped matches
+Features:
+- Concurrent yt-dlp searches (3 threads)
+- Low randomized delay (0.15s base)
+- Hebrew + Unicode support (keeps non-Latin characters)
+- Auto-accepts "Topic" and "Official" channels
+- Rejects karaoke, covers, remixes unless metadata includes them
+- Logs all unfound tracks to missing_tracks.txt
 """
 
 import json
@@ -34,17 +34,17 @@ sys.stderr.reconfigure(line_buffering=True)
 # Configuration
 # -----------------------
 OUTPUT_FILE = "youtube-links-2.json"
+MISSING_LOG_FILE = "missing_tracks.txt"
 BATCH_SIZE = 3000
 DELAY_BETWEEN_SEARCHES = 0.15
 MAX_THREADS = 3
 MAX_TRACKS_PER_RUN = 3000
 SEARCH_MAX_ATTEMPTS = 1
-DEBUG_LOGGING = True  # <— turn on detailed debug printing
 RETRY_BACKOFF_BASE = 6
 MAX_NULL_RETRIES_PER_RUN = 2000
 NULL_RETRY_RESULTS = 10
 
-# optional fallback overrides for known misses
+# Known manual overrides (force-accept)
 OVERRIDE = {
     ("Simcha Leiner", "Harbei Nachat"): True,
 }
@@ -52,6 +52,11 @@ OVERRIDE = {
 # -----------------------
 # Helpers
 # -----------------------
+def log_missing(artist: str, track: str):
+    """Append missing track to log file."""
+    with open(MISSING_LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(f"{artist} - {track}\n")
+
 def get_album_title(metadata, artist: str, track_name: str) -> str:
     for a in metadata:
         if a.get("artist", "") != artist:
@@ -66,16 +71,14 @@ def get_album_title(metadata, artist: str, track_name: str) -> str:
 # Matching / Validation
 # -----------------------
 def validate_match(artist: str, track_name: str, video_title: str, video_channel: str = "") -> bool:
-    """
-    Lenient but safer validator with Hebrew/non-Latin support and debug logging.
-    """
+    """Lenient validator with Hebrew/non-Latin support and Topic/Official handling."""
 
     def normalize(text):
         text = text.lower()
         text = unicodedata.normalize("NFKC", text)
-        # keep Hebrew, Arabic, etc. Only clean punctuation.
         text = re.sub(r"[’'`]", "", text)
-        text = re.sub(r"[^\w\s\u0590-\u05FF\u0600-\u06FF]", " ", text)  # keep Hebrew/Arabic
+        # Keep Hebrew/Arabic
+        text = re.sub(r"[^\w\s\u0590-\u05FF\u0600-\u06FF]", " ", text)
         return " ".join(text.split())
 
     vt = normalize(video_title)
@@ -91,45 +94,32 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
     artist_hits = sum(1 for w in artist_words if w in video_text)
     track_hits = sum(1 for w in track_words if w in vt)
 
-    if DEBUG_LOGGING:
-        print(f"\n[DEBUG] Checking match:")
-        print(f"  Artist: {artist}")
-        print(f"  Track:  {track_name}")
-        print(f"  Video:  {video_title}")
-        print(f"  Channel:{video_channel}")
-        print(f"  Hits: artist={artist_hits}, track={track_hits}")
+    # Accept Topic/Official channels even if artist not in title
+    if ("topic" in vc or "official" in vc) and track_hits >= 1:
+        return True
 
-    # basic overlap
+    # Basic overlap
     if not (track_hits >= 1 and (artist_hits >= 1 or any(w in vc for w in artist_words))):
         if not (track_hits >= max(1, int(len(track_words) * 0.4))):
-            if DEBUG_LOGGING:
-                print("  → Reject: insufficient overlap")
             return False
 
-    # noise words
+    # Reject bad words (unless metadata includes them)
     BAD_WORDS = ["karaoke", "cover", "mix", "remix", "medley", "top", "compilation"]
     tr_words = set(tr.split())
     for w in BAD_WORDS:
         if w in vt and w not in tr_words:
-            if DEBUG_LOGGING:
-                print(f"  → Reject: bad word '{w}' in title")
             return False
 
-    # artist–channel consistency
+    # Artist–channel consistency
     if artist_hits < 1 and all(w not in vc for w in artist_words):
-        if DEBUG_LOGGING:
-            print("  → Reject: artist not in title or channel")
-        return False
+        if "topic" not in vc and "official" not in vc:
+            return False
 
-    # fuzzy string ratio
+    # Fuzzy match for robustness
     similarity = difflib.SequenceMatcher(None, tr, vt).ratio()
     if similarity < 0.35 and track_hits < 2:
-        if DEBUG_LOGGING:
-            print(f"  → Reject: fuzzy ratio too low ({similarity:.2f})")
         return False
 
-    if DEBUG_LOGGING:
-        print("  ✓ Accepted match\n")
     return True
 
 
@@ -154,8 +144,8 @@ def _yt_search(query: str, results: int = 5):
 
 def search_youtube(artist: str, track_name: str) -> Optional[str]:
     query = f"{artist} {track_name} official audio"
+
     if (artist, track_name) in OVERRIDE:
-        print(f"[OVERRIDE] Forcing first result for {artist} - {track_name}")
         try:
             result = _yt_search(query, results=1)
             if result and "entries" in result and result["entries"]:
@@ -174,8 +164,6 @@ def search_youtube(artist: str, track_name: str) -> Optional[str]:
             vid = video.get("id")
             title = video.get("title", "")
             channel = video.get("uploader", "") or video.get("channel", "")
-            if DEBUG_LOGGING:
-                print(f"\n[DEBUG] Candidate: {title} | {channel}")
             if vid and validate_match(artist, track_name, title, channel):
                 return vid
         return None
@@ -234,6 +222,7 @@ def process_track(artist, track_name, album_title):
         return artist, track_name, album_title, vid
     else:
         print(f"✗ Not found: {artist} - {track_name}")
+        log_missing(artist, track_name)
         return artist, track_name, album_title, None
 
 
@@ -329,6 +318,7 @@ def main():
             save_and_commit(youtube_links, f"Cleanup: removed {removed} nulls (final)")
 
         print(f"\n✓ Done — {new_links} new links, {len(youtube_links)} total.")
+        print(f"Missing tracks logged to: {MISSING_LOG_FILE}")
 
     except KeyboardInterrupt:
         print("\nInterrupted — saving progress...")
