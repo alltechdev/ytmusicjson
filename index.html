@@ -333,7 +333,7 @@
         const date = item.publication_date ? new Date(item.publication_date).toLocaleDateString() : 'Unknown';
         const trackCount = item.tracks?.length || 0;
 
-        const tracksHtml = item.tracks?.slice(0, 10).map(track => {
+        const tracksHtml = item.tracks?.map(track => {
           const duration = formatDuration(track.duration);
 
           // Check if we have a validated YouTube link for this track
@@ -368,7 +368,7 @@
           `;
         }).join('') || '';
 
-        const moreTracksHtml = trackCount > 10 ? `<div class="track-item"><em>...and ${trackCount - 10} more tracks</em></div>` : '';
+        const moreTracksHtml = '';
 
         return `
           <div class="result-card">
