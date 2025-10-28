@@ -21,6 +21,7 @@ import subprocess
 from typing import Optional
 import yt_dlp
 from concurrent.futures import ThreadPoolExecutor, as_completed  # <— added for 3× parallelism
+from concurrent.futures import ThreadPoolExecutor, as_completed  # <— added for 3× parallelism
 import sys
 sys.stdout.reconfigure(line_buffering=True)
 sys.stderr.reconfigure(line_buffering=True)
