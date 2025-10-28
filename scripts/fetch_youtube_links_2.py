@@ -31,10 +31,10 @@ sys.stderr.reconfigure(line_buffering=True)
 # Configuration
 # -----------------------
 OUTPUT_FILE = "youtube-links-2.json"
-BATCH_SIZE = 3000
+BATCH_SIZE = 5000
 DELAY_BETWEEN_SEARCHES = 0.15
 MAX_THREADS = 3
-MAX_TRACKS_PER_RUN = 3000
+MAX_TRACKS_PER_RUN = 10000
 SEARCH_MAX_ATTEMPTS = 1
 RETRY_BACKOFF_BASE = 6
 MAX_NULL_RETRIES_PER_RUN = 2000
