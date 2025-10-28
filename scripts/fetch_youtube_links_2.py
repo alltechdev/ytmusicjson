@@ -58,7 +58,15 @@ def get_album_title(metadata, artist: str, track_name: str) -> str:
 # Matching / Validation
 # -----------------------
 def validate_match(artist: str, track_name: str, video_title: str, video_channel: str = "") -> bool:
-    """Lenient validator tolerant of apostrophes, accents, and partial word overlap."""
+    """
+    Lenient but safer validator:
+    - Ignores apostrophes, accents, and punctuation
+    - Allows partial word overlap (40%)
+    - Rejects karaoke / cover / medley / compilation unless in original track
+    - Requires some artist match in title or channel
+    """
+
+    import unicodedata, re, difflib
 
     def normalize(text):
         text = text.lower()
@@ -79,19 +87,31 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
     video_text = f"{vt} {vc}"
 
     artist_hits = sum(1 for w in artist_words if w in video_text)
-    track_hits = sum(1 for w in track_words if w in video_text)
+    track_hits = sum(1 for w in track_words if w in vt)
 
-    if track_hits >= 1 and artist_hits >= 1:
-        return True
-    if track_hits >= max(1, int(len(track_words) * 0.4)):
-        return True
-    if artist_hits >= max(1, int(len(artist_words) * 0.4)):
-        return True
-    if any(w in vc for w in artist_words):
-        return True
-    if tr in vt:
-        return True
-    return False
+    # 1️⃣ Basic overlap conditions
+    if not (track_hits >= 1 and (artist_hits >= 1 or any(w in vc for w in artist_words))):
+        # allow partial track overlap fallback
+        if not (track_hits >= max(1, int(len(track_words) * 0.4))):
+            return False
+
+    # 2️⃣ Prevent false positives (karaoke, covers, etc.) unless metadata includes them
+    BAD_WORDS = ["karaoke", "cover", "mix", "remix", "medley", "top", "compilation"]
+    tr_words = set(tr.split())
+    for w in BAD_WORDS:
+        if w in vt and w not in tr_words:
+            return False
+
+    # 3️⃣ Artist–channel consistency: reject if artist absent from both title & channel
+    if artist_hits < 1 and all(w not in vc for w in artist_words):
+        return False
+
+    # 4️⃣ Fuzzy string distance safeguard (avoid unrelated short matches)
+    similarity = difflib.SequenceMatcher(None, tr, vt).ratio()
+    if similarity < 0.35 and track_hits < 2:
+        return False
+
+    return True
 
 
 # -----------------------
