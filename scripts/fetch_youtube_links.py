@@ -28,7 +28,7 @@ sys.stderr.reconfigure(line_buffering=True)
 # Configuration
 # -----------------------
 BATCH_SIZE = 3000
-DELAY_BETWEEN_SEARCHES = 0.3
+DELAY_BETWEEN_SEARCHES = 0.15
 MAX_TRACKS_PER_RUN = 6000
 
 # Retry behavior
