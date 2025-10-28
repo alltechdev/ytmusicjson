@@ -24,9 +24,9 @@ import yt_dlp
 # -----------------------
 # Configuration
 # -----------------------
-BATCH_SIZE = 1000                # Commit every 1000 updates
+BATCH_SIZE = 500                # Commit every 1000 updates
 DELAY_BETWEEN_SEARCHES = 0.5     # Base delay (seconds) between searches
-MAX_TRACKS_PER_RUN = 10000       # Hard cap on total operations per run (new + retries)
+MAX_TRACKS_PER_RUN = 1000       # Hard cap on total operations per run (new + retries)
 
 # Retry behavior
 SEARCH_MAX_ATTEMPTS = 2          # 1 immediate try + 1 retry on transient errors (403/429/timeouts)
