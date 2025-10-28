@@ -20,30 +20,31 @@ import random
 import subprocess
 from typing import Optional
 import yt_dlp
+from concurrent.futures import ThreadPoolExecutor, as_completed  # <— added for 3× parallelism
 import sys
 sys.stdout.reconfigure(line_buffering=True)
 sys.stderr.reconfigure(line_buffering=True)
 # -----------------------
 # Configuration
 # -----------------------
-BATCH_SIZE = 3000                # Commit every 1000 updates
-DELAY_BETWEEN_SEARCHES = 0.3     # Base delay (seconds) between searches
-MAX_TRACKS_PER_RUN = 6000       # Hard cap on total operations per run (new + retries)
+BATCH_SIZE = 3000
+DELAY_BETWEEN_SEARCHES = 0.3
+MAX_TRACKS_PER_RUN = 6000
 
 # Retry behavior
-SEARCH_MAX_ATTEMPTS = 2          # 1 immediate try + 1 retry on transient errors (403/429/timeouts)
-RETRY_BACKOFF_BASE = 7           # seconds; backoff grows linearly per attempt
+SEARCH_MAX_ATTEMPTS = 2
+RETRY_BACKOFF_BASE = 7
 
-# Null-retry behavior (after all tracks are "present")
-MAX_NULL_RETRIES_PER_RUN = 2000  # extra attempts on previously-null entries per run
-NULL_RETRY_RESULTS = 10          # widen search result set during null-retry pass
+# Null-retry behavior
+MAX_NULL_RETRIES_PER_RUN = 2000
+NULL_RETRY_RESULTS = 10
+MAX_THREADS = 3  # <— run up to 3 yt-dlp searches in parallel
 
 
 # -----------------------
 # Helpers
 # -----------------------
 def get_album_title(metadata, artist: str, track_name: str) -> str:
-    """Find album title from metadata for (artist, track)."""
     for a in metadata:
         if a.get('artist', '') != artist:
             continue
@@ -58,9 +59,6 @@ def get_album_title(metadata, artist: str, track_name: str) -> str:
 # Matching / Validation
 # -----------------------
 def validate_match(artist: str, track_name: str, video_title: str, video_channel: str = "") -> bool:
-    """
-    Very lenient validator. Prefer false positives over misses.
-    """
     video_title_lower = video_title.lower()
     video_channel_lower = (video_channel or "").lower()
     artist_lower = artist.lower()
@@ -75,7 +73,6 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
     artist_clean = clean(artist_lower)
     track_clean = clean(track_lower)
 
-    # Strip featured artists variants
     track_clean_no_feat = re.split(r'\b(ft|feat|featuring|with|and)\b', track_clean)[0].strip()
 
     artist_words = [w for w in artist_clean.split() if len(w) > 1]
@@ -102,28 +99,20 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
 # YouTube Search
 # -----------------------
 def _yt_search(query: str, results: int = 5):
-    """Run a yt-dlp search and return entries (flat)."""
     ydl_opts = {
         'quiet': True,
         'no_warnings': True,
         'extract_flat': True,
         'default_search': f'ytsearch{results}',
         'geo_bypass': True,
-        'http_headers': {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-        },
+        'http_headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'},
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         return ydl.extract_info(f"ytsearch{results}:{query}", download=False)
 
 
 def search_youtube(artist: str, track_name: str, attempts: int = SEARCH_MAX_ATTEMPTS, widen_on_retry: bool = False) -> Optional[str]:
-    """
-    Search YouTube and return a video_id, with retry/backoff on transient errors.
-    If widen_on_retry = True, second attempt fetches more results to increase odds.
-    """
     query = f"{artist} {track_name}"
-
     for attempt in range(attempts):
         results_count = 5 if (attempt == 0 or not widen_on_retry) else NULL_RETRY_RESULTS
         try:
@@ -137,8 +126,7 @@ def search_youtube(artist: str, track_name: str, attempts: int = SEARCH_MAX_ATTE
                     video_channel = video.get('uploader', '') or video.get('channel', '') or ''
                     if video_id and validate_match(artist, track_name, video_title, video_channel):
                         return video_id
-                return None  # no validated match found
-
+                return None
         except yt_dlp.utils.DownloadError as e:
             msg = str(e)
             transient = ('403' in msg) or ('429' in msg) or ('timed out' in msg.lower())
@@ -157,7 +145,6 @@ def search_youtube(artist: str, track_name: str, attempts: int = SEARCH_MAX_ATTE
                 continue
             print(f"  Error searching for '{query}': {e}", file=sys.stderr)
             return None
-
     return None
 
 
@@ -165,7 +152,6 @@ def search_youtube(artist: str, track_name: str, attempts: int = SEARCH_MAX_ATTE
 # Git save/commit
 # -----------------------
 def save_and_commit(youtube_links, message):
-    """Save youtube-links.json and commit to git (if git repo present)"""
     print(f"\nSaving youtube-links.json...")
     with open('youtube-links.json', 'w', encoding='utf-8') as f:
         json.dump(youtube_links, f, indent=2, ensure_ascii=False)
@@ -187,10 +173,9 @@ def save_and_commit(youtube_links, message):
 
 
 # -----------------------
-# Cleanup: remove nulls
+# Cleanup
 # -----------------------
 def cleanup_nulls(youtube_links: dict) -> int:
-    """Delete any entries with value None. Returns count removed."""
     null_keys = [k for k, v in youtube_links.items() if v is None]
     for k in null_keys:
         del youtube_links[k]
@@ -223,7 +208,7 @@ def main():
             youtube_links = {}
 
     total_tracks = sum(len(album.get('tracks', [])) for album in metadata)
-    existing_entries = len(youtube_links)  # includes any pre-existing nulls
+    existing_entries = len(youtube_links)
     remaining_new = max(0, total_tracks - existing_entries)
 
     print(f"Total tracks in metadata: {total_tracks}")
@@ -235,129 +220,75 @@ def main():
     new_links = 0
     batch_count = 0
 
-    # -----------------------
-    # Pass 1: process NEW tracks (not yet in youtube_links)
-    # -----------------------
-    for album in metadata:
-        artist = album.get('artist', '')
-        album_title = album.get('title', '')
-        tracks = album.get('tracks', []) or []
+    with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
+        futures = {}
 
-        if not artist or not tracks:
-            continue
+        for album in metadata:
+            artist = album.get('artist', '')
+            album_title = album.get('title', '')
+            tracks = album.get('tracks', []) or []
 
-        for track in tracks:
-            track_name = track.get('name', '')
-            if not track_name:
+            if not artist or not tracks:
                 continue
 
-            key = f"{artist}|{track_name}"
+            for track in tracks:
+                track_name = track.get('name', '')
+                if not track_name:
+                    continue
 
-            # Skip if already present (even if null; we'll handle in pass 2)
-            if key in youtube_links:
-                continue
+                key = f"{artist}|{track_name}"
+                if key in youtube_links:
+                    continue
 
-            if processed >= MAX_TRACKS_PER_RUN:
-                print(f"\nReached limit of {MAX_TRACKS_PER_RUN} operations for this run.")
-                save_and_commit(youtube_links, f"Auto-update: {new_links} new YouTube links ({existing_entries + processed} total entries before cleanup)")
-                # Final cleanup: remove nulls
-                removed = cleanup_nulls(youtube_links)
-                if removed:
-                    save_and_commit(youtube_links, f"Cleanup: removed {removed} null entries (post-limit)")
-                print(f"\n✓ Session complete! Processed {processed} new tracks")
-                return
+                if processed >= MAX_TRACKS_PER_RUN:
+                    print(f"\nReached limit of {MAX_TRACKS_PER_RUN} operations for this run.")
+                    save_and_commit(youtube_links, f"Auto-update: {new_links} new YouTube links")
+                    removed = cleanup_nulls(youtube_links)
+                    if removed:
+                        save_and_commit(youtube_links, f"Cleanup: removed {removed} null entries")
+                    print(f"\n✓ Session complete! Processed {processed} new tracks")
+                    return
 
-            video_id = search_youtube(artist, track_name, attempts=SEARCH_MAX_ATTEMPTS, widen_on_retry=False)
+                # Submit up to 3 concurrent yt-dlp searches
+                future = executor.submit(search_youtube, artist, track_name)
+                futures[future] = (artist, track_name, album_title)
+                processed += 1
 
-            if video_id:
-                youtube_links[key] = {
-                    'artist': artist,
-                    'track': track_name,
-                    'album': album_title,
-                    'video_id': video_id,
-                    'url': f"https://www.youtube.com/watch?v={video_id}"
-                }
-                new_links += 1
-                print(f"✓ Found: {artist} - {track_name} -> {video_id}")
-            else:
-                # Temporarily record None so pass 2 can retry this run
-                youtube_links[key] = None
-                print(f"✗ Not found: {artist} - {track_name}")
+                # Throttle a little to avoid API flags
+                time.sleep(DELAY_BETWEEN_SEARCHES + random.uniform(0.2, 0.8))
 
-            processed += 1
+                if len(futures) >= MAX_THREADS:
+                    done, _ = wait(futures, return_when='FIRST_COMPLETED')
+                    for fut in done:
+                        artist, track_name, album_title = futures.pop(fut)
+                        video_id = fut.result()
+                        if video_id:
+                            youtube_links[f"{artist}|{track_name}"] = {
+                                'artist': artist,
+                                'track': track_name,
+                                'album': album_title,
+                                'video_id': video_id,
+                                'url': f"https://www.youtube.com/watch?v={video_id}"
+                            }
+                            new_links += 1
+                            print(f"✓ Found: {artist} - {track_name} -> {video_id}")
+                        else:
+                            youtube_links[f"{artist}|{track_name}"] = None
+                            print(f"✗ Not found: {artist} - {track_name}")
 
-            # Jittered delay to reduce anti-bot triggers
-            time.sleep(DELAY_BETWEEN_SEARCHES + random.uniform(0.2, 1.2))
+                        if processed % BATCH_SIZE == 0:
+                            batch_count += 1
+                            save_and_commit(youtube_links, f"Batch {batch_count}: {new_links} new links")
+                            print(f"\n--- Batch {batch_count} committed ---\n")
 
-            if processed % BATCH_SIZE == 0:
-                batch_count += 1
-                save_and_commit(youtube_links, f"Batch {batch_count}: {new_links} new links ({existing_entries + processed} total entries before cleanup)")
-                print(f"\n--- Batch {batch_count} committed ({processed}/{MAX_TRACKS_PER_RUN} processed in this run) ---\n")
-
-    # Commit after pass 1
-    if processed > 0:
-        save_and_commit(youtube_links, f"Auto-update: {new_links} new YouTube links ({existing_entries + processed} total entries before cleanup)")
-
-    # -----------------------
-    # Pass 2: retry NULL entries (only after all tracks are present)
-    # -----------------------
-    null_keys = [k for k, v in youtube_links.items() if v is None]
-    if null_keys:
-        if len(youtube_links) >= total_tracks:
-            remaining_budget = max(0, MAX_TRACKS_PER_RUN - processed)
-            to_retry = min(len(null_keys), remaining_budget, MAX_NULL_RETRIES_PER_RUN)
-            if to_retry > 0:
-                print(f"\nStarting null-retry pass: attempting {to_retry} of {len(null_keys)} null entries...")
-                retried = 0
-                fixed = 0
-                retry_batch = 0
-
-                for key in null_keys[:to_retry]:
-                    artist, track_name = key.split('|', 1)
-                    album_title = get_album_title(metadata, artist, track_name)
-                    video_id = search_youtube(artist, track_name, attempts=SEARCH_MAX_ATTEMPTS, widen_on_retry=True)
-                    retried += 1
-                    processed += 1
-
-                    if video_id:
-                        youtube_links[key] = {
-                            'artist': artist,
-                            'track': track_name,
-                            'album': album_title,
-                            'video_id': video_id,
-                            'url': f"https://www.youtube.com/watch?v={video_id}"
-                        }
-                        fixed += 1
-                        print(f"✓ Fixed null: {artist} - {track_name} -> {video_id}")
-                    else:
-                        print(f"✗ Still null: {artist} - {track_name}")
-
-                    time.sleep(DELAY_BETWEEN_SEARCHES + random.uniform(0.2, 1.4))
-
-                    if retried % BATCH_SIZE == 0:
-                        retry_batch += 1
-                        save_and_commit(youtube_links, f"Null-retry batch {retry_batch}: fixed {fixed} (retried {retried}) before cleanup")
-                        print(f"\n--- Null-retry batch {retry_batch} committed (fixed {fixed} / retried {retried}) ---\n")
-
-                save_and_commit(youtube_links, f"Null-retry pass complete: fixed {fixed}, retried {retried} (before cleanup)")
-                print(f"\n✓ Null-retry done: fixed {fixed} of {retried} attempted nulls.")
-            else:
-                print("\nNo remaining run budget for null-retry pass.")
-        else:
-            print("\nSkipping null-retry pass this run (still adding new tracks).")
-
-    # -----------------------
-    # Final cleanup: DELETE any remaining nulls
-    # -----------------------
+    save_and_commit(youtube_links, f"Auto-update complete: {new_links} new links")
     removed = cleanup_nulls(youtube_links)
     if removed:
-        save_and_commit(youtube_links, f"Cleanup: removed {removed} null entries (final)")
+        save_and_commit(youtube_links, f"Cleanup: removed {removed} null entries")
 
-    # Summary
     total_non_null = sum(1 for v in youtube_links.values() if v is not None)
     print(f"\n✓ Complete! New links this run: {new_links}")
-    print(f"Total entries in youtube-links.json: {len(youtube_links)} (all non-null)")
-    print(f"Total non-null links: {total_non_null}")
+    print(f"Total entries: {len(youtube_links)} | Non-null: {total_non_null}")
 
 
 if __name__ == '__main__':
