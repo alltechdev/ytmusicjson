@@ -20,7 +20,9 @@ import random
 import subprocess
 from typing import Optional
 import yt_dlp
-
+import sys
+sys.stdout.reconfigure(line_buffering=True)
+sys.stderr.reconfigure(line_buffering=True)
 # -----------------------
 # Configuration
 # -----------------------
