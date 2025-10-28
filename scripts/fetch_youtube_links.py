@@ -26,9 +26,9 @@ sys.stderr.reconfigure(line_buffering=True)
 # -----------------------
 # Configuration
 # -----------------------
-BATCH_SIZE = 500                # Commit every 1000 updates
-DELAY_BETWEEN_SEARCHES = 0.5     # Base delay (seconds) between searches
-MAX_TRACKS_PER_RUN = 1000       # Hard cap on total operations per run (new + retries)
+BATCH_SIZE = 3000                # Commit every 1000 updates
+DELAY_BETWEEN_SEARCHES = 0.3     # Base delay (seconds) between searches
+MAX_TRACKS_PER_RUN = 6000       # Hard cap on total operations per run (new + retries)
 
 # Retry behavior
 SEARCH_MAX_ATTEMPTS = 2          # 1 immediate try + 1 retry on transient errors (403/429/timeouts)
