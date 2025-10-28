@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
-Fast YouTube Link Fetcher
-=========================
+Fast YouTube Link Fetcher with Debug + Hebrew Support
+=====================================================
 
-Fetch YouTube video IDs for songs in metadata.json, writing results to youtube-links-2.json.
+Fetch YouTube video IDs for songs in metadata.json and write results to youtube-links-2.json.
 
-Optimized for speed and safety:
+Key features:
 - Concurrent yt-dlp searches (3 threads max)
 - Lower randomized delay (0.15s base)
-- Fewer Git commits (every 10k)
-- Lenient title matching tolerant of apostrophes, accents, and spelling variance
+- Fewer Git commits (every 3k)
+- Lenient matching with accent/apostrophe tolerance
+- Hebrew / non-Latin support (no stripping Unicode)
+- Full debug logging for skipped matches
 """
 
 import json
@@ -23,6 +25,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import yt_dlp
 import unicodedata
 import re
+import difflib
 
 sys.stdout.reconfigure(line_buffering=True)
 sys.stderr.reconfigure(line_buffering=True)
@@ -31,15 +34,20 @@ sys.stderr.reconfigure(line_buffering=True)
 # Configuration
 # -----------------------
 OUTPUT_FILE = "youtube-links-2.json"
-BATCH_SIZE = 5000
+BATCH_SIZE = 3000
 DELAY_BETWEEN_SEARCHES = 0.15
 MAX_THREADS = 3
-MAX_TRACKS_PER_RUN = 10000
+MAX_TRACKS_PER_RUN = 3000
 SEARCH_MAX_ATTEMPTS = 1
+DEBUG_LOGGING = True  # <— turn on detailed debug printing
 RETRY_BACKOFF_BASE = 6
 MAX_NULL_RETRIES_PER_RUN = 2000
 NULL_RETRY_RESULTS = 10
 
+# optional fallback overrides for known misses
+OVERRIDE = {
+    ("Simcha Leiner", "Harbei Nachat"): True,
+}
 
 # -----------------------
 # Helpers
@@ -59,21 +67,15 @@ def get_album_title(metadata, artist: str, track_name: str) -> str:
 # -----------------------
 def validate_match(artist: str, track_name: str, video_title: str, video_channel: str = "") -> bool:
     """
-    Lenient but safer validator:
-    - Ignores apostrophes, accents, and punctuation
-    - Allows partial word overlap (40%)
-    - Rejects karaoke / cover / medley / compilation unless in original track
-    - Requires some artist match in title or channel
+    Lenient but safer validator with Hebrew/non-Latin support and debug logging.
     """
-
-    import unicodedata, re, difflib
 
     def normalize(text):
         text = text.lower()
-        text = unicodedata.normalize("NFKD", text)
-        text = "".join(c for c in text if not unicodedata.combining(c))
+        text = unicodedata.normalize("NFKC", text)
+        # keep Hebrew, Arabic, etc. Only clean punctuation.
         text = re.sub(r"[’'`]", "", text)
-        text = re.sub(r"[^\w\s]", " ", text)
+        text = re.sub(r"[^\w\s\u0590-\u05FF\u0600-\u06FF]", " ", text)  # keep Hebrew/Arabic
         return " ".join(text.split())
 
     vt = normalize(video_title)
@@ -89,28 +91,45 @@ def validate_match(artist: str, track_name: str, video_title: str, video_channel
     artist_hits = sum(1 for w in artist_words if w in video_text)
     track_hits = sum(1 for w in track_words if w in vt)
 
-    # 1️⃣ Basic overlap conditions
+    if DEBUG_LOGGING:
+        print(f"\n[DEBUG] Checking match:")
+        print(f"  Artist: {artist}")
+        print(f"  Track:  {track_name}")
+        print(f"  Video:  {video_title}")
+        print(f"  Channel:{video_channel}")
+        print(f"  Hits: artist={artist_hits}, track={track_hits}")
+
+    # basic overlap
     if not (track_hits >= 1 and (artist_hits >= 1 or any(w in vc for w in artist_words))):
-        # allow partial track overlap fallback
         if not (track_hits >= max(1, int(len(track_words) * 0.4))):
+            if DEBUG_LOGGING:
+                print("  → Reject: insufficient overlap")
             return False
 
-    # 2️⃣ Prevent false positives (karaoke, covers, etc.) unless metadata includes them
+    # noise words
     BAD_WORDS = ["karaoke", "cover", "mix", "remix", "medley", "top", "compilation"]
     tr_words = set(tr.split())
     for w in BAD_WORDS:
         if w in vt and w not in tr_words:
+            if DEBUG_LOGGING:
+                print(f"  → Reject: bad word '{w}' in title")
             return False
 
-    # 3️⃣ Artist–channel consistency: reject if artist absent from both title & channel
+    # artist–channel consistency
     if artist_hits < 1 and all(w not in vc for w in artist_words):
+        if DEBUG_LOGGING:
+            print("  → Reject: artist not in title or channel")
         return False
 
-    # 4️⃣ Fuzzy string distance safeguard (avoid unrelated short matches)
+    # fuzzy string ratio
     similarity = difflib.SequenceMatcher(None, tr, vt).ratio()
     if similarity < 0.35 and track_hits < 2:
+        if DEBUG_LOGGING:
+            print(f"  → Reject: fuzzy ratio too low ({similarity:.2f})")
         return False
 
+    if DEBUG_LOGGING:
+        print("  ✓ Accepted match\n")
     return True
 
 
@@ -134,8 +153,17 @@ def _yt_search(query: str, results: int = 5):
 
 
 def search_youtube(artist: str, track_name: str) -> Optional[str]:
-    """Run a single search and return a valid video_id or None."""
     query = f"{artist} {track_name} official audio"
+    if (artist, track_name) in OVERRIDE:
+        print(f"[OVERRIDE] Forcing first result for {artist} - {track_name}")
+        try:
+            result = _yt_search(query, results=1)
+            if result and "entries" in result and result["entries"]:
+                return result["entries"][0].get("id")
+        except Exception:
+            return None
+        return None
+
     try:
         result = _yt_search(query, results=5)
         if not result or "entries" not in result:
@@ -146,6 +174,8 @@ def search_youtube(artist: str, track_name: str) -> Optional[str]:
             vid = video.get("id")
             title = video.get("title", "")
             channel = video.get("uploader", "") or video.get("channel", "")
+            if DEBUG_LOGGING:
+                print(f"\n[DEBUG] Candidate: {title} | {channel}")
             if vid and validate_match(artist, track_name, title, channel):
                 return vid
         return None
@@ -197,7 +227,7 @@ def cleanup_nulls(youtube_links: dict) -> int:
 # Thread worker
 # -----------------------
 def process_track(artist, track_name, album_title):
-    time.sleep(random.uniform(0.05, 0.3))  # distributed start
+    time.sleep(random.uniform(0.05, 0.3))
     vid = search_youtube(artist, track_name)
     if vid:
         print(f"✓ Found: {artist} - {track_name} -> {vid}")
@@ -240,65 +270,70 @@ def main():
     batch_count = 0
     seen_queries = set()
 
-    with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        futures = []
-        for album in metadata:
-            artist = album.get("artist", "")
-            album_title = album.get("title", "")
-            tracks = album.get("tracks", []) or []
-            if not artist or not tracks:
-                continue
-
-            for track in tracks:
-                track_name = track.get("name", "")
-                if not track_name:
+    try:
+        with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
+            futures = []
+            for album in metadata:
+                artist = album.get("artist", "")
+                album_title = album.get("title", "")
+                tracks = album.get("tracks", []) or []
+                if not artist or not tracks:
                     continue
-                key = f"{artist}|{track_name}"
 
-                if key in youtube_links or key in seen_queries:
-                    continue
-                seen_queries.add(key)
+                for track in tracks:
+                    track_name = track.get("name", "")
+                    if not track_name:
+                        continue
+                    key = f"{artist}|{track_name}"
 
-                if processed >= MAX_TRACKS_PER_RUN:
-                    print(f"\nReached limit {MAX_TRACKS_PER_RUN}.")
-                    save_and_commit(youtube_links, f"Batch {batch_count} ({processed} processed)")
-                    cleanup = cleanup_nulls(youtube_links)
-                    if cleanup:
-                        save_and_commit(youtube_links, f"Cleanup removed {cleanup} nulls")
-                    return
+                    if key in youtube_links or key in seen_queries:
+                        continue
+                    seen_queries.add(key)
 
-                futures.append(executor.submit(process_track, artist, track_name, album_title))
-                processed += 1
-                time.sleep(DELAY_BETWEEN_SEARCHES + random.uniform(0.05, 0.35))
+                    if processed >= MAX_TRACKS_PER_RUN:
+                        print(f"\nReached limit {MAX_TRACKS_PER_RUN}.")
+                        save_and_commit(youtube_links, f"Batch {batch_count} ({processed} processed)")
+                        cleanup = cleanup_nulls(youtube_links)
+                        if cleanup:
+                            save_and_commit(youtube_links, f"Cleanup removed {cleanup} nulls")
+                        return
 
-        # Collect results
-        for i, f in enumerate(as_completed(futures), 1):
-            artist, track, album, vid = f.result()
-            key = f"{artist}|{track}"
-            if vid:
-                youtube_links[key] = {
-                    "artist": artist,
-                    "track": track,
-                    "album": album,
-                    "video_id": vid,
-                    "url": f"https://www.youtube.com/watch?v={vid}",
-                }
-                new_links += 1
-            else:
-                youtube_links[key] = None
+                    futures.append(executor.submit(process_track, artist, track_name, album_title))
+                    processed += 1
+                    time.sleep(DELAY_BETWEEN_SEARCHES + random.uniform(0.05, 0.35))
 
-            if i % BATCH_SIZE == 0:
-                batch_count += 1
-                save_and_commit(youtube_links, f"Batch {batch_count}: {new_links} new links")
-                print(f"\n--- Batch {batch_count} committed ---\n")
+            for i, f in enumerate(as_completed(futures), 1):
+                artist, track, album, vid = f.result()
+                key = f"{artist}|{track}"
+                if vid:
+                    youtube_links[key] = {
+                        "artist": artist,
+                        "track": track,
+                        "album": album,
+                        "video_id": vid,
+                        "url": f"https://www.youtube.com/watch?v={vid}",
+                    }
+                    new_links += 1
+                else:
+                    youtube_links[key] = None
 
-    save_and_commit(youtube_links, f"Final save: {new_links} new links")
+                if i % BATCH_SIZE == 0:
+                    batch_count += 1
+                    save_and_commit(youtube_links, f"Batch {batch_count}: {new_links} new links")
+                    print(f"\n--- Batch {batch_count} committed ---\n")
 
-    removed = cleanup_nulls(youtube_links)
-    if removed:
-        save_and_commit(youtube_links, f"Cleanup: removed {removed} nulls (final)")
+        save_and_commit(youtube_links, f"Final save: {new_links} new links")
 
-    print(f"\n✓ Done — {new_links} new links, {len(youtube_links)} total.")
+        removed = cleanup_nulls(youtube_links)
+        if removed:
+            save_and_commit(youtube_links, f"Cleanup: removed {removed} nulls (final)")
+
+        print(f"\n✓ Done — {new_links} new links, {len(youtube_links)} total.")
+
+    except KeyboardInterrupt:
+        print("\nInterrupted — saving progress...")
+        save_and_commit(youtube_links, "Interrupted run save")
+        sys.exit(0)
 
 
 if __name__ == "__main__":
