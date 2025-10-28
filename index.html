@@ -272,7 +272,7 @@
 
         // Load YouTube links (optional, may not exist yet)
         try {
-          const youtubeResponse = await fetch('youtube-links.json');
+          const youtubeResponse = await fetch('youtube-links-ytmusicapi.json');
           if (youtubeResponse.ok) {
             youtubeLinks = await youtubeResponse.json();
           }
