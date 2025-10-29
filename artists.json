@@ -1,12 +1,24 @@
 {
   "artists": [
     {
+      "id": "UCefarW8iWzuNO7NedV-om-w",
+      "name": "Benny Friedman"
+    },
+    {
       "id": "UCOSu81C9u9V-3JoOglWwEEw",
       "name": "Benny Friedman"
     },
     {
+      "id": "UCTVRe7FcTlGJ3fbTpdVLpTQ",
+      "name": "Mordechai Shapiro"
+    },
+    {
       "id": "UCm5x_womXL5E7TAYca5JkZQ",
       "name": "Mordechai Shapiro"
+    },
+    {
+      "id": "UCFZ0jsPRDnSAxgFYa92OZIQ",
+      "name": "Eli Schwebel"
     },
     {
       "id": "UCE2CVHIJgSAEjN5bCzsE6kA",
@@ -14,3 +26,4 @@
     }
   ]
 }
+
