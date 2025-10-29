@@ -1,9 +1,7 @@
 {
   "artists": [
-    {
-      {"name": "Benny Friedman}",
-      {"name": "Mordechai Shapiro"},
-      {"name": "Eli Schwebel"}
-    ]
-  }
-
+    { "name": "Benny Friedman" },
+    { "name": "Mordechai Shapiro" },
+    { "name": "Eli Schwebel" }
+  ]
+}
