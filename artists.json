@@ -1,8 +1,12 @@
-  {
-    "artists": [
-      {
-        "id": "UCefarW8iWzuNO7NedV-om-w",
-        "name": "Benny Friedman"
-      }
-    ]
-  }
+{
+  "artists": [
+    {
+      "id": "UCefarW8iWzuNO7NedV-om-w",
+      "name": "Benny Friedman"
+    },
+    {
+      "id": "UCTVRe7FcTlGJ3fbTpdVLpTQ",
+      "name": "Mordechai Shapiro"
+    }
+  ]
+}
