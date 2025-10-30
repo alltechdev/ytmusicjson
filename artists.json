@@ -1,612 +1,132 @@
 {
   "artists": [
     {
-      "id": "UC1-uPfCV7ZcLCSou9v_Vclw",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UC_ouM9LHQDSKm8ZVTarq4Zg",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UCtzGTGyCz_k0ZXMCZ1u_tkQ",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UCOSu81C9u9V-3JoOglWwEEw",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UClM-MxPL_KypMIed3IQrO-w",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UCKnNWm2kZ5D61-ad2ze2k7w",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UCam5AHZJ6vMvYkPsYFsBfnQ",
-      "name": "Avraham Fried"
-    },
-    {
-      "id": "UCK8I9UUQukwqy_QADoFg6Og",
-      "name": "Mordechai Ben David"
-    },
-    {
-      "id": "UCoQeycWU6F3EdtG-I5CTxwQ",
-      "name": "Mordechai Ben David"
-    },
-    {
-      "id": "UCtzGTGyCz_k0ZXMCZ1u_tkQ",
-      "name": "Mordechai Ben David"
-    },
-    {
-      "id": "UCaVyEkSHaVO95koiBH5QYrQ",
-      "name": "Mordechai Ben David"
-    },
-    {
-      "id": "UCholwaLtPDqQy5QyFDoB7jw",
-      "name": "Mordechai Ben David"
-    },
-    {
-      "id": "UC_dRX63mhvOrenBjYWJx9mA",
-      "name": "Mordechai Ben David"
-    },
-    {
-      "id": "UC_dRX63mhvOrenBjYWJx9mA",
-      "name": "Yaakov Shwekey"
-    },
-    {
-      "id": "UCtzGTGyCz_k0ZXMCZ1u_tkQ",
-      "name": "Yaakov Shwekey"
-    },
-    {
-      "id": "UC_IxmTZosg-FyYkvf1mzYnw",
-      "name": "Baruch Levine"
-    },
-    {
-      "id": "UCqYBPiYnhXUUmYSfxy1yG2w",
-      "name": "Baruch Levine"
-    },
-    {
-      "id": "UCd8iP0cjy47LowRDOnYyW_Q",
-      "name": "Baruch Levine"
-    },
-    {
-      "id": "UC-rPxFHSMKoQ8MP5rOqQJ8Q",
-      "name": "Baruch Levine"
-    },
-    {
-      "id": "UCtzGTGyCz_k0ZXMCZ1u_tkQ",
-      "name": "Baruch Levine"
-    },
-    {
-      "id": "UCLyWwUGKFOn7PVrnxid081w",
-      "name": "Baruch Levine"
-    },
-    {
-      "id": "UCtzGTGyCz_k0ZXMCZ1u_tkQ",
-      "name": "Yossi Green"
-    },
-    {
-      "id": "UCkZRaUEzgWlAokqAjgstCDA",
-      "name": "Yossi Green"
-    },
-    {
-      "id": "UCUUCG6E_ahQq5kWTrMHIRZg",
-      "name": "Yossi Green"
-    },
-    {
-      "id": "UCcF3ej8cahVLf2gVXvbpS3w",
-      "name": "Yossi Green"
-    },
-    {
-      "id": "UC1-uPfCV7ZcLCSou9v_Vclw",
-      "name": "Yossi Green"
-    },
-    {
-      "id": "UCj2O1nFGMuXgFNgR2xNHHuQ",
-      "name": "Yosi Piamenta"
-    },
-    {
-      "id": "UC5HUxQuTpa3JdJlftkU-rWg",
-      "name": "Yosi Piamenta"
-    },
-    {
-      "id": "UCWYkX_4-Uhxdwi4CEEJsPgg",
-      "name": "Yosi Piamenta"
-    },
-    {
-      "id": "UCx4Vp5_O7g0Qr__QyjsDgRQ",
-      "name": "Dedi Graucher"
-    },
-    {
-      "id": "UCLyWwUGKFOn7PVrnxid081w",
-      "name": "Dedi Graucher"
-    },
-    {
-      "id": "UCrZ7hkbMeFtDfWGqF1SqFDw",
-      "name": "Miami Boys Choir"
-    },
-    {
-      "id": "UCqvfq2DsYvlpbE3NluT_Ieg",
-      "name": "Miami Boys Choir"
-    },
-    {
-      "id": "UCBWAdtkSTH2XlL089n0EPGg",
-      "name": "Miami Boys Choir"
-    },
-    {
-      "id": "UCv58Dafo6Yue5eve-Xcky0Q",
-      "name": "Shloime Dachs"
-    },
-    {
-      "id": "UCfFV8HTf-7iaSJIUDaD161w",
-      "name": "Shloime Dachs"
-    },
-    {
-      "id": "UCFvjVepDEv7x6jBuWqxEtVA",
-      "name": "Shloime Dachs"
-    },
-    {
-      "id": "UCM_csL1kPN3h9Y1MILlPD8w",
-      "name": "Shloime Dachs"
-    },
-    {
-      "id": "UCAitgSYoBNKIor7Xvvuzs9g",
-      "name": "Shloime Dachs"
-    },
-    {
-      "id": "UCR4H633zdnrJOP7zgN2SvHg",
-      "name": "Shloime Dachs"
-    },
-    {
-      "id": "UCGZBtS53Yqr3pB11RGkPCNA",
-      "name": "Eli Gerstner"
-    },
-    {
-      "id": "UCLWG4-F391gt4xJhADyB26g",
-      "name": "Dovid Gabay"
-    },
-    {
-      "id": "UCpAiSbJqNprMt0RZCjc7Kag",
-      "name": "Dovid Gabay"
-    },
-    {
-      "id": "UCs2H_ywMnysIENhMMQ9JIiA",
-      "name": "Dovid Gabay"
-    },
-    {
-      "id": "UC-qQ0lKKXOTcyit9eCwkQQA",
-      "name": "Dovid Gabay"
-    },
-    {
-      "id": "UCpcay5FYw5Qeb-5KJR2KcZQ",
-      "name": "Dovid Gabay"
-    },
-    {
-      "id": "UCqYGK7-bY_nvTHfJsjFggOQ",
-      "name": "Mendy Wald"
-    },
-    {
-      "id": "UCaTSs8jv8b9Xfj53dOAJlSA",
-      "name": "Mendy Wald"
-    },
-    {
-      "id": "UCFvjVepDEv7x6jBuWqxEtVA",
-      "name": "Mendy Wald"
-    },
-    {
-      "id": "UCu6IT3jTOtAcNfjIQSIyCQQ",
-      "name": "Simcha Leiner"
-    },
-    {
-      "id": "UC_IxmTZosg-FyYkvf1mzYnw",
-      "name": "Simcha Leiner"
-    },
-    {
-      "id": "UCOSu81C9u9V-3JoOglWwEEw",
-      "name": "Benny Friedman"
-    },
-    {
-      "id": "UCKiwLNVJcKAGHXxdu2CDe6w",
-      "name": "Benny Friedman"
-    },
-    {
-      "id": "UC31c9ukaP0w1Gugn6mTb5pA",
-      "name": "Benny Friedman"
-    },
-    {
-      "id": "UC1QsA-Q6SUKX9gWi1heQDEA",
-      "name": "Benny Friedman"
-    },
-    {
-      "id": "UCNu_lYQXHXhzkf1YU-aZl8Q",
-      "name": "Benny Friedman"
-    },
-    {
-      "id": "UC9vlyAYjANficGvyJMgOkaw",
-      "name": "Michoel Pruzansky"
-    },
-    {
-      "id": "UCW-_zBSNs1_lkjGQGMg1xRQ",
-      "name": "Michoel Pruzansky"
-    },
-    {
-      "id": "UC0Ri7WN2NX_9YRl3qY9pUAA",
-      "name": "Michoel Pruzansky"
-    },
-    {
-      "id": "UCckg6lcQaW00lvNHwCjo7xA",
-      "name": "Shmueli Ungar"
-    },
-    {
-      "id": "UC6KJVSI-veZbKYCmHeVahtg",
-      "name": "Shmueli Ungar"
-    },
-    {
-      "id": "UCdGflztFNP-E2__w1IAgO_A",
-      "name": "Shmueli Ungar"
+      "id": "UCTwTHFGtx-n03NbsDqgZtlw",
+      "name": "46 Street"
     },
     {
       "id": "UCw1oCoEMF_o65tpDHItwwUQ",
       "name": "8th Day"
     },
     {
-      "id": "UCXpuYLOHAOxJ2e-OPufE36g",
-      "name": "8th Day"
+      "id": "UCCPbgPLJ9cF6LdAAc0N3kFQ",
+      "name": "A Niggun for Life!"
     },
     {
-      "id": "UCcZtXNw4qpFeIF7C3y1JMZg",
-      "name": "Shalsheles"
+      "id": "UCZFAzTfD7_WcgDVHwfmGrdw",
+      "name": "A. K. A. Pella"
     },
     {
-      "id": "UCSwTx61537kkroWggZDtNBQ",
-      "name": "Shalsheles"
+      "id": "UCBTFIchpjoV15YVCP0cfkrA",
+      "name": "ABD"
     },
     {
-      "id": "UC69gqxv5FMhPZz1nqI8HUMw",
-      "name": "Shalsheles"
+      "id": "UC6JhadLTf6g6f-ZdeEaAqBQ",
+      "name": "AJ Cohen studios"
     },
     {
-      "id": "UCDSyf6lqSeFEZHDrxwJUjqA",
-      "name": "Shalsheles"
+      "id": "UCPCPSKj4xwhFlyG7CVAMJag",
+      "name": "AKAY"
     },
     {
-      "id": "UCo7a_nn0nmhAWJ2gObXAtjA",
-      "name": "Lev Tahor"
+      "id": "UCW1m-inoUmjV_qoeWHHWkxQ",
+      "name": "ALEPH"
     },
     {
-      "id": "UCDTui1bhK67eRaAH07NMnng",
-      "name": "Ohad Moskowitz"
+      "id": "UC4gIlpxFYOHr-Wojztv0Eiw",
+      "name": "AY Staum"
     },
     {
-      "id": "UC4-zDyQfkwh_27BN4tBf5Tw",
-      "name": "Ohad Moskowitz"
+      "id": "UC4ueF-N4PRCYQnqdov-yj2Q",
+      "name": "AYALA"
     },
     {
-      "id": "UCMyplV32sYOO7rvSUtvmdgg",
-      "name": "Ohad Moskowitz"
+      "id": "UCrEDtH74vHslQ8NvBBDR4dA",
+      "name": "Aaron Ben Soussan"
     },
     {
-      "id": "UC31c9ukaP0w1Gugn6mTb5pA",
-      "name": "Ari Goldwag"
+      "id": "UCaTWt7mw8POvam1gVzSE5mQ",
+      "name": "Aaron Cohen"
     },
     {
-      "id": "UCuF6oVR9XPxmnVxPf9o4sTw",
-      "name": "Ari Goldwag"
+      "id": "UCi2oJZILHuSLkAQ3Cw5X9Kw",
+      "name": "Aaron Ellen"
     },
     {
-      "id": "UCiMnyfUnUaX4Uk_UdGCoC0A",
-      "name": "Ari Goldwag"
+      "id": "UC6OycHBPAcOzuV8cKE53X5g",
+      "name": "Aaron Goldschmidt"
     },
     {
-      "id": "UCKNpYaDVAtsOWq4gP8DKHJA",
-      "name": "Ari Goldwag"
+      "id": "UC0G86THXeKPXlHHjbP1aT4g",
+      "name": "Aaron Razel - אהרן רזאל"
+    },
+    {
+      "id": "UCcOPPzoEoOQpwCJ41YaVzhA",
+      "name": "Abe Cohen"
     },
     {
       "id": "UCd8iP0cjy47LowRDOnYyW_Q",
       "name": "Abie Rotenberg"
     },
     {
-      "id": "UCBvLn9kkWL9AZUUNRADY4cA",
-      "name": "Abie Rotenberg"
+      "id": "UC0-foS39p84VAaTwngP4W4w",
+      "name": "Abish Brodt"
     },
     {
-      "id": "UC4fVIZKkb22lXgxEJsnfcgw",
-      "name": "Abie Rotenberg"
+      "id": "UCeBxx7m7yrwSyvpVpKcMI8w",
+      "name": "Abraham Kiss"
     },
     {
-      "id": "UCeiabO3K2h8Lv1VMCSCA55w",
-      "name": "Abie Rotenberg"
+      "id": "UCHluA8qIru6NNHKryUmwWCQ",
+      "name": "Acheinu - The Shapiro Brothers"
     },
     {
-      "id": "UCYf5FBxTr_WOGZ0bg0jAgpw",
-      "name": "Abie Rotenberg"
+      "id": "UCN5I1N-5nk8BzfDwKCfvRkA",
+      "name": "Achim"
     },
     {
-      "id": "UC9ZKmgaZZdxo3HhP0G_s4vg",
-      "name": "Abie Rotenberg"
+      "id": "UCENpFg4g22Ore8X3TQNkU7Q",
+      "name": "Adi Ran"
     },
     {
-      "id": "UCZnhaLOvVDlrnYwPfCrDFCQ",
-      "name": "Abie Rotenberg"
+      "id": "UCioWB2c_0_io1cEUfeX1_uQ",
+      "name": "Ahaba Boys Choir"
     },
     {
-      "id": "UCE2CVHIJgSAEjN5bCzsE6kA",
-      "name": "Abie Rotenberg"
-    },
-    {
-      "id": "UCYsDee6axf7o03ktN2GKakw",
-      "name": "Abie Rotenberg"
-    },
-    {
-      "id": "UCLyWwUGKFOn7PVrnxid081w",
-      "name": "Abie Rotenberg"
-    },
-    {
-      "id": "UCNu_lYQXHXhzkf1YU-aZl8Q",
-      "name": "Abie Rotenberg"
-    },
-    {
-      "id": "UCo69C9U4ol49c-C3GHCbk2w",
-      "name": "Lipa Schmeltzer"
-    },
-    {
-      "id": "UCUeSFR_1vhiqpG0VHq5alng",
-      "name": "Lipa Schmeltzer"
-    },
-    {
-      "id": "UCQdB_44poAPBj2TckPrbdgw",
-      "name": "Lipa Schmeltzer"
-    },
-    {
-      "id": "UCKkLlawlEIlmpC7MCWZiGEA",
-      "name": "Lipa Schmeltzer"
-    },
-    {
-      "id": "UClM-MxPL_KypMIed3IQrO-w",
-      "name": "Lipa Schmeltzer"
-    },
-    {
-      "id": "UClUekOdWArW4_a7HMb-DoBQ",
-      "name": "Lipa Schmeltzer"
-    },
-    {
-      "id": "UCYCHfGjcg7sUfI9vTGnUmLA",
-      "name": "Mendy J"
-    },
-    {
-      "id": "UCyS2u9sSWDUrXUrbma2U6WQ",
-      "name": "Mendy J"
-    },
-    {
-      "id": "UCvxIWH5y-L-mk7W9KtOhb-Q",
-      "name": "Mendy J"
-    },
-    {
-      "id": "UC-xr5bwdJDADQkS_TfDl4mA",
-      "name": "Baruch Sholom Blesofsky"
-    },
-    {
-      "id": "UCY5qvQNoawFipLxi_KZwFUg",
-      "name": "Eli Marcus"
-    },
-    {
-      "id": "UCrm3hdSzXLRFzM8WLjnK1Gw",
-      "name": "Eli Marcus"
-    },
-    {
-      "id": "UCm5x_womXL5E7TAYca5JkZQ",
-      "name": "Mordechai Shapiro"
-    },
-    {
-      "id": "UCPV3ps2BkzfhGbLy_OLsFjQ",
-      "name": "Mordechai Shapiro"
-    },
-    {
-      "id": "UCOSu81C9u9V-3JoOglWwEEw",
-      "name": "Mordechai Shapiro"
-    },
-    {
-      "id": "UCbyD0Jnm_-Wt2b0t1l21p6A",
-      "name": "Mordechai Shapiro"
-    },
-    {
-      "id": "UCK8I9UUQukwqy_QADoFg6Og",
-      "name": "Mordechai Shapiro"
-    },
-    {
-      "id": "UCCvkbGgdCz_D5_DDIC8uZhw",
-      "name": "Moshe Tischler"
-    },
-    {
-      "id": "UCm--IMzPC83zZaIlFb9MfYA",
-      "name": "Moshe Tischler"
-    },
-    {
-      "id": "UCFMGSCUbAOHNNQJupa9HzCg",
-      "name": "Moshe Tischler"
-    },
-    {
-      "id": "UCC7aB4f90uXB9APaam4MEjQ",
-      "name": "Moshe Tischler"
-    },
-    {
-      "id": "UCEcu5Vuy3t57-MBZdr4GTvg",
-      "name": "Moshe Tischler"
-    },
-    {
-      "id": "UCxCRq11GZ6zW_5DgXKtC49Q",
-      "name": "Moshe Tischler"
-    },
-    {
-      "id": "UC0G86THXeKPXlHHjbP1aT4g",
-      "name": "Aharon Razel"
-    },
-    {
-      "id": "UCIs-s_nxV5WKupy0gEGZiXw",
-      "name": "Yonatan Razel"
-    },
-    {
-      "id": "UCiua2OSxtf7Blyj59pAVhiQ",
-      "name": "Yonatan Razel"
-    },
-    {
-      "id": "UCR4H633zdnrJOP7zgN2SvHg",
-      "name": "Yonatan Razel"
-    },
-    {
-      "id": "UC0G86THXeKPXlHHjbP1aT4g",
-      "name": "Yonatan Razel"
-    },
-    {
-      "id": "UCVYVQD6Qpuvo-Zg_jmjTrkw",
-      "name": "Ishay Ribo"
-    },
-    {
-      "id": "UClUekOdWArW4_a7HMb-DoBQ",
-      "name": "Chaim Israel"
-    },
-    {
-      "id": "UCbIJ-FOm-7S-vYrCeddqBeg",
-      "name": "Chaim Israel"
-    },
-    {
-      "id": "UC563QXCF2iFpPh9KugnXxUQ",
-      "name": "Chaim Israel"
-    },
-    {
-      "id": "UCo69C9U4ol49c-C3GHCbk2w",
-      "name": "Chaim Israel"
-    },
-    {
-      "id": "UC8n1Io5T76kSYeuYVQHzsQA",
-      "name": "Berry Weber"
-    },
-    {
-      "id": "UC0u_NC9_qtrRsxYDY7J-r2w",
-      "name": "Berry Weber"
-    },
-    {
-      "id": "UC0ltk59L9qeEN2YNBeshuLA",
-      "name": "Sruly Werdyger"
-    },
-    {
-      "id": "UCzmYYWtmkSHdh59LcrrfLKw",
-      "name": "Michoel Schnitzler"
-    },
-    {
-      "id": "UCdHIJajMKuTx7QKFRq-ZQkw",
-      "name": "Michoel Schnitzler"
-    },
-    {
-      "id": "UCHJtEeISU1FYdFGYCpQzbeg",
-      "name": "Michoel Schnitzler"
-    },
-    {
-      "id": "UClM-MxPL_KypMIed3IQrO-w",
-      "name": "Michoel Schnitzler"
-    },
-    {
-      "id": "UCLQylHgxsIaMasCFKhL7A1g",
-      "name": "Michoel Schnitzler"
-    },
-    {
-      "id": "UC1yIx12E1ythWElCzfelgHw",
-      "name": "Michoel Schnitzler"
-    },
-    {
-      "id": "UCcysmcghkk3V7ZNgdy02sdg",
-      "name": "Menachem Moskowitz"
+      "id": "UCjUs6KaR718mvm0DmBRpJrQ",
+      "name": "Aharon Berk"
     },
     {
       "id": "UCyOVv7whCla3yPICWK1TgIQ",
-      "name": "Menachem Moskowitz"
+      "name": "Ahrele Samet - אהרלה סאמעט"
     },
     {
-      "id": "UCYsDee6axf7o03ktN2GKakw",
-      "name": "Shlomo Simcha"
+      "id": "UC-GPS9vgotFoxEH_TEDEr6w",
+      "name": "Aish Yeshiva Band"
     },
     {
-      "id": "UC9ZKmgaZZdxo3HhP0G_s4vg",
-      "name": "Shlomo Simcha"
+      "id": "UCDco-P09OKUWxCnnxqfbLWA",
+      "name": "Aizik Friedman"
     },
     {
-      "id": "UCvm6MxHoMFTz8_kyJOM13Hg",
-      "name": "Shlomo Simcha"
+      "id": "UCjgCYlDrW4KfazEah3uT5cA",
+      "name": "Akiva"
     },
     {
-      "id": "UCZnhaLOvVDlrnYwPfCrDFCQ",
-      "name": "Shlomo Simcha"
+      "id": "UC_o9EoI-2Szt4YsD3fPuayA",
+      "name": "Akiva David"
     },
     {
-      "id": "UCBNwLHNwE9kQ2bE2wt1g36g",
-      "name": "Shlomo Simcha"
+      "id": "UChRAIMec5g3jOVBOZcChOHQ",
+      "name": "Akiva Hammond"
     },
     {
-      "id": "UC_IxmTZosg-FyYkvf1mzYnw",
-      "name": "Shlomo Simcha"
+      "id": "UCHUW9dkK0VHCCDZ0nf56x9w",
+      "name": "Akiva Hess"
     },
     {
-      "id": "UCZ4XuQbhnCWNdoNlPCqHebg",
-      "name": "Uri Davidi"
-    },
-    {
-      "id": "UChFscCECmWXq1DqDMGUWjrw",
-      "name": "Avrumi Flam"
-    },
-    {
-      "id": "UCX3xHDyOWeiXlm3b5nqlccQ",
-      "name": "Avrumi Flam"
-    },
-    {
-      "id": "UC-xr5bwdJDADQkS_TfDl4mA",
-      "name": "Boruch Sholom"
-    },
-    {
-      "id": "UCaVyEkSHaVO95koiBH5QYrQ",
-      "name": "Yeedle Werdyger"
-    },
-    {
-      "id": "UCOV_Q2VoV4QqC9HhY9x50iw",
-      "name": "Yeedle Werdyger"
-    },
-    {
-      "id": "UC0ltk59L9qeEN2YNBeshuLA",
-      "name": "Yeedle Werdyger"
-    },
-    {
-      "id": "UCK8I9UUQukwqy_QADoFg6Og",
-      "name": "Yeedle Werdyger"
-    },
-    {
-      "id": "UCuvlFjiygrIIhq_zQmXpiIA",
-      "name": "Yossi Gold"
-    },
-    {
-      "id": "UCH5TWA46szWeEpZchukaYEg",
-      "name": "Moshe Goldman"
-    },
-    {
-      "id": "UCuqq0oMk039V2vc6_q7GFUw",
-      "name": "Moshe Goldman"
-    },
-    {
-      "id": "UCvCfWc_qb7OMoGdgCWKbbgQ",
-      "name": "Aryeh Kunstler"
-    },
-    {
-      "id": "UCmHa1bi6HYPqWmR3MLG5oyA",
-      "name": "Aryeh Kunstler"
-    },
-    {
-      "id": "UCu6IT3jTOtAcNfjIQSIyCQQ",
-      "name": "Aryeh Kunstler"
-    },
-    {
-      "id": "UCBNwLHNwE9kQ2bE2wt1g36g",
-      "name": "R' Shlomo Carlebach"
+      "id": "UCrsYRNsPIqiJW-uRZir9cxQ",
+      "name": "Akiva Jonas"
     }
   ]
 }
