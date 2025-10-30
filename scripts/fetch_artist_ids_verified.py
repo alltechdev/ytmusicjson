@@ -273,9 +273,9 @@ def process_artist(artist_name, discography):
 def main():
     """Main processing loop"""
     # Paths
-    metadata_path = '/home/asternheim/json/ytmusicjson-main/metadata.json'
-    output_path = '/home/asternheim/ytjson/artists_verified.json'
-    detailed_output_path = '/home/asternheim/ytjson/artists_verified_detailed.json'
+    metadata_path = 'metadata.json'
+    output_path = 'artists_verified.json'
+    detailed_output_path = 'artists_verified_detailed.json'
 
     # Extract discography from metadata
     artist_discography = extract_artist_discography(metadata_path)
