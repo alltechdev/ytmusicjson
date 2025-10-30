@@ -1,0 +1,967 @@
+{
+  "artists": [
+    {
+      "id": "UCiYY3LCuBdTI0ufmdzmAXiQ",
+      "name": "Naftali Blumenthal"
+    },
+    {
+      "id": "UCu6IT3jTOtAcNfjIQSIyCQQ",
+      "name": "Simcha Leiner"
+    },
+    {
+      "id": "UC_IxmTZosg-FyYkvf1mzYnw",
+      "name": "Baruch Levine"
+    },
+    {
+      "id": "UCNBG7G28lqHgX8UGYraRrGw",
+      "name": "Eitan Katz"
+    },
+    {
+      "id": "UCQvfT5l_9sCVOWX9ob7e_KQ",
+      "name": "Zevi Kaufman"
+    },
+    {
+      "id": "UCYsDee6axf7o03ktN2GKakw",
+      "name": "Shlomo Simcha"
+    },
+    {
+      "id": "UCGmASDBtA5frIkxyOL7xmrQ",
+      "name": "New York Boys Choir"
+    },
+    {
+      "id": "UCXcPRe9sZYhE9dqxMnl-0fw",
+      "name": "Micha Gamerman"
+    },
+    {
+      "id": "UCE7j5aZlXNU-Da-YaR4W7dw",
+      "name": "Dovid Haziza"
+    },
+    {
+      "id": "UCtQEiWyGcGwOUlm6at2RHlg",
+      "name": "Tzvi Silberstein"
+    },
+    {
+      "id": "UCuwi4jpGcdwLfNZ_5T8NbSQ",
+      "name": "Duvie Shapiro"
+    },
+    {
+      "id": "UC-qQ0lKKXOTcyit9eCwkQQA",
+      "name": "Dovid Lowy"
+    },
+    {
+      "id": "UCE2CVHIJgSAEjN5bCzsE6kA",
+      "name": "Eli Schwebel"
+    },
+    {
+      "id": "UCJpfmMsU99sd21Z1ff7WJFw",
+      "name": "Yumi Lowy"
+    },
+    {
+      "id": "UCgSnZ-fXEwymSmiO2h5YhDg",
+      "name": "Rogers Park Band"
+    },
+    {
+      "id": "UCQdB_44poAPBj2TckPrbdgw",
+      "name": "Dovy Meisels"
+    },
+    {
+      "id": "UCnOgkLIWW5Z2akugabx0w4g",
+      "name": "Cheskie Weisz"
+    },
+    {
+      "id": "UCqE4OZAwQj9vzNsva5mo3Wg",
+      "name": "Amram Adar"
+    },
+    {
+      "id": "UC1-uPfCV7ZcLCSou9v_Vclw",
+      "name": "Avraham Fried"
+    },
+    {
+      "id": "UCPob0VuDaJ8lcKKWFnUKGyg",
+      "name": "Derech Achim"
+    },
+    {
+      "id": "UCaAJtOU01Sq3SHgecf7KeIA",
+      "name": "Reuven Garber"
+    },
+    {
+      "id": "UCzmYYWtmkSHdh59LcrrfLKw",
+      "name": "Michoel Schnitzler"
+    },
+    {
+      "id": "UCQ0bVSwpf3tR05HluCCwl4Q",
+      "name": "Duvid'l"
+    },
+    {
+      "id": "UCKMbhrC9BAtfzOXAUUscVlw",
+      "name": "Dani Kunstler"
+    },
+    {
+      "id": "UC16TAjRl-SdQ_K7H_o9c5tQ",
+      "name": "Eli Levin"
+    },
+    {
+      "id": "UC9vlyAYjANficGvyJMgOkaw",
+      "name": "Michoel Pruzansky"
+    },
+    {
+      "id": "UC-nVR9PLB6ZO8qI_hm4DiDQ",
+      "name": "Yehuda!"
+    },
+    {
+      "id": "UCPBdYZGs95v6t1M8urQoEqg",
+      "name": "Pumpidisa"
+    },
+    {
+      "id": "UCI2xUUNZN5i8n8UpwRZgPeg",
+      "name": "Shloime Kaufman"
+    },
+    {
+      "id": "UCY5qvQNoawFipLxi_KZwFUg",
+      "name": "Eli Marcus"
+    },
+    {
+      "id": "UCvCfWc_qb7OMoGdgCWKbbgQ",
+      "name": "Aryeh Kunstler"
+    },
+    {
+      "id": "UCLWG4-F391gt4xJhADyB26g",
+      "name": "Dovid Gabay"
+    },
+    {
+      "id": "UCojTmJXC9Fi3SptGgM-jB_A",
+      "name": "Eitan Freilich"
+    },
+    {
+      "id": "UCx6Vv9EdVUL7XyrWyBrfLoA",
+      "name": "Shuky"
+    },
+    {
+      "id": "UChFscCECmWXq1DqDMGUWjrw",
+      "name": "Avrumi Flam"
+    },
+    {
+      "id": "UC-rPxFHSMKoQ8MP5rOqQJ8Q",
+      "name": "Moshe Mendlowitz"
+    },
+    {
+      "id": "UC2Kl00Fuy3ftlVYHUsSJV3Q",
+      "name": "Yosef Chaim Bloch"
+    },
+    {
+      "id": "UCZgZic-Yt4e3yRGrlttf7Cg",
+      "name": "Metalish"
+    },
+    {
+      "id": "UCsIyb_F6rZMC4WODrSKjdwQ",
+      "name": "Shea Rubenstein"
+    },
+    {
+      "id": "UCt2no-GVb4eiAB-VfbAujrA",
+      "name": "Avi Fishoff"
+    },
+    {
+      "id": "UCckg6lcQaW00lvNHwCjo7xA",
+      "name": "Shmueli Ungar"
+    },
+    {
+      "id": "UC0ltk59L9qeEN2YNBeshuLA",
+      "name": "Yisroel Werdyger"
+    },
+    {
+      "id": "UCK8I9UUQukwqy_QADoFg6Og",
+      "name": "Mordechai Ben David"
+    },
+    {
+      "id": "UCBVXowqf2vbz8NjC_lqIt6w",
+      "name": "Lenny Solomon & Shlock Rock"
+    },
+    {
+      "id": "UCJMKMS91rOuW4kzWbEUw1Bw",
+      "name": "Shloime Taussig"
+    },
+    {
+      "id": "UCpAiSbJqNprMt0RZCjc7Kag",
+      "name": "DoviDovid"
+    },
+    {
+      "id": "UCZFAzTfD7_WcgDVHwfmGrdw",
+      "name": "A. K. A. Pella"
+    },
+    {
+      "id": "UCs2H_ywMnysIENhMMQ9JIiA",
+      "name": "Dovid Stein"
+    },
+    {
+      "id": "UC-jxpVErM8Rq957cb-wHUyg",
+      "name": "Uzi Bodner"
+    },
+    {
+      "id": "UC3uJfAxFsMBtZqSgeKRVv3Q",
+      "name": "Shauly Waldner"
+    },
+    {
+      "id": "UCBkpfsmrLM_zOpddS7QDMug",
+      "name": "Yoel Sharabi"
+    },
+    {
+      "id": "UC_dRX63mhvOrenBjYWJx9mA",
+      "name": "Yaakov Shwekey"
+    },
+    {
+      "id": "UCiMnyfUnUaX4Uk_UdGCoC0A",
+      "name": "Dovid Pearlman"
+    },
+    {
+      "id": "UCQZJH2kEKLECIeD79w6L1uQ",
+      "name": "Schwebel Scharf & Levine"
+    },
+    {
+      "id": "UCZ4XuQbhnCWNdoNlPCqHebg",
+      "name": "Uri Davidi"
+    },
+    {
+      "id": "UCo69C9U4ol49c-C3GHCbk2w",
+      "name": "Lipa Schmeltzer"
+    },
+    {
+      "id": "UCtEK38jzXAUObe-5H8isljg",
+      "name": "Meilech Kohn"
+    },
+    {
+      "id": "UC7KN6TXuBsAE4G9WCX74I1g",
+      "name": "Danny Palgon"
+    },
+    {
+      "id": "UCIX_31kXMIW-V18M0hkjDcA",
+      "name": "Shmuel Brazil"
+    },
+    {
+      "id": "UC6s2xUPyMS4ZbPBALr9MmcQ",
+      "name": "Yehuda Green"
+    },
+    {
+      "id": "UCIQ20q-iElqNx3r0z0XlXNQ",
+      "name": "Shmuly Schneider"
+    },
+    {
+      "id": "UCoQWAm4hwC3caqyyxTlxMnA",
+      "name": "Abish Brodt"
+    },
+    {
+      "id": "UCVLQWjtgDSTZN37_YbISUAQ",
+      "name": "Motty Ilowitz"
+    },
+    {
+      "id": "UCyUCQflsBuxVNUCLW5IEwrQ",
+      "name": "Country Yossi"
+    },
+    {
+      "id": "UC67d9XPlTYHn56MqsgbEElg",
+      "name": "Mezamrim Choir"
+    },
+    {
+      "id": "UCaSs5F26wYkoirLRfsA1Upg",
+      "name": "Shloime Daskal"
+    },
+    {
+      "id": "UCCvkbGgdCz_D5_DDIC8uZhw",
+      "name": "Moshe Tischler"
+    },
+    {
+      "id": "UCYCHfGjcg7sUfI9vTGnUmLA",
+      "name": "Mendy J"
+    },
+    {
+      "id": "UCBsKv4OAfiknvsEXGBxY12g",
+      "name": "Gideon Levine"
+    },
+    {
+      "id": "UCv58Dafo6Yue5eve-Xcky0Q",
+      "name": "Shloime Dachs"
+    },
+    {
+      "id": "UCbyD0Jnm_-Wt2b0t1l21p6A",
+      "name": "Matt Dubb"
+    },
+    {
+      "id": "UCHBST5NBv-gZeXkJjjP74Kw",
+      "name": "Thank You Hashem"
+    },
+    {
+      "id": "UCj0qdVEhPXTq4QSEcL_nUkw",
+      "name": "SimplyTsfat"
+    },
+    {
+      "id": "UC8QdnhyXXB8Y6FHQTvtDuRQ",
+      "name": "Yonason Schwartz"
+    },
+    {
+      "id": "UCJMSsbz2JigH3Gd-ODmjEMw",
+      "name": "Naftali Kempeh"
+    },
+    {
+      "id": "UCDFgB4GepvQXWyUg0TMJEaw",
+      "name": "Chaim Dovid Berson"
+    },
+    {
+      "id": "UCl_uROQ5yDKdwTSgdDZd4lA",
+      "name": "Eli Beer"
+    },
+    {
+      "id": "UCPRFVNVTYg7Nmb6-UKKQhSQ",
+      "name": "Meshorerim Choir"
+    },
+    {
+      "id": "UC5rKMtdamiGoJUq4fsKn-pg",
+      "name": "Zusha"
+    },
+    {
+      "id": "UCKNpYaDVAtsOWq4gP8DKHJA",
+      "name": "Yosef Kugler"
+    },
+    {
+      "id": "UCw1oCoEMF_o65tpDHItwwUQ",
+      "name": "8th Day"
+    },
+    {
+      "id": "UC08KoYG0GOqiuW13VS1MNxA",
+      "name": "The Solomon Brothers"
+    },
+    {
+      "id": "UCEjcKdpkZkvgT5ISMGV5DCg",
+      "name": "Sruly Green"
+    },
+    {
+      "id": "UCqYGK7-bY_nvTHfJsjFggOQ",
+      "name": "Mendy Wald"
+    },
+    {
+      "id": "UCSsN1C6SEb5o7g_uNqvjXAw",
+      "name": "Yidi Bialostozky"
+    },
+    {
+      "id": "UCIFYCum9ZBkbwsjSKWuU6AQ",
+      "name": "Six13"
+    },
+    {
+      "id": "UCwHR2iKY28Zf7rfK75VzqYQ",
+      "name": "Isaac Honig"
+    },
+    {
+      "id": "UCUU0EZqjbr9asGqLmDcYxGg",
+      "name": "Shlomo Katz"
+    },
+    {
+      "id": "UC4wf5t4R2lqrVooyqpmGnJQ",
+      "name": "DJ Kraz"
+    },
+    {
+      "id": "UCcysmcghkk3V7ZNgdy02sdg",
+      "name": "Menachem Moskowitz"
+    },
+    {
+      "id": "UCmU8Xfs9bg5HaHHyY_LSA3g",
+      "name": "Akiva Schechter"
+    },
+    {
+      "id": "UCTeE1RGDHXf3jdpLHz0sGLg",
+      "name": "Camp S'dei Chemed International"
+    },
+    {
+      "id": "UCKN2U-l3aMEdonyn3qKGWrw",
+      "name": "Ira Heller"
+    },
+    {
+      "id": "UCFMGSCUbAOHNNQJupa9HzCg",
+      "name": "Krohma Music"
+    },
+    {
+      "id": "UCvqvQUcu4bVaa2_80zHmWMA",
+      "name": "Yitzy Kaplowitz"
+    },
+    {
+      "id": "UCUKLJ5pfrEkbHpgSH6DSVUA",
+      "name": "Gobbie Cohn"
+    },
+    {
+      "id": "UCs_xafh1gRVVyTq_mcvYOew",
+      "name": "Eli Dachs"
+    },
+    {
+      "id": "UCqfkWPeWb5gnzJSmcikDjfQ",
+      "name": "Shlomie Rabin"
+    },
+    {
+      "id": "UCElTMuF0--creqXHcf9rSDw",
+      "name": "Avi Zelinger"
+    },
+    {
+      "id": "UCtAX3XYAXh5VZrjs4fy_gmA",
+      "name": "Dudi Knopfler"
+    },
+    {
+      "id": "UCcZtXNw4qpFeIF7C3y1JMZg",
+      "name": "Shalsheles"
+    },
+    {
+      "id": "UC69gqxv5FMhPZz1nqI8HUMw",
+      "name": "Shalsheles Junior"
+    },
+    {
+      "id": "UCGA8YV7SZXYsm1D6C_3Ay_g",
+      "name": "Yitzchak Fuchs"
+    },
+    {
+      "id": "UCQBBI2C_q-Eekqx_TF0QO7A",
+      "name": "C Lanzbom"
+    },
+    {
+      "id": "UCZvgyDuviAnSi1ixLxcbKkQ",
+      "name": "Zevy Zions"
+    },
+    {
+      "id": "UC5iQV5j4ad2ruwmJn2vyvGg",
+      "name": "Soulfarm"
+    },
+    {
+      "id": "UCWtc9GeobQj4aN92PpAQp4A",
+      "name": "Ben Klein"
+    },
+    {
+      "id": "UCmvEHXw9C0dHPWKKaE7G_sQ",
+      "name": "Gershon Veroba"
+    },
+    {
+      "id": "UC1KksRnkCYh5orLN-R-lB2g",
+      "name": "Waterbury Mesivta"
+    },
+    {
+      "id": "UCloGAbM4m0blBgFlBE2S6dw",
+      "name": "Shaindel Antelis"
+    },
+    {
+      "id": "UC2lhR5cj-Qu3Li0U45kN2Zg",
+      "name": "Bracha Jaffe"
+    },
+    {
+      "id": "UCo7a_nn0nmhAWJ2gObXAtjA",
+      "name": "Lev Tahor"
+    },
+    {
+      "id": "UCRN3W-MRnfRoq7SJ4NtpbhA",
+      "name": "Yoel Dovid Goldstein"
+    },
+    {
+      "id": "UCBKUOjensvi6-T9T5jQjqzw",
+      "name": "Sandy Shmuely"
+    },
+    {
+      "id": "UCs1CUepeSP_9zIgp2w3vMYA",
+      "name": "Tali Yess"
+    },
+    {
+      "id": "UC5N6xMD-Pb5gFAQKNjF8SCQ",
+      "name": "Aaron Ben Soussan"
+    },
+    {
+      "id": "UCp6kvFhhHgL6QntvOOIBqQQ",
+      "name": "Nossin Schwartzberg"
+    },
+    {
+      "id": "UC53Fdk-_uaKY5iPqjL9V2sw",
+      "name": "Lenny Friedman"
+    },
+    {
+      "id": "UC0u_NC9_qtrRsxYDY7J-r2w",
+      "name": "Mendy Hershkowitz Band"
+    },
+    {
+      "id": "UCFaqeWT7ZBJsdeOvCWvYhfA",
+      "name": "Nachas"
+    },
+    {
+      "id": "UCqnvjgHxzq32rs2_fBN7RWw",
+      "name": "Avrum Mordche Schwartz"
+    },
+    {
+      "id": "UCR4H633zdnrJOP7zgN2SvHg",
+      "name": "Shloime Gertner"
+    },
+    {
+      "id": "UCOSKGoQ_ERKwBesA7L7n99g",
+      "name": "Menachem Weinstein"
+    },
+    {
+      "id": "UCN86NwkJTYyiKZAkdn5Ii6w",
+      "name": "Yo Aisenstark"
+    },
+    {
+      "id": "UCg6b5JFLUOHyqIPBqY_HaZQ",
+      "name": "Shalheves Boys Choir"
+    },
+    {
+      "id": "UCkZ8Hbvfbzax0r-t7tQ9YLg",
+      "name": "Yoni Z"
+    },
+    {
+      "id": "UCyZ525681KTQecNIWindCnQ",
+      "name": "Yosef Karduner"
+    },
+    {
+      "id": "UCVMTTNPsLRjIVqEXFljkvAw",
+      "name": "Shloime Cohen"
+    },
+    {
+      "id": "UC7contoqlG32RVjPiRPTmrQ",
+      "name": "Isaac & Rubenstein"
+    },
+    {
+      "id": "UCj8kKm4E7Ede3xd0SLbMIwA",
+      "name": "Shimon Craimer"
+    },
+    {
+      "id": "UCIQp38mqvDYO-meFmjiqezg",
+      "name": "RJ2"
+    },
+    {
+      "id": "UChEOpujzkpTXwqi9NdceyXA",
+      "name": "Eli Zion"
+    },
+    {
+      "id": "UC-x7JTIbIF7SIgVZx1LWzdw",
+      "name": "LevYatan"
+    },
+    {
+      "id": "UCTMGjekcqW1NB4y02TxXYfQ",
+      "name": "Yosef Daniel"
+    },
+    {
+      "id": "UC0thAXE7_VqEjKLRdneEn3w",
+      "name": "Moshe Storch"
+    },
+    {
+      "id": "UC3TRkJsJKfLDkw0agP0eGNg",
+      "name": "Yaakov Wasilewicz"
+    },
+    {
+      "id": "UCXvq3_4TmhDtixhDfqJakXg",
+      "name": "Uncle Moishy"
+    },
+    {
+      "id": "UCN5xIa2zUwdfW_zXKjGbWIw",
+      "name": "Klatzko Family"
+    },
+    {
+      "id": "UClUekOdWArW4_a7HMb-DoBQ",
+      "name": "Chaim Israel"
+    },
+    {
+      "id": "UCuhReTSELcS74ODuFqgKOJQ",
+      "name": "Gad Feureisen"
+    },
+    {
+      "id": "UCgPvb3IfcbTnkdDNkQExL3Q",
+      "name": "Yaakov Chesed"
+    },
+    {
+      "id": "UCfd4H60zJbCE_fa-ZQhVPlw",
+      "name": "Yossi Goldstein"
+    },
+    {
+      "id": "UCNqAfSG1zwLtmLXbrpyIMIA",
+      "name": "Blue Fringe"
+    },
+    {
+      "id": "UCYCuK2Id45YDJBmrM4oV_hA",
+      "name": "Avraham David"
+    },
+    {
+      "id": "UCLCCdAl9xc6sEceb9mKA9zQ",
+      "name": "Chaim Blumenfeld"
+    },
+    {
+      "id": "UCUEDBGZXij3w2SIKlKwTJ-g",
+      "name": "Yissachar Dror"
+    },
+    {
+      "id": "UCaVyEkSHaVO95koiBH5QYrQ",
+      "name": "Yeedle"
+    },
+    {
+      "id": "UCihJaDEGNtmjANA1OoG47rg",
+      "name": "Shauli"
+    },
+    {
+      "id": "UCTFVtIblryVEA9XDHDw1h7Q",
+      "name": "Ophie Nat"
+    },
+    {
+      "id": "UCkMUJAmGLv8BzW9t8Xl3F9Q",
+      "name": "Shmilu Rosenberg"
+    },
+    {
+      "id": "UCVYVQD6Qpuvo-Zg_jmjTrkw",
+      "name": "Ishay Ribo"
+    },
+    {
+      "id": "UCLMSqeV7X8HYfwHEC534-xQ",
+      "name": "Jezliah"
+    },
+    {
+      "id": "UCR8iJBrGwz0RUF1YAH4tztg",
+      "name": "Briele Esther"
+    },
+    {
+      "id": "UC8MkB9J7o7hnBfXs3TLE8wA",
+      "name": "Chaya Kogan"
+    },
+    {
+      "id": "UCjgCYlDrW4KfazEah3uT5cA",
+      "name": "Akiva"
+    },
+    {
+      "id": "UCUHo-yCiEFX9VkSqpfXkGBg",
+      "name": "DJ MUSIIX"
+    },
+    {
+      "id": "UCNYBGCtVqijOy9EnM9qXjsw",
+      "name": "Naftali Kalfa"
+    },
+    {
+      "id": "UC57Tolf_FQa0iZs4xVndEMg",
+      "name": "Bentzi Marcus"
+    },
+    {
+      "id": "UCDMqY2I2OMPwh4SJXI0wDGQ",
+      "name": "Esther Press"
+    },
+    {
+      "id": "UCiUvnSAR1Z6QEKd6hwtXdzw",
+      "name": "Simcha Jacoby"
+    },
+    {
+      "id": "UCKkLlawlEIlmpC7MCWZiGEA",
+      "name": "Oorah"
+    },
+    {
+      "id": "UClkUQOt5naTMdVR5vzWWDmg",
+      "name": "Shmuli"
+    },
+    {
+      "id": "UCdBI6Xcp8CmBfNYyarCBQvw",
+      "name": "Yochi Briskman"
+    },
+    {
+      "id": "UCp6NjtsIp1DtQXDLZHRnTPg",
+      "name": "Oneg Shemesh"
+    },
+    {
+      "id": "UCvX-VW1P84WsMUGwHg-8Aaw",
+      "name": "Franciska"
+    },
+    {
+      "id": "UCuVT2XGXNGEgd0DiubYQC4Q",
+      "name": "Esther Freeman"
+    },
+    {
+      "id": "UCNPF_y4u71Oqy0YwA8ubdBQ",
+      "name": "Levy Falkowitz"
+    },
+    {
+      "id": "UCMyXJtWy98gFHS0WIQdfKmQ",
+      "name": "Yoel Weiss"
+    },
+    {
+      "id": "UC4yNvZaczuhLJ9aPZIy2cnQ",
+      "name": "Duvid Feder"
+    },
+    {
+      "id": "UCQSkWW4kiQ4WueKUc3foMyA",
+      "name": "Yakov Yitzchok Weingarten"
+    },
+    {
+      "id": "UCmG4VCOl5m9sMdOf6lyHE5A",
+      "name": "Avrumy Dermer"
+    },
+    {
+      "id": "UCxd9e_gsagYYbnd1ki29cQQ",
+      "name": "Nissim Black"
+    },
+    {
+      "id": "UCzikvLesYafncBqcYWzdFEg",
+      "name": "Menashe Lichtenstein"
+    },
+    {
+      "id": "UCj4nW4uQaMBECEBlaY21DYg",
+      "name": "Meilech Braunstein"
+    },
+    {
+      "id": "UCovvSx8akn1DxjgoRW45wEA",
+      "name": "Mendy Piamenta"
+    },
+    {
+      "id": "UCqdm4BL6y_QCNsNpPjRvqDw",
+      "name": "Shua Kessin"
+    },
+    {
+      "id": "UC3m9Iyp6SEUxho5ncO2xw-w",
+      "name": "Eliyahu Chait"
+    },
+    {
+      "id": "UCcdX_yglqZ3TTw2kN6kvKKQ",
+      "name": "Zalman Pollack"
+    },
+    {
+      "id": "UCdSq5bPmqIR5RtU_tnty1fQ",
+      "name": "Yoey Muchnik"
+    },
+    {
+      "id": "UC_rEluHOsWEQ82IQUsVSbEw",
+      "name": "Avi Kraus"
+    },
+    {
+      "id": "UCSb0TtKp1pSb2sc-mszd2HQ",
+      "name": "Yacov Young"
+    },
+    {
+      "id": "UC5-ApPEQbXGc7qVOwXAfv-Q",
+      "name": "Yitzy Waldner"
+    },
+    {
+      "id": "UC-PQL7JeT9hz03F6fsR1Yqw",
+      "name": "Izzy Gilden"
+    },
+    {
+      "id": "UCcOPPzoEoOQpwCJ41YaVzhA",
+      "name": "Abe Cohen"
+    },
+    {
+      "id": "UCtiCmaR13M9T3j5VIWrNkMA",
+      "name": "Mendy Werzberger"
+    },
+    {
+      "id": "UCkZRaUEzgWlAokqAjgstCDA",
+      "name": "Yossi Green"
+    },
+    {
+      "id": "UCcF3ej8cahVLf2gVXvbpS3w",
+      "name": "Yiddish Nachas"
+    },
+    {
+      "id": "UCe7xy1HdwslcsN67BZVjKhg",
+      "name": "Torah Tots"
+    },
+    {
+      "id": "UC_qExX7xRD8cltx_UxzABgg",
+      "name": "Gershi Uri"
+    },
+    {
+      "id": "UCXG3xJG_5EVBCFWnA7WM0pQ",
+      "name": "Avremi Roth"
+    },
+    {
+      "id": "UCuDYJ7IRZ8RrRnIrZ0KtbVQ",
+      "name": "Netanel Israel"
+    },
+    {
+      "id": "UCtoOcpbirwDyayuK2Z-_wVg",
+      "name": "Mez Productions"
+    },
+    {
+      "id": "UC4AsEx2BTgduS_okO0A452Q",
+      "name": "Avromi Spitz"
+    },
+    {
+      "id": "UCMk8Z7VItEq6qyqSaxWmGKw",
+      "name": "Moshe Auslander"
+    },
+    {
+      "id": "UCdoLOYjOCwVnCyP8mYpKlkg",
+      "name": "Yoely Weiss"
+    },
+    {
+      "id": "UCYrP1I2vhQnjFpa0DMDg6dg",
+      "name": "Shlomo Lipman"
+    },
+    {
+      "id": "UCe69PMLrX2JIcm-9lCxmnlw",
+      "name": "Nathaniel Abitbol"
+    },
+    {
+      "id": "UCuUcHnYY30pDCJ-wNjw20gA",
+      "name": "Itzik Dadya"
+    },
+    {
+      "id": "UCcXTazzGtS3F_wnsdTR_bfg",
+      "name": "Yehuda Freundlich"
+    },
+    {
+      "id": "UCGHYm82Vb3ciu6ZKv3KTT-Q",
+      "name": "Motti Feldman"
+    },
+    {
+      "id": "UCqAIBNcmzI_-4vf5GAV1ZLA",
+      "name": "Motty Atias"
+    },
+    {
+      "id": "UC38GGGAHEZ75G4eWXq4Dd5Q",
+      "name": "Eli Begun"
+    },
+    {
+      "id": "UCxnDtc3FPtvgYMkHCQkxSXw",
+      "name": "Judaism Alive"
+    },
+    {
+      "id": "UCrZ7hkbMeFtDfWGqF1SqFDw",
+      "name": "Yerachmiel Begun & The Miami Boys Choir"
+    },
+    {
+      "id": "UCOSu81C9u9V-3JoOglWwEEw",
+      "name": "Benny Friedman"
+    },
+    {
+      "id": "UC1QsA-Q6SUKX9gWi1heQDEA",
+      "name": "Joey Newcomb"
+    },
+    {
+      "id": "UCd8iP0cjy47LowRDOnYyW_Q",
+      "name": "Abie Rotenberg"
+    },
+    {
+      "id": "UCm5x_womXL5E7TAYca5JkZQ",
+      "name": "Mordechai Shapiro"
+    },
+    {
+      "id": "UCmxMQoFYgTC8Y-wt0N-RdXQ",
+      "name": "Nissim Saal"
+    },
+    {
+      "id": "UCVES1CmUq5aho7J4GqGfJ2Q",
+      "name": "Yossie Rose"
+    },
+    {
+      "id": "UC4Y2x8ud-mfzLtA79qUrOag",
+      "name": "Zevy Giniger"
+    },
+    {
+      "id": "UCTp9T7uKu3v4JDCES-Og5iQ",
+      "name": "Avraham Rosenblum"
+    },
+    {
+      "id": "UCSGoOIvNu7TfcqCoB-qwcrw",
+      "name": "Diaspora Yeshiva Band"
+    },
+    {
+      "id": "UCbqRDB50CQ8ZYvO0A6Y5Pcw",
+      "name": "Nisan Fetman"
+    },
+    {
+      "id": "UCoUYCVU88KMEQvz3QFj2VpA",
+      "name": "Psachya Septimus"
+    },
+    {
+      "id": "UCE8mgVb6xwKPxs4aLg_Ix5w",
+      "name": "Hershel Rosenberg"
+    },
+    {
+      "id": "UC-w9zPJW99cr9BzdDfydRwA",
+      "name": "Tani Polansky"
+    },
+    {
+      "id": "UC5WIS_nB6N5F97vpN9MAWtg",
+      "name": "Yoel Falkowitz"
+    },
+    {
+      "id": "UCAaqcYgG2AbAzstAX_hUGaQ",
+      "name": "Sinai Mauda"
+    },
+    {
+      "id": "UC_3oPxH0TfsH1aSskzxLBVg",
+      "name": "Avrum Shmuel Wieder"
+    },
+    {
+      "id": "UCKTRJWPadvjB4LQxsD2b6lQ",
+      "name": "Shmuly Hurwitz"
+    },
+    {
+      "id": "UCo4I0bGduh_17Yc5IrK7Mcg",
+      "name": "Mendy Fisch"
+    },
+    {
+      "id": "UCsH1B-cehlAVFhceDHZtETg",
+      "name": "Takshivu"
+    },
+    {
+      "id": "UCD0XDjxjjAE-cl34gY5_Cfw",
+      "name": "Avrumi Berko"
+    },
+    {
+      "id": "UC5YHYZ5WxXob02CQSPALukQ",
+      "name": "Avrumi Samet"
+    },
+    {
+      "id": "UCX7GajxYfg9va3VLtKuTqjg",
+      "name": "Motty Breier"
+    },
+    {
+      "id": "UC-kasvF4CXBpyGPtIjwpbIQ",
+      "name": "Listig Band"
+    },
+    {
+      "id": "UCUeSFR_1vhiqpG0VHq5alng",
+      "name": "Hershy Langsam"
+    },
+    {
+      "id": "UCAFEEj8dBecxvsz4wQdi9mA",
+      "name": "Aryeh Hurwitz"
+    },
+    {
+      "id": "UCvxMTtMQVlyNJp75vhs2gVQ",
+      "name": "Kinderlach"
+    },
+    {
+      "id": "UCw4f7BjCN1ZOjLAbkJwRiQg",
+      "name": "Hillel Kapnick"
+    },
+    {
+      "id": "UCxEklyOKH3Jn1_1_AaRQsrQ",
+      "name": "Gad Elbaz"
+    },
+    {
+      "id": "UCdZ0FfhQR7n5jKVjCWr1sSg",
+      "name": "Hudi Kowalsky"
+    },
+    {
+      "id": "UC4rEoCsVgV3q35p5cRDv5_g",
+      "name": "Chony Milecki"
+    },
+    {
+      "id": "UCvsFJtayl0mj3sv3X7qecuQ",
+      "name": "Yossi Lauber"
+    },
+    {
+      "id": "UC3cVM6NVObEjSOo02Y-K9yA",
+      "name": "Duvid Berger"
+    },
+    {
+      "id": "UCxS_a5QIcXSAC6vBsSc84KA",
+      "name": "Nesanel Cohen"
+    },
+    {
+      "id": "UCcEpjwZnuCqtSBM4IW47dBw",
+      "name": "Zishe Schmeltzer"
+    },
+    {
+      "id": "UCYHsOXnAeyXuTZsAkeEm1tg",
+      "name": "Sarah Dukes"
+    },
+    {
+      "id": "UC5BhUOnZ-Wccn9709gs_Y7g",
+      "name": "Mendy Dukes"
+    },
+    {
+      "id": "UCVlfqjN9vvYNKUFGF8AnaTw",
+      "name": "EKEV"
+    },
+    {
