@@ -275,6 +275,7 @@ def main():
     # Paths
     metadata_path = '/home/asternheim/json/ytmusicjson-main/metadata.json'
     output_path = '/home/asternheim/ytjson/artists_verified.json'
+    detailed_output_path = '/home/asternheim/ytjson/artists_verified_detailed.json'
 
     # Extract discography from metadata
     artist_discography = extract_artist_discography(metadata_path)
@@ -283,7 +284,8 @@ def main():
     print("=" * 60)
 
     # Process each artist
-    results = []
+    results_simple = []  # Simple format matching original artists.json
+    results_detailed = []  # Detailed format with confidence scores
     found_count = 0
     skipped_count = 0
 
@@ -299,7 +301,14 @@ def main():
                   f"(name: {result['confidence']['name_similarity']}%, "
                   f"disco: {result['confidence']['discography_match']}%)")
 
-            results.append({
+            # Simple format (matches original artists.json)
+            results_simple.append({
+                'id': result['channelId'],
+                'name': artist_name
+            })
+
+            # Detailed format (for review)
+            results_detailed.append({
                 'id': result['channelId'],
                 'name': artist_name,
                 'confidence': result['confidence']['total'],
@@ -323,10 +332,16 @@ def main():
     print(f"  Skipped: {skipped_count}")
     print(f"  Success rate: {found_count / len(artist_discography) * 100:.1f}%")
 
+    # Save simple format (matches original artists.json structure)
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
+        json.dump({'artists': results_simple}, f, indent=2, ensure_ascii=False)
 
-    print(f"\nSaved {len(results)} verified artists to: {output_path}")
+    # Save detailed format (for review)
+    with open(detailed_output_path, 'w', encoding='utf-8') as f:
+        json.dump(results_detailed, f, indent=2, ensure_ascii=False)
+
+    print(f"\n✓ Saved {len(results_simple)} verified artists to: {output_path}")
+    print(f"✓ Saved detailed version to: {detailed_output_path}")
 
 if __name__ == '__main__':
     main()
